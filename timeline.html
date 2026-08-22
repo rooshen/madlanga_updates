@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en-ZA" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Timeline · The Madlanga Tracker</title>
+<meta name="description" content="Chronology of the commission, colour-coded by workstream.">
+<meta name="colour-scheme" content="dark light">
+<meta name="color-scheme" content="dark light">
+<link rel="stylesheet" href="assets/css/app.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%230e1116'/><text x='16' y='23' font-size='19' font-family='monospace' text-anchor='middle' fill='%236ea8fe'>M</text></svg>">
+</head>
+<body>
+<main class="wrap" id="main">
+<h2 style="margin-top:0">Timeline</h2>
+<p class="lead">Sitting days and off-stand events in one chronology. Colour marks the workstream.</p>
+<div class="controls" id="ws-filter"></div>
+<div class="controls">
+  <label class="ctl"><input type="checkbox" id="show-days" checked> Sitting days</label>
+  <label class="ctl"><input type="checkbox" id="show-events" checked> Events off the stand</label>
+</div>
+<div class="tl" id="tl"></div>
+</main>
+<script src="assets/js/core.js"></script>
+
+<script>
+MT.chrome();
+
+let META, DAYS, EVENTS, WS = new Set();
+
+function render() {
+  const sd = document.getElementById('show-days').checked;
+  const se = document.getElementById('show-events').checked;
+  let items = [];
+  if (sd) items = items.concat(DAYS.filter(d => !WS.size || WS.has(d.workstream)).map(d => ({
+    date: d.date, kind: 'day', ws: d.workstream,
+    title: 'Day ' + d.day_number + ' — ' + (d.witnesses.length ? d.witnesses.map(w => w.name).join(', ') : 'documentary session'),
+    body: d.summary, href: 'days.html?day=' + d.day_number + '#day-' + d.day_number, sources: d.sources })));
+  if (se) items = items.concat(EVENTS.filter(e => e.date).map(e => ({
+    date: e.date, kind: 'event', ws: null, title: e.title, body: e.description, sources: e.sources })));
+  items.sort((a, b) => b.date.localeCompare(a.date));
+
+  const colour = id => (META.workstreams.find(w => w.id === id) || {}).colour || 'var(--fg-3)';
+  document.getElementById('tl').innerHTML = items.length ? items.map(i => `
+    <div class="ev">
+      <div class="d">${MT.esc(i.date)} ${i.kind === 'event' ? '· off the stand' : ''}</div>
+      <div style="font-weight:600">${i.ws ? `<span class="ws-dot" style="background:${colour(i.ws)}"></span>` : ''}${
+        i.href ? `<a href="${i.href}">${MT.esc(i.title)}</a>` : MT.esc(i.title)}</div>
+      <p class="small" style="margin:4px 0">${MT.esc((i.body || '').slice(0, 260))}${(i.body || '').length > 260 ? '…' : ''}</p>
+      <p class="small muted">${(i.sources || []).slice(0, 3).map(s =>
+        `${MT.tierBadge(s.tier)} <a href="${MT.esc(s.url)}" target="_blank" rel="noopener noreferrer">${MT.esc(s.publisher || MT.host(s.url))}</a>`).join(' · ')}</p>
+    </div>`).join('') : '<p class="empty">Nothing to show with those filters.</p>';
+}
+
+(async () => {
+  [META, DAYS, EVENTS] = await MT.all('meta', 'days', 'events');
+  document.getElementById('ws-filter').innerHTML = '<span class="small muted">Workstream:</span>' +
+    META.workstreams.map(w => `<button class="chip" data-ws="${w.id}" aria-pressed="false"><span class="ws-dot" style="background:${w.colour}"></span>${MT.esc(w.label)}</button>`).join('');
+  document.getElementById('ws-filter').addEventListener('click', ev => {
+    const b = ev.target.closest('[data-ws]'); if (!b) return;
+    const on = b.getAttribute('aria-pressed') === 'true';
+    b.setAttribute('aria-pressed', String(!on));
+    on ? WS.delete(b.dataset.ws) : WS.add(b.dataset.ws);
+    render();
+  });
+  ['show-days','show-events'].forEach(i => document.getElementById(i).addEventListener('change', render));
+  render();
+})().catch(e => document.getElementById('tl').innerHTML = '<p class="empty">' + MT.esc(e.message) + '</p>');
+
+</script>
+</body>
+</html>

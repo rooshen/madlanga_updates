@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en-ZA" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Home · The Madlanga Tracker</title>
+<meta name="description" content="This week's briefing on the Madlanga Commission of Inquiry.">
+<meta name="colour-scheme" content="dark light">
+<meta name="color-scheme" content="dark light">
+<link rel="stylesheet" href="assets/css/app.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%230e1116'/><text x='16' y='23' font-size='19' font-family='monospace' text-anchor='middle' fill='%236ea8fe'>M</text></svg>">
+</head>
+<body>
+<main class="wrap" id="main">
+<p class="stamp" id="stamp">Loading…</p>
+
+<div class="notice" id="phase-notice"><strong>Phase 1 — scaffold.</strong>
+This site currently holds only the ten most recent sitting days as a working sample.
+Days 1 to <span id="pn-first">…</span> are not yet back-filled. Nothing here is invented: every
+claim carries a source and a tier, and everything that could not be verified is listed on the
+<a href="methodology.html">Methodology</a> page.</div>
+<div id="brief"></div>
+</main>
+<script src="assets/js/core.js"></script>
+
+<script>
+MT.chrome();
+
+(async () => {
+  const [meta, idx] = await Promise.all([MT.data('meta'), MT.briefing('index.json')]);
+  document.getElementById('pn-first').textContent = (meta.latest_day - meta.days_in_data);
+  document.getElementById('stamp').textContent =
+    'Last updated ' + meta.last_updated + ' · Day ' + meta.latest_day + ' sat on ' + meta.latest_day_date +
+    ' · ' + meta.days_in_data + ' of ' + meta.latest_day + ' sitting days in the data layer';
+
+  if (!idx.length) { document.getElementById('brief').innerHTML = '<p class="empty">No briefing published yet.</p>'; return; }
+  const b = await MT.briefing(idx[0].file);
+  const link = (u) => `<a href="${MT.esc(u)}" target="_blank" rel="noopener noreferrer">${MT.esc(MT.host(u))}</a>`;
+
+  document.getElementById('brief').innerHTML = `
+    <h2 style="margin-top:8px">${MT.esc(b.title)}</h2>
+    <p class="muted small mono">Published ${MT.esc(b.published)} · covers ${MT.esc(b.covers.from)} – ${MT.esc(b.covers.to)}</p>
+
+    <div class="card"><h3 style="margin-top:0">In one line</h3><p class="lead">${MT.esc(b.in_one_line)}</p></div>
+
+    <h2>What happened</h2>
+    ${b.what_happened.map(d => `<article class="card">
+      <div class="dayhead"><span class="num">Day ${d.day}</span><span class="date">${MT.esc(d.date)}</span></div>
+      <h3 style="margin:4px 0 6px">${MT.esc(d.heading)}</h3>
+      <p>${MT.esc(d.body)}</p>
+      <p class="small muted">${MT.esc(d.tier_note)}</p>
+      <p class="small">Sources: ${d.sources.map(link).join(' · ')}</p>
+    </article>`).join('')}
+
+    <h2>Why it matters</h2>
+    <div class="card"><p class="small muted" style="margin-top:0">Analysis, clearly separated from the facts above.</p>
+      ${b.why_it_matters.split('\n\n').map(p => `<p>${MT.esc(p)}</p>`).join('')}</div>
+
+    ${b.aside ? `<p class="aside-joke">${MT.esc(b.aside)}</p>` : ''}
+
+    <h2>Loose ends</h2>
+    <div class="card"><ul class="tight">${b.loose_ends.map(x => `<li>${MT.esc(x)}</li>`).join('')}</ul></div>
+
+    <h2>New faces</h2>
+    <div class="card">${b.new_faces.map(n =>
+      `<p style="margin:6px 0">${MT.statusPill(n.status)} <strong>${MT.esc(n.name)}</strong> — ${MT.esc(n.note)}</p>`).join('')}</div>
+
+    <h2>Watch next week</h2>
+    <div class="card"><ul class="tight">${b.watch_next_week.map(x => `<li>${MT.esc(x)}</li>`).join('')}</ul></div>
+
+    <h2>Sources</h2>
+    <div class="card">
+      <p class="small muted" style="margin-top:0">${MT.esc(b.tier_summary)}</p>
+      ${MT.sourceList(b.sources.map(s => ({...s, retrieved: '', partial: false})))}
+    </div>`;
+})().catch(e => document.getElementById('brief').innerHTML =
+  '<p class="empty">Could not load the briefing: ' + MT.esc(e.message) + '</p>');
+
+</script>
+</body>
+</html>

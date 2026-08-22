@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en-ZA" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Archive · The Madlanga Tracker</title>
+<meta name="description" content="Every past weekly briefing, by date.">
+<meta name="colour-scheme" content="dark light">
+<meta name="color-scheme" content="dark light">
+<link rel="stylesheet" href="assets/css/app.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%230e1116'/><text x='16' y='23' font-size='19' font-family='monospace' text-anchor='middle' fill='%236ea8fe'>M</text></svg>">
+</head>
+<body>
+<main class="wrap" id="main">
+<h2 style="margin-top:0">Briefing archive</h2>
+<p class="lead">Every weekly briefing, newest first. Each is archived as JSON under <span class="mono">/briefings/</span>.</p>
+<div id="list"></div>
+</main>
+<script src="assets/js/core.js"></script>
+
+<script>
+MT.chrome();
+
+(async () => {
+  const idx = await MT.briefing('index.json');
+  const el = document.getElementById('list');
+  if (!idx.length) { el.innerHTML = '<p class="empty">Nothing archived yet.</p>'; return; }
+  el.innerHTML = idx.map(b => `<article class="card">
+    <div class="dayhead"><span class="date">${MT.esc(b.published)}</span>
+      ${MT.tierBadge(b.highest_tier)}<span class="small muted">${b.words} words · Days ${b.covers.days.join(', ')}</span></div>
+    <h3 style="margin:2px 0 6px"><a href="index.html">${MT.esc(b.title)}</a></h3>
+    <p>${MT.esc(b.in_one_line)}</p>
+    <p class="small"><a href="briefings/${MT.esc(b.file)}" target="_blank" rel="noopener">Raw JSON</a></p>
+  </article>`).join('');
+})().catch(e => document.getElementById('list').innerHTML = '<p class="empty">' + MT.esc(e.message) + '</p>');
+
+</script>
+</body>
+</html>

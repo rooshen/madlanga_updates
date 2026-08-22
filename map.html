@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en-ZA" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Map · The Madlanga Tracker</title>
+<meta name="description" content="Interactive force-directed map of people, organisations and events.">
+<meta name="colour-scheme" content="dark light">
+<meta name="color-scheme" content="dark light">
+<link rel="stylesheet" href="assets/css/app.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%230e1116'/><text x='16' y='23' font-size='19' font-family='monospace' text-anchor='middle' fill='%236ea8fe'>M</text></svg>">
+</head>
+<body>
+<main class="wrap" id="main">
+<h2 style="margin-top:0">The Map</h2>
+<p class="lead">People, organisations and events, and the sourced relationships between them.
+Every edge carries its citations — click one. The default view is filtered: an unfiltered hairball
+tells you nothing, so <strong>alleged</strong> edges start hidden.</p>
+
+<div class="controls">
+  <label class="ctl">Focus on
+    <select id="ego"><option value="">— everyone —</option></select>
+  </label>
+  <label class="ctl">Hops <select id="hops"><option value="1">1</option><option value="2">2</option></select></label>
+  <label class="ctl">From <input type="date" id="from" title="Date filter uses your browser locale; the site displays YYYY/MM/DD"></label>
+  <label class="ctl">To <input type="date" id="to"></label>
+  <button class="chip" id="reset" type="button">Reset view</button>
+</div>
+<div class="controls" id="ws-filter"></div>
+<div class="controls" id="strength-filter"></div>
+<p class="small muted" id="count"></p>
+
+<div id="graph-wrap"><svg id="graph"></svg>
+  <div class="ghint">Drag to pan · scroll to zoom · drag a node · click an edge for sources</div>
+  <div class="gpanel" id="panel"></div></div>
+<div class="legend" id="legend"></div>
+<p class="small muted" style="margin-top:14px">Node size reflects how many recorded relationships a person has in
+this data layer — not importance, and certainly not culpability.</p>
+</main>
+<script src="assets/js/core.js"></script>
+<script src="assets/js/graph.js"></script>
+<script>
+MT.chrome();
+
+let META, PEOPLE, ORGS, EVENTS, EDGES, G;
+let SHOW = new Set(['testified', 'documented', 'denied']);   // 'alleged' off by default
+let WS = new Set();
+const LABEL = {}, KIND = {}, WSOF = {};
+
+function build() {
+  const ego = document.getElementById('ego').value;
+  const hops = +document.getElementById('hops').value;
+  const f = document.getElementById('from').value.replace(/-/g, '/');
+  const t = document.getElementById('to').value.replace(/-/g, '/');
+
+  let edges = EDGES.filter(e => SHOW.has(e.strength));
+  if (f) edges = edges.filter(e => !e.date || e.date >= f);
+  if (t) edges = edges.filter(e => !e.date || e.date <= t);
+  if (WS.size) edges = edges.filter(e => WS.has(WSOF[e.from]) || WS.has(WSOF[e.to]));
+
+  let ids;
+  if (ego) {
+    ids = new Set([ego]);
+    for (let i = 0; i < hops; i++) {
+      const add = [];
+      edges.forEach(e => { if (ids.has(e.from)) add.push(e.to); if (ids.has(e.to)) add.push(e.from); });
+      add.forEach(x => ids.add(x));
+    }
+    edges = edges.filter(e => ids.has(e.from) && ids.has(e.to));
+  } else {
+    ids = new Set(); edges.forEach(e => { ids.add(e.from); ids.add(e.to); });
+  }
+
+  const COL = { person: '#6ea8fe', org: '#b58cf0', event: '#c9a227' };
+  const nodes = [...ids].filter(x => LABEL[x]).map(x => ({
+    id: x, label: LABEL[x], kind: KIND[x],
+    colour: x === ego ? '#e2725b' : (COL[KIND[x]] || COL.person) }));
+
+  const r = G.set(nodes, edges);
+  document.getElementById('count').textContent =
+    r.nodes + ' nodes · ' + r.links + ' sourced relationships shown, of ' + EDGES.length + ' in the data layer' +
+    (SHOW.has('alleged') ? '' : ' (alleged edges hidden)');
+}
+
+(async () => {
+  [META, PEOPLE, ORGS, EVENTS, EDGES] = await MT.all('meta','people','orgs','events','edges');
+  PEOPLE.forEach(x => { LABEL[x.id] = x.name; KIND[x.id] = 'person'; });
+  ORGS.forEach(x => { LABEL[x.id] = x.name; KIND[x.id] = 'org'; });
+  EVENTS.forEach(x => { LABEL[x.id] = x.title; KIND[x.id] = 'event'; });
+
+  // crude workstream attribution: a node belongs to the workstreams of the days it appears on
+  const days = await MT.data('days');
+  days.forEach(d => d.witnesses.forEach(w => { WSOF[w.person_id] = d.workstream; }));
+
+  const sel = document.getElementById('ego');
+  PEOPLE.slice().sort((a,b) => a.name.localeCompare(b.name))
+    .forEach(p => sel.insertAdjacentHTML('beforeend', `<option value="${MT.esc(p.id)}">${MT.esc(p.name)}</option>`));
+
+  document.getElementById('ws-filter').innerHTML = '<span class="small muted">Workstream:</span>' +
+    META.workstreams.map(w => `<button class="chip" data-ws="${w.id}" aria-pressed="false"><span class="ws-dot" style="background:${w.colour}"></span>${MT.esc(w.label)}</button>`).join('');
+
+  const panel = document.getElementById('panel');
+  G = ForceGraph(document.getElementById('graph'), {
+    charge: -820,
+    onLink: (l, s, t) => {
+      panel.classList.add('on');
+      panel.innerHTML = `<button class="x" type="button">×</button>
+        <p style="margin:0 0 6px"><strong>${MT.esc(s.label)}</strong> → <strong>${MT.esc(t.label)}</strong></p>
+        <p class="small">${MT.esc(l.type || '')}
+          <span class="badge lbl-${l.strength === 'testified' ? 'EVIDENCE' : 'REPORTING'}">${MT.esc(l.strength)}</span>
+          ${l.date ? '<span class="mono muted"> ' + MT.esc(l.date) + '</span>' : ''}</p>
+        ${MT.sourceList(l.sources)}`;
+      panel.querySelector('.x').onclick = () => panel.classList.remove('on');
+    },
+    onNode: (n) => {
+      if (n.kind === 'person') { document.getElementById('ego').value = n.id; build(); }
+      else {
+        const rec = (ORGS.concat(EVENTS)).find(x => x.id === n.id);
+        panel.classList.add('on');
+        panel.innerHTML = `<button class="x" type="button">×</button><p style="margin:0 0 6px"><strong>${MT.esc(n.label)}</strong></p>
+          <p class="small">${MT.esc((rec && (rec.description)) || '')}</p>${MT.sourceList(rec ? rec.sources : [])}`;
+        panel.querySelector('.x').onclick = () => panel.classList.remove('on');
+      }
+    }
+  });
+
+  document.getElementById('strength-filter').innerHTML = '<span class="small muted">Edge strength:</span>' +
+    META.edge_strengths.map(s => `<button class="chip" data-st="${s}" aria-pressed="${SHOW.has(s)}"><i class="swatch" style="background:${G.STRENGTH_STYLE[s].colour}"></i>${s}</button>`).join('');
+  document.getElementById('strength-filter').addEventListener('click', ev => {
+    const b = ev.target.closest('[data-st]'); if (!b) return;
+    const on = b.getAttribute('aria-pressed') === 'true';
+    b.setAttribute('aria-pressed', String(!on));
+    on ? SHOW.delete(b.dataset.st) : SHOW.add(b.dataset.st);
+    build();
+  });
+  document.getElementById('ws-filter').addEventListener('click', ev => {
+    const b = ev.target.closest('[data-ws]'); if (!b) return;
+    const on = b.getAttribute('aria-pressed') === 'true';
+    b.setAttribute('aria-pressed', String(!on));
+    on ? WS.delete(b.dataset.ws) : WS.add(b.dataset.ws);
+    build();
+  });
+  ['ego','hops','from','to'].forEach(i => document.getElementById(i).addEventListener('input', build));
+  document.getElementById('reset').addEventListener('click', () => G.reset());
+
+  document.getElementById('legend').innerHTML = Object.entries(G.STRENGTH_STYLE).map(([k, v]) =>
+    `<span><i class="swatch" style="background:${v.colour}"></i>${k}</span>`).join('') +
+    '<span>● person</span><span>■ organisation</span><span>◆ event</span>';
+
+  build();
+})().catch(e => document.getElementById('count').textContent = 'Could not load the map: ' + e.message);
+
+</script>
+</body>
+</html>

@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en-ZA" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>People · The Madlanga Tracker</title>
+<meta name="description" content="Everyone before the commission, with a visible status label.">
+<meta name="colour-scheme" content="dark light">
+<meta name="color-scheme" content="dark light">
+<link rel="stylesheet" href="assets/css/app.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%230e1116'/><text x='16' y='23' font-size='19' font-family='monospace' text-anchor='middle' fill='%236ea8fe'>M</text></svg>">
+</head>
+<body>
+<main class="wrap" id="main">
+<h2 style="margin-top:0">People</h2>
+<p class="lead">Every named person carries a status label. <strong>This is a commission of inquiry, not a
+criminal trial</strong> — none of these people is an accused before this commission, and no label here is a finding of
+guilt. Where someone faces criminal proceedings in a separate matter, that is stated as such.</p>
+<div class="controls">
+  <input type="search" id="q" placeholder="Search name or role…" aria-label="Search people">
+  <button class="chip" id="clear" type="button">Clear</button>
+</div>
+<div class="controls" id="st-filter"></div>
+<p class="small muted" id="count"></p>
+<div class="people-grid" id="grid"></div>
+</main>
+<script src="assets/js/core.js"></script>
+
+<script>
+MT.chrome();
+
+let PEOPLE = [], ST = new Set();
+
+function render() {
+  const q = document.getElementById('q').value.trim().toLowerCase();
+  const out = PEOPLE.filter(p => {
+    if (ST.size && !ST.has(p.status)) return false;
+    if (!q) return true;
+    return (p.name + ' ' + (p.role || '') + ' ' + (p.bio || '')).toLowerCase().includes(q);
+  });
+  document.getElementById('count').textContent = out.length + ' of ' + PEOPLE.length + ' people shown';
+  document.getElementById('grid').innerHTML = out.length ? out.map(p => `
+    <a class="card pcard" href="person.html?id=${encodeURIComponent(p.id)}">
+      ${MT.avatar(p)}
+      <div>
+        <div class="nm">${MT.esc(p.name)}</div>
+        <div class="rl">${MT.esc(p.role || '')}</div>
+        ${MT.statusPill(p.status)}
+        ${p.linked_days.length ? `<div class="small muted" style="margin-top:6px">Days ${p.linked_days.join(', ')}</div>` : ''}
+      </div>
+    </a>`).join('') : '<p class="empty">Nobody matches those filters.</p>';
+}
+
+(async () => {
+  const [meta, people] = await MT.all('meta', 'people');
+  PEOPLE = people;
+  const counts = {};
+  people.forEach(p => counts[p.status] = (counts[p.status] || 0) + 1);
+  document.getElementById('st-filter').innerHTML = '<span class="small muted">Status:</span>' +
+    meta.status_labels.map(s => `<button class="chip" data-st="${MT.esc(s)}" aria-pressed="false">${MT.esc(s)} (${counts[s] || 0})</button>`).join('');
+  document.getElementById('st-filter').addEventListener('click', ev => {
+    const b = ev.target.closest('[data-st]'); if (!b) return;
+    const on = b.getAttribute('aria-pressed') === 'true';
+    b.setAttribute('aria-pressed', String(!on));
+    on ? ST.delete(b.dataset.st) : ST.add(b.dataset.st);
+    render();
+  });
+  document.getElementById('q').addEventListener('input', render);
+  document.getElementById('clear').addEventListener('click', () => {
+    document.getElementById('q').value = ''; ST.clear();
+    document.querySelectorAll('[data-st]').forEach(b => b.setAttribute('aria-pressed', 'false'));
+    render();
+  });
+  render();
+})().catch(e => document.getElementById('grid').innerHTML = '<p class="empty">' + MT.esc(e.message) + '</p>');
+
+</script>
+</body>
+</html>

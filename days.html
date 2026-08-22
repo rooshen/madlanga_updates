@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en-ZA" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hearing days · The Madlanga Tracker</title>
+<meta name="description" content="Every sitting day of the commission, filterable.">
+<meta name="colour-scheme" content="dark light">
+<meta name="color-scheme" content="dark light">
+<link rel="stylesheet" href="assets/css/app.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%230e1116'/><text x='16' y='23' font-size='19' font-family='monospace' text-anchor='middle' fill='%236ea8fe'>M</text></svg>">
+</head>
+<body>
+<main class="wrap" id="main">
+<h2 style="margin-top:0">Hearing days</h2>
+<p class="lead" id="intro">Loading…</p>
+<div class="controls">
+  <input type="search" id="q" placeholder="Search witness, summary, ruling, exhibit…" aria-label="Search hearing days">
+  <label class="ctl">From <input type="date" id="from" title="Date filter uses your browser locale; the site displays YYYY/MM/DD"></label>
+  <label class="ctl">To <input type="date" id="to"></label>
+  <button class="chip" id="clear" type="button">Clear</button>
+</div>
+<div class="controls" id="ws-filter"></div>
+<p class="small muted" id="count"></p>
+<div id="list"></div>
+</main>
+<script src="assets/js/core.js"></script>
+
+<script>
+MT.chrome();
+
+let DAYS = [], META = null, WS = new Set();
+
+function render() {
+  const q = document.getElementById('q').value.trim().toLowerCase();
+  const f = document.getElementById('from').value.replace(/-/g, '/');
+  const t = document.getElementById('to').value.replace(/-/g, '/');
+  const out = DAYS.filter(d => {
+    if (WS.size && !WS.has(d.workstream)) return false;
+    if (f && d.date < f) return false;
+    if (t && d.date > t) return false;
+    if (!q) return true;
+    const hay = [d.summary, d.date, 'day ' + d.day_number,
+      ...d.witnesses.map(w => w.name + ' ' + (w.role_as_described || '')),
+      ...d.rulings.map(r => r.description),
+      ...d.exhibits.map(e => (e.ref || '') + ' ' + e.description),
+      ...d.quotes.map(x => x.text + ' ' + x.speaker)].join(' ').toLowerCase();
+    return hay.includes(q);
+  });
+  document.getElementById('count').textContent =
+    out.length + ' of ' + DAYS.length + ' sitting days shown';
+  document.getElementById('list').innerHTML = out.length
+    ? out.map(d => MT.dayCard(d, META)).join('')
+    : '<p class="empty">No sitting day matches those filters.</p>';
+}
+
+(async () => {
+  [META, DAYS] = await MT.all('meta', 'days');
+  document.getElementById('intro').innerHTML =
+    'Day ' + META.latest_day + ' sat on ' + META.latest_day_date + '. This scaffold holds <strong>' +
+    META.days_in_data + '</strong> of them — the most recent ten. <strong>' + META.days_outstanding +
+    '</strong> earlier sitting days are not yet back-filled.';
+  document.getElementById('ws-filter').innerHTML =
+    '<span class="small muted">Workstream:</span>' + META.workstreams.map(w =>
+      `<button class="chip" data-ws="${w.id}" aria-pressed="false"><span class="ws-dot" style="background:${w.colour}"></span>${MT.esc(w.label)}</button>`).join('');
+  document.getElementById('ws-filter').addEventListener('click', ev => {
+    const b = ev.target.closest('[data-ws]'); if (!b) return;
+    const on = b.getAttribute('aria-pressed') === 'true';
+    b.setAttribute('aria-pressed', String(!on));
+    on ? WS.delete(b.dataset.ws) : WS.add(b.dataset.ws);
+    render();
+  });
+  for (const id of ['q', 'from', 'to']) document.getElementById(id).addEventListener('input', render);
+  document.getElementById('clear').addEventListener('click', () => {
+    document.getElementById('q').value = ''; document.getElementById('from').value = '';
+    document.getElementById('to').value = ''; WS.clear();
+    document.querySelectorAll('[data-ws]').forEach(b => b.setAttribute('aria-pressed', 'false'));
+    render();
+  });
+  const jump = new URLSearchParams(location.search).get('day');
+  render();
+  if (jump) { const t = document.getElementById('day-' + jump); if (t) t.scrollIntoView(); }
+})().catch(e => document.getElementById('list').innerHTML = '<p class="empty">' + MT.esc(e.message) + '</p>');
+
+</script>
+</body>
+</html>

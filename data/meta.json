@@ -1,0 +1,79 @@
+{
+ "site": "The Madlanga Tracker",
+ "commission": "Judicial Commission of Inquiry into Criminality, Political Interference and Corruption in the Criminal Justice System",
+ "chair": "Retired Justice Mbuyiseli Madlanga",
+ "phase": "Phase 1 - scaffold. Sample data only: the ten most recent sitting days.",
+ "last_updated": "2026/08/22 21:56 SAST",
+ "latest_day": 164,
+ "latest_day_date": "2026/08/21",
+ "days_in_data": 10,
+ "days_outstanding": 154,
+ "status_labels": [
+  "Testified",
+  "Implicated (denied)",
+  "Implicated (not yet responded)",
+  "Implicated (untested)",
+  "Criminally charged in a separate matter",
+  "Commission official"
+ ],
+ "tiers": {
+  "1": {
+   "name": "EVIDENCE / Tier 1",
+   "note": "The commission's own records, Parliament, SAFLII."
+  },
+  "2": {
+   "name": "Tier 2 - mainstream",
+   "note": "SABC News, News24, TimesLIVE, EWN, IOL and comparable outlets."
+  },
+  "3": {
+   "name": "Tier 3 - investigative",
+   "note": "Daily Maverick, amaBhungane, Mail & Guardian, GroundUp."
+  },
+  "4": {
+   "name": "Tier 4 - reference",
+   "note": "Wikipedia and similar. Used only for biographical basics and photo licensing."
+  }
+ },
+ "workstreams": [
+  {
+   "id": "kzn-pktt",
+   "label": "KZN policing & the PKTT",
+   "colour": "#e2725b"
+  },
+  {
+   "id": "idac-npa",
+   "label": "IDAC & the NPA",
+   "colour": "#5b9bd5"
+  },
+  {
+   "id": "matlala-saps-contract",
+   "label": "The SAPS health contract",
+   "colour": "#c9a227"
+  },
+  {
+   "id": "crime-intelligence",
+   "label": "Crime Intelligence",
+   "colour": "#7d9e5c"
+  },
+  {
+   "id": "political-interference",
+   "label": "Political interference",
+   "colour": "#9b7bb8"
+  }
+ ],
+ "edge_strengths": [
+  "testified",
+  "documented",
+  "alleged",
+  "denied"
+ ],
+ "counts": {
+  "days": 10,
+  "people": 44,
+  "orgs": 17,
+  "events": 24,
+  "edges": 57,
+  "gaps": 49
+ },
+ "method_note": "SABC+ and YouTube video titles proved the most reliable day-number-to-date binding, because many carry both in one verbatim string. That verified Days 155, 156, 157, 158, 159, 161, 162, 163 and 164. SABC News runs a 'LIVE: Madlanga Commission of Inquiry Day NNN' page per sitting day; page titles confirmed the existence of days 158 and 160-164, but the page bodies returned only a cookie/privacy notice, so they are title-only evidence. Substantive daily content came from The Citizen, Sowetan, TimesLIVE/Sunday Times, EWN, Business Day, Cape Times, IOL, SABC News articles and Daily Maverick; none of the fetched articles was paywalled. A schedule notice independently explained the 7-10 August gap (no sitting on Friday 7 August; 10 August a public holiday; resumption 09:30 on 11 August), which corroborates the Day 155 to Day 156 jump and means no sitting days are missing from this run of ten. An unofficial aggregator was used only as corroboration and never as sole authority; its weekday column is systematically wrong, so all weekdays were computed from the dates. Confidence: high on the ten dates and on nine of ten day numbers; high on witness identity for every day; moderate on evidence-leader names; low on exhibit references. WebFetch returns model-summarised page content, so short quotes carry a small transcription risk. 15 searches and 22 fetches were performed."
+}

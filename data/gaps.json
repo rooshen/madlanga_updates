@@ -1,0 +1,345 @@
+[
+ {
+  "id": "gap-001",
+  "area": "day-164",
+  "description": "Name of the evidence leader questioning Adams on this specific day. SABC News and The Citizen name Advocate Lee Segeels-Ncube for the Adams stream; one EWN summary instead named Advocate Drushantha Ramsamy, who is elsewhere described as an IDAC prosecutor and a witness, so the EWN attribution is likely a conflation. Not resolved.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-002",
+  "area": "day-164",
+  "description": "Whether the IDAC audio recording was in fact played on 21 August, or whether Adams's objection prevented it.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-003",
+  "area": "day-164",
+  "description": "Whether Adams's evidence concluded on this day.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-004",
+  "area": "day-164",
+  "description": "The SABC News Day 164 live page returned only a cookie/privacy notice to the fetcher - only its title was verifiable.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-005",
+  "area": "day-163",
+  "description": "Exact date the adjournment direction was given (Thursday 20 August is the strong inference from the SABC report and the Friday resumption, but the SABC article carried no explicit date).",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-006",
+  "area": "day-162",
+  "description": "Name of the evidence leader on this day (not stated in the sources fetched).",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-007",
+  "area": "day-162",
+  "description": "Whether 'A1' is a formal commission exhibit reference or a document label used within IDAC's bundle.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-008",
+  "area": "day-162",
+  "description": "The TimesLIVE, Business Day and SABC Day 162 items were seen only as search-result titles/URLs, not fetched in full.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-009",
+  "area": "day-161",
+  "description": "The deceased taxi figure's first name: an independent archive gives 'Jotham Msibi' while news reports give 'Mswazi Msibi'. Not resolved, so only the surname is used.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-010",
+  "area": "day-161",
+  "description": "Whether any part of 18 August was also used for Matlala-related procedural matters.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-011",
+  "area": "day-161",
+  "description": "Several listed sources were seen only as search-result titles/URLs and were not fetched in full.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-012",
+  "area": "day-160",
+  "description": "The day number 160 is INFERRED, not verified. No source retrieved pairs 'Day 160' with '17 August 2026' in one string. The inference rests on Day 159 being verified as 14 August, Day 161 as 18 August, and 17 August being the only sitting between them. The SABC News Day 160 live page could not be fetched.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-013",
+  "area": "day-160",
+  "description": "Evidence leader: The Citizen names Advocate Mahlape Sello; no other fetched source named one. Single-source.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-014",
+  "area": "day-160",
+  "description": "Whether the 18:00 22 August 2026 filing deadline was met.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-015",
+  "area": "day-159",
+  "description": "Whether Ramsamy's evidence on 14 August was a continuation or a conclusion. An EWN piece dated 15 August carrying his remarks was summarised as relating to an 11 August hearing; a Sunday World snippet places Ramsamy at the commission on Friday 14 August.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-016",
+  "area": "day-159",
+  "description": "The exact wording of the Carrim ruling - sources gave paraphrase plus short quotes only.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-017",
+  "area": "day-159",
+  "description": "Whether any other witness appeared on 14 August.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-018",
+  "area": "day-158",
+  "description": "Evidence leader's name for this stream.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-019",
+  "area": "day-158",
+  "description": "Whether any further witnesses appeared on 13 August.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-020",
+  "area": "day-157",
+  "description": "Evidence leader's name.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-021",
+  "area": "day-157",
+  "description": "Whether the R2.3-million deposit evidence was led on 12 August specifically (the SABC headline appeared in a 12 August search cluster but the article was not fetched).",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-022",
+  "area": "day-157",
+  "description": "eNCA and SABC items were seen only as search-result titles/URLs.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-023",
+  "area": "day-156",
+  "description": "One Mail & Guardian fetch summary gave the hearing date as 10 August; the Sowetan article, the SABC+ Day 156 title and a schedule notice all place the Adams postponement on Tuesday 11 August. 10 August is recorded as a public holiday on which the commission did not sit.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-024",
+  "area": "day-156",
+  "description": "Whether Ramsamy's evidence and the Adams postponement occurred in the same session or were separate items on the day.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-025",
+  "area": "day-155",
+  "description": "Evidence leader's name.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-026",
+  "area": "day-155",
+  "description": "Whether Sesoko's evidence began or concluded on this day.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-027",
+  "area": "day-155",
+  "description": "Sowetan and SABC items were seen only as search-result titles/URLs.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-028",
+  "area": "people",
+  "description": "No biography or photo for Fadiel Adams, who appears as a witness in the sample days.",
+  "would_resolve": "A profile assembled from the commission's witness statement index.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-029",
+  "area": "people",
+  "description": "No biography or photo for Gregory Loftus, who appears as a witness in the sample days.",
+  "would_resolve": "A profile assembled from the commission's witness statement index.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-030",
+  "area": "people",
+  "description": "No biography or photo for Ashley Houston, who appears as a witness in the sample days.",
+  "would_resolve": "A profile assembled from the commission's witness statement index.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-031",
+  "area": "people",
+  "description": "No biography or photo for Matthews Sesoko, who appears as a witness in the sample days.",
+  "would_resolve": "A profile assembled from the commission's witness statement index.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-032",
+  "area": "photos",
+  "description": "No freely-licensed photograph located for 44 of 44 people; all render as initials avatars.",
+  "would_resolve": "Wikimedia Commons uploads, or official commission portraits released under a reusable licence.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-033",
+  "area": "days",
+  "description": "Day 160 could not be pinned to 17 August 2026 by any single source that states both the number and the date. It is an inference from the verified Day 159 (14 Aug) and Day 161 (18 Aug) anchors.",
+  "would_resolve": "Reading the SABC News Day 160 live page (blocked by a robots.txt failure), the commission's own hearings index, or a SABC+/YouTube video whose title pairs 'Day 160' with the date.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-034",
+  "area": "days",
+  "description": "The commission's own website (criminaljusticecommission.org.za) could not be used as a Tier 1 source. /hearings and /judgements return a JavaScript shell showing only 'Loading...'; /hearing.php returns HTTP 404 to a plain fetcher despite appearing in search results.",
+  "would_resolve": "A JavaScript-capable browser session on criminaljusticecommission.org.za/hearings, or the site's underlying JSON/API endpoint.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-035",
+  "area": "days",
+  "description": "Day numbering is not internally consistent across broadcasters. A SABC+ video is titled 'Day 153 | Wednesday, 05 August 2026', which cannot be reconciled with the verified 'Day 155 | Thursday, 06 August 2026'. Numbering for days 155-164 is nonetheless mutually consistent across SABC+, YouTube and SABC News.",
+  "would_resolve": "The commission's official day-numbering register or daily transcripts.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-036",
+  "area": "days",
+  "description": "Evidence leader attributions are thin and in one case conflicting. Advocates Lee Segeels-Ncube, Matthew Chaskalson SC, Adila Hassim SC and Mahlape Sello SC are each named by only one or two outlets, and one EWN summary named Advocate Drushantha Ramsamy as an evidence leader when he is elsewhere consistently described as an IDAC prosecutor and a witness.",
+  "would_resolve": "Official transcripts or the commission's list of evidence leaders per stream.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-037",
+  "area": "days",
+  "description": "No formal exhibit numbering was recoverable except a single reference to a document marked 'A1'. Exhibit references are generally not carried in news reports.",
+  "would_resolve": "Daily transcripts or the commission's exhibit bundle index.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-038",
+  "area": "days",
+  "description": "The surname-only reference to the deceased taxi industry figure whose device evidence was led on Day 161 reflects an unresolved first-name conflict ('Jotham' vs 'Mswazi').",
+  "would_resolve": "The commission's transcript for 18 August 2026, or a Tier 1/2 report giving the full name.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-039",
+  "area": "days",
+  "description": "No Tier 1 source underpins any of the ten sitting days in this scaffold. Everything here is Tier 2 or Tier 3 journalism plus broadcaster video titles.",
+  "would_resolve": "Access to the commission's transcripts, rulings and exhibit bundles.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-040",
+  "area": "days",
+  "description": "No sitting occurred on Saturday 22 August 2026. Matlala's evidence was scheduled to resume on Monday 24 and Tuesday 25 August 2026, and a filing deadline of 18:00 on 22 August was set, but these were future events not verified as having occurred.",
+  "would_resolve": "Reporting from 24 August 2026 onward.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-041",
+  "area": "people",
+  "description": "No photographs could be verified. Wikimedia Commons file pages and the Wikipedia API were not retrievable from this environment (Commons returned 'cache-only', the API returned HTTP 403, and Commons category/search pages required a permission grant). One Commons file page URL for Cyril Ramaphosa appeared verbatim in search results, but neither its licence nor a direct upload.wikimedia.org URL could be confirmed, so all photo fields are null.",
+  "would_resolve": "A single fetch of the relevant Wikimedia Commons file pages (or the MediaWiki pageimages API) to read the direct file URL and licence template for each subject.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-042",
+  "area": "people",
+  "description": "The commission's own site, criminaljusticecommission.org.za, is JavaScript-rendered. Its landing page fetched but returned no content; /about.php and /hearing.php returned 404. No official witness list, hearing calendar, transcript or exhibit index could be obtained from Tier 1.",
+  "would_resolve": "Rendering the site with a headless browser, or locating the commission's PDF transcript/exhibit downloads or its media statements via a static endpoint.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-043",
+  "area": "people",
+  "description": "Three of the six required status labels do not fit central non-witness, non-implicated public officials — notably President Cyril Ramaphosa, acting Minister of Police Firoz Cachalia, and acting National Commissioner Puleng Dimpane. They are therefore recorded only through the 'presidency' and 'ministry-of-police' org entries and in events, not in `people`.",
+  "would_resolve": "Adding a neutral label such as 'Public official (not implicated)' to the closed list, or confirming whether any of them has given evidence to the commission.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-044",
+  "area": "people",
+  "description": "The identities and institutional roles of the protected witnesses (Witness G, and the 'Witness X', 'Witness C', 'Witness E' and 'Witness F' referred to in reporting) are withheld, and Witness G's in-camera evidence is not public. Only Witness G could be included with enough sourcing.",
+  "would_resolve": "Publication of a redacted transcript or a commission ruling describing each protected witness's role in general terms.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-045",
+  "area": "people",
+  "description": "Full names for the nine Ekurhuleni officials and nine suspended SAPS bid-committee officers referred by the commission could not be verified. News24's summary named six Ekurhuleni officials (including Bafana Twala, Aiden McKenzie and Linda Gxasheka) but the retrieved text did not attribute a specific role or reason to each, so only the best-corroborated names were included.",
+  "would_resolve": "Access to the full text of the first interim report, or a fully retrievable version of the Daily Maverick arrests list (2026-05-12), which was only partially readable.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-046",
+  "area": "people",
+  "description": "Advocate Andrew Chauke, Gauteng South Director of Public Prosecutions, features in August 2026 evidence about an alleged IDAC/NPA probe into his communications, but the same source records that he was cleared by a fitness-for-office inquiry. Applying any 'Implicated' label from the closed list would misstate his position, so he is excluded from `people`.",
+  "would_resolve": "Confirmation of whether the commission itself has made any adverse finding or invitation to respond regarding him.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-047",
+  "area": "people",
+  "description": "Former Police Minister Bheki Cele appears in one secondary summary of Masemola's September 2025 testimony as having been implicated, but this rests on a single summarised bullet and could not be corroborated; his verified July 2026 testimony was to the separate Khampepe Commission, not this one. He is therefore excluded.",
+  "would_resolve": "A transcript or direct-quote report of what Masemola said about Cele at the Madlanga Commission.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-048",
+  "area": "people",
+  "description": "Wikipedia's Madlanga Commission article referred to a 'Witness D' identified as Marius van der Merwe, to a police informant named Jaco Hanekom, and to a 'Rovo Spies'. None of these could be corroborated in Tier 1–3 sources, so they were not carried into this roster.",
+  "would_resolve": "Corroboration from commission transcripts or contemporaneous Tier 1–3 reporting.",
+  "logged": "2026/08/22"
+ },
+ {
+  "id": "gap-049",
+  "area": "people",
+  "description": "Dates are approximate for a few entries: Rachel Matjeng's testimony is fixed only to February 2026, Julius Mkhwanazi's commission appearance to 14 April 2026 (inferred from a News24 headline slug rather than fetched body text), and the second interim report's delivery date (29 May 2026 per The Citizen) differs from the 6 August 2026 date on which the Presidency noted it.",
+  "would_resolve": "The commission's published hearing calendar or the report cover dates.",
+  "logged": "2026/08/22"
+ }
+]

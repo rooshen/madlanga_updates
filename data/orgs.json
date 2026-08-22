@@ -1,0 +1,365 @@
+[
+ {
+  "id": "big-five-cartel",
+  "name": "'Big Five' cartel (alleged)",
+  "type": "other",
+  "description": "An alleged Gauteng-based criminal syndicate described by Crime Intelligence head Dumisani Khumalo in commission testimony on 29 September 2025 as operating through syndicates of ten to twelve members specialising in particular commodities. Its existence and membership are allegations made in testimony and remain untested.",
+  "sources": [
+   {
+    "url": "https://www.enca.com/top-stories/madlanga-commission-khumalo-blows-lid-gautengs-big-five-criminal-cartel",
+    "tier": 2,
+    "publisher": "eNCA",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "city-of-ekurhuleni",
+  "name": "City of Ekurhuleni",
+  "type": "municipality",
+  "description": "Gauteng metropolitan municipality. The commission's first interim report identified nine current and former Ekurhuleni employees for referral, and the city suspended its deputy police chief and launched a broader probe into the EMPD.",
+  "sources": [
+   {
+    "url": "https://www.news24.com/politics/senona-among-5-cops-to-face-charges-as-ramaphosa-acts-on-madlangas-interim-report-20260129-0578",
+    "tier": 2,
+    "publisher": "News24",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.thepresidency.gov.za/president-ramaphosa-welcomes-madlanga-commission-interim-report",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "dpci-hawks",
+  "name": "Directorate for Priority Crime Investigation (Hawks / DPCI)",
+  "type": "SAPS unit",
+  "description": "The SAPS priority crimes directorate. Its KwaZulu-Natal head, Major-General Lesetja Senona, was among five officers referred for criminal investigation in the commission's first interim report.",
+  "sources": [
+   {
+    "url": "https://www.news24.com/politics/senona-among-5-cops-to-face-charges-as-ramaphosa-acts-on-madlangas-interim-report-20260129-0578",
+    "tier": 2,
+    "publisher": "News24",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://mg.co.za/news/2026-01-30-kzn-hawks-boss-referred-for-investigation/",
+    "tier": 3,
+    "publisher": "Mail & Guardian",
+    "retrieved": "2026/08/22",
+    "partial": true
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "empd",
+  "name": "Ekurhuleni Metropolitan Police Department (EMPD)",
+  "type": "municipality",
+  "description": "The metro police service of the City of Ekurhuleni. Its suspended deputy chief and several officers feature in commission evidence, and metro police departments are expressly within the commission's terms of reference.",
+  "sources": [
+   {
+    "url": "https://www.ewn.co.za/2026/04/20/suspended-empd-deputy-chief-julius-mkhwanazi-senior-ekurhuleni-official-to-appear-in-court",
+    "tier": 2,
+    "publisher": "Eyewitness News",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.thepresidency.gov.za/statement-president-cyril-ramaphosa-establishment-commission-inquiry-allegations-regarding-law",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "ipid",
+  "name": "Independent Police Investigative Directorate (IPID)",
+  "type": "other",
+  "description": "The statutory body that investigates alleged police criminality. Its KwaZulu-Natal deputy director testified at the commission on 13 August 2026 alleging that provincial task teams were responsible for extrajudicial killings.",
+  "sources": [
+   {
+    "url": "https://mg.co.za/news/south-africa/2026-08-13-ipid-accuses-kzn-task-team-of-extrajudicial-killings/",
+    "tier": 3,
+    "publisher": "Mail & Guardian",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 3
+ },
+ {
+  "id": "idac",
+  "name": "Investigating Directorate Against Corruption (IDAC)",
+  "type": "NPA",
+  "description": "The NPA's corruption-investigating directorate, formerly headed by Advocate Andrea Johnson. Its decisions to arrest senior SAPS officials, and its internal culture, were the subject of extensive commission evidence in July and August 2026.",
+  "sources": [
+   {
+    "url": "https://iol.co.za/news/2026-07-29-madlanga-commission-advocate-andrea-johnson-admits-to-misuse-of-legal-process-in-arrests/",
+    "tier": 2,
+    "publisher": "IOL",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.dailymaverick.co.za/article/2026-08-14-johnson-and-batohi-probe-to-link-andrew-chauke-to-cat-matlala-outed-at-inquiry/",
+    "tier": 3,
+    "publisher": "Daily Maverick",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "madlanga-commission",
+  "name": "Judicial Commission of Inquiry into Criminality, Political Interference and Corruption in the Criminal Justice System",
+  "type": "judiciary",
+  "description": "Established by Proclamation PR 269 in Government Gazette 53048 on 23 July 2025 to probe the infiltration of criminal syndicates into law enforcement, intelligence, prosecution authorities, the judiciary and correctional services. Chaired by Justice Mbuyiseli Madlanga, its final report is due 16 November 2026.",
+  "sources": [
+   {
+    "url": "https://www.justice.gov.za/commissions/commissions_list.htm",
+    "tier": 1,
+    "publisher": "Department of Justice and Constitutional Development",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://thepresidency.gov.za/president-ramaphosa-grants-extension-madlanga-commission-report-deadline",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "medicare24",
+  "name": "Medicare24 Tshwane District",
+  "type": "company",
+  "description": "The company owned by Vusimuzi 'Cat' Matlala that held a R360-million SAPS health-services contract. The award of that contract is the subject of a separate criminal case in which Matlala, National Commissioner Masemola and others are co-accused.",
+  "sources": [
+   {
+    "url": "https://www.timeslive.co.za/politics/2026-04-23-cyril-ramaphosa-suspends-fannie-masemola-as-sa-police-commissioner/",
+    "tier": 2,
+    "publisher": "TimesLIVE",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://mg.co.za/news/south-africa/2026-08-17-matlala-refuses-to-answer-medicare24-questions-at-madlanga-commission/",
+    "tier": 3,
+    "publisher": "Mail & Guardian",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "ministry-of-police",
+  "name": "Ministry of Police",
+  "type": "other",
+  "description": "The executive ministry responsible for SAPS. Minister Senzo Mchunu was placed on leave of absence on 13 July 2025; Professor Firoz Cachalia was sworn in as acting Minister of Police on 1 August 2025.",
+  "sources": [
+   {
+    "url": "https://www.thepresidency.gov.za/statement-president-cyril-ramaphosa-establishment-commission-inquiry-allegations-regarding-law",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.ewn.co.za/2025/08/01/firoz-cachalia-sworn-in-as-acting-minister-of-police",
+    "tier": 2,
+    "publisher": "Eyewitness News",
+    "retrieved": "2026/08/22",
+    "partial": true
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "parliament-ad-hoc-committee",
+  "name": "National Assembly Ad Hoc Committee on Allegations by Lt-Gen Mkhwanazi",
+  "type": "other",
+  "description": "A parliamentary committee established by the National Assembly on 23 July 2025 to investigate the same allegations, running in parallel with the commission. It is chaired by Molapi Soviet Lekgayane with evidence leaders Adv Norman Arendse SC, Adv Maria Mokhaoetsi and Adv Lerato Zikalala; it considered a preliminary report in August 2026.",
+  "sources": [
+   {
+    "url": "https://www.parliament.gov.za/ad-hoc-committee-gen-mkhwanazis-allegations",
+    "tier": 1,
+    "publisher": "Parliament of South Africa",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.parliament.gov.za/news/evidence-leaders-introduced-ad-hoc-committee-lt-gen-mkhwanazis-allegations",
+    "tier": 1,
+    "publisher": "Parliament of South Africa",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "npa",
+  "name": "National Prosecuting Authority (NPA)",
+  "type": "NPA",
+  "description": "South Africa's prosecuting authority, named in the commission's terms of reference among the institutions whose possible infiltration is to be examined. It prosecutes the separate criminal matters involving Katiso Molefe, Vusimuzi Matlala and others.",
+  "sources": [
+   {
+    "url": "https://www.npa.gov.za/media/case-against-kt-molefe-and-others-transferred-high-court",
+    "tier": 1,
+    "publisher": "National Prosecuting Authority",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.justice.gov.za/commissions/commissions_list.htm",
+    "tier": 1,
+    "publisher": "Department of Justice and Constitutional Development",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "political-killings-task-team",
+  "name": "Political Killings Task Team (PKTT)",
+  "type": "SAPS unit",
+  "description": "A SAPS task team established to investigate politically motivated killings, principally in KwaZulu-Natal. Its disbandment on 31 December 2024 by then-Minister Senzo Mchunu, and the removal of 121 of its dockets in 2025, are core subjects of the commission's work.",
+  "sources": [
+   {
+    "url": "https://mg.co.za/news/2025-07-06-mchunu-denies-sabotaging-political-killings-task-team-to-shield-politicians/",
+    "tier": 3,
+    "publisher": "Mail & Guardian",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://mg.co.za/news/south-africa/2026-02-18-sibiya-rejects-misconduct-charges-alleges-campaign-to-remove-him-from-the-saps/",
+    "tier": 3,
+    "publisher": "Mail & Guardian",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 3
+ },
+ {
+  "id": "saps-crime-intelligence",
+  "name": "SAPS Crime Intelligence Division",
+  "type": "intelligence",
+  "description": "The SAPS intelligence division headed by Lt-Gen Dumisani Khumalo. Its leadership arrests in mid-2025, and allegations of off-the-books operations, feature prominently in commission evidence and in its second interim report's referral to the Inspector-General of Intelligence.",
+  "sources": [
+   {
+    "url": "https://www.thepresidency.gov.za/president-ramaphosa-notes-recommendations-and-referrals-second-interim-report-madlanga-commission",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.citizen.co.za/news/dumisani-khumalo-testimony-crime-intelligence-arrest/",
+    "tier": 2,
+    "publisher": "The Citizen",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "madlanga-special-task-team",
+  "name": "SAPS special investigations task team (Madlanga referrals task team)",
+  "type": "SAPS unit",
+  "description": "A dedicated SAPS task team President Ramaphosa directed be constituted in January 2026, reporting directly to the National Commissioner, to investigate persons identified by the commission. It carried out arrests including that of Julius Mkhwanazi in April 2026.",
+  "sources": [
+   {
+    "url": "https://www.thepresidency.gov.za/president-ramaphosa-welcomes-madlanga-commission-interim-report",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.ewn.co.za/2026/04/18/julius-mkhwanazi-arrested-by-madlanga-commission-saps-task-team",
+    "tier": 2,
+    "publisher": "Eyewitness News",
+    "retrieved": "2026/08/22",
+    "partial": true
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "sanef",
+  "name": "South African National Editors' Forum (SANEF)",
+  "type": "other",
+  "description": "Media freedom body that on 14 October 2025 opposed a blanket in-camera application by the commission's evidence leaders, arguing for case-by-case assessment of witness protection rather than sweeping closures.",
+  "sources": [
+   {
+    "url": "https://sanef.org.za/sanef-cautions-against-blanket-in-camera-proceedings-at-the-madlanga-commission/",
+    "tier": 2,
+    "publisher": "SANEF",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "saps",
+  "name": "South African Police Service (SAPS)",
+  "type": "SAPS unit",
+  "description": "South Africa's national police service, the central institution under examination by the commission. Its national commissioner, deputy national commissioner for crime detection and several generals and brigadiers have featured in commission evidence.",
+  "sources": [
+   {
+    "url": "https://www.thepresidency.gov.za/statement-president-cyril-ramaphosa-establishment-commission-inquiry-allegations-regarding-law",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "presidency",
+  "name": "The Presidency of the Republic of South Africa",
+  "type": "other",
+  "description": "The office of President Cyril Ramaphosa, which established the commission on 13 July 2025, receives its interim reports, grants its deadline extensions and directs action on its referrals.",
+  "sources": [
+   {
+    "url": "https://www.thepresidency.gov.za/statement-president-cyril-ramaphosa-establishment-commission-inquiry-allegations-regarding-law",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://thepresidency.gov.za/president-ramaphosa-grants-extension-madlanga-commission-report-deadline",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ }
+]

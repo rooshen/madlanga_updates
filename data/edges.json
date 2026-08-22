@@ -1,0 +1,1035 @@
+[
+ {
+  "id": "edge-001",
+  "from": "presidency",
+  "to": "madlanga-commission",
+  "type": "established",
+  "strength": "documented",
+  "date": "2025/07/23",
+  "sources": [
+   {
+    "url": "https://www.justice.gov.za/commissions/commissions_list.htm",
+    "tier": 1,
+    "publisher": "Department of Justice and Constitutional Development",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-002",
+  "from": "presidency",
+  "to": "mbuyiseli-madlanga",
+  "type": "appointed as chairperson",
+  "strength": "documented",
+  "date": "2025/07/13",
+  "sources": [
+   {
+    "url": "https://www.thepresidency.gov.za/statement-president-cyril-ramaphosa-establishment-commission-inquiry-allegations-regarding-law",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-003",
+  "from": "presidency",
+  "to": "sesi-baloyi",
+  "type": "appointed as assisting commissioner",
+  "strength": "documented",
+  "date": "2025/07/13",
+  "sources": [
+   {
+    "url": "https://www.thepresidency.gov.za/statement-president-cyril-ramaphosa-establishment-commission-inquiry-allegations-regarding-law",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-004",
+  "from": "presidency",
+  "to": "sandile-khumalo",
+  "type": "appointed as assisting commissioner",
+  "strength": "documented",
+  "date": "2025/07/13",
+  "sources": [
+   {
+    "url": "https://www.thepresidency.gov.za/statement-president-cyril-ramaphosa-establishment-commission-inquiry-allegations-regarding-law",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-005",
+  "from": "presidency",
+  "to": "senzo-mchunu",
+  "type": "placed on leave of absence",
+  "strength": "documented",
+  "date": "2025/07/13",
+  "sources": [
+   {
+    "url": "https://www.thepresidency.gov.za/statement-president-cyril-ramaphosa-establishment-commission-inquiry-allegations-regarding-law",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-006",
+  "from": "presidency",
+  "to": "fannie-masemola",
+  "type": "placed on precautionary suspension",
+  "strength": "documented",
+  "date": "2026/04/23",
+  "sources": [
+   {
+    "url": "https://www.timeslive.co.za/politics/2026-04-23-cyril-ramaphosa-suspends-fannie-masemola-as-sa-police-commissioner/",
+    "tier": 2,
+    "publisher": "TimesLIVE",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "edge-007",
+  "from": "presidency",
+  "to": "madlanga-special-task-team",
+  "type": "directed establishment of",
+  "strength": "documented",
+  "date": "2026/01/29",
+  "sources": [
+   {
+    "url": "https://www.thepresidency.gov.za/president-ramaphosa-welcomes-madlanga-commission-interim-report",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-008",
+  "from": "madlanga-commission",
+  "to": "terry-motau",
+  "type": "appointed then accepted resignation of chief evidence leader",
+  "strength": "documented",
+  "date": "2025/10/01",
+  "sources": [
+   {
+    "url": "https://www.sanews.gov.za/south-africa/madlanga-commission-appoints-adv-chaskalson-sc-chief-evidence-leader",
+    "tier": 1,
+    "publisher": "SAnews (SA Government News Agency)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-009",
+  "from": "madlanga-commission",
+  "to": "matthew-chaskalson",
+  "type": "appointed as chief evidence leader",
+  "strength": "documented",
+  "date": "2025/10/01",
+  "sources": [
+   {
+    "url": "https://www.sanews.gov.za/south-africa/madlanga-commission-appoints-adv-chaskalson-sc-chief-evidence-leader",
+    "tier": 1,
+    "publisher": "SAnews (SA Government News Agency)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-010",
+  "from": "nhlanhla-mkhwanazi",
+  "to": "senzo-mchunu",
+  "type": "publicly alleged political interference by",
+  "strength": "alleged",
+  "date": "2025/07/06",
+  "sources": [
+   {
+    "url": "https://mg.co.za/news/2025-07-06-mchunu-denies-sabotaging-political-killings-task-team-to-shield-politicians/",
+    "tier": 3,
+    "publisher": "Mail & Guardian",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 3
+ },
+ {
+  "id": "edge-011",
+  "from": "senzo-mchunu",
+  "to": "political-killings-task-team",
+  "type": "disbanded",
+  "strength": "documented",
+  "date": "2024/12/31",
+  "sources": [
+   {
+    "url": "https://mg.co.za/news/south-africa/2026-02-18-sibiya-rejects-misconduct-charges-alleges-campaign-to-remove-him-from-the-saps/",
+    "tier": 3,
+    "publisher": "Mail & Guardian",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 3
+ },
+ {
+  "id": "edge-012",
+  "from": "senzo-mchunu",
+  "to": "nhlanhla-mkhwanazi",
+  "type": "denied the allegations made by",
+  "strength": "denied",
+  "date": "2025/07/06",
+  "sources": [
+   {
+    "url": "https://mg.co.za/news/2025-07-06-mchunu-denies-sabotaging-political-killings-task-team-to-shield-politicians/",
+    "tier": 3,
+    "publisher": "Mail & Guardian",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 3
+ },
+ {
+  "id": "edge-013",
+  "from": "nhlanhla-mkhwanazi",
+  "to": "madlanga-commission",
+  "type": "testified as first witness",
+  "strength": "testified",
+  "date": "2025/09/17",
+  "sources": [
+   {
+    "url": "https://www.ewn.co.za/2025/09/17/watch-live-first-witness-kzn-police-commissioner-nhlanhla-mkhwanazi",
+    "tier": 2,
+    "publisher": "Eyewitness News",
+    "retrieved": "2026/08/22",
+    "partial": true
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "edge-014",
+  "from": "fannie-masemola",
+  "to": "senzo-mchunu",
+  "type": "testified that the task team disbandment was 'a total encroachment' by",
+  "strength": "testified",
+  "date": "2025/09/22",
+  "sources": [
+   {
+    "url": "https://www.news24.com/citypress/politics/madlanga-commission-10-explosive-revelations-from-masemolas-testimony-20250922-0974",
+    "tier": 2,
+    "publisher": "News24 / City Press",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "edge-015",
+  "from": "dumisani-khumalo",
+  "to": "big-five-cartel",
+  "type": "testified to the existence and operation of",
+  "strength": "testified",
+  "date": "2025/09/29",
+  "sources": [
+   {
+    "url": "https://www.enca.com/top-stories/madlanga-commission-khumalo-blows-lid-gautengs-big-five-criminal-cartel",
+    "tier": 2,
+    "publisher": "eNCA",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "edge-016",
+  "from": "dumisani-khumalo",
+  "to": "vusimuzi-cat-matlala",
+  "type": "named in testimony as a cartel figure",
+  "strength": "testified",
+  "date": "2025/09/29",
+  "sources": [
+   {
+    "url": "https://www.enca.com/top-stories/madlanga-commission-khumalo-blows-lid-gautengs-big-five-criminal-cartel",
+    "tier": 2,
+    "publisher": "eNCA",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "edge-017",
+  "from": "dumisani-khumalo",
+  "to": "katiso-kt-molefe",
+  "type": "named in testimony as a cartel figure",
+  "strength": "testified",
+  "date": "2025/09/29",
+  "sources": [
+   {
+    "url": "https://www.enca.com/top-stories/madlanga-commission-khumalo-blows-lid-gautengs-big-five-criminal-cartel",
+    "tier": 2,
+    "publisher": "eNCA",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "edge-018",
+  "from": "vusimuzi-cat-matlala",
+  "to": "medicare24",
+  "type": "owns",
+  "strength": "documented",
+  "date": null,
+  "sources": [
+   {
+    "url": "https://www.timeslive.co.za/politics/2026-04-23-cyril-ramaphosa-suspends-fannie-masemola-as-sa-police-commissioner/",
+    "tier": 2,
+    "publisher": "TimesLIVE",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "edge-019",
+  "from": "medicare24",
+  "to": "saps",
+  "type": "held R360-million health-services contract with",
+  "strength": "documented",
+  "date": null,
+  "sources": [
+   {
+    "url": "https://www.timeslive.co.za/politics/2026-04-23-cyril-ramaphosa-suspends-fannie-masemola-as-sa-police-commissioner/",
+    "tier": 2,
+    "publisher": "TimesLIVE",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "edge-020",
+  "from": "vusimuzi-cat-matlala",
+  "to": "shadrack-sibiya",
+  "type": "alleged payment to",
+  "strength": "alleged",
+  "date": "2025/01/01",
+  "sources": [
+   {
+    "url": "https://www.dailymaverick.co.za/article/2026-08-07-has-the-madlanga-commission-vindicated-mkhwanazi-the-case-against-shadrack-sibiya/",
+    "tier": 3,
+    "publisher": "Daily Maverick",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 3
+ },
+ {
+  "id": "edge-021",
+  "from": "shadrack-sibiya",
+  "to": "vusimuzi-cat-matlala",
+  "type": "denied any improper relationship with, while admitting acquaintance",
+  "strength": "denied",
+  "date": "2026/02/18",
+  "sources": [
+   {
+    "url": "https://www.dailymaverick.co.za/article/2026-08-07-has-the-madlanga-commission-vindicated-mkhwanazi-the-case-against-shadrack-sibiya/",
+    "tier": 3,
+    "publisher": "Daily Maverick",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 3
+ },
+ {
+  "id": "edge-022",
+  "from": "shadrack-sibiya",
+  "to": "political-killings-task-team",
+  "type": "removed 121 dockets from",
+  "strength": "testified",
+  "date": "2025/03/01",
+  "sources": [
+   {
+    "url": "https://mg.co.za/news/2025-11-17-madlanga-sibiya-removed-121-dockets-for-no-apparent-reason/",
+    "tier": 3,
+    "publisher": "Mail & Guardian",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.dailymaverick.co.za/article/2026-08-07-has-the-madlanga-commission-vindicated-mkhwanazi-the-case-against-shadrack-sibiya/",
+    "tier": 3,
+    "publisher": "Daily Maverick",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 3
+ },
+ {
+  "id": "edge-023",
+  "from": "mary-motsepe",
+  "to": "madlanga-commission",
+  "type": "testified about the docket audit",
+  "strength": "testified",
+  "date": "2025/11/17",
+  "sources": [
+   {
+    "url": "https://mg.co.za/news/2025-11-17-madlanga-sibiya-removed-121-dockets-for-no-apparent-reason/",
+    "tier": 3,
+    "publisher": "Mail & Guardian",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 3
+ },
+ {
+  "id": "edge-024",
+  "from": "vusimuzi-cat-matlala",
+  "to": "rachel-matjeng",
+  "type": "alleged payments to",
+  "strength": "alleged",
+  "date": null,
+  "sources": [
+   {
+    "url": "https://iol.co.za/news/south-africa/2026-07-01-how-rachel-matjengs-relationship-with-cat-matlalas-led-to-saps-fallout/",
+    "tier": 2,
+    "publisher": "IOL",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "edge-025",
+  "from": "rachel-matjeng",
+  "to": "vusimuzi-cat-matlala",
+  "type": "acknowledged personal relationship with but denied corruption",
+  "strength": "denied",
+  "date": "2026/02/01",
+  "sources": [
+   {
+    "url": "https://iol.co.za/news/south-africa/2026-07-01-how-rachel-matjengs-relationship-with-cat-matlalas-led-to-saps-fallout/",
+    "tier": 2,
+    "publisher": "IOL",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "edge-026",
+  "from": "vusimuzi-cat-matlala",
+  "to": "richard-shibiri",
+  "type": "alleged R80,000 loan to",
+  "strength": "alleged",
+  "date": null,
+  "sources": [
+   {
+    "url": "https://www.dailymaverick.co.za/article/2026-06-05-madlanga-commission-fallout-deepens-as-shibiri-dismissed-nine-officers-suspended/",
+    "tier": 3,
+    "publisher": "Daily Maverick",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 3
+ },
+ {
+  "id": "edge-027",
+  "from": "saps",
+  "to": "richard-shibiri",
+  "type": "dismissed after internal disciplinary process",
+  "strength": "documented",
+  "date": "2026/06/05",
+  "sources": [
+   {
+    "url": "https://www.dailymaverick.co.za/article/2026-06-05-madlanga-commission-fallout-deepens-as-shibiri-dismissed-nine-officers-suspended/",
+    "tier": 3,
+    "publisher": "Daily Maverick",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 3
+ },
+ {
+  "id": "edge-028",
+  "from": "saps",
+  "to": "rachel-matjeng",
+  "type": "dismissed after internal disciplinary process",
+  "strength": "documented",
+  "date": "2026/06/30",
+  "sources": [
+   {
+    "url": "https://iol.co.za/news/south-africa/2026-07-01-how-rachel-matjengs-relationship-with-cat-matlalas-led-to-saps-fallout/",
+    "tier": 2,
+    "publisher": "IOL",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "edge-029",
+  "from": "madlanga-commission",
+  "to": "lesetja-senona",
+  "type": "referred for criminal investigation",
+  "strength": "documented",
+  "date": "2026/01/29",
+  "sources": [
+   {
+    "url": "https://www.news24.com/politics/senona-among-5-cops-to-face-charges-as-ramaphosa-acts-on-madlangas-interim-report-20260129-0578",
+    "tier": 2,
+    "publisher": "News24",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "edge-030",
+  "from": "madlanga-commission",
+  "to": "mbangwa-nkhwashu",
+  "type": "referred for criminal investigation",
+  "strength": "documented",
+  "date": "2026/01/29",
+  "sources": [
+   {
+    "url": "https://www.news24.com/politics/senona-among-5-cops-to-face-charges-as-ramaphosa-acts-on-madlangas-interim-report-20260129-0578",
+    "tier": 2,
+    "publisher": "News24",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "edge-031",
+  "from": "madlanga-commission",
+  "to": "julius-mkhwanazi",
+  "type": "referred for criminal investigation",
+  "strength": "documented",
+  "date": "2026/01/29",
+  "sources": [
+   {
+    "url": "https://www.news24.com/politics/senona-among-5-cops-to-face-charges-as-ramaphosa-acts-on-madlangas-interim-report-20260129-0578",
+    "tier": 2,
+    "publisher": "News24",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "edge-032",
+  "from": "madlanga-commission",
+  "to": "imogen-mashazi",
+  "type": "referred for criminal investigation",
+  "strength": "documented",
+  "date": "2026/01/29",
+  "sources": [
+   {
+    "url": "https://www.news24.com/politics/senona-among-5-cops-to-face-charges-as-ramaphosa-acts-on-madlangas-interim-report-20260129-0578",
+    "tier": 2,
+    "publisher": "News24",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "edge-033",
+  "from": "madlanga-commission",
+  "to": "shadrack-sibiya",
+  "type": "recommended disciplinary proceedings and criminal investigation",
+  "strength": "documented",
+  "date": "2026/08/06",
+  "sources": [
+   {
+    "url": "https://www.thepresidency.gov.za/president-ramaphosa-notes-recommendations-and-referrals-second-interim-report-madlanga-commission",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-034",
+  "from": "madlanga-commission",
+  "to": "brown-mogotsi",
+  "type": "recommended disciplinary proceedings and criminal investigation",
+  "strength": "documented",
+  "date": "2026/08/06",
+  "sources": [
+   {
+    "url": "https://www.thepresidency.gov.za/president-ramaphosa-notes-recommendations-and-referrals-second-interim-report-madlanga-commission",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-035",
+  "from": "madlanga-commission",
+  "to": "fannie-nkosi",
+  "type": "recommended disciplinary proceedings and criminal investigation",
+  "strength": "documented",
+  "date": "2026/08/06",
+  "sources": [
+   {
+    "url": "https://www.thepresidency.gov.za/president-ramaphosa-notes-recommendations-and-referrals-second-interim-report-madlanga-commission",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-036",
+  "from": "madlanga-commission",
+  "to": "witness-g",
+  "type": "recommended disciplinary proceedings and criminal investigation",
+  "strength": "documented",
+  "date": "2026/08/06",
+  "sources": [
+   {
+    "url": "https://www.thepresidency.gov.za/president-ramaphosa-notes-recommendations-and-referrals-second-interim-report-madlanga-commission",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-037",
+  "from": "brown-mogotsi",
+  "to": "saps-crime-intelligence",
+  "type": "alleged involvement in off-the-books operations of",
+  "strength": "alleged",
+  "date": "2026/08/06",
+  "sources": [
+   {
+    "url": "https://www.thepresidency.gov.za/president-ramaphosa-notes-recommendations-and-referrals-second-interim-report-madlanga-commission",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-038",
+  "from": "madlanga-special-task-team",
+  "to": "julius-mkhwanazi",
+  "type": "arrested",
+  "strength": "documented",
+  "date": "2026/04/18",
+  "sources": [
+   {
+    "url": "https://www.ewn.co.za/2026/04/20/suspended-empd-deputy-chief-julius-mkhwanazi-senior-ekurhuleni-official-to-appear-in-court",
+    "tier": 2,
+    "publisher": "Eyewitness News",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "edge-039",
+  "from": "saps",
+  "to": "brown-mogotsi",
+  "type": "arrested",
+  "strength": "documented",
+  "date": "2026/05/15",
+  "sources": [
+   {
+    "url": "https://www.news24.com/southafrica/crime-and-courts/brown-mogotsi-arrested-after-madlanga-commission-appearance-20260515-1025",
+    "tier": 2,
+    "publisher": "News24",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "edge-040",
+  "from": "idac",
+  "to": "dumisani-khumalo",
+  "type": "investigated and arrested",
+  "strength": "documented",
+  "date": "2025/06/01",
+  "sources": [
+   {
+    "url": "https://www.citizen.co.za/news/dumisani-khumalo-testimony-crime-intelligence-arrest/",
+    "tier": 2,
+    "publisher": "The Citizen",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "edge-041",
+  "from": "andrea-johnson",
+  "to": "idac",
+  "type": "headed",
+  "strength": "documented",
+  "date": null,
+  "sources": [
+   {
+    "url": "https://iol.co.za/news/2026-07-29-madlanga-commission-advocate-andrea-johnson-admits-to-misuse-of-legal-process-in-arrests/",
+    "tier": 2,
+    "publisher": "IOL",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "edge-042",
+  "from": "andrea-johnson",
+  "to": "fannie-masemola",
+  "type": "accepted he was wrongly grouped with fraud and corruption suspects",
+  "strength": "testified",
+  "date": "2026/07/29",
+  "sources": [
+   {
+    "url": "https://iol.co.za/news/2026-07-29-madlanga-commission-advocate-andrea-johnson-admits-to-misuse-of-legal-process-in-arrests/",
+    "tier": 2,
+    "publisher": "IOL",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "edge-043",
+  "from": "drushantha-ramsamy",
+  "to": "andrea-johnson",
+  "type": "testified about instructions given by",
+  "strength": "testified",
+  "date": "2026/08/14",
+  "sources": [
+   {
+    "url": "https://www.dailymaverick.co.za/article/2026-08-14-johnson-and-batohi-probe-to-link-andrew-chauke-to-cat-matlala-outed-at-inquiry/",
+    "tier": 3,
+    "publisher": "Daily Maverick",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 3
+ },
+ {
+  "id": "edge-044",
+  "from": "drushantha-ramsamy",
+  "to": "shamila-batohi",
+  "type": "testified that the analysis was requested at her direction",
+  "strength": "testified",
+  "date": "2026/08/14",
+  "sources": [
+   {
+    "url": "https://www.dailymaverick.co.za/article/2026-08-14-johnson-and-batohi-probe-to-link-andrew-chauke-to-cat-matlala-outed-at-inquiry/",
+    "tier": 3,
+    "publisher": "Daily Maverick",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 3
+ },
+ {
+  "id": "edge-045",
+  "from": "andrea-johnson",
+  "to": "feroz-khan",
+  "type": "alleged improperly close relationship with, evidenced by WhatsApp messages",
+  "strength": "alleged",
+  "date": "2026/07/29",
+  "sources": [
+   {
+    "url": "https://www.dailymaverick.co.za/article/2026-07-29-you-gorgeous-intimate-messages-between-feroz-khan-and-andrea-johnson-revealed/",
+    "tier": 3,
+    "publisher": "Daily Maverick",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 3
+ },
+ {
+  "id": "edge-046",
+  "from": "suliman-carrim",
+  "to": "medicare24",
+  "type": "testified to investing R10 million in",
+  "strength": "testified",
+  "date": "2026/03/09",
+  "sources": [
+   {
+    "url": "https://www.sowetan.co.za/news/2026-03-09-what-you-need-to-know-about-suleiman-carrims-testimony-at-madlanga-inquiry/",
+    "tier": 2,
+    "publisher": "Sowetan",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "edge-047",
+  "from": "suliman-carrim",
+  "to": "senzo-mchunu",
+  "type": "denied any relationship with",
+  "strength": "denied",
+  "date": "2026/03/09",
+  "sources": [
+   {
+    "url": "https://www.sowetan.co.za/news/2026-03-09-what-you-need-to-know-about-suleiman-carrims-testimony-at-madlanga-inquiry/",
+    "tier": 2,
+    "publisher": "Sowetan",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "edge-048",
+  "from": "vusimuzi-cat-matlala",
+  "to": "senzo-mchunu",
+  "type": "denied knowing",
+  "strength": "denied",
+  "date": "2026/08/17",
+  "sources": [
+   {
+    "url": "https://mg.co.za/news/south-africa/2026-08-17-matlala-refuses-to-answer-medicare24-questions-at-madlanga-commission/",
+    "tier": 3,
+    "publisher": "Mail & Guardian",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 3
+ },
+ {
+  "id": "edge-049",
+  "from": "len-john",
+  "to": "deena-govender",
+  "type": "alleged commissioned killing by",
+  "strength": "alleged",
+  "date": "2026/08/13",
+  "sources": [
+   {
+    "url": "https://mg.co.za/news/south-africa/2026-08-13-ipid-accuses-kzn-task-team-of-extrajudicial-killings/",
+    "tier": 3,
+    "publisher": "Mail & Guardian",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 3
+ },
+ {
+  "id": "edge-050",
+  "from": "clive-naicker",
+  "to": "deena-govender",
+  "type": "alleged payment to",
+  "strength": "alleged",
+  "date": "2026/08/13",
+  "sources": [
+   {
+    "url": "https://mg.co.za/news/south-africa/2026-08-13-ipid-accuses-kzn-task-team-of-extrajudicial-killings/",
+    "tier": 3,
+    "publisher": "Mail & Guardian",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 3
+ },
+ {
+  "id": "edge-051",
+  "from": "kemi-behari",
+  "to": "city-of-ekurhuleni",
+  "type": "heads risk and legal services at",
+  "strength": "documented",
+  "date": "2026/02/09",
+  "sources": [
+   {
+    "url": "https://www.enca.com/news-top-stories/behari-rejects-corruption-allegations-madlanga-commission",
+    "tier": 2,
+    "publisher": "eNCA",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "edge-052",
+  "from": "kemi-behari",
+  "to": "madlanga-commission",
+  "type": "testified rejecting the allegations against him",
+  "strength": "denied",
+  "date": "2026/02/09",
+  "sources": [
+   {
+    "url": "https://www.enca.com/news-top-stories/behari-rejects-corruption-allegations-madlanga-commission",
+    "tier": 2,
+    "publisher": "eNCA",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "edge-053",
+  "from": "sanef",
+  "to": "madlanga-commission",
+  "type": "opposed blanket in-camera application by",
+  "strength": "documented",
+  "date": "2025/10/14",
+  "sources": [
+   {
+    "url": "https://sanef.org.za/sanef-cautions-against-blanket-in-camera-proceedings-at-the-madlanga-commission/",
+    "tier": 2,
+    "publisher": "SANEF",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "edge-054",
+  "from": "parliament-ad-hoc-committee",
+  "to": "senzo-mchunu",
+  "type": "preliminarily found no proven corrupt relationship involving",
+  "strength": "documented",
+  "date": "2026/08/20",
+  "sources": [
+   {
+    "url": "https://witness.co.za/news/2026/08/20/preliminary-findings-of-parliaments-ad-hoc-committee-show-no-corrupt-links-to-mchunu/",
+    "tier": 2,
+    "publisher": "The Witness",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "edge-055",
+  "from": "npa",
+  "to": "katiso-kt-molefe",
+  "type": "prosecutes on 35 charges in a separate matter",
+  "strength": "documented",
+  "date": "2025/12/03",
+  "sources": [
+   {
+    "url": "https://www.npa.gov.za/media/case-against-kt-molefe-and-others-transferred-high-court",
+    "tier": 1,
+    "publisher": "National Prosecuting Authority",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-056",
+  "from": "marius-van-der-merwe",
+  "to": "madlanga-commission",
+  "type": "testified before being killed",
+  "strength": "documented",
+  "date": "2025/12/05",
+  "sources": [
+   {
+    "url": "https://www.thepresidency.gov.za/president-condemns-heinous-murder-madlanga-commission-witness",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-057",
+  "from": "marius-van-der-merwe",
+  "to": "empd",
+  "type": "formerly served with",
+  "strength": "documented",
+  "date": null,
+  "sources": [
+   {
+    "url": "https://www.thepresidency.gov.za/president-condemns-heinous-murder-madlanga-commission-witness",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ }
+]

@@ -1,0 +1,859 @@
+[
+ {
+  "id": "day-164",
+  "day_number": 164,
+  "day_number_verified": true,
+  "date": "2026/08/21",
+  "weekday": "Friday",
+  "workstream": "idac-npa",
+  "witnesses": [
+   {
+    "person_id": "fadiel-adams",
+    "name": "Fadiel Adams",
+    "role_as_described": "Leader of the National Coloured Congress (NCC) and Member of Parliament; described in several reports as suspended",
+    "note": "testified"
+   }
+  ],
+  "summary": "Adams continued and corrected parts of his evidence before the commission in Pretoria. He retracted his earlier account of contacting a man he knows as 'Elvis' from Orlando Police Station, saying instead that he met Elvis at a tyre shop and that they arrived at the station together. He gave evidence about a fifth affidavit taken from him by Investigating Directorate Against Corruption (IDAC) investigator Dylan Perumal on the evening of 6 January 2025, saying Perumal came to his home at night and was on a call with then IDAC head Advocate Andrea Johnson. Adams also alleged that his section 27 referral document had been altered, and told the commission he intended to lay criminal complaints against State Advocate Drushantha Ramsamy and complain to the legal profession's regulator rather than have a recording of his IDAC meeting played. Commissioner Sandile Khumalo SC put to him that he appeared to have gone along with a scheme to bolster the cases. Proceedings were reported to continue the following week.",
+  "rulings": [],
+  "exhibits": [
+   {
+    "ref": null,
+    "description": "A fifth affidavit taken from Adams on the evening of 6 January 2025, bearing an official IDAC stamp, unlike four earlier statements taken that day"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "I was wrong in my testimony",
+    "speaker": "Fadiel Adams",
+    "source_url": "https://www.sabcnews.com/sabcnews/adams-retracts-parts-of-his-thursdays-testimony-at-commission/",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "Someone has altered this thing. I don't know why; I don't know how.",
+    "speaker": "Fadiel Adams",
+    "source_url": "https://www.ewn.co.za/2026/08/21/madlanga-commission-fadiel-adams-changes-tune-in-his-testimony",
+    "tier_label": "REPORTING",
+    "words": 13
+   }
+  ],
+  "video_url": "https://www.youtube.com/watch?v=m9VKV_okboQ",
+  "sources": [
+   {
+    "url": "https://www.sabcnews.com/sabcnews/adams-retracts-parts-of-his-thursdays-testimony-at-commission/",
+    "tier": 2,
+    "publisher": "SABC News",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.ewn.co.za/2026/08/21/madlanga-commission-fadiel-adams-changes-tune-in-his-testimony",
+    "tier": 2,
+    "publisher": "EWN",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.dailymaverick.co.za/article/2026-08-21-fadiel-adams-explosive-admission-on-the-mystery-idac-affidavit-implicating-andrea-johnson/",
+    "tier": 3,
+    "publisher": "Daily Maverick",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.sowetan.co.za/news/2026-08-21-watch-live-fadiel-adams-continues-testimony-at-madlanga-commission/",
+    "tier": 2,
+    "publisher": "Sowetan",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.sabcnews.com/sabcnews/live-madlanga-commission-of-inquiry-day-164/",
+    "tier": 2,
+    "publisher": "SABC News",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=m9VKV_okboQ",
+    "tier": 2,
+    "publisher": "YouTube - SABC News stream",
+    "retrieved": "2026/08/22",
+    "partial": true
+   }
+  ],
+  "best_tier": 2,
+  "partial_source": false,
+  "unverified": [
+   "Name of the evidence leader questioning Adams on this specific day. SABC News and The Citizen name Advocate Lee Segeels-Ncube for the Adams stream; one EWN summary instead named Advocate Drushantha Ramsamy, who is elsewhere described as an IDAC prosecutor and a witness, so the EWN attribution is likely a conflation. Not resolved.",
+   "Whether the IDAC audio recording was in fact played on 21 August, or whether Adams's objection prevented it.",
+   "Whether Adams's evidence concluded on this day.",
+   "The SABC News Day 164 live page returned only a cookie/privacy notice to the fetcher - only its title was verifiable."
+  ]
+ },
+ {
+  "id": "day-163",
+  "day_number": 163,
+  "day_number_verified": true,
+  "date": "2026/08/20",
+  "weekday": "Thursday",
+  "workstream": "idac-npa",
+  "witnesses": [
+   {
+    "person_id": "fadiel-adams",
+    "name": "Fadiel Adams",
+    "role_as_described": "NCC leader and Member of Parliament",
+    "note": "testified"
+   }
+  ],
+  "summary": "Adams completed a second day of evidence on the section 27 affidavit that IDAC used in its investigation of Crime Intelligence officials. Evidence leader Advocate Lee Segeels-Ncube pressed him on his reliance on the late General Andre Lincoln, who died in May 2025, as the source of his allegations, and on the timeline of when he opened criminal cases in Cape Town and Johannesburg in October 2024. Adams said he had written to then Police Minister Senzo Mchunu within a day of opening the cases. Justice Madlanga questioned how Lincoln, described as being in Cape Town and incapacitated, could have intercepted dockets. The sitting was adjourned to allow Adams to listen to recordings of his interactions with IDAC before questioning resumed.",
+  "rulings": [
+   {
+    "description": "The commission adjourned proceedings to allow Adams to listen to audio recordings of his meeting with IDAC officials before questioning continued.",
+    "source_url": "https://www.sabcnews.com/sabcnews/madlanga-commission-adjourns-for-adams-to-listen-to-idac-recordings/",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": null,
+    "description": "Audio recording, described as roughly two hours, of Adams's January 2025 meeting with IDAC officials"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "You cannot rely on a dead man every time.",
+    "speaker": "Advocate Lee Segeels-Ncube",
+    "source_url": "https://www.citizen.co.za/news/fadiel-adams-admits-misleading-minister-dead-man-defence-unravels-madlanga-commission/",
+    "tier_label": "REPORTING",
+    "words": 9
+   }
+  ],
+  "video_url": "https://www.youtube.com/watch?v=RW1p7K5o0qs",
+  "sources": [
+   {
+    "url": "https://www.citizen.co.za/news/fadiel-adams-admits-misleading-minister-dead-man-defence-unravels-madlanga-commission/",
+    "tier": 2,
+    "publisher": "The Citizen",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.sabcnews.com/sabcnews/madlanga-commission-adjourns-for-adams-to-listen-to-idac-recordings/",
+    "tier": 2,
+    "publisher": "SABC News",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=RW1p7K5o0qs",
+    "tier": 2,
+    "publisher": "YouTube - SABC News stream",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
+   {
+    "url": "https://www.sabcnews.com/sabcnews/live-madlanga-commission-of-inquiry-day-163/",
+    "tier": 2,
+    "publisher": "SABC News",
+    "retrieved": "2026/08/22",
+    "partial": true
+   }
+  ],
+  "best_tier": 2,
+  "partial_source": false,
+  "unverified": [
+   "Exact date the adjournment direction was given (Thursday 20 August is the strong inference from the SABC report and the Friday resumption, but the SABC article carried no explicit date)."
+  ]
+ },
+ {
+  "id": "day-162",
+  "day_number": 162,
+  "day_number_verified": true,
+  "date": "2026/08/19",
+  "weekday": "Wednesday",
+  "workstream": "idac-npa",
+  "witnesses": [
+   {
+    "person_id": "fadiel-adams",
+    "name": "Fadiel Adams",
+    "role_as_described": "NCC leader and Member of Parliament",
+    "note": "testified"
+   }
+  ],
+  "summary": "Adams began his substantive evidence after his appearance had been postponed from 11 August. He told the commission he had found an envelope marked 'Top Secret' pushed under his parliamentary office door in late October 2024, containing material about alleged irregular procurement and misuse of secret service funds. He disputed IDAC's account of a 6 January 2025 interview in Cape Town, saying a supplementary affidavit marked A1 attributed to IDAC investigator Dylan Perumal did not match the statements taken from him. He conceded he had been untruthful about only recently learning of earlier correspondence, having blamed a malfunctioning laptop, and he denied acting as a conduit for criminal cartels. Justice Madlanga corrected him for repeatedly addressing the chair as 'Chief'.",
+  "rulings": [],
+  "exhibits": [
+   {
+    "ref": "A1",
+    "description": "Supplementary affidavit attributed to IDAC investigator Dylan Perumal, which Adams said did not match statements taken at the 6 January 2025 Cape Town meeting"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "I gave only one account of the events during my interview.",
+    "speaker": "Fadiel Adams",
+    "source_url": "https://www.dailymaverick.co.za/article/2026-08-19-adams-puts-idac-s-evidence-under-scrutiny-while-affidavit-dispute-deepens/",
+    "tier_label": "REPORTING",
+    "words": 11
+   }
+  ],
+  "video_url": "https://www.youtube.com/watch?v=SHm91eQixkE",
+  "sources": [
+   {
+    "url": "https://www.dailymaverick.co.za/article/2026-08-19-adams-puts-idac-s-evidence-under-scrutiny-while-affidavit-dispute-deepens/",
+    "tier": 3,
+    "publisher": "Daily Maverick",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.sowetan.co.za/news/2026-08-19-five-key-things-about-adams-testimony-at-madlanga/",
+    "tier": 2,
+    "publisher": "Sowetan",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=SHm91eQixkE",
+    "tier": 2,
+    "publisher": "YouTube - SABC News stream",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
+   {
+    "url": "https://www.sabcnews.com/sabcnews/live-madlanga-commission-of-inquiry-day-162/",
+    "tier": 2,
+    "publisher": "SABC News",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
+   {
+    "url": "https://www.timeslive.co.za/politics/2026-08-19-sorry-chief-adams-leaves-madlanga-amused-irritated/",
+    "tier": 2,
+    "publisher": "TimesLIVE",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
+   {
+    "url": "https://www.businessday.co.za/news/law/2026-08-19-i-was-wrong-fadiel-adams-caught-out-on-dates-at-madlanga-inquiry/",
+    "tier": 2,
+    "publisher": "Business Day",
+    "retrieved": "2026/08/22",
+    "partial": true
+   }
+  ],
+  "best_tier": 2,
+  "partial_source": false,
+  "unverified": [
+   "Name of the evidence leader on this day (not stated in the sources fetched).",
+   "Whether 'A1' is a formal commission exhibit reference or a document label used within IDAC's bundle.",
+   "The TimesLIVE, Business Day and SABC Day 162 items were seen only as search-result titles/URLs, not fetched in full."
+  ]
+ },
+ {
+  "id": "day-161",
+  "day_number": 161,
+  "day_number_verified": true,
+  "date": "2026/08/18",
+  "weekday": "Tuesday",
+  "workstream": "crime-intelligence",
+  "witnesses": [],
+  "summary": "No witness gave oral evidence. Evidence leader Advocate Matthew Chaskalson SC led the commission through communications extracted from devices belonging to the late taxi industry figure Msibi. The material was said to show negotiations to acquire surveillance and signal-jamming equipment, including IMSI-catcher or 'grabber' technology, and an alleged plan to market it to the government of Eswatini. Chaskalson told the commission that three men, including Katiso 'KT' Molefe and businessman Steve Motsumi, allegedly presented themselves as representatives of the South African state in dealings with foreign suppliers. Other material presented was said to touch on tender-rigging and a cannabis project. The commission did not establish whether any transaction was completed.",
+  "rulings": [],
+  "exhibits": [
+   {
+    "ref": null,
+    "description": "WhatsApp messages and other communications extracted from the late Msibi's cellphone"
+   }
+  ],
+  "quotes": [],
+  "video_url": "https://www.youtube.com/watch?v=nkI-Q5OT1TU",
+  "sources": [
+   {
+    "url": "https://www.sabcnews.com/sabcnews/molefe-msibi-posed-as-state-officials-in-spy-tech-deal-chaskalson/",
+    "tier": 2,
+    "publisher": "SABC News",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=nkI-Q5OT1TU",
+    "tier": 2,
+    "publisher": "YouTube - SABC News stream",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
+   {
+    "url": "https://www.sabcnews.com/sabcnews/live-madlanga-commission-of-inquiry-day-161/",
+    "tier": 2,
+    "publisher": "SABC News",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
+   {
+    "url": "https://www.businessday.co.za/news/law/2026-08-18-madlanga-inquiry-hears-of-taxi-boss-plot-to-acquire-high-tech-spy-devices/",
+    "tier": 2,
+    "publisher": "Business Day",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
+   {
+    "url": "https://www.dailymaverick.co.za/article/2026-08-18-tobacco-tender-rigging-and-spy-tech-inside-the-world-of-alleged-big-five-boss/",
+    "tier": 3,
+    "publisher": "Daily Maverick",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
+   {
+    "url": "https://www.sabcnews.com/sabcnews/madlanga-commission-hears-of-planned-imsi-catcher-demonstration/",
+    "tier": 2,
+    "publisher": "SABC News",
+    "retrieved": "2026/08/22",
+    "partial": true
+   }
+  ],
+  "best_tier": 2,
+  "partial_source": false,
+  "unverified": [
+   "The deceased taxi figure's first name: an independent archive gives 'Jotham Msibi' while news reports give 'Mswazi Msibi'. Not resolved, so only the surname is used.",
+   "Whether any part of 18 August was also used for Matlala-related procedural matters.",
+   "Several listed sources were seen only as search-result titles/URLs and were not fetched in full."
+  ]
+ },
+ {
+  "id": "day-160",
+  "day_number": 160,
+  "day_number_verified": false,
+  "date": "2026/08/17",
+  "weekday": "Monday",
+  "workstream": "matlala-saps-contract",
+  "witnesses": [
+   {
+    "person_id": "vusimuzi-cat-matlala",
+    "name": "Vusimuzi 'Cat' Matlala",
+    "role_as_described": "Businessman; an implicated person who faces a separate pending criminal matter in the Specialised Commercial Crimes Court",
+    "note": "testified"
+   }
+  ],
+  "summary": "Matlala appeared before the commission after earlier postponements. The start of proceedings was delayed by a fire alarm evacuation. He repeatedly declined to answer questions about the disputed R228-million SAPS health services contract awarded to Medicare24 and about alleged payments to police officials, invoking his right against self-incrimination because of his pending criminal matter. He denied knowing then Police Minister Senzo Mchunu and denied any relationship with Major-General Feroz Khan. He gave evidence about his dealings with Brown Mogotsi, acknowledging requests for money, and alleged that investigators had pressured him while in custody to implicate senior police officials. Justice Madlanga directed that a supplementary affidavit be filed setting out the legal basis for his refusals, with a replying affidavit and heads of argument due by 18:00 on 22 August 2026, and Matlala's evidence was set to resume on 24 and 25 August 2026.",
+  "rulings": [
+   {
+    "description": "Directions on filing: Matlala to file a supplementary affidavit by Friday; replying affidavit and heads of argument by 18:00 on 22 August 2026; evidence leaders' heads of argument by the same deadline; evidence to resume the following Monday and Tuesday.",
+    "source_url": "https://www.sabcnews.com/sabcnews/matlalas-supplementary-affidavit-must-be-filed-by-friday-madlanga/",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [],
+  "quotes": [
+   {
+    "text": "I actually hate him. He caused a lot of problems for me",
+    "speaker": "Vusimuzi 'Cat' Matlala, on Brown Mogotsi",
+    "source_url": "https://www.citizen.co.za/news/matlala-madlanga-witness-i-actually-hate-him/",
+    "tier_label": "REPORTING",
+    "words": 12
+   },
+   {
+    "text": "It suffices to say, I do not know minister Mchunu",
+    "speaker": "Vusimuzi 'Cat' Matlala",
+    "source_url": "https://www.sundaytimes.timeslive.co.za/news/2026-08-17-i-wont-incriminate-myself-matlala-refuses-to-answer-madlanga-inquiry/",
+    "tier_label": "REPORTING",
+    "words": 10
+   }
+  ],
+  "video_url": "https://www.youtube.com/watch?v=Py2qiCGsVn4",
+  "sources": [
+   {
+    "url": "https://www.sundaytimes.timeslive.co.za/news/2026-08-17-i-wont-incriminate-myself-matlala-refuses-to-answer-madlanga-inquiry/",
+    "tier": 2,
+    "publisher": "Sunday Times / TimesLIVE",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.citizen.co.za/news/matlala-madlanga-witness-i-actually-hate-him/",
+    "tier": 2,
+    "publisher": "The Citizen",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://capetimes.co.za/news/politics/2026-08-18-matlalas-testimony-hit-by-fire-alarm-legal-standoff-and-denials-madlanga-commission-wrap/",
+    "tier": 2,
+    "publisher": "Cape Times",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.sabcnews.com/sabcnews/matlalas-supplementary-affidavit-must-be-filed-by-friday-madlanga/",
+    "tier": 2,
+    "publisher": "SABC News",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Py2qiCGsVn4",
+    "tier": 2,
+    "publisher": "YouTube - SABC News stream",
+    "retrieved": "2026/08/22",
+    "partial": true
+   }
+  ],
+  "best_tier": 2,
+  "partial_source": false,
+  "unverified": [
+   "The day number 160 is INFERRED, not verified. No source retrieved pairs 'Day 160' with '17 August 2026' in one string. The inference rests on Day 159 being verified as 14 August, Day 161 as 18 August, and 17 August being the only sitting between them. The SABC News Day 160 live page could not be fetched.",
+   "Evidence leader: The Citizen names Advocate Mahlape Sello; no other fetched source named one. Single-source.",
+   "Whether the 18:00 22 August 2026 filing deadline was met."
+  ]
+ },
+ {
+  "id": "day-159",
+  "day_number": 159,
+  "day_number_verified": true,
+  "date": "2026/08/14",
+  "weekday": "Friday",
+  "workstream": "idac-npa",
+  "witnesses": [
+   {
+    "person_id": "drushantha-ramsamy",
+    "name": "Drushantha Ramsamy",
+    "role_as_described": "IDAC prosecutor",
+    "note": "testified"
+   }
+  ],
+  "summary": "The commission dealt with the long-running non-appearance of businessman Suliman Carrim. Evidence leader Advocate Adila Hassim set out the correspondence record, including a letter of 3 August seeking a response by 10 August to which none was received. Carrim's counsel, Advocate Kameel Premhid, appeared for him. Justice Madlanga held that Carrim had failed to comply with the conditions attached to the earlier ruling requiring him either to appear in person or submit to an independent medical assessment, and announced that the commission would initiate a criminal process over the non-compliance with its summons. Commissioner Sesi Baloyi observed that the conditions had simply not been met. Evidence was also heard from IDAC prosecutor Advocate Drushantha Ramsamy on the same day.",
+  "rulings": [
+   {
+    "description": "The commission resolved to set a criminal process in motion against Suliman Carrim for failing to comply with its summons, after he neither appeared in person nor submitted to an independent medical evaluation as previously directed.",
+    "source_url": "https://www.timeslive.co.za/news/2026-08-14-seen-shopping-but-too-ill-to-testify-at-madlanga-suliman-carrim-to-be-charged/",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [],
+  "quotes": [
+   {
+    "text": "The commission is going to set the criminal process in motion.",
+    "speaker": "Justice Mbuyiseli Madlanga",
+    "source_url": "https://www.dailymaverick.co.za/article/2026-08-14-woolworths-shopper-patient-suliman-carrim-faces-criminal-charges-after-final-commission-no-show/",
+    "tier_label": "REPORTING",
+    "words": 11
+   },
+   {
+    "text": "That's the end of the road insofar as us having Mr Carrim before us.",
+    "speaker": "Justice Mbuyiseli Madlanga",
+    "source_url": "https://www.dailymaverick.co.za/article/2026-08-14-woolworths-shopper-patient-suliman-carrim-faces-criminal-charges-after-final-commission-no-show/",
+    "tier_label": "REPORTING",
+    "words": 14
+   }
+  ],
+  "video_url": "https://sabc-plus.com/video/29982587/Madlanga-Commission-of-Inquiry-Day-159-Friday14-August-2026",
+  "sources": [
+   {
+    "url": "https://www.dailymaverick.co.za/article/2026-08-14-woolworths-shopper-patient-suliman-carrim-faces-criminal-charges-after-final-commission-no-show/",
+    "tier": 3,
+    "publisher": "Daily Maverick",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.timeslive.co.za/news/2026-08-14-seen-shopping-but-too-ill-to-testify-at-madlanga-suliman-carrim-to-be-charged/",
+    "tier": 2,
+    "publisher": "TimesLIVE",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://sabc-plus.com/video/29982587/Madlanga-Commission-of-Inquiry-Day-159-Friday14-August-2026",
+    "tier": 2,
+    "publisher": "SABC+",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=lnoecnOlRPo",
+    "tier": 2,
+    "publisher": "YouTube - SABC News stream",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
+   {
+    "url": "https://www.ewn.co.za/2026/08/15/ramsamy-concerned-about-tainted-idac-reputation",
+    "tier": 2,
+    "publisher": "EWN",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.enca.com/news-top-stories/madlanga-rules-suliman-carrim-must-appear-person-commission",
+    "tier": 2,
+    "publisher": "eNCA",
+    "retrieved": "2026/08/22",
+    "partial": true
+   }
+  ],
+  "best_tier": 2,
+  "partial_source": false,
+  "unverified": [
+   "Whether Ramsamy's evidence on 14 August was a continuation or a conclusion. An EWN piece dated 15 August carrying his remarks was summarised as relating to an 11 August hearing; a Sunday World snippet places Ramsamy at the commission on Friday 14 August.",
+   "The exact wording of the Carrim ruling - sources gave paraphrase plus short quotes only.",
+   "Whether any other witness appeared on 14 August."
+  ]
+ },
+ {
+  "id": "day-158",
+  "day_number": 158,
+  "day_number_verified": true,
+  "date": "2026/08/13",
+  "weekday": "Thursday",
+  "workstream": "kzn-pktt",
+  "witnesses": [
+   {
+    "person_id": "gregory-loftus",
+    "name": "Gregory Loftus",
+    "role_as_described": "Father of Bevan Loftus, who was killed in an April 2023 police task team shooting in KwaZulu-Natal",
+    "note": "testified"
+   },
+   {
+    "person_id": "ashley-houston",
+    "name": "Ashley Houston",
+    "role_as_described": "Retired SAPS captain with about 38 years' service; described as a first responder at the shooting scene",
+    "note": "testified"
+   }
+  ],
+  "summary": "The commission heard its first civilian family evidence in this stream. Gregory Loftus told the commission he believed his son Bevan was killed unlawfully by police on 1 April 2023, in an incident in which five people died, and said he had applied for an interdict the day before seeking to restrain Lieutenant-Colonel Deena Govender. He rejected characterisations of his son as a drug figure. Retired captain Ashley Houston gave a contrasting account, describing Bevan Loftus as a notorious figure associated with a gang, while also saying the shooting scenario recorded in police statements was highly improbable and that the documents and the physical scene did not correspond. The evidence built on Len John's testimony the previous day about alleged collusion between rogue task team members and tow-truck operators.",
+  "rulings": [],
+  "exhibits": [
+   {
+    "ref": null,
+    "description": "Interdict application affidavit dated 31 March 2023, seeking to restrain a police officer"
+   },
+   {
+    "ref": null,
+    "description": "Police officers' statements from the April 2023 shooting scene"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "Bevan was sitting with the Hollywood gang",
+    "speaker": "Ashley Houston",
+    "source_url": "https://www.sowetan.co.za/news/2026-08-13-retired-police-captain-calls-bevan-loftus-notorious-at-hearing/",
+    "tier_label": "REPORTING",
+    "words": 7
+   },
+   {
+    "text": "He lived modestly.",
+    "speaker": "Gregory Loftus",
+    "source_url": "https://www.sowetan.co.za/news/2026-08-13-retired-police-captain-calls-bevan-loftus-notorious-at-hearing/",
+    "tier_label": "REPORTING",
+    "words": 3
+   }
+  ],
+  "video_url": "https://sabc-plus.com/video/29981813/Madlanga-Commission-of-Inquiry-Day-158-Thursday13-August-2026",
+  "sources": [
+   {
+    "url": "https://www.sowetan.co.za/news/2026-08-13-retired-police-captain-calls-bevan-loftus-notorious-at-hearing/",
+    "tier": 2,
+    "publisher": "Sowetan",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.dailymaverick.co.za/article/2026-08-13-my-son-was-murdered-in-cold-blood-by-the-police-father-tells-inquiry/",
+    "tier": 3,
+    "publisher": "Daily Maverick",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://sabc-plus.com/video/29981813/Madlanga-Commission-of-Inquiry-Day-158-Thursday13-August-2026",
+    "tier": 2,
+    "publisher": "SABC+",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=1xNarRaL3OE",
+    "tier": 2,
+    "publisher": "YouTube - SABC News stream",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
+   {
+    "url": "https://www.sabcnews.com/sabcnews/live-madlanga-commission-of-inquiry-day-158/",
+    "tier": 2,
+    "publisher": "SABC News",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
+   {
+    "url": "https://iol.co.za/news/politics/2026-08-13-retired-saps-captain-calls-bevan-loftus-notorious-as-father-rejects-drug-kingpin-claims/",
+    "tier": 2,
+    "publisher": "IOL",
+    "retrieved": "2026/08/22",
+    "partial": true
+   }
+  ],
+  "best_tier": 2,
+  "partial_source": false,
+  "unverified": [
+   "Evidence leader's name for this stream.",
+   "Whether any further witnesses appeared on 13 August."
+  ]
+ },
+ {
+  "id": "day-157",
+  "day_number": 157,
+  "day_number_verified": true,
+  "date": "2026/08/12",
+  "weekday": "Wednesday",
+  "workstream": "kzn-pktt",
+  "witnesses": [
+   {
+    "person_id": "len-john",
+    "name": "Len John",
+    "role_as_described": "Deputy Director for Investigations, Independent Police Investigative Directorate (IPID), KwaZulu-Natal",
+    "note": "testified"
+   }
+  ],
+  "summary": "John gave evidence on alleged unlawful killings by SAPS task teams in KwaZulu-Natal and on alleged collusion between officers and tow-truck operators linked to drug trafficking and turf disputes. He told the commission that 149 people had died in 77 incidents involving task team operations between April 2023 and May 2026. He described a pattern in which operations took place late at night, officers covered their faces, and all suspects present were killed, and said the firearms recovered were often inconsistent with the cash-in-transit robbery profile attributed to those killed. He alleged that some officers received payments from tow-truck operators and drug gang figures for protection and for targeted killings, and connected the April 2023 killing of Bevan Loftus to an alleged offer of R2.5-million to Lieutenant-Colonel Deena Govender by a rival operator. Evidence was also heard about R2.3-million allegedly deposited into the accounts of a police officer and his wife.",
+  "rulings": [],
+  "exhibits": [],
+  "quotes": [
+   {
+    "text": "There is clear evidence that this risk has materialised in KwaZulu-Natal",
+    "speaker": "Len John",
+    "source_url": "https://www.dailymaverick.co.za/article/2026-08-12-rogue-kzn-cops-collude-with-tow-truckers-to-kill-rivals-inquiry-hears/",
+    "tier_label": "REPORTING",
+    "words": 11
+   }
+  ],
+  "video_url": "https://www.youtube.com/watch?v=YcdZjdz9eSA",
+  "sources": [
+   {
+    "url": "https://www.dailymaverick.co.za/article/2026-08-12-rogue-kzn-cops-collude-with-tow-truckers-to-kill-rivals-inquiry-hears/",
+    "tier": 3,
+    "publisher": "Daily Maverick",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=YcdZjdz9eSA",
+    "tier": 2,
+    "publisher": "YouTube - SABC News stream",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
+   {
+    "url": "https://www.enca.com/news-top-stories-videos/they-go-out-kill-ipid-official-makes-explosive-kzn-police-task-team-claims",
+    "tier": 2,
+    "publisher": "eNCA",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
+   {
+    "url": "https://www.sabcnews.com/sabcnews/madlanga-commission-hears-r2-3m-deposited-into-cop-wifes-accounts/",
+    "tier": 2,
+    "publisher": "SABC News",
+    "retrieved": "2026/08/22",
+    "partial": true
+   }
+  ],
+  "best_tier": 2,
+  "partial_source": false,
+  "unverified": [
+   "Evidence leader's name.",
+   "Whether the R2.3-million deposit evidence was led on 12 August specifically (the SABC headline appeared in a 12 August search cluster but the article was not fetched).",
+   "eNCA and SABC items were seen only as search-result titles/URLs."
+  ]
+ },
+ {
+  "id": "day-156",
+  "day_number": 156,
+  "day_number_verified": true,
+  "date": "2026/08/11",
+  "weekday": "Tuesday",
+  "workstream": "idac-npa",
+  "witnesses": [
+   {
+    "person_id": "drushantha-ramsamy",
+    "name": "Drushantha Ramsamy",
+    "role_as_described": "IDAC prosecutor",
+    "note": "testified"
+   },
+   {
+    "person_id": "fadiel-adams",
+    "name": "Fadiel Adams",
+    "role_as_described": "NCC leader and Member of Parliament",
+    "note": "appeared; evidence postponed"
+   }
+  ],
+  "summary": "The commission resumed after not sitting on 7 August and after the 10 August public holiday. Advocate Drushantha Ramsamy returned to the witness stand and gave evidence on IDAC's handling of the investigation into a police contract awarded to Vusimuzi Matlala, and on when a whistleblower referral was received. Commissioner Sesi Baloyi put to the witness that the documentary record contradicted what former IDAC head Advocate Andrea Johnson had told Parliament's ad hoc committee. Separately, Fadiel Adams's evidence could not proceed: evidence leader Advocate Matthew Chaskalson SC told the commission that a statement had been sought from Adams since 25 October and arrived only the previous night. Adams attributed his delay in engaging with correspondence to a malfunctioning laptop; Justice Madlanga rejected that explanation and said Adams did not appear to be taking the commission seriously. Adams's evidence was postponed to 19 August 2026.",
+  "rulings": [
+   {
+    "description": "Adams's evidence was postponed to 19 August 2026 after his witness statement was delivered only on the eve of his scheduled appearance.",
+    "source_url": "https://www.sowetan.co.za/news/2026-08-11-watch-adams-laptop-excuse-is-totally-unbelievable-says-madlanga/",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": null,
+    "description": "Transcript of the parliamentary ad hoc committee proceedings, plus an affidavit and WhatsApp and email exchanges, used to test Advocate Johnson's parliamentary account"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "it seems to me that you are not taking this commission seriously.",
+    "speaker": "Justice Mbuyiseli Madlanga",
+    "source_url": "https://mg.co.za/news/south-africa/2026-08-11-justice-madlanga-dismisses-adams-s-excuses-accuses-him-of-not-taking-commission-seriously/",
+    "tier_label": "REPORTING",
+    "words": 12
+   },
+   {
+    "text": "advocate Johnson did not tell the truth in parliament",
+    "speaker": "Commissioner Sesi Baloyi",
+    "source_url": "https://www.ewn.co.za/2026/08/11/madlanga-commission-hears-claims-that-former-idac-head-was-dishonest-during-ad-hoc-committee-testimony",
+    "tier_label": "REPORTING",
+    "words": 9
+   }
+  ],
+  "video_url": "https://sabc-plus.com/video/29979541/Madlanga-Commission-of-Inquiry-Day-156-Tuesday-11-August-2026",
+  "sources": [
+   {
+    "url": "https://www.sowetan.co.za/news/2026-08-11-watch-adams-laptop-excuse-is-totally-unbelievable-says-madlanga/",
+    "tier": 2,
+    "publisher": "Sowetan",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://mg.co.za/news/south-africa/2026-08-11-justice-madlanga-dismisses-adams-s-excuses-accuses-him-of-not-taking-commission-seriously/",
+    "tier": 3,
+    "publisher": "Mail & Guardian",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.ewn.co.za/2026/08/11/madlanga-commission-hears-claims-that-former-idac-head-was-dishonest-during-ad-hoc-committee-testimony",
+    "tier": 2,
+    "publisher": "EWN",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://sabc-plus.com/video/29979541/Madlanga-Commission-of-Inquiry-Day-156-Tuesday-11-August-2026",
+    "tier": 2,
+    "publisher": "SABC+",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=f2WG0AD9fJg",
+    "tier": 2,
+    "publisher": "YouTube - SABC News stream",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
+   {
+    "url": "https://iol.co.za/news/politics/2026-08-11-watch-idacs-drushantha-ramsamy-returns-to-madlanga-commission/",
+    "tier": 2,
+    "publisher": "IOL",
+    "retrieved": "2026/08/22",
+    "partial": true
+   }
+  ],
+  "best_tier": 2,
+  "partial_source": false,
+  "unverified": [
+   "One Mail & Guardian fetch summary gave the hearing date as 10 August; the Sowetan article, the SABC+ Day 156 title and a schedule notice all place the Adams postponement on Tuesday 11 August. 10 August is recorded as a public holiday on which the commission did not sit.",
+   "Whether Ramsamy's evidence and the Adams postponement occurred in the same session or were separate items on the day."
+  ]
+ },
+ {
+  "id": "day-155",
+  "day_number": 155,
+  "day_number_verified": true,
+  "date": "2026/08/06",
+  "weekday": "Thursday",
+  "workstream": "idac-npa",
+  "witnesses": [
+   {
+    "person_id": "matthews-sesoko",
+    "name": "Matthews Sesoko",
+    "role_as_described": "Head of Investigations and Operations, Investigating Directorate Against Corruption (IDAC)",
+    "note": "testified"
+   }
+  ],
+  "summary": "Sesoko gave evidence about IDAC's internal case selection processes and about changes to his own authority. He told the commission that after returning to work in January 2026, following his kidnapping in November 2025, he found structural changes had been made without explanation, including the loss of a committee chairmanship and of supervisory responsibility over chief investigators. He said certain Project Diversion matters had been handled directly by then IDAC head Advocate Andrea Johnson and described being informed of matters after the fact. He also took the commission through IDAC's case selection criteria manual, which is intended to guard against political interference, and said it was an approved document rather than a draft, but that it lacked adequate consequences for procedural failures. Justice Madlanga noted this was the second occasion on which Sesoko had been stripped of authority.",
+  "rulings": [],
+  "exhibits": [
+   {
+    "ref": null,
+    "description": "IDAC case selection criteria manual, presented as an approved document rather than a draft"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "The manual, as it stands, is not strong enough in terms of consequences.",
+    "speaker": "Matthews Sesoko",
+    "source_url": "https://www.ewn.co.za/2026/08/06/madlanga-commission-hears-idac-lacks-clear-consequences-for-procedural-failures",
+    "tier_label": "REPORTING",
+    "words": 13
+   },
+   {
+    "text": "It was indicated that they were sensitive matters.",
+    "speaker": "Matthews Sesoko",
+    "source_url": "https://www.citizen.co.za/news/madlanga-commission-idac-matthews-sesoko-kidnapping/",
+    "tier_label": "REPORTING",
+    "words": 8
+   }
+  ],
+  "video_url": "https://www.youtube.com/watch?v=qrxIGr9gal8",
+  "sources": [
+   {
+    "url": "https://www.citizen.co.za/news/madlanga-commission-idac-matthews-sesoko-kidnapping/",
+    "tier": 2,
+    "publisher": "The Citizen",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.ewn.co.za/2026/08/06/madlanga-commission-hears-idac-lacks-clear-consequences-for-procedural-failures",
+    "tier": 2,
+    "publisher": "EWN",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=qrxIGr9gal8",
+    "tier": 2,
+    "publisher": "YouTube - SABC News stream",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
+   {
+    "url": "https://www.sowetan.co.za/news/2026-08-06-sesoko-tells-madlanga-why-he-didnt-impose-himself-in-khumalos-case/",
+    "tier": 2,
+    "publisher": "Sowetan",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
+   {
+    "url": "https://www.sabcnews.com/sabcnews/madlanga-commission-hears-idac-manual-was-approved-not-a-draft/",
+    "tier": 2,
+    "publisher": "SABC News",
+    "retrieved": "2026/08/22",
+    "partial": true
+   }
+  ],
+  "best_tier": 2,
+  "partial_source": false,
+  "unverified": [
+   "Evidence leader's name.",
+   "Whether Sesoko's evidence began or concluded on this day.",
+   "Sowetan and SABC items were seen only as search-result titles/URLs."
+  ]
+ }
+]

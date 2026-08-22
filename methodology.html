@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en-ZA" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Methodology · The Madlanga Tracker</title>
+<meta name="description" content="The rules this tracker runs on, stated publicly, plus the gaps list.">
+<meta name="colour-scheme" content="dark light">
+<meta name="color-scheme" content="dark light">
+<link rel="stylesheet" href="assets/css/app.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%230e1116'/><text x='16' y='23' font-size='19' font-family='monospace' text-anchor='middle' fill='%236ea8fe'>M</text></svg>">
+</head>
+<body>
+<main class="wrap" id="main">
+<h2 style="margin-top:0">Methodology</h2>
+
+<div class="card">
+<h3 style="margin-top:0">1. This is a commission of inquiry, not a criminal trial</h3>
+<p>Nobody appearing before the commission is an accused. The commission does not convict, acquit or
+sentence. It hears evidence and it will make findings and recommendations. This site never uses the words
+<em>accused</em>, <em>charges</em>, <em>verdict</em>, <em>guilty</em> or <em>defendant</em> about commission
+proceedings. It uses: witness, implicated person, evidence leader, testimony, ruling, finding. Where a person
+faces criminal proceedings in a separate matter before a court, that is stated as exactly that and cited.</p>
+</div>
+
+<div class="card">
+<h3 style="margin-top:0">2. Every named person carries a status label</h3>
+<div id="labels"></div>
+</div>
+
+<div class="card">
+<h3 style="margin-top:0">3. Every factual claim carries a source tier</h3>
+<p><span class="badge lbl-EVIDENCE">EVIDENCE</span> said under oath, or in an exhibit or affidavit before the commission.<br>
+<span class="badge lbl-RULING">RULING</span> a ruling or direction by the chairperson.<br>
+<span class="badge lbl-COURT">COURT</span> a judgment, cited to SAFLII.<br>
+<span class="badge lbl-REPORTING">REPORTING</span> journalism not tested at the commission.</p>
+<p><span class="badge lbl-PARTIAL">PARTIAL</span> marks a source where only a headline, title or lead could be read —
+usually a paywall or a cookie wall. Nothing beyond what was actually read has been inferred from those.</p>
+<p class="small muted">Reporting is never presented as evidence. Source-tier numbers on links —
+<span class="badge tier-1">T1</span> the commission's own records, Parliament, SAFLII;
+<span class="badge tier-2">T2</span> mainstream outlets; <span class="badge tier-3">T3</span> investigative outlets;
+<span class="badge tier-4">T4</span> reference works, used only for biographical basics and photo licensing —
+describe where a claim came from, not how strong it is.</p>
+</div>
+
+<div class="card">
+<h3 style="margin-top:0">4. No fabrication</h3>
+<p>Nothing on this site is invented. No date, day number, quote, exhibit reference or URL appears unless it
+was actually retrieved from a source. Anything that could not be verified is omitted from the claim and
+logged below rather than smoothed over. Where sources conflict, the conflict is stated instead of resolved by
+preference.</p>
+<p class="small muted" id="method-note"></p>
+</div>
+
+<div class="card">
+<h3 style="margin-top:0">5. Quotation</h3>
+<p>At most one quotation per source, under fifteen words, in quotation marks with attribution. Paraphrase is
+preferred. Commission transcripts and rulings are public record and are the preferred source for any
+quotation. The build script drops any quote that reaches the fifteen-word ceiling and logs it as a gap.</p>
+</div>
+
+<div class="card">
+<h3 style="margin-top:0">6. Photographs</h3>
+<p>The cascade is: freely-licensed or official commission images first, downloaded and credited; failing that a
+press photo hotlinked with visible credit and a link to the source article; failing that an initials avatar.
+No image of a real person is ever generated or synthesised. Every person record carries
+<span class="mono">photo_source</span> and <span class="mono">photo_licence</span> fields.</p>
+<p class="small muted" id="photo-note"></p>
+</div>
+
+<div class="card">
+<h3 style="margin-top:0">7. Humour</h3>
+<p>Light humour is used to keep the thing readable, and it is always visibly marked — italic, prefixed
+<strong>😏 Aside:</strong> on the site and <span class="mono">[ASIDE]</span> in the email. A joke never sits
+inside a factual sentence. Facts and jokes are separable on sight.</p>
+<p class="aside-joke">Like this. Nothing load-bearing has ever been said in italics.</p>
+</div>
+
+<div class="card">
+<h3 style="margin-top:0">8. Data layer</h3>
+<p>The site renders entirely from JSON under <span class="mono">/data/</span>. No fact is hard-coded into
+HTML. Weekly updates append to those files rather than rewriting them, and each week's briefing is archived
+as <span class="mono">/briefings/YYYY-MM-DD.json</span>.</p>
+<p class="small"><a href="data/days.json">days</a> · <a href="data/people.json">people</a> ·
+<a href="data/orgs.json">orgs</a> · <a href="data/events.json">events</a> ·
+<a href="data/edges.json">edges</a> · <a href="data/gaps.json">gaps</a> · <a href="data/meta.json">meta</a></p>
+</div>
+
+<h2>Gaps — what could not be verified</h2>
+<p class="lead" id="gap-count"></p>
+<div class="controls"><input type="search" id="gq" placeholder="Search the gaps list…" aria-label="Search gaps"></div>
+<div id="gaps"></div>
+</main>
+<script src="assets/js/core.js"></script>
+
+<script>
+MT.chrome();
+
+let GAPS = [];
+function renderGaps() {
+  const q = document.getElementById('gq').value.trim().toLowerCase();
+  const out = GAPS.filter(g => !q || (g.description + ' ' + g.would_resolve + ' ' + g.area).toLowerCase().includes(q));
+  document.getElementById('gaps').innerHTML = out.length ? out.map(g => `
+    <div class="card"><p style="margin:0 0 6px"><span class="badge tier-4">${MT.esc(g.area)}</span> ${MT.esc(g.description)}</p>
+    <p class="small muted" style="margin:0"><strong>Would resolve it:</strong> ${MT.esc(g.would_resolve)}</p></div>`).join('')
+    : '<p class="empty">No gap matches that search.</p>';
+}
+(async () => {
+  const [meta, gaps, people] = await MT.all('meta', 'gaps', 'people');
+  GAPS = gaps;
+  document.getElementById('labels').innerHTML = meta.status_labels.map(s => {
+    const n = people.filter(p => p.status === s).length;
+    return `<p style="margin:6px 0">${MT.statusPill(s)} <span class="small muted">${n} ${n === 1 ? 'person' : 'people'}</span></p>`;
+  }).join('') + '<p class="small muted">These six are the only labels used. There is no seventh.</p>';
+  document.getElementById('method-note').textContent = meta.method_note || '';
+  const noPhoto = people.filter(p => !p.photo_url).length;
+  document.getElementById('photo-note').textContent =
+    noPhoto + ' of ' + people.length + ' people currently render as initials avatars, because no freely-licensed ' +
+    'photograph was located for them. That is logged as a gap, not hidden.';
+  document.getElementById('gap-count').textContent =
+    gaps.length + ' open gaps as at ' + meta.last_updated + '. Each says what would close it.';
+  document.getElementById('gq').addEventListener('input', renderGaps);
+  renderGaps();
+})().catch(e => document.getElementById('gaps').innerHTML = '<p class="empty">' + MT.esc(e.message) + '</p>');
+
+</script>
+</body>
+</html>

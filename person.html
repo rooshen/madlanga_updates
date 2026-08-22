@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en-ZA" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Profile · The Madlanga Tracker</title>
+<meta name="description" content="Profile and ego-network for one person before the commission.">
+<meta name="colour-scheme" content="dark light">
+<meta name="color-scheme" content="dark light">
+<link rel="stylesheet" href="assets/css/app.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%230e1116'/><text x='16' y='23' font-size='19' font-family='monospace' text-anchor='middle' fill='%236ea8fe'>M</text></svg>">
+</head>
+<body>
+<main class="wrap" id="main">
+<div id="profile"><p class="empty">Loading…</p></div>
+<h2>Ego network</h2>
+<p class="small muted" id="ego-note"></p>
+<div id="graph-wrap"><svg id="graph"></svg>
+  <div class="ghint">Drag to pan · scroll to zoom · click an edge for its sources</div>
+  <div class="gpanel" id="panel"></div></div>
+<div class="legend" id="legend"></div>
+</main>
+<script src="assets/js/core.js"></script>
+<script src="assets/js/graph.js"></script>
+<script>
+MT.chrome();
+
+(async () => {
+  const id = new URLSearchParams(location.search).get('id');
+  const [meta, people, orgs, events, edges, days] = await MT.all('meta','people','orgs','events','edges','days');
+  const p = people.find(x => x.id === id);
+  const box = document.getElementById('profile');
+  if (!p) { box.innerHTML = '<p class="empty">No such person in the data layer. <a href="people.html">Back to People</a></p>'; return; }
+  document.title = p.name + ' · The Madlanga Tracker';
+
+  const dayLinks = p.linked_days.map(n => `<a href="days.html?day=${n}#day-${n}">Day ${n}</a>`).join(', ');
+  box.innerHTML = `
+    <div class="card pcard" style="align-items:center">
+      ${MT.avatar(p)}
+      <div><h2 style="margin:0 0 4px">${MT.esc(p.name)}</h2>
+        <div class="rl muted">${MT.esc(p.role || '')}</div>
+        <div style="margin-top:6px">${MT.statusPill(p.status)}</div></div>
+    </div>
+    <div class="card">
+      <p class="small muted" style="margin-top:0">Why this label: ${MT.esc(p.status_reason || 'Not recorded.')}</p>
+      ${p.bio ? `<p>${MT.esc(p.bio)}</p>` : '<p class="muted">No biography assembled yet.</p>'}
+      <p class="small">${p.first_appearance ? 'First appearance on record: <span class="mono">' + MT.esc(p.first_appearance) + '</span>. ' : ''}
+      ${dayLinks ? 'Sitting days in this data layer: ' + dayLinks + '.' : 'No sitting day in this sample.'}</p>
+      <p class="small muted">Photograph: ${p.photo_url ? MT.esc(p.photo_licence || 'licence not recorded') + ' — <a href="' + MT.esc(p.photo_source) + '" target="_blank" rel="noopener">source</a>' : 'none found under a reusable licence; an initials avatar is shown instead.'}</p>
+      ${p.unverified.length ? `<details><summary>Not verified (${p.unverified.length})</summary><ul class="tight small muted">${p.unverified.map(u => `<li>${MT.esc(u)}</li>`).join('')}</ul></details>` : ''}
+      <details><summary>Sources (${p.sources.length})</summary>${MT.sourceList(p.sources)}</details>
+    </div>`;
+
+  // ego network: this person + one hop
+  const label = {}; const kind = {};
+  people.forEach(x => { label[x.id] = x.name; kind[x.id] = 'person'; });
+  orgs.forEach(x => { label[x.id] = x.name; kind[x.id] = 'org'; });
+  events.forEach(x => { label[x.id] = x.title; kind[x.id] = 'event'; });
+
+  const mine = edges.filter(e => e.from === id || e.to === id);
+  const ids = new Set([id]); mine.forEach(e => { ids.add(e.from); ids.add(e.to); });
+  document.getElementById('ego-note').textContent =
+    mine.length + ' recorded relationship(s), ' + (ids.size - 1) + ' connected node(s). Every edge is sourced.';
+
+  const COL = { person: '#6ea8fe', org: '#b58cf0', event: '#c9a227' };
+  const nodeData = [...ids].filter(x => label[x]).map(x => ({
+    id: x, label: label[x], kind: kind[x] || 'person',
+    colour: x === id ? '#e2725b' : COL[kind[x]] || COL.person }));
+
+  const svg = document.getElementById('graph');
+  const panel = document.getElementById('panel');
+  const g = ForceGraph(svg, {
+    charge: -1100,
+    onLink: (l, s, t) => {
+      panel.classList.add('on');
+      panel.innerHTML = `<button class="x" onclick="this.parentNode.classList.remove('on')">×</button>
+        <p style="margin:0 0 6px"><strong>${MT.esc(s.label)}</strong> → <strong>${MT.esc(t.label)}</strong></p>
+        <p class="small">${MT.esc(l.type || '')} <span class="badge lbl-${l.strength === 'testified' ? 'EVIDENCE' : 'REPORTING'}">${MT.esc(l.strength)}</span>
+        ${l.date ? '<span class="mono muted"> ' + MT.esc(l.date) + '</span>' : ''}</p>
+        ${MT.sourceList(l.sources)}`;
+    },
+    onNode: (n) => { if (n.kind === 'person' && n.id !== id) location.href = 'person.html?id=' + encodeURIComponent(n.id); }
+  });
+  g.set(nodeData, mine);
+  document.getElementById('legend').innerHTML = Object.entries(g.STRENGTH_STYLE).map(([k, v]) =>
+    `<span><i class="swatch" style="background:${v.colour}"></i>${k}</span>`).join('') +
+    '<span>● person</span><span>■ organisation</span><span>◆ event</span>';
+})().catch(e => document.getElementById('profile').innerHTML = '<p class="empty">' + MT.esc(e.message) + '</p>');
+
+</script>
+</body>
+</html>

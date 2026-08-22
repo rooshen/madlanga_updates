@@ -1,0 +1,449 @@
+[
+ {
+  "id": "pktt-disbandment",
+  "title": "Political Killings Task Team disbanded",
+  "date": "2024/12/31",
+  "description": "Then-Minister of Police Senzo Mchunu directed the disbandment of the Political Killings Task Team. Mchunu maintains the team was always time-bound; National Commissioner Masemola told the commission he learned of it by WhatsApp while on approved leave.",
+  "sources": [
+   {
+    "url": "https://mg.co.za/news/south-africa/2026-02-18-sibiya-rejects-misconduct-charges-alleges-campaign-to-remove-him-from-the-saps/",
+    "tier": 3,
+    "publisher": "Mail & Guardian",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.news24.com/citypress/politics/madlanga-commission-10-explosive-revelations-from-masemolas-testimony-20250922-0974",
+    "tier": 2,
+    "publisher": "News24 / City Press",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "mkhwanazi-press-briefing",
+  "title": "Lt-Gen Mkhwanazi's public briefing on alleged political interference",
+  "date": "2025/07/06",
+  "description": "The KwaZulu-Natal provincial commissioner publicly alleged that the Political Killings Task Team was closed to shield politicians and crime-linked suspects, that 121 dockets were removed, and that the team had uncovered links between syndicates, politicians, police and prosecutors. Minister Mchunu rejected the allegations as made 'without evidence' and called for an urgent, transparent investigation.",
+  "sources": [
+   {
+    "url": "https://mg.co.za/news/2025-07-06-mchunu-denies-sabotaging-political-killings-task-team-to-shield-politicians/",
+    "tier": 3,
+    "publisher": "Mail & Guardian",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 3
+ },
+ {
+  "id": "commission-announced-mchunu-leave",
+  "title": "President announces the commission and places Minister Mchunu on leave",
+  "date": "2025/07/13",
+  "description": "President Ramaphosa announced a commission of inquiry chaired by Justice Madlanga, assisted by Adv Sesi Baloyi SC and Adv Sandile Khumalo SC, and stated: 'I have decided to put the Minister of Police Mr Senzo Mchunu on a leave of absence with immediate effect.' Professor Firoz Cachalia was named to take up the acting police ministry.",
+  "sources": [
+   {
+    "url": "https://www.thepresidency.gov.za/statement-president-cyril-ramaphosa-establishment-commission-inquiry-allegations-regarding-law",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "commission-proclaimed",
+  "title": "Commission established by Proclamation PR 269",
+  "date": "2025/07/23",
+  "description": "The commission was formally established by Proclamation PR 269 published in Government Gazette 53048, with terms of reference covering infiltration of criminal syndicates into law enforcement, intelligence, prosecution authorities, the judiciary and correctional services. The National Assembly established its parallel ad hoc committee on the same date.",
+  "sources": [
+   {
+    "url": "https://www.justice.gov.za/commissions/commissions_list.htm",
+    "tier": 1,
+    "publisher": "Department of Justice and Constitutional Development",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.parliament.gov.za/ad-hoc-committee-gen-mkhwanazis-allegations",
+    "tier": 1,
+    "publisher": "Parliament of South Africa",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "hearings-begin",
+  "title": "Commission hearings open with Mkhwanazi as first witness",
+  "date": "2025/09/17",
+  "description": "The commission began taking evidence, with KwaZulu-Natal Provincial Commissioner Nhlanhla Mkhwanazi as its first witness, detailing the origins of the Political Killings Task Team.",
+  "sources": [
+   {
+    "url": "https://www.ewn.co.za/2025/09/17/watch-live-first-witness-kzn-police-commissioner-nhlanhla-mkhwanazi",
+    "tier": 2,
+    "publisher": "Eyewitness News",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
+   {
+    "url": "https://www.ewn.co.za/2025/09/17/kzn-top-cop-mkhwanazi-details-origin-of-political-killings-task-team-at-madlanga-commission",
+    "tier": 2,
+    "publisher": "Eyewitness News",
+    "retrieved": "2026/08/22",
+    "partial": true
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "khumalo-big-five-testimony",
+  "title": "Crime Intelligence head describes an alleged 'Big Five' syndicate",
+  "date": "2025/09/29",
+  "description": "Lt-Gen Dumisani Khumalo told the commission about an alleged Gauteng-based cartel operating through syndicates of ten to twelve members, naming Vusimuzi Matlala and Katiso Molefe. The allegations were made in testimony and have not been tested in court.",
+  "sources": [
+   {
+    "url": "https://www.enca.com/top-stories/madlanga-commission-khumalo-blows-lid-gautengs-big-five-criminal-cartel",
+    "tier": 2,
+    "publisher": "eNCA",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "chaskalson-appointed",
+  "title": "Change of chief evidence leader",
+  "date": "2025/10/01",
+  "description": "Advocate Terry Motau SC stepped down as chief evidence leader and Advocate Matthew Chaskalson SC was appointed in his place. The commission said Motau departed on good terms and thanked him for his service.",
+  "sources": [
+   {
+    "url": "https://www.sanews.gov.za/south-africa/madlanga-commission-appoints-adv-chaskalson-sc-chief-evidence-leader",
+    "tier": 1,
+    "publisher": "SAnews (SA Government News Agency)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "in-camera-dispute",
+  "title": "Media and SANEF oppose blanket in-camera hearings",
+  "date": "2025/10/14",
+  "description": "SANEF opposed a blanket in-camera application by the commission's evidence leaders, arguing that witness-protection needs should be assessed case by case; News24 and Daily Maverick opposed the proposed closed-proceedings order.",
+  "sources": [
+   {
+    "url": "https://sanef.org.za/sanef-cautions-against-blanket-in-camera-proceedings-at-the-madlanga-commission/",
+    "tier": 2,
+    "publisher": "SANEF",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.enca.com/news-top-stories/media-houses-want-madlanga-commission-hearings-kept-public",
+    "tier": 2,
+    "publisher": "eNCA",
+    "retrieved": "2026/08/22",
+    "partial": true
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "dockets-evidence",
+  "title": "Evidence on the movement of the 121 PKTT dockets",
+  "date": "2025/11/17",
+  "description": "Mary Motsepe, SAPS head of serious and violent crimes, told the commission she was instructed to collect the 121 dockets from Crime Intelligence for an audit that could have been done in KwaZulu-Natal, and that missing witness statements were found. Sibiya says the dockets had been dormant and that reallocation followed an approved structure.",
+  "sources": [
+   {
+    "url": "https://mg.co.za/news/2025-11-17-madlanga-sibiya-removed-121-dockets-for-no-apparent-reason/",
+    "tier": 3,
+    "publisher": "Mail & Guardian",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 3
+ },
+ {
+  "id": "mchunu-testimony",
+  "title": "Senzo Mchunu gives evidence",
+  "date": "2025/12/02",
+  "description": "The suspended Minister of Police rejected the allegations against him, saying 'I have never been accused of corruption, not once', and defended the disbandment of the task team as a time-bound administrative decision.",
+  "sources": [
+   {
+    "url": "https://iol.co.za/news/politics/2025-12-02-senzo-mchunu-rejects-first-ever-corruption-claims-at-madlanga-commission/",
+    "tier": 2,
+    "publisher": "IOL",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "van-der-merwe-killing",
+  "title": "Commission witness Marius van der Merwe killed",
+  "date": "2025/12/05",
+  "description": "Van der Merwe was shot multiple times outside his Brakpan home in front of his family. President Ramaphosa condemned the killing on 6 December 2025, saying the circumstances suggested his testimony 'angered elements in our society who want to undermine the rule of law'.",
+  "sources": [
+   {
+    "url": "https://www.thepresidency.gov.za/president-condemns-heinous-murder-madlanga-commission-witness",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "first-interim-report",
+  "title": "First interim report submitted and acted on",
+  "date": "2025/12/17",
+  "description": "The commission submitted its first interim report on 17 December 2025, identifying prima facie evidence of wrongdoing among law-enforcement and municipal officials. On 29 January 2026 the President announced referrals of five SAPS officials and nine current and former Ekurhuleni employees, and directed that a special SAPS investigations task team be constituted.",
+  "sources": [
+   {
+    "url": "https://www.thepresidency.gov.za/president-ramaphosa-welcomes-madlanga-commission-interim-report",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.news24.com/politics/senona-among-5-cops-to-face-charges-as-ramaphosa-acts-on-madlangas-interim-report-20260129-0578",
+    "tier": 2,
+    "publisher": "News24",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "sibiya-testimony",
+  "title": "Shadrack Sibiya cross-examined over several days",
+  "date": "2026/02/18",
+  "description": "The suspended deputy national commissioner gave evidence and faced days of cross-examination, denying the allegations while acknowledging that he knew Vusimuzi Matlala and had shared confidential SAPS audit material with associates. He says he is being politically targeted.",
+  "sources": [
+   {
+    "url": "https://mg.co.za/news/south-africa/2026-02-18-sibiya-rejects-misconduct-charges-alleges-campaign-to-remove-him-from-the-saps/",
+    "tier": 3,
+    "publisher": "Mail & Guardian",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.dailymaverick.co.za/article/2026-08-07-has-the-madlanga-commission-vindicated-mkhwanazi-the-case-against-shadrack-sibiya/",
+    "tier": 3,
+    "publisher": "Daily Maverick",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 3
+ },
+ {
+  "id": "senior-officers-arrested",
+  "title": "Twelve senior SAPS officers arrested in the Medicare24 matter",
+  "date": "2026/03/24",
+  "description": "Brigadier Rachel Matjeng was arrested alongside eleven other senior officers in the criminal matter concerning the R360-million Medicare24 SAPS health-services contract. These are proceedings in the ordinary courts, separate from the commission.",
+  "sources": [
+   {
+    "url": "https://iol.co.za/news/south-africa/2026-07-01-how-rachel-matjengs-relationship-with-cat-matlalas-led-to-saps-fallout/",
+    "tier": 2,
+    "publisher": "IOL",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.dailymaverick.co.za/article/2026-05-12-top-cops-in-the-dock-heres-the-full-list-of-madlanga-related-arrests/",
+    "tier": 3,
+    "publisher": "Daily Maverick",
+    "retrieved": "2026/08/22",
+    "partial": true
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "masemola-suspended",
+  "title": "National Commissioner Masemola placed on precautionary suspension",
+  "date": "2026/04/23",
+  "description": "President Ramaphosa placed Gen Fannie Masemola on precautionary suspension pending the conclusion of his criminal case, appointing Lt-Gen Puleng Dimpane as acting national commissioner. Masemola faces four counts under the Public Finance Management Act in the Pretoria Magistrate's Court.",
+  "sources": [
+   {
+    "url": "https://www.timeslive.co.za/politics/2026-04-23-cyril-ramaphosa-suspends-fannie-masemola-as-sa-police-commissioner/",
+    "tier": 2,
+    "publisher": "TimesLIVE",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "witness-g-in-camera",
+  "title": "Witness G testifies in camera on day 100",
+  "date": "2026/05/04",
+  "description": "A protected witness known as Witness G gave evidence behind closed doors on safety grounds, after applying in March 2026 for identity protection and voice distortion.",
+  "sources": [
+   {
+    "url": "https://iol.co.za/news/crime-and-courts/2026-05-04-madlanga-commission-day-100-witness-g-to-testify-in-camera/",
+    "tier": 2,
+    "publisher": "IOL",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
+   {
+    "url": "https://www.ewn.co.za/2026/03/13/witness-g-requests-identity-protection-and-voice-distortion-at-madlanga-commission",
+    "tier": 2,
+    "publisher": "Eyewitness News",
+    "retrieved": "2026/08/22",
+    "partial": true
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "mogotsi-arrest",
+  "title": "Brown Mogotsi arrested hours after appearing at the commission",
+  "date": "2026/05/15",
+  "description": "A SAPS multidisciplinary team arrested Mogotsi on the evening of 15 May 2026, the day he appeared before the commission, on charges including defeating the ends of justice and unlawful possession of a firearm and ammunition.",
+  "sources": [
+   {
+    "url": "https://www.news24.com/southafrica/crime-and-courts/brown-mogotsi-arrested-after-madlanga-commission-appearance-20260515-1025",
+    "tier": 2,
+    "publisher": "News24",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "second-interim-report",
+  "title": "Second interim report delivered and its referrals noted",
+  "date": "2026/05/29",
+  "description": "The commission's second interim report recommended disciplinary proceedings and immediate investigation of alleged criminal conduct in relation to Lt-Gen Shadrack Sibiya, Witness G, Sgt Fannie Nkosi and Mr Brown Mogotsi, and an Inspector-General of Intelligence investigation into alleged off-the-books Crime Intelligence operations. The Presidency noted the recommendations on 6 August 2026.",
+  "sources": [
+   {
+    "url": "https://www.thepresidency.gov.za/president-ramaphosa-notes-recommendations-and-referrals-second-interim-report-madlanga-commission",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.citizen.co.za/news/second-madlanga-recommendations-all-implicated-officials/",
+    "tier": 2,
+    "publisher": "The Citizen",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "shibiri-dismissed",
+  "title": "Maj-Gen Richard Shibiri dismissed; nine officers suspended",
+  "date": "2026/06/05",
+  "description": "SAPS confirmed the dismissal of its organised crime unit head after an internal disciplinary process, and the suspension of nine officers who had served on the bid evaluation committee that awarded the Medicare24 contract.",
+  "sources": [
+   {
+    "url": "https://www.dailymaverick.co.za/article/2026-06-05-madlanga-commission-fallout-deepens-as-shibiri-dismissed-nine-officers-suspended/",
+    "tier": 3,
+    "publisher": "Daily Maverick",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 3
+ },
+ {
+  "id": "deadline-extended",
+  "title": "Final report deadline extended to 16 November 2026",
+  "date": "2026/07/09",
+  "description": "President Ramaphosa granted an extension, moving the commission's report date from 31 August 2026 to 16 November 2026, with an evidence cut-off of 2 October 2026.",
+  "sources": [
+   {
+    "url": "https://thepresidency.gov.za/president-ramaphosa-grants-extension-madlanga-commission-report-deadline",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "johnson-testimony-concludes",
+  "title": "Former IDAC head Andrea Johnson concludes her evidence",
+  "date": "2026/07/29",
+  "description": "Johnson accepted that less intrusive means should have been used in arresting senior police officials, agreed that Gen Masemola had been wrongly grouped with fraud and corruption suspects, and said 'I have to take responsibility for all the actions that were done, intentionally or unintentionally.'",
+  "sources": [
+   {
+    "url": "https://iol.co.za/news/2026-07-29-madlanga-commission-advocate-andrea-johnson-admits-to-misuse-of-legal-process-in-arrests/",
+    "tier": 2,
+    "publisher": "IOL",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ },
+ {
+  "id": "ipid-kzn-evidence",
+  "title": "IPID alleges extrajudicial killings by KZN task teams",
+  "date": "2026/08/13",
+  "description": "IPID's KwaZulu-Natal deputy director Len John told the commission that a provincial task team was responsible for 149 intentional deaths and that syndicates had used police to eliminate rivals. The allegations are untested.",
+  "sources": [
+   {
+    "url": "https://mg.co.za/news/south-africa/2026-08-13-ipid-accuses-kzn-task-team-of-extrajudicial-killings/",
+    "tier": 3,
+    "publisher": "Mail & Guardian",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 3
+ },
+ {
+  "id": "matlala-testimony",
+  "title": "Vusimuzi 'Cat' Matlala appears under subpoena",
+  "date": "2026/08/17",
+  "description": "Matlala declined to answer questions about the R360-million Medicare24 contract, invoking his right against self-incrimination because of pending criminal charges, and denied connections to Senzo Mchunu and Feroz Khan while acknowledging he had met Lt-Gen Mkhwanazi.",
+  "sources": [
+   {
+    "url": "https://mg.co.za/news/south-africa/2026-08-17-matlala-refuses-to-answer-medicare24-questions-at-madlanga-commission/",
+    "tier": 3,
+    "publisher": "Mail & Guardian",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 3
+ },
+ {
+  "id": "ad-hoc-preliminary-findings",
+  "title": "Parliament's ad hoc committee considers preliminary findings",
+  "date": "2026/08/20",
+  "description": "The National Assembly's ad hoc committee's preliminary findings recorded no evidence proving a corrupt relationship between Senzo Mchunu and either Vusimuzi Matlala or Brown Mogotsi. Members remained divided on whether the 2024 disbandment of the task team was externally influenced.",
+  "sources": [
+   {
+    "url": "https://witness.co.za/news/2026/08/20/preliminary-findings-of-parliaments-ad-hoc-committee-show-no-corrupt-links-to-mchunu/",
+    "tier": 2,
+    "publisher": "The Witness",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 2
+ }
+]
