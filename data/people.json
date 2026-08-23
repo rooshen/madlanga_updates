@@ -95,6 +95,13 @@
   "photo_mode": "initials",
   "sources": [
    {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/08/13",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official hearings index",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
     "url": "https://www.sowetan.co.za/news/2026-08-13-retired-police-captain-calls-bevan-loftus-notorious-at-hearing/",
     "tier": 2,
     "publisher": "Sowetan",
@@ -137,7 +144,7 @@
     "partial": true
    }
   ],
-  "best_tier": 2,
+  "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
   ]
@@ -555,6 +562,13 @@
   "photo_mode": "initials",
   "sources": [
    {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/08/13",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official hearings index",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
     "url": "https://www.sowetan.co.za/news/2026-08-13-retired-police-captain-calls-bevan-loftus-notorious-at-hearing/",
     "tier": 2,
     "publisher": "Sowetan",
@@ -597,7 +611,7 @@
     "partial": true
    }
   ],
-  "best_tier": 2,
+  "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
   ]
@@ -1065,6 +1079,13 @@
   "photo_mode": "initials",
   "sources": [
    {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/08/06",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official hearings index",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
     "url": "https://www.citizen.co.za/news/madlanga-commission-idac-matthews-sesoko-kidnapping/",
     "tier": 2,
     "publisher": "The Citizen",
@@ -1100,7 +1121,7 @@
     "partial": true
    }
   ],
-  "best_tier": 2,
+  "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
   ]

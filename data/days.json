@@ -2,7 +2,7 @@
  {
   "id": "day-164",
   "day_number": 164,
-  "day_number_verified": true,
+  "day_number_verified": false,
   "date": "2026/08/21",
   "weekday": "Friday",
   "workstream": "idac-npa",
@@ -86,10 +86,12 @@
   "best_tier": 2,
   "partial_source": false,
   "unverified": [
+   "The commission's own hearings index does not list a Day 164. The 21 August sitting is attested by SABC and YouTube material; the number is not Tier 1 confirmed.",
    "Name of the evidence leader questioning Adams on this specific day. SABC News and The Citizen name Advocate Lee Segeels-Ncube for the Adams stream; one EWN summary instead named Advocate Drushantha Ramsamy, who is elsewhere described as an IDAC prosecutor and a witness, so the EWN attribution is likely a conflation. Not resolved.",
    "Whether the IDAC audio recording was in fact played on 21 August, or whether Adams's objection prevented it.",
    "Whether Adams's evidence concluded on this day.",
-   "The SABC News Day 164 live page returned only a cookie/privacy notice to the fetcher - only its title was verifiable."
+   "The SABC News Day 164 live page returned only a cookie/privacy notice to the fetcher - only its title was verifiable.",
+   "TIER 1 / TIER 2 CONFLICT — The commission's own hearings index does NOT list a Day 164. Its most recent August entry is Day 163 on 20 August 2026. SABC News, SABC+ and YouTube all carry 'Day 164' material dated Friday 21 August 2026, and Tier 2/3 reporting describes Adams continuing his evidence that day. A sitting on 21 August is well attested. Whether it is numbered 164 is not confirmed by Tier 1, most likely because the commission's index had not yet been updated when it was read."
   ]
  },
  {
@@ -133,6 +135,13 @@
   "video_url": "https://www.youtube.com/watch?v=RW1p7K5o0qs",
   "sources": [
    {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/08/20",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official hearings index",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
     "url": "https://www.citizen.co.za/news/fadiel-adams-admits-misleading-minister-dead-man-defence-unravels-madlanga-commission/",
     "tier": 2,
     "publisher": "The Citizen",
@@ -161,7 +170,7 @@
     "partial": true
    }
   ],
-  "best_tier": 2,
+  "best_tier": 1,
   "partial_source": false,
   "unverified": [
    "Exact date the adjournment direction was given (Thursday 20 August is the strong inference from the SABC report and the Friday resumption, but the SABC article carried no explicit date)."
@@ -201,6 +210,13 @@
   ],
   "video_url": "https://www.youtube.com/watch?v=SHm91eQixkE",
   "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/08/19",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official hearings index",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
    {
     "url": "https://www.dailymaverick.co.za/article/2026-08-19-adams-puts-idac-s-evidence-under-scrutiny-while-affidavit-dispute-deepens/",
     "tier": 3,
@@ -244,10 +260,9 @@
     "partial": true
    }
   ],
-  "best_tier": 2,
+  "best_tier": 1,
   "partial_source": false,
   "unverified": [
-   "Name of the evidence leader on this day (not stated in the sources fetched).",
    "Whether 'A1' is a formal commission exhibit reference or a document label used within IDAC's bundle.",
    "The TimesLIVE, Business Day and SABC Day 162 items were seen only as search-result titles/URLs, not fetched in full."
   ]
@@ -271,6 +286,13 @@
   "quotes": [],
   "video_url": "https://www.youtube.com/watch?v=nkI-Q5OT1TU",
   "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/08/18",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official hearings index",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
    {
     "url": "https://www.sabcnews.com/sabcnews/molefe-msibi-posed-as-state-officials-in-spy-tech-deal-chaskalson/",
     "tier": 2,
@@ -314,7 +336,7 @@
     "partial": true
    }
   ],
-  "best_tier": 2,
+  "best_tier": 1,
   "partial_source": false,
   "unverified": [
    "The deceased taxi figure's first name: an independent archive gives 'Jotham Msibi' while news reports give 'Mswazi Msibi'. Not resolved, so only the surname is used.",
@@ -325,7 +347,7 @@
  {
   "id": "day-160",
   "day_number": 160,
-  "day_number_verified": false,
+  "day_number_verified": true,
   "date": "2026/08/17",
   "weekday": "Monday",
   "workstream": "matlala-saps-contract",
@@ -365,6 +387,13 @@
   "video_url": "https://www.youtube.com/watch?v=Py2qiCGsVn4",
   "sources": [
    {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/08/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official hearings index",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
     "url": "https://www.sundaytimes.timeslive.co.za/news/2026-08-17-i-wont-incriminate-myself-matlala-refuses-to-answer-madlanga-inquiry/",
     "tier": 2,
     "publisher": "Sunday Times / TimesLIVE",
@@ -400,11 +429,10 @@
     "partial": true
    }
   ],
-  "best_tier": 2,
+  "best_tier": 1,
   "partial_source": false,
   "unverified": [
    "The day number 160 is INFERRED, not verified. No source retrieved pairs 'Day 160' with '17 August 2026' in one string. The inference rests on Day 159 being verified as 14 August, Day 161 as 18 August, and 17 August being the only sitting between them. The SABC News Day 160 live page could not be fetched.",
-   "Evidence leader: The Citizen names Advocate Mahlape Sello; no other fetched source named one. Single-source.",
    "Whether the 18:00 22 August 2026 filing deadline was met."
   ]
  },
@@ -451,6 +479,13 @@
   "video_url": "https://sabc-plus.com/video/29982587/Madlanga-Commission-of-Inquiry-Day-159-Friday14-August-2026",
   "sources": [
    {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/08/14",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official hearings index",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
     "url": "https://www.dailymaverick.co.za/article/2026-08-14-woolworths-shopper-patient-suliman-carrim-faces-criminal-charges-after-final-commission-no-show/",
     "tier": 3,
     "publisher": "Daily Maverick",
@@ -493,12 +528,13 @@
     "partial": true
    }
   ],
-  "best_tier": 2,
+  "best_tier": 1,
   "partial_source": false,
   "unverified": [
    "Whether Ramsamy's evidence on 14 August was a continuation or a conclusion. An EWN piece dated 15 August carrying his remarks was summarised as relating to an 11 August hearing; a Sunday World snippet places Ramsamy at the commission on Friday 14 August.",
    "The exact wording of the Carrim ruling - sources gave paraphrase plus short quotes only.",
-   "Whether any other witness appeared on 14 August."
+   "Whether any other witness appeared on 14 August.",
+   "TIER 1 / TIER 2 CONFLICT — The commission's own hearings index records the Day 159 witness as 'Mr Carrim', with evidence leaders Adv Hassim SC and Adv Premhid. Tier 2 and Tier 3 reporting (TimesLIVE, Daily Maverick) says Carrim did NOT appear on 14 August and that the commission resolved to set a criminal process in motion over his non-compliance; a Sunday World item places Adv Drushantha Ramsamy at the commission that day. Adv Premhid is described in reporting as Carrim's counsel, not an evidence leader. Unresolved. The commission's index may be recording whose matter was before it rather than who took the stand. Both readings are held; neither is presented as settled."
   ]
  },
  {
@@ -553,6 +589,13 @@
   "video_url": "https://sabc-plus.com/video/29981813/Madlanga-Commission-of-Inquiry-Day-158-Thursday13-August-2026",
   "sources": [
    {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/08/13",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official hearings index",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
     "url": "https://www.sowetan.co.za/news/2026-08-13-retired-police-captain-calls-bevan-loftus-notorious-at-hearing/",
     "tier": 2,
     "publisher": "Sowetan",
@@ -595,10 +638,9 @@
     "partial": true
    }
   ],
-  "best_tier": 2,
+  "best_tier": 1,
   "partial_source": false,
   "unverified": [
-   "Evidence leader's name for this stream.",
    "Whether any further witnesses appeared on 13 August."
   ]
  },
@@ -632,6 +674,13 @@
   "video_url": "https://www.youtube.com/watch?v=YcdZjdz9eSA",
   "sources": [
    {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/08/12",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official hearings index",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
     "url": "https://www.dailymaverick.co.za/article/2026-08-12-rogue-kzn-cops-collude-with-tow-truckers-to-kill-rivals-inquiry-hears/",
     "tier": 3,
     "publisher": "Daily Maverick",
@@ -660,10 +709,9 @@
     "partial": true
    }
   ],
-  "best_tier": 2,
+  "best_tier": 1,
   "partial_source": false,
   "unverified": [
-   "Evidence leader's name.",
    "Whether the R2.3-million deposit evidence was led on 12 August specifically (the SABC headline appeared in a 12 August search cluster but the article was not fetched).",
    "eNCA and SABC items were seen only as search-result titles/URLs."
   ]
@@ -722,6 +770,13 @@
   "video_url": "https://sabc-plus.com/video/29979541/Madlanga-Commission-of-Inquiry-Day-156-Tuesday-11-August-2026",
   "sources": [
    {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/08/11",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official hearings index",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
     "url": "https://www.sowetan.co.za/news/2026-08-11-watch-adams-laptop-excuse-is-totally-unbelievable-says-madlanga/",
     "tier": 2,
     "publisher": "Sowetan",
@@ -764,7 +819,7 @@
     "partial": true
    }
   ],
-  "best_tier": 2,
+  "best_tier": 1,
   "partial_source": false,
   "unverified": [
    "One Mail & Guardian fetch summary gave the hearing date as 10 August; the Sowetan article, the SABC+ Day 156 title and a schedule notice all place the Adams postponement on Tuesday 11 August. 10 August is recorded as a public holiday on which the commission did not sit.",
@@ -813,6 +868,13 @@
   "video_url": "https://www.youtube.com/watch?v=qrxIGr9gal8",
   "sources": [
    {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/08/06",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official hearings index",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
     "url": "https://www.citizen.co.za/news/madlanga-commission-idac-matthews-sesoko-kidnapping/",
     "tier": 2,
     "publisher": "The Citizen",
@@ -848,10 +910,9 @@
     "partial": true
    }
   ],
-  "best_tier": 2,
+  "best_tier": 1,
   "partial_source": false,
   "unverified": [
-   "Evidence leader's name.",
    "Whether Sesoko's evidence began or concluded on this day.",
    "Sowetan and SABC items were seen only as search-result titles/URLs."
   ]

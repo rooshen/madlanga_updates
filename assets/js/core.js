@@ -135,7 +135,18 @@ const MT = (() => {
     <span class="date">${esc(d.date)} &middot; ${esc(d.weekday || '')}</span>
     ${ws ? `<span class="small">${wsDot(d.workstream, meta)}</span>` : ''}
   </div>
-  <p class="who"><strong>Witness:</strong> ${wit}</p>
+  <p class="who"><strong>Witness:</strong> ${wit}${
+    d.evidence_leaders && d.evidence_leaders.length
+      ? ` &nbsp;·&nbsp; <strong>Evidence ${d.evidence_leaders.length > 1 ? 'leaders' : 'leader'}:</strong> ${esc(d.evidence_leaders.join(' & '))} <span class="badge tier-1" title="From the commission's own hearings index">T1</span>`
+      : ''}</p>
+  ${d.tier1 && d.tier1.listed ? `<p class="small muted">Commission record for this day:
+     <a href="${esc(d.tier1.url)}" target="_blank" rel="noopener noreferrer">official page</a> —
+     ${esc(d.tier1.witness_line)} Full transcript and audio are downloadable there and have
+     <strong>not</strong> yet been read into this summary.</p>` : ''}
+  ${(d.conflicts || []).map(c => `<div class="notice"><strong>Tier 1 / Tier 2 conflict.</strong>
+     <span class="badge tier-1">T1</span> ${esc(c.tier1)}
+     <span class="badge tier-2">T2/T3</span> ${esc(c.other)}
+     <em>${esc(c.resolution)}</em></div>`).join('')}
   <p class="sum">${esc(d.summary)}</p>
   ${d.rulings.length ? `<div>${d.rulings.map(r => `<p class="small">${claimBadge('RULING')} ${esc(r.description)}
       ${r.source_url ? `<a href="${esc(r.source_url)}" target="_blank" rel="noopener noreferrer">source</a>` : ''}</p>`).join('')}</div>` : ''}
