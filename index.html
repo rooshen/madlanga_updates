@@ -30,8 +30,10 @@ MT.chrome();
   const [meta, idx] = await Promise.all([MT.data('meta'), MT.briefing('index.json')]);
   document.getElementById('pn-first').textContent = (meta.latest_day - meta.days_in_data);
   document.getElementById('stamp').textContent =
-    'Last updated ' + meta.last_updated + ' · Day ' + meta.latest_day + ' sat on ' + meta.latest_day_date +
-    ' · ' + meta.days_in_data + ' of ' + meta.latest_day + ' sitting days in the data layer';
+    'Last updated ' + meta.last_updated + ' · most recent sitting ' + meta.latest_day_date +
+    (meta.latest_day_verified ? ', Day ' + meta.latest_day : ', reported as Day ' + meta.latest_day +
+     ' by broadcasters but not yet listed on the commission\'s own index') +
+    ' · ' + meta.days_in_data + ' sitting days in the data layer';
 
   if (!idx.length) { document.getElementById('brief').innerHTML = '<p class="empty">No briefing published yet.</p>'; return; }
   const b = await MT.briefing(idx[0].file);

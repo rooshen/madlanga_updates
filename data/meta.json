@@ -3,9 +3,10 @@
  "commission": "Judicial Commission of Inquiry into Criminality, Political Interference and Corruption in the Criminal Justice System",
  "chair": "Retired Justice Mbuyiseli Madlanga",
  "phase": "Phase 1 - scaffold. Sample data only: the ten most recent sitting days.",
- "last_updated": "2026/08/23 13:26 SAST",
+ "last_updated": "2026/08/23 13:32 SAST",
  "latest_day": 164,
  "latest_day_date": "2026/08/21",
+ "latest_day_verified": false,
  "days_in_data": 10,
  "days_outstanding": 154,
  "status_labels": [

@@ -283,6 +283,8 @@ def main():
         "last_updated": now.strftime("%Y/%m/%d %H:%M") + " SAST",
         "latest_day": days_raw.get("latest_day_number"),
         "latest_day_date": days_raw.get("latest_day_date"),
+        "latest_day_verified": next((d["day_number_verified"] for d in days
+                                     if d["day_number"] == days_raw.get("latest_day_number")), False),
         "days_in_data": len(days),
         "days_outstanding": (days_raw.get("latest_day_number") or 0) - len(days),
         "status_labels": STATUS_LABELS,
