@@ -149,7 +149,25 @@ def main():
             "best_tier": best_tier(srcs),
             "partial_source": all(s["partial"] for s in srcs) if srcs else True,
             "unverified": d.get("unverified") or [],
+            "reporting_context": [],
         }
+        # Tier 2/3 news-research context, kept clearly separate from the transcript (Tier 1) summary.
+        # Anything without a real URL and a Tier 2/3 label is dropped and logged, never silently kept.
+        for rc in (d.get("reporting_context") or []):
+            url = (rc.get("url") or rc.get("source_url") or "")
+            claim = rc.get("claim")
+            tier = rc.get("tier")
+            tier = int(tier) if tier in (2, 3, "2", "3") else None
+            if not claim or not url or not str(url).startswith("http") or tier is None:
+                add_gap(f"Day {n}: a reporting-context item was dropped for missing a claim, a real URL, "
+                        f"or a valid Tier 2/3 label.",
+                        "Re-source that claim against a whitelisted Tier 2 or Tier 3 outlet.", f"day-{n}")
+                continue
+            rec["reporting_context"].append({
+                "claim": claim, "url": url, "publisher": rc.get("publisher") or "",
+                "tier": tier, "retrieved": (rc.get("retrieved") or "").replace("-", "/"),
+                "partial": bool(rc.get("partial")),
+            })
         # enforce the 15-word quote ceiling
         for q in rec["quotes"]:
             if q["words"] >= 15:

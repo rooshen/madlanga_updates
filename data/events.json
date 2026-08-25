@@ -1,5 +1,533 @@
 [
  {
+  "id": "kidnapping-of-businessman-jerry-boshoga",
+  "title": "Kidnapping of businessman Jerry Boshoga",
+  "date": null,
+  "description": "Kidnapping under investigation that led SAPS to search Matlala's Centurion residence on 6 December 2024; Matlala denied involvement during the subsequent interview.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "murder-of-dj-sumbody",
+  "title": "Murder of DJ Sumbody",
+  "date": null,
+  "description": "Sandton case (CAS 398/11/2022) later ballistically linked to the Bramley AK-47 seized in the Armand Swart investigation.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "murder-of-don-tindleni",
+  "title": "Murder of Don Tindleni",
+  "date": null,
+  "description": "Orlando case ballistically linked to the same Bramley AK-47.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "murder-of-dj-vintos",
+  "title": "Murder of DJ Vintos",
+  "date": null,
+  "description": "Orlando/Pretoria West case ballistically linked to both the Bramley AK-47 and the Taurus pistol.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "attempted-murder-of-tebogo-thobejane",
+  "title": "Attempted murder of Tebogo Thobejane",
+  "date": null,
+  "description": "Sandton case ballistically linked to the Bramley firearms and connected to the Matlala prosecution.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "benoni-smoke-king-supermarket-kidnapping-extortion-case",
+  "title": "Benoni 'Smoke King Supermarket' kidnapping/extortion case",
+  "date": null,
+  "description": "EMPD officers arrested by IPID inside Spies's own boardroom; provisionally withdrawn by the prosecutor in April 2025 after the complainant could not be traced.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "political-killings-task-team-established",
+  "title": "Political Killings Task Team established",
+  "date": "2018-07-01",
+  "description": "Ad hoc inter-disciplinary SAPS task team established administratively by the National Commissioner following an Inter-Ministerial Committee direction, to investigate political killings in KwaZulu-Natal. A predecessor provincial task team had been disbanded in May 2018 in consultation with the heads of SAPS, the NPA, the SSA and Correctional Services.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "moerane-commission-of-inquiry-reports",
+  "title": "Moerane Commission of Inquiry reports",
+  "date": "2018-09",
+  "description": "The KwaZulu-Natal provincial inquiry into political killings reported. Masemola and Khumalo both testified the PKTT was already in existence by this date and was not established as a result of this report.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "minister-cele-s-letter-to-the-national-director-of-public-prosecutions",
+  "title": "Minister Cele's letter to the National Director of Public Prosecutions",
+  "date": "2019-05-24",
+  "description": "Letter from then-Minister of Police Bheki Cele to NDPP Adv Batohi setting out challenges in KwaZulu-Natal political-killing cases, including witness-protection failures, questionable withdrawal decisions, delayed decisions and repeated bail grants, with recommendations for a dedicated court and dedicated prosecutors.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "directive-3-of-2019-issued-by-the-dpp-kwazulu-natal",
+  "title": "Directive 3 of 2019 issued by the DPP KwaZulu-Natal",
+  "date": "2019-06-21",
+  "description": "Directive replacing Directive 1 of 2018, addressing coordination with the task team, dedicated prosecutorial capacity, use of section 204 witnesses and controls on withdrawals.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "katlehong-area-murder-alleged-scene-clean-up",
+  "title": "Katlehong-area murder / alleged scene clean-up",
+  "date": "2022",
+  "description": "Murder at which Spies testified Mkhwanazi arrived and allegedly directed clean-up and body disposal; no officer has been charged and a participant has become a Section 204 state witness.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "news24-media-query-on-empd-blue-lights",
+  "title": "News24 media query on EMPD blue lights",
+  "date": "2023-02",
+  "description": "Journalist Jeff Wicks's query about municipally-registered, blue-lit vehicles linked to Matlala triggered EMPD's internal investigation into Julius Mkhwanazi.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "murder-of-armand-swart-at-q-tech-vereeniging",
+  "title": "Murder of Armand Swart at Q-Tech, Vereeniging",
+  "date": "2024-04-17",
+  "description": "Engineer shot and killed at the Q-Tech office park in Duncanville, Vereeniging. Three men were arrested at Bramley about three hours later and a fourth at the Klip River R59 Engen garage. The investigation escalated into the Gauteng Counter Intelligence Operation.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "murder-of-armand-swart",
+  "title": "Murder of Armand Swart",
+  "date": "2024-04-17",
+  "description": "Engineer shot at his employer's Vereeniging premises; the case at the centre of Witness B's and the ballistics witnesses' evidence, allegedly linked to a Transnet/SK Group tender-fraud motive.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "bramley-arrests-tau-kekana-mabusela",
+  "title": "Bramley arrests (Tau, Kekana, Mabusela)",
+  "date": "2024-04-17",
+  "description": "Same-day arrest at Bramley of three suspects found with an AK-47, a Taurus pistol, a CZ pistol and other firearms later ballistically linked to over two dozen other serious crimes.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "first-court-appearance-of-the-swart-accused-vereeniging-magistrate-s-court",
+  "title": "First court appearance of the Swart accused, Vereeniging Magistrate's Court",
+  "date": "2024-04-19",
+  "description": "Witness A testified to a large show of support for Warrant Officer Tau at the appearance, and that he and a colleague were followed and intimidated by fellow police officers afterwards.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "meeting-between-witness-a-and-maj-gen-shibiri",
+  "title": "Meeting between Witness A and Maj-Gen Shibiri",
+  "date": "2024-05-16",
+  "description": "Witness A testified that Shibiri referenced 'three envelopes flying around' available to secure bail for Tau — one for the two investigating officers, one for the Prosecutor and one for the Magistrate — and named a lawyer and an individual said to be linked to a cartel.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "senzo-mchunu-takes-office-as-minister-of-police",
+  "title": "Senzo Mchunu takes office as Minister of Police",
+  "date": "2024-06-30",
+  "description": "Appointment date referenced in evidence; Commissioner Khumalo raised but left unresolved the difference between the 3 July 2024 cabinet announcement and the actual assumption of office.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "prosecutor-coetzee-s-letter-raising-threats-to-swart-investigators",
+  "title": "Prosecutor Coetzee's letter raising threats to Swart investigators",
+  "date": "2024-08",
+  "description": "The Senior Public Prosecutor at Vereeniging Regional Court formally raised threats to the investigators on the Swart murder case and syndicate links, prompting the secondment of ten PKTT members to the Gauteng Counter Intelligence Operation.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "warrant-officer-tau-granted-bail",
+  "title": "Warrant Officer Tau granted bail",
+  "date": "2024-08-02",
+  "description": "Bail of R10,000 granted at Vereeniging on medical grounds after an initial refusal. Witness A testified that Vusi Ndlala had forewarned him of the outcome the previous day and confirmed it before his own office knew.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "threat-and-risk-assessment-classifies-the-swart-investigating-team-as-high-risk",
+  "title": "Threat and Risk Assessment classifies the Swart investigating team as high risk",
+  "date": "2024-08-08",
+  "description": "Assessment conducted by a Crime Intelligence colonel. An earlier assessment requested in mid-May 2024 was never followed up with results. Overnight police protection began on 5 September 2024.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "attempted-handover-of-the-swart-docket-to-the-cold-case-unit",
+  "title": "Attempted handover of the Swart docket to the Cold Case Unit",
+  "date": "2024-08-12",
+  "description": "Two officers, including Warrant Officer Deon Mulaudzi, verbally sought the docket without a letter; the investigators refused.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "mp-fadiel-adams-lodges-near-identical-complaints-in-two-provinces",
+  "title": "MP Fadiel Adams lodges near-identical complaints in two provinces",
+  "date": "2024-10-31",
+  "description": "Three cases opened in Cape Town on 29 October 2024 concerning Crime Intelligence vetting, the secret fund account and the Mokwele appointment, with the same allegations re-registered in Orlando, Johannesburg two days later.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "chief-of-staff-nkabinde-refers-case-dockets-to-idac-under-section-27-of-the-npa-act",
+  "title": "Chief of Staff Nkabinde refers case dockets to IDAC under section 27 of the NPA Act",
+  "date": "2024-11-11",
+  "description": "Letter listing six case numbers, sent before the ten-working-day extension requested by the SAPS Inspectorate had lapsed. The letter was not itself a compliant section 27 affidavit.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "saps-inspectorate-concludes-the-interception-allegations-are-unfounded",
+  "title": "SAPS Inspectorate concludes the interception allegations are unfounded",
+  "date": "2024-11-20",
+  "description": "Follow-up information note signed on Lt-Gen Jacobs's behalf, also recording that the complainant had evaded requests for an affidavit.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "arrest-of-katiso-molefe-and-search-of-matlala-s-property",
+  "title": "Arrest of Katiso Molefe and search of Matlala's property",
+  "date": "2024-12-06",
+  "description": "Joint operation assisted by seconded PKTT members. Molefe was arrested and charged with murder and conspiracy to commit murder; his bail was refused on 2 April 2025. Phone downloads obtained on his arrest were later used in evidence.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "6-december-2024-combined-takedown",
+  "title": "6 December 2024 combined takedown",
+  "date": "2024-12-06",
+  "description": "Coordinated same-day arrest of Katiso Molefe at his Sandton/Sandhurst home and a search of Vusimuzi Matlala's Centurion residence (linked to the Boshoga kidnapping); the scene of alleged Hawks interference and multiple leak/tip-off allegations.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "brigadier-nkhwashu-s-visit-to-katiso-molefe-at-groenpunt-prison",
+  "title": "Brigadier Nkhwashu's visit to Katiso Molefe at Groenpunt prison",
+  "date": "2024-12-09",
+  "description": "Nkhwashu allegedly visited detained Molefe claiming to be his brother-in-law, arriving in a vehicle with concealed number plates; captured on prison CCTV.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "matlala-s-urgent-high-court-application-over-seized-items",
+  "title": "Matlala's urgent High Court application over seized items",
+  "date": "2024-12-17",
+  "description": "Application alleging theft of a Rolex, MacBook and other items during the 6 December 2024 search; dismissed for lack of urgency 24 December 2024 and then withdrawn.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "firearms-control-act-compliance-inspection-at-matlala-s-premises",
+  "title": "Firearms Control Act compliance inspection at Matlala's premises",
+  "date": "2024-12-18",
+  "description": "Two-day Gauteng Counter Intelligence Operations inspection with armed escort following a high threat and risk assessment; firearms were confiscated for ballistic analysis and later returned. Matlala's urgent application for their return was withdrawn on the day of hearing, 24 December 2024.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "cat-vip-compliance-inspection",
+  "title": "CAT VIP compliance inspection",
+  "date": "2024-12-18",
+  "description": "18-19 December 2024 inspection uncovering further firearm-permit and safe-access irregularities at CAT VIP; firearms seized for ballistic testing and later returned.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "minister-mchunu-s-letter-directing-disbandment-of-the-pktt",
+  "title": "Minister Mchunu's letter directing disbandment of the PKTT",
+  "date": "2024-12-31",
+  "description": "Letter to the National Commissioner directing that the PKTT be disestablished immediately on the stated basis that it was 'no longer required nor is it adding any value to policing', and also directing an immediate halt on filling vacant Crime Intelligence posts, for which no explanation was given. Mkhwanazi received it by WhatsApp on 2 January 2025; it was reported in the media before Masemola had seen it.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "ministerial-letter-disbanding-the-pktt",
+  "title": "Ministerial letter disbanding the PKTT",
+  "date": "2024-12-31",
+  "description": "Letter from the Minister of Police to the National Commissioner freezing Crime Intelligence posts and disbanding the PKTT; Khumalo testified he was not consulted and only received it officially 14 January 2025.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "pktt-disbandment",
   "title": "Political Killings Task Team disbanded",
   "date": "2024/12/31",
@@ -21,6 +549,454 @@
    }
   ],
   "best_tier": 2
+ },
+ {
+  "id": "false-kidnapping-complaint-and-trt-deployment-at-silverton-lab",
+  "title": "False 'kidnapping' complaint and TRT deployment at Silverton lab",
+  "date": "2025-01",
+  "description": "A January night visit by Witness B and Captain Makgotloe to retrieve the ballistics report triggered a disputed kidnapping complaint and the deployment of a Tactical Response Team.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "masemola-and-khumalo-brief-the-minister-on-the-big-five-syndicate",
+  "title": "Masemola and Khumalo brief the Minister on the 'Big Five' syndicate",
+  "date": "2025-01-16",
+  "description": "Briefing at which Lt-Gen Sibiya was named among senior SAPS officers said to be involved with a criminal syndicate. Masemola later directed the Commission to treat those allegations as unsubstantiated and under investigation.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "khumalo-s-cartel-links-briefing-to-minister-mchunu",
+  "title": "Khumalo's cartel-links briefing to Minister Mchunu",
+  "date": "2025-01-16",
+  "description": "Khumalo briefed the Minister on SAPS officers allegedly linked to a criminal cartel (naming Sibiya, Shibiri, Nkhwashu, Makgotle, and a fourth withheld name).",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "lt-gen-sibiya-issues-a-disbandment-letter-under-his-own-name",
+  "title": "Lt Gen Sibiya issues a disbandment letter under his own name",
+  "date": "2025-01-17",
+  "description": "After bringing the letter to Masemola on two successive days and being refused, Sibiya issued the same letter himself without changing the due date of 16 January 2025. Masemola testified he became aware of it only in February or March 2025 and characterised it as defiance of his instruction to wind the team down gradually.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "sibiya-s-directive-implementing-pktt-disbandment",
+  "title": "Sibiya's directive implementing PKTT disbandment",
+  "date": "2025-01-17",
+  "description": "Letter from Lt-Gen Sibiya directing implementation of the disbandment, citing 'an assessment' Khumalo testified he was never shown.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "masemola-submits-his-report-to-the-minister-on-the-disbandment-directive",
+  "title": "Masemola submits his report to the Minister on the disbandment directive",
+  "date": "2025-01-22",
+  "description": "Report dated for the due date of 20 January 2025 and delivered on the Minister's return, setting out the PKTT's successes and responding to the 31 December 2024 letter.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "masemola-briefs-president-ramaphosa-on-the-disbandment-instruction",
+  "title": "Masemola briefs President Ramaphosa on the disbandment instruction",
+  "date": "2025-02-01",
+  "description": "Masemola testified the President was 'quite taken aback' to learn the team was being disbanded with no reasons given, and said he would speak to the Minister — contradicting the Minister's separate assertion that the President agreed with the disbandment.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "lt-gen-sibiya-s-letter-to-lt-gen-senthumule-on-deactivation-and-docket-transfer",
+  "title": "Lt Gen Sibiya's letter to Lt Gen Senthumule on deactivation and docket transfer",
+  "date": "2025-02-04",
+  "description": "Letter directing deactivation and disbandment of the national task team and determining what should happen to its dockets. The letter states that Sibiya was acting on the instruction of the Minister of Police.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "murder-of-a-councillor-in-the-ilembe-district",
+  "title": "Murder of a councillor in the iLembe district",
+  "date": "2025-02-05",
+  "description": "Mkhwanazi testified that the Minister contacted District Commissioner Maj Gen Gopaul directly about the case being assigned to the PKTT, bypassing the National and Provincial Commissioners.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "mkhwanazi-masemola-and-the-minister-appear-before-the-portfolio-committee-on-police",
+  "title": "Mkhwanazi, Masemola and the Minister appear before the Portfolio Committee on Police",
+  "date": "2025-03-05",
+  "description": "Appearance at which Mkhwanazi alleged the Minister knew Brown Mogotsi and the Minister denied it. Masemola testified the Minister repeated the denial to him and two Deputy Ministers afterwards.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "cape-town-meeting-on-the-pktt-wind-down-plan",
+  "title": "Cape Town meeting on the PKTT wind-down plan",
+  "date": "2025-03-06",
+  "description": "Meeting at which Lt-Gen Khumalo presented the PKTT's successes in an effort to dissuade the Minister. Masemola initially described an 'agreement' on where dockets should go and later corrected this to the Minister's preferred course. The plan was never finalised or signed.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "cape-town-meeting-on-pktt-disbandment-implementation",
+  "title": "Cape Town meeting on PKTT disbandment implementation",
+  "date": "2025-03-06",
+  "description": "Meeting at which Khumalo's proposed gradual wind-down plan was opposed by the Minister's Chief of Staff and Sibiya, but supported by the National and a Deputy National Commissioner.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "118-pktt-dockets-handed-to-lt-gen-senthumule",
+  "title": "118 PKTT dockets handed to Lt Gen Senthumule",
+  "date": "2025-03-26",
+  "description": "Handover on the instruction of Lt Gen Sibiya. A further three dockets were handed to SAPS head office on 10 April 2025, bringing the total to 121 on the task team's count and 123 on the head-office audit. On Day 7 the Evidence Leader put the dates as 28 March and 22 April, which Adv Harrison accepted.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "follow-up-meeting-on-the-disbandment-plan",
+  "title": "Follow-up meeting on the disbandment plan",
+  "date": "2025-03-27",
+  "description": "Meeting that ended abruptly, at which the Minister said the decision was political and that further engagement would be with Masemola only.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "katiso-molefe-s-bail-proceedings",
+  "title": "Katiso Molefe's bail proceedings",
+  "date": "2025-04-02",
+  "description": "Bail denied 2 April 2025; granted on appeal by Acting Judge President Ledwaba in June 2025, with conditions Witness B considered too lenient.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "cancellation-of-the-medicare-24-saps-health-risk-management-contract",
+  "title": "Cancellation of the Medicare 24 SAPS health-risk-management contract",
+  "date": "2025-05-13",
+  "description": "Contract cancelled following an audit revealing fronting and fraud. Letters concerning the termination appear in the Day 9 and Day 12 chat exhibits.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "arrest-of-vusimuzi-cat-matlala",
+  "title": "Arrest of Vusimuzi 'Cat' Matlala",
+  "date": "2025-05-14",
+  "description": "Arrested on three counts of attempted murder and conspiracy to commit murder. Two cellular devices were seized with consent for extraction; the WhatsApp material recovered from them became the principal documentary evidence on Days 8, 9 and 12.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "mkhwanazi-s-letter-to-the-dpp-on-unexecuted-j50-warrants",
+  "title": "Mkhwanazi's letter to the DPP on unexecuted J50 warrants",
+  "date": "2025-05-22",
+  "description": "Letter apologising for the failure to execute arrest warrants after the dockets were found to have been delivered to Pretoria. Adv Harrison testified it addressed only the docket removal and not the reported disestablishment of the task team.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "mkhwanazi-s-public-media-briefing",
+  "title": "Mkhwanazi's public media briefing",
+  "date": "2025-07-06",
+  "description": "Briefing at which Mkhwanazi made public allegations of political interference and criminal infiltration of SAPS and the criminal justice system, prompting establishment of the Commission.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "minister-mchunu-placed-on-special-leave",
+  "title": "Minister Mchunu placed on special leave",
+  "date": "2025-07-13",
+  "description": "Date recorded in Van Rooyen's statement; Firoz Cachalia was appointed Acting Minister of Police.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "masemola-disapproves-the-funding-request-for-a-new-investigating-team",
+  "title": "Masemola disapproves the funding request for a new investigating team",
+  "date": "2025-07-22",
+  "description": "Request recommended through Maj-Gen Motsepe and Lt Gen Sibiya was disapproved. Masemola found the 121 dockets had not been investigated for some four months, and his handwritten note recorded that the dockets were supposed to be returned to their stations of origin.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "return-of-the-pktt-dockets-to-kwazulu-natal",
+  "title": "Return of the PKTT dockets to KwaZulu-Natal",
+  "date": "2025-08-18",
+  "description": "Masemola wrote to Mkhwanazi advising that the dockets would be returned. An audit found the great majority had no investigative work done on them while at head office, save minor status confirmations and one contact with victims in an Eastern Cape case.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "joint-media-statement-by-minister-cachalia-and-national-commissioner-masemola",
+  "title": "Joint media statement by Minister Cachalia and National Commissioner Masemola",
+  "date": "2025-09-02",
+  "description": "Statement agreeing the respective roles of Executive and Operational Authority and committing to submitting the PKTT dockets to the Commission and returning them to KwaZulu-Natal.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "unexplained-night-time-police-visit-to-witness-b-s-home",
+  "title": "Unexplained night-time police visit to Witness B's home",
+  "date": "2025-09-05",
+  "description": "Prompted 24-hour protection for Witness B and her family; reason not established on the record.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "commission-does-not-sit-day-10-adjourned",
+  "title": "Commission does not sit; Day 10 adjourned",
+  "date": "2025-10-01",
+  "description": "The Chairperson announced that General Khumalo had left the precinct at three minutes after nine that morning because he was unwell, and that the Commission had decided not to sit. No evidence was led.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "search-and-seizure-raid-on-lt-gen-sibiya-s-home",
+  "title": "Search-and-seizure raid on Lt-Gen Sibiya's home",
+  "date": "2025-10-09",
+  "description": "Televised raid on Sibiya's home; CCTV/LPR evidence tendered Day 25 places his bakkie (registered to Scharnick/Skarnik Stuart James) leaving in convoy with an SAPS office BMW.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "in-camera-application-argued-and-ruled-on",
+  "title": "In-camera application argued and ruled on",
+  "date": "2025-10-13",
+  "description": "Application by the Evidence Leaders for certain evidence to be heard in camera, opposed by News24 and Daily Maverick through Willem De Klerk Attorneys. The Chairperson set a 9 p.m. filing deadline for written argument on Day 11; on Day 13 the media parties withdrew their opposition and the Commission ruled, on its own assessment, that the Day 13 and Day 14 hearings would be in camera.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "ruling-on-the-format-for-hearing-in-camera-witnesses",
+  "title": "Ruling on the format for hearing in-camera witnesses",
+  "date": "2025-10-14",
+  "description": "Ruling issued by agreement between the Evidence Leaders and Daily Maverick/News24 governing the format for five in-camera witnesses over two weeks, including remote and off-camera testimony, use of an intermediary, and public release of transcripts after testimony. Amended on Day 15 to permit Witnesses A, B and C to testify publicly with voices unaltered, images not broadcast and names withheld.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
  },
  {
   "id": "mkhwanazi-press-briefing",

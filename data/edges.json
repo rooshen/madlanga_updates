@@ -1031,5 +1031,383 @@
    }
   ],
   "best_tier": 1
+ },
+ {
+  "id": "edge-058",
+  "from": "senzo-mchunu",
+  "to": "political-killings-task-team",
+  "type": "directed immediate disbandment of",
+  "strength": "documented",
+  "date": "2024-12-31",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-060",
+  "from": "lt-gen-shadrack-sibiya",
+  "to": "political-killings-task-team",
+  "type": "issued a disbandment letter under his own name after the National Commissioner refused to sign it",
+  "strength": "documented",
+  "date": "2025-01-17",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-062",
+  "from": "lt-gen-shadrack-sibiya",
+  "to": "senzo-mchunu",
+  "type": "claims in his 4 February 2025 letter to have been acting on the instruction of the Minister of Police",
+  "strength": "documented",
+  "date": "2025-02-04",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-067",
+  "from": "lt-gen-fannie-masemola",
+  "to": "lt-gen-shadrack-sibiya",
+  "type": "suspended pending a SAPS disciplinary hearing after an internal investigation by Lt-Gen Patekile found a prima facie case of misconduct",
+  "strength": "testified",
+  "date": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-068",
+  "from": "senzo-mchunu",
+  "to": "brown-mogotsi",
+  "type": "denied knowing him, at the Portfolio Committee and again to the National Commissioner and two Deputy Ministers",
+  "strength": "denied",
+  "date": "2025-03-05",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-074",
+  "from": "medicare-24-tshwane-district-pty-ltd",
+  "to": "saps",
+  "type": "held a health-risk-management contract, referred to as worth some R360 million, cancelled following an audit revealing fronting and fraud",
+  "strength": "documented",
+  "date": "2025-05-13",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-084",
+  "from": "michael-pule-tau",
+  "to": "katiso-molefe",
+  "type": "cellphone contact before and after the murder, per call records and phone downloads",
+  "strength": "testified",
+  "date": "2024-04-12",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-087",
+  "from": "vusi-ndlala",
+  "to": "maj-gen-shibiri",
+  "type": "social association; hosted two gatherings at which Shibiri was present",
+  "strength": "testified",
+  "date": "2024-05-25",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-092",
+  "from": "mr-nkabinde",
+  "to": "idac",
+  "type": "referred six case dockets under section 27 of the NPA Act, before the Inspectorate's requested extension had lapsed",
+  "strength": "documented",
+  "date": "2024-11-11",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-094",
+  "from": "fadiel-adams",
+  "to": "saps-crime-intelligence",
+  "type": "lodged near-identical complaints in Cape Town and in Orlando, Johannesburg two days apart",
+  "strength": "documented",
+  "date": "2024-10-31",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-109",
+  "from": "witness-b",
+  "to": "saps",
+  "type": "employed as investigating officer",
+  "strength": "testified",
+  "date": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-110",
+  "from": "brigadier-abraham-nkhwashu",
+  "to": "witness-b",
+  "type": "alleged source of threatening/enticing calls",
+  "strength": "alleged",
+  "date": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-111",
+  "from": "brigadier-abraham-nkhwashu",
+  "to": "katiso-molefe",
+  "type": "prison visit under false pretences (claimed brother-in-law)",
+  "strength": "testified",
+  "date": "2024-12-09",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-112",
+  "from": "maj-gen-abednego-shibiri",
+  "to": "witness-b",
+  "type": "alleged reference to prepared bribe 'envelopes'",
+  "strength": "alleged",
+  "date": "2025-05",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-121",
+  "from": "jmpd-officer-john-mokgatle",
+  "to": "katiso-molefe",
+  "type": "alleged tip-off / plate-running",
+  "strength": "alleged",
+  "date": "2024-12-06",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-122",
+  "from": "boy-mthethwa",
+  "to": "lt-gen-dumisani-patrick-mbotho",
+  "type": "alleged claim of having 'called Patrick' to arrange scene access",
+  "strength": "alleged",
+  "date": "2024-12-06",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-123",
+  "from": "general-godfrey-lebeya",
+  "to": "lt-gen-dumisani-patrick-mbotho",
+  "type": "relayed 'bogus Hawks' claim and forwarded the address via WhatsApp",
+  "strength": "documented",
+  "date": "2024-12-06",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-125",
+  "from": "lt-gen-dumisani-khumalo",
+  "to": "lt-gen-shadrack-sibiya",
+  "type": "testified to alleged cash-courier/tender-benefit links via Sgt Nkosi",
+  "strength": "testified",
+  "date": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-128",
+  "from": "lt-gen-shadrack-sibiya",
+  "to": "political-killings-task-team",
+  "type": "directed implementation of disbandment",
+  "strength": "documented",
+  "date": "2025-01-17",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-132",
+  "from": "scharnick-skarnik-stuart-james",
+  "to": "lt-gen-shadrack-sibiya",
+  "type": "close protector; vehicle seen travelling in convoy with Sibiya's office BMW",
+  "strength": "documented",
+  "date": "2025-10-09",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-136",
+  "from": "frans-mashele",
+  "to": "katiso-molefe",
+  "type": "alleged sharing of docket copies before formal disclosure",
+  "strength": "alleged",
+  "date": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
  }
 ]

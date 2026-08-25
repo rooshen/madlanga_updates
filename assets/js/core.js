@@ -122,6 +122,16 @@ const MT = (() => {
     </blockquote>`;
   }
 
+  function reportingBlock(items) {
+    if (!items || !items.length) return '';
+    return `<details><summary>In the wider reporting (${items.length})</summary>
+      <ul class="tight small">${items.map(r => `<li>${claimBadge('REPORTING')}${tierBadge(r.tier)}${
+        r.partial ? '<span class="badge lbl-PARTIAL" title="Only a headline, title or lead could be read">PARTIAL</span>' : ''
+      } ${esc(r.claim)} &mdash; <a href="${esc(r.url)}" target="_blank" rel="noopener noreferrer">${esc(r.publisher || host(r.url))}</a>${
+        r.retrieved ? `<span class="muted small"> · retrieved ${esc(r.retrieved)}</span>` : ''
+      }</li>`).join('')}</ul></details>`;
+  }
+
   function dayCard(d, meta, opts = {}) {
     const ws = (meta.workstreams || []).find(x => x.id === d.workstream);
     const wit = d.witnesses.length
@@ -155,6 +165,7 @@ const MT = (() => {
       <ul class="tight small">${d.exhibits.map(e => `<li>${e.ref ? `<strong class="mono">${esc(e.ref)}</strong> &mdash; ` : ''}${esc(e.description)}</li>`).join('')}</ul></details>` : ''}
   ${d.unverified.length ? `<details><summary>Loose ends &amp; what is not verified (${d.unverified.length})</summary>
       <ul class="tight small muted">${d.unverified.map(u => `<li>${esc(u)}</li>`).join('')}</ul></details>` : ''}
+  ${reportingBlock(d.reporting_context)}
   <details${opts.openSources ? ' open' : ''}><summary>Sources (${d.sources.length})${d.video_url ? ' &amp; video' : ''}</summary>
     ${d.video_url ? `<p class="small">▶ <a href="${esc(d.video_url)}" target="_blank" rel="noopener noreferrer">Broadcast recording for this sitting day</a></p>` : ''}
     ${sourceList(d.sources)}
@@ -163,5 +174,5 @@ const MT = (() => {
   }
 
   return { BASE, data, all, briefing, esc, chrome, tierBadge, claimBadge, statusPill, wsDot,
-           sourceList, avatar, quoteBlock, dayCard, host };
+           sourceList, avatar, quoteBlock, reportingBlock, dayCard, host };
 })();

@@ -16,6 +16,86 @@
   "best_tier": 2
  },
  {
+  "id": "big-five-organised-crime-grouping",
+  "name": "'Big Five' organised crime grouping",
+  "type": "Alleged criminal syndicate",
+  "description": "Grouping described by Khumalo as a cartel structure in South Africa. Katiso Molefe and Vusimuzi Matlala were named as identified members; three others were not named for stated investigative reasons. The characterisation is untested.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "the-big-five",
+  "name": "'The Big Five'",
+  "type": "alleged organised-crime network",
+  "description": "Cartel structure described by Witness B (Day 18) and via Matlala's account (Day 23) as comprising hitmen, handlers and unnamed high-ranking SAPS/business 'fixers', with 'Mswazi' (the late Mr Msibi) named as a leading figure.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "bad-boys-security",
+  "name": "Bad Boys Security",
+  "type": "private security company",
+  "description": "Named alongside CAT VIP in WhatsApp 'success report' messages Mkhwanazi used as purported proof of legitimate operational cooperation with EMPD.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "black-ak-trading",
+  "name": "Black AK Trading",
+  "type": "private company",
+  "description": "Alleged EFT conduit for an R80,000 payment from Matlala to Maj-Gen Shibiri (rejected/returned before being paid in cash).",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "cat-vip-protection-security-services",
+  "name": "CAT VIP Protection/Security Services",
+  "type": "private security company",
+  "description": "Vusimuzi Matlala's company; central to firearm-permit irregularities (Days 17-19) and to EMPD MOUs granting it policing-like functions (Days 27-30).",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "city-of-ekurhuleni",
   "name": "City of Ekurhuleni",
   "type": "municipality",
@@ -33,6 +113,134 @@
     "tier": 1,
     "publisher": "The Presidency (South Africa)",
     "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "city-of-ekurhuleni-office-of-the-city-manager",
+  "name": "City of Ekurhuleni (Office of the City Manager)",
+  "type": "municipal government",
+  "description": "Municipality whose City Manager (Dr Imogen Mashazi) is alleged to have repeatedly protected Julius Mkhwanazi and bypassed Chief Mapiyeye.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "civilian-secretariat-for-the-police-service-csps",
+  "name": "Civilian Secretariat for the Police Service (CSPS)",
+  "type": "Statutory civilian oversight body",
+  "description": "Oversight body identified in Van Rooyen's statement as deficient in independence because it depends on ministerial will.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "crime-intelligence-division-saps",
+  "name": "Crime Intelligence Division, SAPS",
+  "type": "SAPS division",
+  "description": "Division headed by Lt-Gen Samuel Dumisani Khumalo, subject of the Minister's unexplained directive halting the filling of vacant posts, and of the complaints and arrests arising from the Mokwele appointment.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "dpci-toms-tactical-operations-management-section",
+  "name": "DPCI TOMS (Tactical Operations Management Section)",
+  "type": "government/law enforcement (sub-unit)",
+  "description": "DPCI tactical section headed by Brigadier Mokoena; deployed Kruger, De Gouveia and Sabelo Nkosi to the Molefe scene.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "daily-maverick",
+  "name": "Daily Maverick",
+  "type": "Media organisation",
+  "description": "One of two media respondents that opposed the Evidence Leaders' in-camera application on Day 11 and withdrew that opposition on Day 13.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "department-of-correctional-services-dcs",
+  "name": "Department of Correctional Services (DCS)",
+  "type": "Government department",
+  "description": "Department consulted on the PKTT's establishment, and whose officials at Qalakabusha and at the facility holding Matlala feature in the Empangeni matter and the seized-cellphone episode.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "directorate-for-priority-crime-investigation-dpci-hawks",
+  "name": "Directorate for Priority Crime Investigation (DPCI / Hawks)",
+  "type": "SAPS specialised investigative directorate",
+  "description": "Specialised directorate referenced in relation to the withdrawn advertisement for its National Head post and, through its KwaZulu-Natal head, in the Day 8 and Day 12 chat evidence.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "directorate-for-priority-crime-investigation-dpci-the-hawks",
+  "name": "Directorate for Priority Crime Investigation (DPCI) / 'the Hawks'",
+  "type": "government/law enforcement",
+  "description": "Elite crime-fighting unit; its members' conduct at the 6 December 2024 Molefe takedown was the subject of Days 22 and 24.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
     "partial": false
    }
   ],
@@ -62,6 +270,22 @@
   "best_tier": 2
  },
  {
+  "id": "directorate-of-public-prosecutions-kwazulu-natal",
+  "name": "Directorate of Public Prosecutions, KwaZulu-Natal",
+  "type": "NPA regional office",
+  "description": "Office headed by Adv Elaine Harrison, which allocated a dedicated prosecutorial capacity to political-killings cases within its Organised Crime Component and received no formal notification of the PKTT's reported disestablishment.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "empd",
   "name": "Ekurhuleni Metropolitan Police Department (EMPD)",
   "type": "municipality",
@@ -85,6 +309,102 @@
   "best_tier": 1
  },
  {
+  "id": "gauteng-counter-intelligence-operations-gci-ops",
+  "name": "Gauteng Counter Intelligence Operations (GCI Ops)",
+  "type": "SAPS operation",
+  "description": "A separate SAPS operation into organised crime in Gauteng, to which ten PKTT members were seconded in 2024 after threats to investigators on the Armand Swart murder case. Witnesses testified it was the true target of the pressure that was mistakenly directed at the PKTT.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "gauteng-counterintelligence-operation-gci-ops-gauteng-organised-crime-investigation",
+  "name": "Gauteng Counterintelligence Operation (GCI Ops) / Gauteng Organised Crime Investigation",
+  "type": "government/law enforcement",
+  "description": "Task force formed from the Armand Swart murder investigation, combining seconded PKTT specialists; ran the 6 December 2024 Molefe/Matlala operations.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "gauteng-traffic-police-saturation-unit-air-wing",
+  "name": "Gauteng Traffic Police (Saturation Unit / Air Wing)",
+  "type": "provincial law enforcement",
+  "description": "George Raftopoulos's unit; flew the helicopter used during the Molefe takedown.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "gothle-specialists",
+  "name": "Gothle Specialists",
+  "type": "private company",
+  "description": "Alleged conduit for roughly R500,000 in Matlala funding toward ANC January 8 event costs.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "gotlhe-specialists-gotlhe-travel",
+  "name": "Gotlhe Specialists / Gotlhe Travel",
+  "type": "Private company (travel agency)",
+  "description": "Travel entity linked to Brown Mogotsi that received payments of approximately R38,000 and R111,000 from Matlala's accounts, and a further R92,000 from Tameez Investments.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "groenpunt-correctional-centre",
+  "name": "Groenpunt Correctional Centre",
+  "type": "government correctional facility",
+  "description": "Prison holding Katiso Molefe as an awaiting-trial detainee; site of Brigadier Nkhwashu's 9 December 2024 visit under false pretences.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "ipid",
   "name": "Independent Police Investigative Directorate (IPID)",
   "type": "other",
@@ -99,6 +419,22 @@
    }
   ],
   "best_tier": 3
+ },
+ {
+  "id": "inter-ministerial-committee-imc",
+  "name": "Inter-Ministerial Committee (IMC)",
+  "type": "Executive committee",
+  "description": "Committee constituted following President Ramaphosa's tasking, whose 2018 direction preceded the PKTT's establishment and which received periodic presentations on the team's work between 2018 and 2023.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
  },
  {
   "id": "idac",
@@ -124,6 +460,38 @@
   "best_tier": 2
  },
  {
+  "id": "johannesburg-metro-police-department-jmpd",
+  "name": "Johannesburg Metro Police Department (JMPD)",
+  "type": "Municipal police department",
+  "description": "Metro police department whose officer Johannes Magatle deposed to an affidavit describing alleged vehicle-registration favours for Katiso Molefe and Michael Pule Tau.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "johannesburg-metropolitan-police-department-jmpd",
+  "name": "Johannesburg Metropolitan Police Department (JMPD)",
+  "type": "municipal police service",
+  "description": "Employer of the officer (John Mokgatle) allegedly found off-duty at, and tipping off Molefe about, the 6 December 2024 arrest scene.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "madlanga-commission",
   "name": "Judicial Commission of Inquiry into Criminality, Political Interference and Corruption in the Criminal Justice System",
   "type": "judiciary",
@@ -141,6 +509,54 @@
     "tier": 1,
     "publisher": "The Presidency (South Africa)",
     "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "majang-law-firm",
+  "name": "Majang (law firm)",
+  "type": "private law firm",
+  "description": "Alleged in an anonymous email (Day 30) to have been appointed to oversee disciplinary charges against Julius Mkhwanazi that never proceeded to a hearing.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "medicare-24-anubis-protection-services",
+  "name": "Medicare 24 / Anubis Protection Services",
+  "type": "private security/medical company",
+  "description": "Second private firm (principal Mike Van Wyk) with an EMPD MOU similar to CAT VIP's, granting blue-light use and other law-enforcement-adjacent functions.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "medicare-24-tshwane-district-pty-ltd",
+  "name": "Medicare 24 Tshwane District (Pty) Ltd",
+  "type": "Private company",
+  "description": "Company associated with Vusimuzi Matlala which held a SAPS health-risk-management contract, referred to in evidence as worth some R360 million, cancelled on 13 May 2025 following an audit.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
     "partial": false
    }
   ],
@@ -193,6 +609,22 @@
   "best_tier": 1
  },
  {
+  "id": "moerane-commission-of-inquiry",
+  "name": "Moerane Commission of Inquiry",
+  "type": "Provincial commission of inquiry",
+  "description": "Earlier KwaZulu-Natal inquiry into political killings that reported in September 2018. Both Masemola and Khumalo testified that the PKTT predates and is unconnected to it, contrary to the recital in the Minister's 31 December 2024 letter.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "parliament-ad-hoc-committee",
   "name": "National Assembly Ad Hoc Committee on Allegations by Lt-Gen Mkhwanazi",
   "type": "other",
@@ -239,6 +671,38 @@
   "best_tier": 1
  },
  {
+  "id": "news24",
+  "name": "News24",
+  "type": "Media organisation",
+  "description": "One of two media respondents that opposed the Evidence Leaders' in-camera application on Day 11 and withdrew that opposition on Day 13.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "parliamentary-portfolio-committee-on-police",
+  "name": "Parliamentary Portfolio Committee on Police",
+  "type": "Parliamentary oversight committee",
+  "description": "Committee chaired by Ian Cameron, before which Mkhwanazi, Masemola and the Minister appeared on 5 March 2025, and at which the Minister denied knowing Brown Mogotsi.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "political-killings-task-team",
   "name": "Political Killings Task Team (PKTT)",
   "type": "SAPS unit",
@@ -260,6 +724,70 @@
    }
   ],
   "best_tier": 3
+ },
+ {
+  "id": "q-tech",
+  "name": "Q-Tech",
+  "type": "private company",
+  "description": "Vereeniging supplier at the centre of the alleged tender-manipulation scheme; site of Armand Swart's murder and the intended (but missed) whistleblower target.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "q-tech-engineering",
+  "name": "Q-Tech Engineering",
+  "type": "Private company",
+  "description": "Vereeniging engineering firm at whose office park Armand Swart was shot and killed on 17 April 2024; the murder was linked in evidence to alleged Transnet contract fraud.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "richards-bay-minerals-rbm",
+  "name": "Richards Bay Minerals (RBM)",
+  "type": "Private company",
+  "description": "KwaZulu-Natal operation to which KZN detectives were deployed in 2021-2022, a deployment later folded into the Gauteng Counter Intelligence Operation and the subject of friction over control.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "saps-crime-intelligence",
+  "name": "SAPS Crime Intelligence",
+  "type": "government/law enforcement",
+  "description": "Division headed by Lt-Gen Dumisani Khumalo; ran the Gauteng Counterintelligence Operation (GCI Ops).",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
  },
  {
   "id": "saps-crime-intelligence",
@@ -285,6 +813,54 @@
   "best_tier": 1
  },
  {
+  "id": "saps-forensic-science-laboratory-amanzimtoti-kzn",
+  "name": "SAPS Forensic Science Laboratory — Amanzimtoti (KZN)",
+  "type": "government/forensic laboratory",
+  "description": "KZN ballistics lab that produced a second-opinion analysis recovering an obliterated serial number the Pretoria lab reportedly could not.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "saps-forensic-science-laboratory-ballistics-section-silverton-pretoria",
+  "name": "SAPS Forensic Science Laboratory — Ballistics Section, Silverton (Pretoria)",
+  "type": "government/forensic laboratory",
+  "description": "National ballistics headquarters; source of the disputed/altered Bramley-Vereeniging reports at the centre of Days 17, 20 and 21.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "saps-inspectorate-division",
+  "name": "SAPS Inspectorate (Division)",
+  "type": "SAPS internal division",
+  "description": "Division under Lt-Gen Jacobs which investigated MP Fadiel Adams's complaints and concluded on 20 November 2024 that the interception allegations were unfounded and that the complainant had evaded requests for an affidavit.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "madlanga-special-task-team",
   "name": "SAPS special investigations task team (Madlanga referrals task team)",
   "type": "SAPS unit",
@@ -303,6 +879,22 @@
     "publisher": "Eyewitness News",
     "retrieved": "2026/08/22",
     "partial": true
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "sk-group",
+  "name": "SK Group",
+  "type": "private company",
+  "description": "Alleged vehicle for the Transnet tender-fraud scheme said to benefit Lucky and Thapelo Molefe.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
    }
   ],
   "best_tier": 1
@@ -340,6 +932,38 @@
   "best_tier": 1
  },
  {
+  "id": "state-security-agency-ssa",
+  "name": "State Security Agency (SSA)",
+  "type": "State intelligence agency",
+  "description": "Agency consulted in 2018 when the predecessor provincial task team was disbanded and replaced by the PKTT.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "tameez-investments-pty-ltd",
+  "name": "Tameez Investments (Pty) Ltd",
+  "type": "Private company",
+  "description": "Entity linked to Suleiman Kareem which received payments of R1,500,000 and R1,000,000 from Matlala and made an outgoing payment of R92,000 to Gotlhe Specialists.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "presidency",
   "name": "The Presidency of the Republic of South Africa",
   "type": "other",
@@ -357,6 +981,70 @@
     "tier": 1,
     "publisher": "The Presidency (South Africa)",
     "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "transnet",
+  "name": "Transnet",
+  "type": "state-owned enterprise",
+  "description": "State logistics company whose tender arrangements with SK Group/Q-Tech are alleged to be the fraud motive behind the Armand Swart murder.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "tshwane-metro-police",
+  "name": "Tshwane Metro Police",
+  "type": "municipal police service",
+  "description": "Revo Spies's employer as of 2 March 2025, after retiring from EMPD.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "university-of-fort-hare",
+  "name": "University of Fort Hare",
+  "type": "Public university",
+  "description": "Eastern Cape institution whose murders, including the killing of the Vice-Chancellor's driver, were brought within the PKTT's mandate in 2023 following a complaint to the President.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "willem-de-klerk-attorneys-wdklaw",
+  "name": "Willem De Klerk Attorneys (WDKLAW)",
+  "type": "Law firm",
+  "description": "Firm acting for News24 and Daily Maverick in the in-camera application.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
     "partial": false
    }
   ],

@@ -4,321 +4,1392 @@
   "area": "day-164",
   "description": "The commission's own hearings index does not list a Day 164. The 21 August sitting is attested by SABC and YouTube material; the number is not Tier 1 confirmed.",
   "would_resolve": "Commission transcript or ruling for this sitting day.",
-  "logged": "2026/08/23"
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-002",
   "area": "day-164",
   "description": "Name of the evidence leader questioning Adams on this specific day. SABC News and The Citizen name Advocate Lee Segeels-Ncube for the Adams stream; one EWN summary instead named Advocate Drushantha Ramsamy, who is elsewhere described as an IDAC prosecutor and a witness, so the EWN attribution is likely a conflation. Not resolved.",
   "would_resolve": "Commission transcript or ruling for this sitting day.",
-  "logged": "2026/08/23"
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-003",
   "area": "day-164",
   "description": "Whether the IDAC audio recording was in fact played on 21 August, or whether Adams's objection prevented it.",
   "would_resolve": "Commission transcript or ruling for this sitting day.",
-  "logged": "2026/08/23"
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-004",
   "area": "day-164",
   "description": "Whether Adams's evidence concluded on this day.",
   "would_resolve": "Commission transcript or ruling for this sitting day.",
-  "logged": "2026/08/23"
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-005",
   "area": "day-164",
   "description": "The SABC News Day 164 live page returned only a cookie/privacy notice to the fetcher - only its title was verifiable.",
   "would_resolve": "Commission transcript or ruling for this sitting day.",
-  "logged": "2026/08/23"
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-006",
   "area": "day-164",
   "description": "TIER 1 / TIER 2 CONFLICT — The commission's own hearings index does NOT list a Day 164. Its most recent August entry is Day 163 on 20 August 2026. SABC News, SABC+ and YouTube all carry 'Day 164' material dated Friday 21 August 2026, and Tier 2/3 reporting describes Adams continuing his evidence that day. A sitting on 21 August is well attested. Whether it is numbered 164 is not confirmed by Tier 1, most likely because the commission's index had not yet been updated when it was read.",
   "would_resolve": "Commission transcript or ruling for this sitting day.",
-  "logged": "2026/08/23"
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-007",
   "area": "day-163",
   "description": "Exact date the adjournment direction was given (Thursday 20 August is the strong inference from the SABC report and the Friday resumption, but the SABC article carried no explicit date).",
   "would_resolve": "Commission transcript or ruling for this sitting day.",
-  "logged": "2026/08/23"
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-008",
   "area": "day-162",
   "description": "Whether 'A1' is a formal commission exhibit reference or a document label used within IDAC's bundle.",
   "would_resolve": "Commission transcript or ruling for this sitting day.",
-  "logged": "2026/08/23"
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-009",
   "area": "day-162",
   "description": "The TimesLIVE, Business Day and SABC Day 162 items were seen only as search-result titles/URLs, not fetched in full.",
   "would_resolve": "Commission transcript or ruling for this sitting day.",
-  "logged": "2026/08/23"
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-010",
   "area": "day-161",
   "description": "The deceased taxi figure's first name: an independent archive gives 'Jotham Msibi' while news reports give 'Mswazi Msibi'. Not resolved, so only the surname is used.",
   "would_resolve": "Commission transcript or ruling for this sitting day.",
-  "logged": "2026/08/23"
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-011",
   "area": "day-161",
   "description": "Whether any part of 18 August was also used for Matlala-related procedural matters.",
   "would_resolve": "Commission transcript or ruling for this sitting day.",
-  "logged": "2026/08/23"
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-012",
   "area": "day-161",
   "description": "Several listed sources were seen only as search-result titles/URLs and were not fetched in full.",
   "would_resolve": "Commission transcript or ruling for this sitting day.",
-  "logged": "2026/08/23"
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-013",
   "area": "day-160",
   "description": "The day number 160 is INFERRED, not verified. No source retrieved pairs 'Day 160' with '17 August 2026' in one string. The inference rests on Day 159 being verified as 14 August, Day 161 as 18 August, and 17 August being the only sitting between them. The SABC News Day 160 live page could not be fetched.",
   "would_resolve": "Commission transcript or ruling for this sitting day.",
-  "logged": "2026/08/23"
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-014",
   "area": "day-160",
   "description": "Whether the 18:00 22 August 2026 filing deadline was met.",
   "would_resolve": "Commission transcript or ruling for this sitting day.",
-  "logged": "2026/08/23"
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-015",
   "area": "day-159",
   "description": "Whether Ramsamy's evidence on 14 August was a continuation or a conclusion. An EWN piece dated 15 August carrying his remarks was summarised as relating to an 11 August hearing; a Sunday World snippet places Ramsamy at the commission on Friday 14 August.",
   "would_resolve": "Commission transcript or ruling for this sitting day.",
-  "logged": "2026/08/23"
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-016",
   "area": "day-159",
   "description": "The exact wording of the Carrim ruling - sources gave paraphrase plus short quotes only.",
   "would_resolve": "Commission transcript or ruling for this sitting day.",
-  "logged": "2026/08/23"
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-017",
   "area": "day-159",
   "description": "Whether any other witness appeared on 14 August.",
   "would_resolve": "Commission transcript or ruling for this sitting day.",
-  "logged": "2026/08/23"
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-018",
   "area": "day-159",
   "description": "TIER 1 / TIER 2 CONFLICT — The commission's own hearings index records the Day 159 witness as 'Mr Carrim', with evidence leaders Adv Hassim SC and Adv Premhid. Tier 2 and Tier 3 reporting (TimesLIVE, Daily Maverick) says Carrim did NOT appear on 14 August and that the commission resolved to set a criminal process in motion over his non-compliance; a Sunday World item places Adv Drushantha Ramsamy at the commission that day. Adv Premhid is described in reporting as Carrim's counsel, not an evidence leader. Unresolved. The commission's index may be recording whose matter was before it rather than who took the stand. Both readings are held; neither is presented as settled.",
   "would_resolve": "Commission transcript or ruling for this sitting day.",
-  "logged": "2026/08/23"
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-019",
   "area": "day-158",
   "description": "Whether any further witnesses appeared on 13 August.",
   "would_resolve": "Commission transcript or ruling for this sitting day.",
-  "logged": "2026/08/23"
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-020",
   "area": "day-157",
   "description": "Whether the R2.3-million deposit evidence was led on 12 August specifically (the SABC headline appeared in a 12 August search cluster but the article was not fetched).",
   "would_resolve": "Commission transcript or ruling for this sitting day.",
-  "logged": "2026/08/23"
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-021",
   "area": "day-157",
   "description": "eNCA and SABC items were seen only as search-result titles/URLs.",
   "would_resolve": "Commission transcript or ruling for this sitting day.",
-  "logged": "2026/08/23"
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-022",
   "area": "day-156",
   "description": "One Mail & Guardian fetch summary gave the hearing date as 10 August; the Sowetan article, the SABC+ Day 156 title and a schedule notice all place the Adams postponement on Tuesday 11 August. 10 August is recorded as a public holiday on which the commission did not sit.",
   "would_resolve": "Commission transcript or ruling for this sitting day.",
-  "logged": "2026/08/23"
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-023",
   "area": "day-156",
   "description": "Whether Ramsamy's evidence and the Adams postponement occurred in the same session or were separate items on the day.",
   "would_resolve": "Commission transcript or ruling for this sitting day.",
-  "logged": "2026/08/23"
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-024",
   "area": "day-155",
   "description": "Whether Sesoko's evidence began or concluded on this day.",
   "would_resolve": "Commission transcript or ruling for this sitting day.",
-  "logged": "2026/08/23"
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-025",
   "area": "day-155",
   "description": "Sowetan and SABC items were seen only as search-result titles/URLs.",
   "would_resolve": "Commission transcript or ruling for this sitting day.",
-  "logged": "2026/08/23"
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-026",
-  "area": "people",
-  "description": "No biography or photo for Fadiel Adams, who appears as a witness in the sample days.",
-  "would_resolve": "A profile assembled from the commission's witness statement index.",
-  "logged": "2026/08/23"
+  "area": "day-30",
+  "description": "Whether Julius Mkhwanazi was ultimately suspended is not established within this day's transcript itself (only that a pre-suspension letter was prepared and signed by Gxasheka on 20 Feb 2023); later Tier 2/3 reporting describes him as suspended, but that is not confirmed from Day 30 evidence directly.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-027",
-  "area": "people",
-  "description": "No biography or photo for Gregory Loftus, who appears as a witness in the sample days.",
-  "would_resolve": "A profile assembled from the commission's witness statement index.",
-  "logged": "2026/08/23"
+  "area": "day-30",
+  "description": "Whether Adv Kemi Behari in fact concluded there was 'no case' for a disciplinary hearing against Mkhwanazi was referenced only via a commissioner's question about Chief Mapiyeye's earlier testimony, not independently confirmed by either witness today.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-028",
-  "area": "people",
-  "description": "No biography or photo for Ashley Houston, who appears as a witness in the sample days.",
-  "would_resolve": "A profile assembled from the commission's witness statement index.",
-  "logged": "2026/08/23"
+  "area": "day-30",
+  "description": "The identity of the sender of the anonymous emails (Annexures RS25/RS26) was never established, per Spies's testimony.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-029",
-  "area": "people",
-  "description": "No biography or photo for Matthews Sesoko, who appears as a witness in the sample days.",
-  "would_resolve": "A profile assembled from the commission's witness statement index.",
-  "logged": "2026/08/23"
+  "area": "day-30",
+  "description": "The full name/rank of 'Colonel Erasmus'/'Lt-Col Erasmus' (given elsewhere as Hennie Erasmus) was not fully clarified as to exact rank within this day's transcript.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-030",
-  "area": "photos",
-  "description": "No freely-licensed photograph located for 44 of 44 people; all render as initials avatars.",
-  "would_resolve": "Wikimedia Commons uploads, or official commission portraits released under a reusable licence.",
-  "logged": "2026/08/23"
+  "area": "day-29",
+  "description": "The exact date and vehicle registration number of the reported N12 blue-light incident involving 'Kelvin and Family' security firm — Spies said he would need to check his phone for the details.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-031",
-  "area": "days",
-  "description": "Day 164 — Tier 1 and Tier 2/3 conflict. The commission's own hearings index does NOT list a Day 164. Its most recent August entry is Day 163 on 20 August 2026. SABC News, SABC+ and YouTube all carry 'Day 164' material dated Friday 21 August 2026, and Tier 2/3 reporting describes Adams continuing his evidence that day. A sitting on 21 August is well attested. Whether it is numbered 164 is not confirmed by Tier 1, most likely because the commission's index had not yet been updated when it was read.",
-  "would_resolve": "Re-reading the commission's hearings index after it publishes the 21 August entry.",
-  "logged": "2026/08/23"
+  "area": "day-29",
+  "description": "Whether Medicare 24's principal, Mike Van Wyk, in fact holds medical and legal qualifications as claimed in the MOU — Spies said he could not confirm this and knew the person only by rumour.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-032",
-  "area": "days",
-  "description": "Day 159 — Tier 1 and Tier 2/3 conflict. The commission's own hearings index records the Day 159 witness as 'Mr Carrim', with evidence leaders Adv Hassim SC and Adv Premhid. Tier 2 and Tier 3 reporting (TimesLIVE, Daily Maverick) says Carrim did NOT appear on 14 August and that the commission resolved to set a criminal process in motion over his non-compliance; a Sunday World item places Adv Drushantha Ramsamy at the commission that day. Adv Premhid is described in reporting as Carrim's counsel, not an evidence leader. Unresolved. The commission's index may be recording whose matter was before it rather than who took the stand. Both readings are held; neither is presented as settled.",
-  "would_resolve": "The Day 159 transcript, downloadable from the commission's own page for 2026/08/14.",
-  "logged": "2026/08/23"
+  "area": "day-29",
+  "description": "Which agency's K-9 unit (EMPD or SAPS) was referenced in the WhatsApp 'success report' for the OR Tambo/Swissport incident — Spies said this was not stated in the document.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-033",
-  "area": "days",
-  "description": "Tier 1 transcripts and audio exist for every sitting day and are downloadable from the commission's own per-day pages, but none has yet been read. Every day summary on this site still rests on Tier 2/3 reporting.",
-  "would_resolve": "Downloading and reading the per-day transcripts, which would move day summaries, quotations and exhibit references from REPORTING to EVIDENCE.",
-  "logged": "2026/08/23"
+  "area": "day-29",
+  "description": "Whether the original, unaltered EMPD operational plan (allegedly taken from Internal Affairs and given to head of legal Kemi Behari) still exists or will be produced to the Commission.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-034",
-  "area": "days",
-  "description": "The commission's index lists Day 154 (2026/08/05, Drushantha Ramsamy) and Day 153 (2026/08/04, Adv Peter Serunye), which this scaffold does not hold. The sample of ten days is therefore Days 155–164 by broadcaster numbering, which Tier 1 only confirms to 163.",
-  "would_resolve": "Phase 2 back-fill from Day 1.",
-  "logged": "2026/08/23"
+  "area": "day-28",
+  "description": "Whether Mapiyeye's report to HR about Mkhwanazi's vetting refusal was copied to the City Manager - Mapiyeye said he could not confirm this sitting in the hearing.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-035",
-  "area": "days",
-  "description": "No formal exhibit numbering was recoverable except a single reference to a document marked 'A1'. Exhibit references are generally not carried in news reports.",
-  "would_resolve": "Daily transcripts or the commission's exhibit bundle index.",
-  "logged": "2026/08/23"
+  "area": "day-28",
+  "description": "The contents of a sixth disciplinary charge against Mkhwanazi referenced in a June 2023 letter (beyond the five charges in JM28) - deferred to a later witness's bundle.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-036",
-  "area": "days",
-  "description": "The surname-only reference to the deceased taxi industry figure whose device evidence was led on Day 161 reflects an unresolved first-name conflict ('Jotham' vs 'Mswazi').",
-  "would_resolve": "The commission's transcript for 18 August 2026, or a Tier 1/2 report giving the full name.",
-  "logged": "2026/08/23"
+  "area": "day-28",
+  "description": "Whether IPID investigator Magagula was replaced on EMPD-referred cases other than the Blue Light Saga before Mapiyeye's September 2024 suspension.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-037",
-  "area": "days",
-  "description": "No sitting occurred on Saturday 22 August 2026. Matlala's evidence was scheduled to resume on Monday 24 and Tuesday 25 August 2026, and a filing deadline of 18:00 on 22 August was set, but these were future events not verified as having occurred.",
-  "would_resolve": "Reporting from 24 August 2026 onward.",
-  "logged": "2026/08/23"
+  "area": "day-28",
+  "description": "The CAS/case number for the Brakpan murder case, which Mapiyeye said IPID never provided to EMPD.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-038",
-  "area": "people",
-  "description": "No photographs could be verified. Wikimedia Commons file pages and the Wikipedia API were not retrievable from this environment (Commons returned 'cache-only', the API returned HTTP 403, and Commons category/search pages required a permission grant). One Commons file page URL for Cyril Ramaphosa appeared verbatim in search results, but neither its licence nor a direct upload.wikimedia.org URL could be confirmed, so all photo fields are null.",
-  "would_resolve": "A single fetch of the relevant Wikimedia Commons file pages (or the MediaWiki pageimages API) to read the direct file URL and licence template for each subject.",
-  "logged": "2026/08/23"
+  "area": "day-27",
+  "description": "Exact reason(s) given by the City Manager for Mapiyeye's September 2024 suspension were not detailed in this transcript excerpt.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-039",
-  "area": "people",
-  "description": "The commission's own site, criminaljusticecommission.org.za, is JavaScript-rendered. Its landing page fetched but returned no content; /about.php and /hearing.php returned 404. No official witness list, hearing calendar, transcript or exhibit index could be obtained from Tier 1.",
-  "would_resolve": "Rendering the site with a headless browser, or locating the commission's PDF transcript/exhibit downloads or its media statements via a static endpoint.",
-  "logged": "2026/08/23"
+  "area": "day-27",
+  "description": "Current status of any criminal referral against Julius Mkhwanazi via the NPA/DPP as mentioned in the 2023 IPID report is not stated in this day's testimony.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-040",
-  "area": "people",
-  "description": "Three of the six required status labels do not fit central non-witness, non-implicated public officials — notably President Cyril Ramaphosa, acting Minister of Police Firoz Cachalia, and acting National Commissioner Puleng Dimpane. They are therefore recorded only through the 'presidency' and 'ministry-of-police' org entries and in events, not in `people`.",
-  "would_resolve": "Adding a neutral label such as 'Public official (not implicated)' to the closed list, or confirming whether any of them has given evidence to the commission.",
-  "logged": "2026/08/23"
+  "area": "day-26",
+  "description": "The precise current role/rank of 'Lt-Gen Mkhwanazi' referenced repeatedly (described in transcript as acting KZN Provincial Commissioner presenting IMC briefings in 2019, and separately asked by Khumalo to address the team on 1 January 2025) was not fully clarified in this excerpt of the transcript.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-041",
-  "area": "people",
-  "description": "The identities and institutional roles of the protected witnesses (Witness G, and the 'Witness X', 'Witness C', 'Witness E' and 'Witness F' referred to in reporting) are withheld, and Witness G's in-camera evidence is not public. Only Witness G could be included with enough sourcing.",
-  "would_resolve": "Publication of a redacted transcript or a commission ruling describing each protected witness's role in general terms.",
-  "logged": "2026/08/23"
+  "area": "day-26",
+  "description": "The identity of the fourth SAPS officer allegedly linked to the cartel, which Khumalo declined to name citing an ongoing critical-stage investigation.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-042",
-  "area": "people",
-  "description": "Full names for the nine Ekurhuleni officials and nine suspended SAPS bid-committee officers referred by the commission could not be verified. News24's summary named six Ekurhuleni officials (including Bafana Twala, Aiden McKenzie and Linda Gxasheka) but the retrieved text did not attribute a specific role or reason to each, so only the best-corroborated names were included.",
-  "would_resolve": "Access to the full text of the first interim report, or a fully retrievable version of the Daily Maverick arrests list (2026-05-12), which was only partially readable.",
-  "logged": "2026/08/23"
+  "area": "day-26",
+  "description": "Exact reason the CFO's recommendation for a smaller PKTT budget allocation (20 million vs a requested 94 million) in 2024 was overridden by the National Commissioner -- covered only via Khumalo's characterisation of internal memoranda, not independently verified.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-043",
-  "area": "people",
-  "description": "Advocate Andrew Chauke, Gauteng South Director of Public Prosecutions, features in August 2026 evidence about an alleged IDAC/NPA probe into his communications, but the same source records that he was cleared by a fitness-for-office inquiry. Applying any 'Implicated' label from the closed list would misstate his position, so he is excluded from `people`.",
-  "would_resolve": "Confirmation of whether the commission itself has made any adverse finding or invitation to respond regarding him.",
-  "logged": "2026/08/23"
+  "area": "day-25",
+  "description": "Full identity of the third man (striped shirt) seen with Sibiya in the 9 October 2025 raid footage -- Khumalo said this was still being established.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-044",
-  "area": "people",
-  "description": "Former Police Minister Bheki Cele appears in one secondary summary of Masemola's September 2025 testimony as having been implicated, but this rests on a single summarised bullet and could not be corroborated; his verified July 2026 testimony was to the separate Khampepe Commission, not this one. He is therefore excluded.",
-  "would_resolve": "A transcript or direct-quote report of what Masemola said about Cele at the Madlanga Commission.",
-  "logged": "2026/08/23"
+  "area": "day-25",
+  "description": "Identity of the driver of the SAPS BMW on the various LPR-camera dates (only the 27 November 2024 CCTV driver, Nkosi, was confirmed).",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-045",
-  "area": "people",
-  "description": "Wikipedia's Madlanga Commission article referred to a 'Witness D' identified as Marius van der Merwe, to a police informant named Jaco Hanekom, and to a 'Rovo Spies'. None of these could be corroborated in Tier 1–3 sources, so they were not carried into this roster.",
-  "would_resolve": "Corroboration from commission transcripts or contemporaneous Tier 1–3 reporting.",
-  "logged": "2026/08/23"
+  "area": "day-25",
+  "description": "The specific person Boy Mthethwa telephoned, and whether that call was itself a police-impersonation ruse -- described as still under investigation.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
  },
  {
   "id": "gap-046",
+  "area": "day-25",
+  "description": "Final outcome of the internal 'leakage' investigation into how Sergeant Nkosi allegedly knew the 6 December 2024 staging/briefing location.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-047",
+  "area": "day-25",
+  "description": "Whether Lt-Gen Sibiya factually has SAPS-provided personal protectors -- Khumalo declined to confirm or deny, citing TRA classification.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-048",
+  "area": "day-25",
+  "description": "Whether the vehicle-tracking unit on the DNC-office BMW was never installed or was installed and later removed.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-049",
+  "area": "day-25",
+  "description": "Exhibit reference 'CJC32.1' could not be found in the transcript and may be misread.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-050",
+  "area": "day-24",
+  "description": "Whether and when Brigadier Mokoena will be recalled to testify.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-051",
+  "area": "day-24",
+  "description": "The full identity and relationship of 'Mr Mthethwa' to Katiso Molefe beyond his being named at the scene and in a vehicle-ownership check.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-052",
+  "area": "day-24",
+  "description": "Resolution of the discrepancy between Mokoena's earlier testimony (North West operation already completed) and Nkosi's/Mbotho's accounts (operation still pending that evening).",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-053",
+  "area": "day-24",
+  "description": "Whether any record exists of the Halo radio communications Nkosi described using en route to and at the scene; Nkosi said he believed none is kept.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-054",
+  "area": "day-23",
+  "description": "Exact spelling of several names is uncertain from the transcript's own bracketed markers, e.g. 'Colonel Motah[?]' and 'Captain Makgotloe[?]' (also rendered 'Mokgotloe' elsewhere in the same transcript).",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-055",
+  "area": "day-23",
+  "description": "Whether 'Mr Lucky Molefe' (mentioned once, linked to a Standerton search) is the same person as, or distinct from, the frequently-referenced 'Katiso Molefe' is not clarified in this day's transcript.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-056",
+  "area": "day-23",
+  "description": "Precise case numbers for some retaliatory cases (e.g. 'Katlehong 237/12/2024', 'Kiiptown CAS410/12/2024') are read quickly into the record and not independently confirmed.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-057",
+  "area": "day-23",
+  "description": "Whether CCTV footage of the Sandton estate allegedly linked to Lt-Gen Sibiya was ever obtained was not known to Witness C and remains unconfirmed.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-058",
+  "area": "day-23",
+  "description": "Whether the bank-statement analysis of Mr Matlala's accounts (referenced as incomplete 'at the time of deposing this affidavit') has since been concluded is not addressed in this day's proceedings.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-059",
+  "area": "day-22",
+  "description": "Whether Mr Moloi was confirmed as Molefe's bodyguard or driver was never conclusively established, per Wanda's own testimony.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-060",
+  "area": "day-22",
+  "description": "Whether the reported source of the 'fake Hawks' claim traced to Gen Lebeya or Gen Mbotho was not resolved in testimony; Kruger said he could not confirm which general was the true reference.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-061",
+  "area": "day-22",
+  "description": "Whether Kruger in fact handed his phone to Wanda for Mokoena to speak on scene (as stated in Mokoena's own statement) versus Kruger separately 'reporting back' to Mokoena afterwards (as stated in Kruger's statement) was left unresolved; Kruger said he could not recall with certainty.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-062",
+  "area": "day-21",
+  "description": "News reporting citing an AK-47 linked to '29 other criminal cases' was not directly corroborated within this day's transcript testimony (transcript testimony covered the specific Bramley/Sandton/Orlando/Vereeniging/Littleton/Pretoria West links).",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-063",
+  "area": "day-20",
+  "description": "Whether the cross-referencing/omission errors in Captain Makgotloe's May 2024 affidavit were negligent or deliberate remained unresolved as of this sitting; Makgotloe had not yet testified himself.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-064",
+  "area": "day-20",
+  "description": "Contemporaneous IOL reporting names the Bramley suspects as Michael Tau and Musa Kekana; these names were not read out in the transcript portions reviewed and are attributed to that news report, not to sworn testimony on this day.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-065",
+  "area": "day-20",
+  "description": "The existence, author, and circumstances of a third, previously undisclosed version of Makgotloe's affidavit (correcting a case number) were raised but left uninvestigated at day's end.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-066",
+  "area": "day-20",
+  "description": "The reason the Bramley/Vereeniging case files were sent to the KZN ballistics lab for a second, parallel analysis was not established; the witness said he was not informed at the time.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-067",
+  "area": "day-20",
+  "description": "Exhibit reference 'Annexure MN5' could not be found in the transcript and may be misread.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-068",
+  "area": "day-19",
+  "description": "Claims about generals Sibiya, Khan, Shibiri and Senona's roles (tender assistance, penthouse use, receiving money) rest on what Matlala told the witness during the interview and were not independently corroborated within this day's testimony, apart from documentary evidence (a phone number, a bank account, a SAPS-system screenshot) tied to Sergeant Nkosi.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-069",
+  "area": "day-19",
+  "description": "The witness's suggestion that Matlala's IT specialist Calvin Rafadi may have tampered with cellphones to make them undownloadable was offered as his own inference, not a proven fact.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-070",
+  "area": "day-19",
+  "description": "Matlala's own account, relayed by the witness, that he burned three iPhones returned to him on 12 December 2024 was not independently verified in this day's testimony.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-071",
+  "area": "day-19",
+  "description": "Several individuals were referenced but not named for witness-protection reasons (Witness C's Commander, a PKTT forensic/photography expert, and an unnamed Matlala employee who delivered spare safe keys).",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-072",
+  "area": "day-19",
+  "description": "Exhibit reference 'video stills (unmarked)' could not be found in the transcript and may be misread.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-073",
+  "area": "day-18",
+  "description": "The claim that DPCI/Hawks were dispatched to Katiso Molefe's arrest scene on instruction connected to 'a General' was presented by the witness as her own inference from information received, not as firsthand knowledge.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-074",
+  "area": "day-18",
+  "description": "The internal hierarchy/structure described for the 'Big Five' cartel (an 'executive' with Mswazi as a leading figure, plus 'fixers' including unnamed high-ranking SAPS members and businesspeople) was given as the witness's own understanding rather than as directly documented fact.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-075",
+  "area": "day-18",
+  "description": "The full identification of the JMPD superintendent (given as Mahomed Hoosen) was supplied to the witness by the evidence leader from another witness's statement rather than independently recalled or sourced by Witness B on the record.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-076",
+  "area": "day-17",
+  "description": "Witness B's belief that ballistics report delays and the report's deletion were 'deliberate' interference is her own inference, not independently confirmed on the record",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-077",
+  "area": "day-17",
+  "description": "The reason SAPS's Cold Case Unit and Brigadier Gininda's office repeatedly sought the active Vereeniging docket was never established; Witness B said she does not know",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-078",
+  "area": "day-17",
+  "description": "Whether Captain Makgotloe's kidnapping complaint (CAS 118/01/2025) has any substantive basis was left unresolved; Witness B called it strange and unexplained",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-079",
+  "area": "day-17",
+  "description": "The extent and outcome of a general's WhatsApp/voice-call relationship and alleged exchange of money with Vusi 'Cat' Matlala was described from cellphone analysis but not further corroborated in this day's testimony",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-080",
+  "area": "day-17",
+  "description": "Witness B declined to state what consequence the ballistics report omission would have had on the criminal case, citing the ongoing separate court proceedings",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-081",
+  "area": "day-17",
+  "description": "Status of an IPID investigation referenced in connection with General Mulaudzi's non-cooperation is unknown; Witness B said the team has received no updates",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-082",
+  "area": "day-15",
+  "description": "A quote regarding 'he will eliminate the investigating officers' could not be verified as an exact substring due to irregular multiple-space formatting in the source PDF-to-text conversion around that line, so it was dropped per instructions even though the substantive content (an alleged plan: bail, then escape, then elimination of investigating officers) is clearly attributed to Witness A relaying words from Vusi Ndlala.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-083",
+  "area": "day-15",
+  "description": "The identity, employer and rank of 'Witness B' (referenced extensively as Witness A's co-investigator) are not disclosed in this transcript and are not recorded here.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-084",
+  "area": "day-13",
+  "description": "No witness testimony content is available in this transcript segment; the public record for Day 13 covers only the in-camera application argument and ruling. The substantive evidence heard on Day 13 is not reflected here.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-085",
+  "area": "day-13",
+  "description": "OCR spacing artifacts throughout the transcript (e.g. words split by internal spaces such as 'Com mission', 'ag ainst', 'inv esti gation') were normalised only where necessary for quote verification; underlying wording is otherwise as transcribed.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-086",
+  "area": "day-12",
+  "description": "The draft ruling as originally read into the record contained a one-week date error in paragraph 4 (references to 22/23 October were corrected on the spot to 15/16 October by Adv Chaskalson and the Chair) — noted here in case any downstream record still reflects the uncorrected dates.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-087",
+  "area": "day-12",
+  "description": "The chairperson's closing remarks refer to resuming 'at 9h30 on Thursday' and the transcript's final adjournment line reads 'INQUIRY ADJOURNS TO 16 OCTOBER 2025' — this is Thursday 16 October, consistent with the corrected ruling dates, despite an earlier passage in the ruling discussion referencing Thursday 23 October for the ruling on the in-camera dispute; the two dates are not obviously reconciled in the transcript as read and may reflect the corrected paragraph 4 (Wed 15 Oct filing deadlines, Thu 16 Oct ruling) rather than a discrepancy — flagging for cross-check against Day 13 transcript.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-088",
+  "area": "day-12",
+  "description": "Exhibit reference 'SEN2' could not be found in the transcript and may be misread.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-089",
+  "area": "day-11",
+  "description": "Header matches Day 11 / 13 October 2025 as expected; no discrepancy found.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-090",
+  "area": "day-11",
+  "description": "No substantive evidence or exhibits relating to the Commission's core workstreams (KZN political killings task team, IDAC/NPA, Matlala SAPS contract, crime intelligence) appear in this short procedural transcript, so workstream classification is approximate (assigned political-interference as the closest fit given the media/in camera dispute).",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-091",
+  "area": "day-10",
+  "description": "The transcript is only 2 pages (46 lines) long, consisting solely of the Chairperson's opening remarks and immediate adjournment; there is no substantive hearing content for Day 10 in this file.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-092",
+  "area": "day-10",
+  "description": "General Khumalo's role on or relationship to the Commission is not explained in this transcript excerpt.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-093",
+  "area": "day-9",
+  "description": "The identity of 'Deon', Mogotsi's contact who shared PERSAL/personnel and vehicle/address data, was not established on the record.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-094",
+  "area": "day-9",
+  "description": "The identity of 'Mr S' (referenced re animals kept at his plot) was not established; witness said investigation ongoing.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-095",
+  "area": "day-9",
+  "description": "Whether the 'Sibiya' referenced ('Sibiya is in Camps Bay') was Lt-Gen Sibiya was described by the witness as an inference from chat patterns, not a confirmed fact.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-096",
+  "area": "day-9",
+  "description": "The 'Khan' referenced as needing a witness to be paid for a statement, and whether this is the same Maj-Gen Khan discussed elsewhere, was not conclusively established; witness said the picture would be clarified by evidence to be led in camera.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-097",
+  "area": "day-9",
+  "description": "The identity of the 'Chief of Staff' and the number saved 'Senzo Chief' was inferred from context, not independently confirmed.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-098",
+  "area": "day-9",
+  "description": "Meaning of 'Impala' and of animals mentioned in later chats was not established (witness could only offer general/speculative commentary, which the Chairperson noted was speculation).",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-099",
+  "area": "day-8",
+  "description": "The transcript's cover page states 'HELD AT BRIGITTE MABANDLA JUSTICE COLLEGE', '29 SEPTEMBER 2025', 'DAY 8', and the body opens 'PROCEEDINGS ON 29 SEPTEMBER 2025' — this matches the expected Day 8 / 2025-09-29 date, no discrepancy found.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-100",
+  "area": "day-8",
+  "description": "The full name/title of the sitting Chairperson is not stated explicitly in the excerpted transcript (referred to throughout only as 'CHAIRPERSON'); not recorded here to avoid inventing an identity.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-101",
+  "area": "day-8",
+  "description": "A minor apparent transcription inconsistency: the witness's title is rendered inconsistently as 'LT GN KHUMALO' and later 'LT-GEN KHUMALO' / 'LT GEN KHUMALO' across the transcript — treated as the same witness throughout.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-102",
+  "area": "day-7",
+  "description": "The precise ordering/authorship relationship between Annexure C and Annexure D (report vs. presentation) remains contested between counsel and the witness and was not definitively settled on the record.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-103",
+  "area": "day-7",
+  "description": "Whether the joint NPA/SAPS presentation (Annexure D materials) was made in August or September 2019 was left slightly ambiguous after an on-record correction from 'August' to 'September.'",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-104",
+  "area": "day-6",
+  "description": "The transcript file provided (mad-day-006.txt) has no cover page or heading confirming \"Day 6\" or \"Thursday 2025/09/25\"; the document is the written witness statement of Maj-Gen PM van Rooyen with annexures VR1-VR9, and contains no oral proceedings (no chairperson dialogue, no examination transcript). The day/date assignment given to this file could not be independently confirmed from its own content.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-105",
+  "area": "day-6",
+  "description": "Whether Van Rooyen or any other witness gave oral evidence on this sitting day is unknown, as no oral hearing record appears anywhere in this file.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-106",
+  "area": "day-6",
+  "description": "The exact venue of the day's sitting is not stated in this document.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-107",
+  "area": "day-5",
+  "description": "The document's cover page (lines 15-17) labels this 'DAY 5', but the running page header throughout the transcript body reads '23 SEPTEMBER 2025 – DAY 4' on every page. This internal inconsistency in the source document itself is flagged rather than resolved.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-108",
+  "area": "day-5",
+  "description": "The precise date Minister Mchunu took office (3 July 2024 cabinet announcement vs actual assumption of office) was raised by Commissioner Khumalo but left unresolved pending later clarification.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-109",
+  "area": "day-5",
+  "description": "Whether General Sibiya's authority to remove the 121 dockets was properly authorised remains contested; Masemola's own account of an 'agreement' on docket destination was corrected under Chairperson's questioning to a Minister 'preference' rather than a genuine agreement.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-110",
+  "area": "day-3",
+  "description": "The witness's inference that General Khan was the source feeding information to Brown Mogotsi was explicitly caveated by the witness himself as unproven ('I do not have proof of it').",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-111",
+  "area": "day-3",
+  "description": "The claim that a captured/downloaded WhatsApp conversation exists between Mogotsi and Cat Matlala was described by the witness as still requiring the investigating team (not yet before the Commission) to confirm its authenticity.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-112",
+  "area": "day-3",
+  "description": "The identification of a voice in an X-platform video clip as the Minister of Police was not independently verified; the witness stated 'we have not gone deeper into investigation' when questioned by a Commissioner (Adv Baloyi SC) about verification.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-113",
+  "area": "day-2",
+  "description": "Numerous factual allegations in this day's testimony (regarding Adams, Kohler Barnard, Mogotsi/Minister Mchunu, Ekurhuleni officials, JMPD officer Magatle, Carim, Van Wyk, Rafadi, and others) are the witness's own conclusions/allegations, explicitly presented by the evidence leader and Chairperson as untested and subject to implicated-person response; none should be read as commission findings.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-114",
+  "area": "day-2",
+  "description": "The Chairperson's characterisation of Adams's initial complaint as a 'non-complaint' was expressly qualified as preliminary ('early days') and not a finding.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-115",
+  "area": "day-2",
+  "description": "Header/day metadata matches the assignment (Day 2, 18 September 2025) and was verified from the transcript's own title page and running headers throughout.",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-116",
+  "area": "day-1",
+  "description": "Mkhwanazi's conclusion at para 127/paragraph that unnamed 'someone' influenced the Minister to disband PKTT, and that Minister's associates communicated with the syndicate, was explicitly flagged by the Evidence Leader as conjecture/unsubstantiated by the witness himself, pending future evidence",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-117",
+  "area": "day-1",
+  "description": "The identity of who pressured the Chief of Staff to dispatch the Minister's letter, and who was drafting/redrafting the letter, remains unknown per the witness's own testimony",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-118",
+  "area": "day-1",
+  "description": "Exact percentage of the 121 dockets that had entries made during the period they were away from KZN was not given by the witness ('I will not give the exact percentage now')",
+  "would_resolve": "Commission transcript or ruling for this sitting day.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-119",
+  "area": "people",
+  "description": "No biography or photo for Gregory Loftus, who appears as a witness in the sample days.",
+  "would_resolve": "A profile assembled from the commission's witness statement index.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-120",
+  "area": "people",
+  "description": "No biography or photo for Ashley Houston, who appears as a witness in the sample days.",
+  "would_resolve": "A profile assembled from the commission's witness statement index.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-121",
+  "area": "people",
+  "description": "No biography or photo for Matthews Sesoko, who appears as a witness in the sample days.",
+  "would_resolve": "A profile assembled from the commission's witness statement index.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-122",
+  "area": "people",
+  "description": "No biography or photo for Commissioner Revo Spies, who appears as a witness in the sample days.",
+  "would_resolve": "A profile assembled from the commission's witness statement index.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-123",
+  "area": "people",
+  "description": "No biography or photo for I J Mapiyeye, who appears as a witness in the sample days.",
+  "would_resolve": "A profile assembled from the commission's witness statement index.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-124",
+  "area": "people",
+  "description": "No biography or photo for George Raftopoulos, who appears as a witness in the sample days.",
+  "would_resolve": "A profile assembled from the commission's witness statement index.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-125",
+  "area": "people",
+  "description": "No biography or photo for Sabelo Nkosi, who appears as a witness in the sample days.",
+  "would_resolve": "A profile assembled from the commission's witness statement index.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-126",
+  "area": "people",
+  "description": "No biography or photo for Dumisani Patrick Mbotho, who appears as a witness in the sample days.",
+  "would_resolve": "A profile assembled from the commission's witness statement index.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-127",
+  "area": "people",
+  "description": "No biography or photo for Maxwell Thulani Wanda, who appears as a witness in the sample days.",
+  "would_resolve": "A profile assembled from the commission's witness statement index.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-128",
+  "area": "people",
+  "description": "No biography or photo for Lesiba Joseph Mokoena, who appears as a witness in the sample days.",
+  "would_resolve": "A profile assembled from the commission's witness statement index.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-129",
+  "area": "people",
+  "description": "No biography or photo for Barry James Kruger, who appears as a witness in the sample days.",
+  "would_resolve": "A profile assembled from the commission's witness statement index.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-130",
+  "area": "photos",
+  "description": "No freely-licensed photograph located for 148 of 148 people; all render as initials avatars.",
+  "would_resolve": "Wikimedia Commons uploads, or official commission portraits released under a reusable licence.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-131",
+  "area": "edges",
+  "description": "58 relationship(s) were dropped from edges.json: either an endpoint was not in the node set, the strength was outside the closed list, or no source URL survived validation.",
+  "would_resolve": "Re-derive those relationships from commission evidence with citations.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-132",
+  "area": "days",
+  "description": "CONTRADICTION (medium — not a flat factual conflict, but the Tier 3 framing simplifies a decision chain the sworn Day 26 testimony describes as more distributed confidence, days 22, 26): Day 22's Tier 3 (Mail & Guardian) reporting frames the PKTT's disbandment as done 'reportedly by then-suspended police minister Senzo Mchunu', while the Day 26 sworn testimony and documentary exhibits (SDK24, SDK25) describe a more distributed process — a ministerial freezing letter followed by a separate Sibiya implementation directive, with the push for immediate (rather than gradual) disbandment attributed substantially to Sibiya and the Minister's Chief of Staff at the 6 March 2025 meeting.",
+  "would_resolve": "Re-reading the relevant transcript passages side by side, or the commission's own resolution of the point.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-133",
+  "area": "days",
+  "description": "CONTRADICTION (medium — likely incomplete reporting rather than a genuine factual dispute, but a third arrestee is consistently present in the sworn record confidence, days 17, 20): Day 20's IOL reporting_context names the Bramley suspects as 'Michael Tau and Musa Kekana' only, but Day 17's sworn testimony names three arrestees (Tau, Kekana and Floyd Tlego Danny Mabusela), and Day 20's own unverified notes caution these names were not read out in the transcript portions reviewed for that day.",
+  "would_resolve": "Re-reading the relevant transcript passages side by side, or the commission's own resolution of the point.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-134",
+  "area": "days",
+  "description": "CONTRADICTION (high — explicitly flagged within the day's own testimony as a difference between Matlala's claim and the investigators' figure confidence, days 19): Matlala reportedly described the SAPS tender at the centre of his disclosures as 'R1.2 billion', but Witness C testified investigators later found it was actually about R360 million (Day 19) — a discrepancy noted within the same day's evidence.",
+  "would_resolve": "Re-reading the relevant transcript passages side by side, or the commission's own resolution of the point.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-135",
+  "area": "days",
+  "description": "CONTRADICTION (high — a direct sworn denial of a specific quote attributed in a competing affidavit confidence, days 26): Sibiya's affidavit reportedly quotes Khumalo as saying the PKTT was 'failing to deliver on their mandate'; Khumalo denied under oath (Day 26) ever making that statement about that team, describing it as a misquote of a remark he made about a different, provincial team.",
+  "would_resolve": "Re-reading the relevant transcript passages side by side, or the commission's own resolution of the point.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-136",
+  "area": "days",
+  "description": "CONTRADICTION (high — competing documentary exhibits cited within Khumalo's sworn testimony confidence, days 26): Sibiya's 17 January 2025 letter (read into the record Day 26) cites 'an assessment' finding the PKTT no longer contributed significantly to policing, but Khumalo testified he was never shown that assessment and pointed to a March 2024 funding motivation — endorsed by Sibiya himself — praising the PKTT's performance.",
+  "would_resolve": "Re-reading the relevant transcript passages side by side, or the commission's own resolution of the point.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-137",
+  "area": "days",
+  "description": "CONTRADICTION (high — explicitly identified as a contradiction by the Chairperson on Day 24 confidence, days 22, 24): Lt-Gen Mbotho's and W/O Sabelo Nkosi's Day 24 testimony describes the North West takedown operation as still pending that evening (the reason Nkosi was 'diverted'), while Brigadier Mokoena's earlier testimony (Day 22) had described that operation as already completed with officers returning — a discrepancy the Chairperson flagged and Mbotho could not immediately resolve.",
+  "would_resolve": "Re-reading the relevant transcript passages side by side, or the commission's own resolution of the point.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-138",
+  "area": "days",
+  "description": "CONTRADICTION (high — both are sworn accounts and the tension was explicitly probed by the evidence leader on Day 20 confidence, days 17, 20): Witness B (Day 17, sworn evidence) characterised the Silverton ballistics report's omissions and later deletion as apparently deliberate interference, while Brig Mkhabela (Day 20, sworn evidence) testified — agreeing with a proposition from the evidence leader — that the paragraph-numbering/omission errors looked more consistent with sloppiness than sabotage, since the flawed report still positively linked the seized firearms to the crime scene.",
+  "would_resolve": "Re-reading the relevant transcript passages side by side, or the commission's own resolution of the point.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-139",
+  "area": "days",
+  "description": "A full, redacted transcript of the roughly 5-6 hour Matlala recording (provisional exhibit CJC5.4) was directed to be produced on Day 23 but had not been delivered by day's end; excerpts on Feroz Khan and Shibiri were confirmed to exist but were not played.",
+  "would_resolve": "Production and public filing of the full transcript.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-140",
+  "area": "days",
+  "description": "Whether Matlala's numerous bank accounts have been fully analysed remains open; his own affidavit described the analysis as incomplete at the time of deposing (Day 23).",
+  "would_resolve": "An updated forensic-accounting exhibit.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-141",
+  "area": "days",
+  "description": "Grounds for Chief Mapiyeye's own September 2024 suspension (referenced only in passing alongside a sexual-harassment matter) were never detailed (Days 27-28).",
+  "would_resolve": "The suspension letter or disciplinary charge sheet itself.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-142",
+  "area": "days",
+  "description": "The JMPD officer at the Molefe arrest scene is named 'John Mokgatle' in Day 18's key points, but the same day's unverified notes separately describe a 'JMPD superintendent' identified to the witness as 'Mahomed Hoosen' by the evidence leader — unclear whether these are the same person.",
+  "would_resolve": "Cross-checking the JMPD officer's affidavit (SDK22, referenced Day 25) against both names.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-143",
+  "area": "days",
+  "description": "Whether Julius Mkhwanazi was ever actually placed under suspension is not confirmed within the Day 27-30 transcript testimony itself (only that a pre-suspension letter was signed 20 Feb 2023); Tier 2/3 reporting later describes him as on special leave.",
+  "would_resolve": "A dated HR record or a witness's direct confirmation of the suspension's outcome.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-144",
+  "area": "days",
+  "description": "The identity of the anonymous emailer(s) alleging City Manager Mashazi protected Julius Mkhwanazi (Annexures RS25/RS26) was never established (Day 30).",
+  "would_resolve": "Forensic/IP tracing of the email accounts, if pursued by the Commission.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-145",
+  "area": "days",
+  "description": "Status of several IPID investigations referenced across the record — into cases opened against Witness C's/Khumalo's team, into the Loate/Douglasdale/Katlehong-area cases, and into Julius Mkhwanazi's blue-light conduct — was consistently unknown to the testifying witnesses (Days 17, 23, 27-29).",
+  "would_resolve": "An IPID case-status update obtained directly from IPID.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-146",
+  "area": "days",
+  "description": "Whether Lt-Gen Sibiya has SAPS-provided personal protectors was neither confirmed nor denied by Khumalo, who cited TRA classification (Day 25).",
+  "would_resolve": "A direct answer from Sibiya or a declassified TRA excerpt.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-147",
+  "area": "days",
+  "description": "The fourth SAPS officer identified in Khumalo's 16 January 2025 cartel-links briefing to Minister Mchunu was withheld from the record, citing an ongoing investigation (Day 26).",
+  "would_resolve": "Disclosure once that investigation reaches a less sensitive stage.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-148",
+  "area": "days",
+  "description": "Whether Brigadier Mokoena will be recalled, and how he reconciles his account of the North West operation's status with Mbotho's and Nkosi's, is unresolved (Day 24); his legal advisors have counselled delay pending advice on whether he is an implicated person.",
+  "would_resolve": "Mokoena's recalled testimony.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-149",
+  "area": "days",
+  "description": "Why the Bramley/Vereeniging case files were sent to the KZN ballistics lab for a parallel/duplicate analysis was never established; Brig Mkhabela said he learned of it only through Commission proceedings (Days 20-21).",
+  "would_resolve": "Testimony from whoever authorised the duplicate referral.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-150",
+  "area": "days",
+  "description": "The basis for Makgotloe's kidnapping complaint (CAS 118/01/2025) against the investigating team, and General Mulaudzi's refusal to give a statement, remain unexplained (Days 17-18).",
+  "would_resolve": "Makgotloe's or Mulaudzi's testimony, or the outcome of any review of the complaint.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-151",
+  "area": "days",
+  "description": "Whether Capt/WO Makgotloe's ballistics report errors and the deleted/backdated report versions were negligent or deliberate remains unresolved across Days 17, 20 and 21; Makgotloe has not yet testified.",
+  "would_resolve": "Makgotloe's own sworn testimony, which the Commission indicated is still to come.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-152",
+  "area": "days",
+  "description": "The reason SAPS's Cold Case Unit (via Brig Gininda's office and Col Roodt) repeatedly sought the active Vereeniging docket outside normal channels was never established (Day 17).",
+  "would_resolve": "Testimony from Brigadier Gininda or Colonel Roodt themselves, or a documented request trail.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-153",
+  "area": "days",
+  "description": "CONTRADICTION (low confidence, days 1, 2): Two figures were given for the dockets removed from the PKTT: 121 on the task team's count and 123 on the head-office audit. Mkhwanazi explained the difference on Day 2 as a counting-rule difference for 'parallel' sub-dockets merged into main dockets. The explanation was accepted and no substantive dispute survived, but the two figures continue to appear interchangeably across later days.",
+  "would_resolve": "Re-reading the relevant transcript passages side by side, or the commission's own resolution of the point.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-154",
+  "area": "days",
+  "description": "CONTRADICTION (medium confidence, days 3, 5): Masemola testified on Day 5 that he first became aware of the City of Johannesburg letter questioning Lt Gen Sibiya's suitability only when he saw it on television after Mkhwanazi's Commission testimony — not at the time of Sibiya's appointment or his later promotion to Deputy National Commissioner. The letter itself, introduced by Mkhwanazi on Day 3 as MK23, is dated 20 June 2022 and was addressed to the Minister of Police. Whether the Ministry acted on it, and whether it should have surfaced in the appointment process, was left unresolved; Mkhwanazi could not confirm the date of Sibiya's promotion or who was in office at the time.",
+  "would_resolve": "Re-reading the relevant transcript passages side by side, or the commission's own resolution of the point.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-155",
+  "area": "days",
+  "description": "CONTRADICTION (medium confidence, days 2, 7): The PKTT's characterisation of prosecutorial conduct was not borne out. Then-Minister Cele's 24 May 2019 letter to the NDPP (in evidence on Day 2) tabulated 'questionable withdrawal decisions' by KZN prosecutors, and dockets were opened against prosecutors over the manner of those decisions. Adv Harrison testified on Day 7 that a review found the prosecutors' decisions were in fact justified and no disciplinary action was taken. The Chairperson pressed her on what specifically about the 'manner' of the decisions had been objected to; her answer went to a review process not being followed rather than any substantive impropriety.",
+  "would_resolve": "Re-reading the relevant transcript passages side by side, or the commission's own resolution of the point.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-156",
+  "area": "days",
+  "description": "CONTRADICTION (high confidence, days 5): The Day 5 transcript is internally inconsistent about its own sitting-day number: the cover page reads 'DAY 5' but every running page header throughout the body reads '23 SEPTEMBER 2025 - DAY 4'. This is a defect in the source document rather than a conflict in the evidence, but it affects citation of that day's record.",
+  "would_resolve": "Re-reading the relevant transcript passages side by side, or the commission's own resolution of the point.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-157",
+  "area": "days",
+  "description": "CONTRADICTION (medium confidence, days 4, 8, 9, 15): Masemola deferred the 'three envelopes' bribery allegation to another witness on Day 4, describing it as hearsay from his side and saying 'I am sure General Khumalo could talk more on that'. Khumalo did not address the envelopes in his evidence on Days 8 or 9. First-hand evidence of the allegation arrived only on Day 15, from Witness A, who attributed the reference to Maj-Gen Shibiri — a different source from the one Masemola had pointed the Commission to.",
+  "would_resolve": "Re-reading the relevant transcript passages side by side, or the commission's own resolution of the point.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-158",
+  "area": "days",
+  "description": "CONTRADICTION (high confidence, days 2, 3, 5, 9): Minister Mchunu denied knowing Brown Mogotsi at the Parliamentary Portfolio Committee on 5 March 2025, and per Masemola repeated that denial afterwards to Masemola and Deputy Ministers Mathale and Boshielo. Against that denial stand Mkhwanazi's Day 2 allegation that the Minister acknowledged Mogotsi as a 'comrade' in a recorded private call, and the Day 9 Signal messages from Mogotsi to a contact saved on his phone as 'Senzo Mchunu'. The underlying fact remains untested: Mkhwanazi conceded on Day 3 that he cannot confirm the saved contact is the Minister because neither phone had been examined by investigators.",
+  "would_resolve": "Re-reading the relevant transcript passages side by side, or the commission's own resolution of the point.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-159",
+  "area": "days",
+  "description": "CONTRADICTION (high confidence, days 5): Two opposed accounts of the President's position on disbandment sit in Masemola's Day 5 evidence. Masemola relayed the Minister's assertion that the President was in agreement that the PKTT be disbanded; Masemola immediately contradicted it from his own knowledge, testifying that when he briefed the President on 1 February 2025 the President was 'quite taken aback' to learn the team was being disbanded with no reasons given, and said he would speak to the Minister. Masemola noted of the Minister's claim, 'it is him saying it. So I would not know whether what he is saying is true or not.'",
+  "would_resolve": "Re-reading the relevant transcript passages side by side, or the commission's own resolution of the point.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-160",
+  "area": "days",
+  "description": "CONTRADICTION (high confidence, days 8): Khumalo's PKTT 'success' statistics do not reconcile arithmetically. The Chairperson pointed out that adding the 34 'not guilty' outcomes to the 82 'withdrawn' outcomes gives 116, against only 83 convictions, and asked how the figures support the claimed success rate. The witness acknowledged the presentation understated nuance (multiple accused per case) and needed to be more detailed, but no corrected figures were produced within Days 1-15.",
+  "would_resolve": "Re-reading the relevant transcript passages side by side, or the commission's own resolution of the point.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-161",
+  "area": "days",
+  "description": "CONTRADICTION (medium confidence, days 5, 8): Lt-Gen Khumalo testified on Day 8 that from the PKTT's point of view 'we have not received any official complaint', attributing criticism to media allegations only. That sits uneasily with Masemola's Day 5 evidence listing repeated complaints by Prof Mary De Haas, and with Commissioner Baloyi's Day 8 question putting the former Sergeant Dlamini matter — a complaint about PKTT conduct that led to a criminal conviction — directly to Khumalo. Khumalo treated the Dlamini matter as an internal employer-employee issue rather than a complaint, and the tension was not fully reconciled.",
+  "would_resolve": "Re-reading the relevant transcript passages side by side, or the commission's own resolution of the point.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-162",
+  "area": "days",
+  "description": "CONTRADICTION (high confidence, days 4, 8): Minister Mchunu's 31 December 2024 letter states the PKTT was established following the Moerane Commission report. Masemola testified on Day 4 that this is factually wrong — 'This team was not established as a result of the Moerane Commission' — since the Moerane report came out in September 2018 and the team was already in place because of the murders. Khumalo's Day 8 evidence is to the same effect, that the PKTT predated the Moerane findings. Masemola said he does not know the source of the claim in the Minister's letter.",
+  "would_resolve": "Re-reading the relevant transcript passages side by side, or the commission's own resolution of the point.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-163",
+  "area": "days",
+  "description": "CONTRADICTION (medium confidence, days 1, 2, 7): The record carries two different sets of dates for the physical removal of the PKTT dockets to Pretoria. Adv Motau SC's Day 1 opening timeline and Mkhwanazi's evidence give 26 March 2025 (118 dockets to Lt Gen Senthumule) and 10 April 2025 (a further 3 dockets), totalling 121. On Day 7 Adv Chaskalson SC put to Adv Harrison that the dockets went 'in two stages on the 28th of March and the 22nd of April' and she answered 'That is correct'. The 22 April date coincides with Sibiya's follow-up letter directing that the transfer be finalised by 24 April, so the two accounts may be conflating letter dates with handover dates, but they were never reconciled on the record.",
+  "would_resolve": "Re-reading the relevant transcript passages side by side, or the commission's own resolution of the point.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-164",
+  "area": "days",
+  "description": "CONTRADICTION (high confidence, days 3, 5, 6): Lt Gen Sibiya's 4 February 2025 letter to Lt Gen Senthumule states that he was acting on the instruction of the Minister of Police in disbanding the Task Team and determining what should happen to its dockets. The National Commissioner's affidavit in Sibiya's own Pretoria High Court application (Case No 123874/2025) states the handover of dockets was done without the National Commissioner's authority, and Masemola testified he never authorised it. Van Rooyen's statement flags this conflict expressly and does not resolve it.",
+  "would_resolve": "Re-reading the relevant transcript passages side by side, or the commission's own resolution of the point.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-165",
+  "area": "days",
+  "description": "CONTRADICTION (high confidence, days 5): Masemola initially told the Commission there had been an 'agreement' at the 6 March 2025 Cape Town meeting that dockets should go to their stations of origin. Under sustained questioning from the Chairperson he corrected himself: he and the Deputy National Commissioner for Policing had favoured the KZN Murder and Robbery Unit, the Minister and Chief of Staff Nkabinde overruled that view, and the correct characterisation was the Minister's 'preferred course', not an agreement.",
+  "would_resolve": "Re-reading the relevant transcript passages side by side, or the commission's own resolution of the point.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-166",
+  "area": "days",
+  "description": "CONTRADICTION (high confidence, days 4): Masemola's own witness statement carries two incompatible characterisations of the same allegation against Lt Gen Sibiya. Paragraph 121 states as apparent fact that Sibiya 'was included as one of the senior SAPS officers involved with criminal syndicate'; paragraph 179.5 describes the same allegations as 'unsubstantiated' and requiring further criminal investigation. Under Adv Motau SC's questioning Masemola directed the Commission to treat 179.5 as the operative version; Commissioner Baloyi noted the two versions may not be strictly reconcilable.",
+  "would_resolve": "Re-reading the relevant transcript passages side by side, or the commission's own resolution of the point.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-167",
+  "area": "days",
+  "description": "CONTRADICTION (high confidence, days 4): Lt Gen Masemola testified early on Day 4 that he would categorically refuse any Ministerial instruction straying into operational matters ('if it is clear that it is not his, then I will not obey it'), yet later the same day accepted the Minister's disbandment instruction in a modified, phased form. The Chairperson put the inconsistency to him directly ('But you yourself had actually relented') and Masemola conceded he had relented in substance, while maintaining the PKTT had never in fact been disbanded.",
+  "would_resolve": "Re-reading the relevant transcript passages side by side, or the commission's own resolution of the point.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-168",
+  "area": "days",
+  "description": "The evidentiary basis for treating certain WhatsApp messages as forwarded was not examined on the record. The Chairperson questioned how the Commission could tell a message was forwarded when the display software did not flag forwarding as the application normally does; the Evidence Leader explained reliance on a separate metadata spreadsheet that was not itself examined in the hearing. Commissioner Baloyi separately noted on Day 15 that WhatsApp exhibit captions attributing messages to particular senders were not clearly corroborated by the message bodies.",
+  "would_resolve": "Examination of the extraction metadata and a systematic explanation of the annexure numbering and attribution methodology, which Adv Segeels-Ncube was asked on Day 15 to provide.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-169",
+  "area": "days",
+  "description": "The status and outcome of several parallel processes referenced in evidence are unknown to the witnesses: the IDAC investigation into the referred dockets; the IPID investigation into the Minister's alleged interference complaint in the Empangeni matter; the DPCI Head appointment process after the advertised post was withdrawn; and the charge sheet for Lt Gen Sibiya's disciplinary hearing, which Masemola said he deliberately does not know in order to preserve the neutrality of that process.",
+  "would_resolve": "Status reports from IDAC, IPID and SAPS Human Resources, and the disciplinary charge sheet once served.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-170",
+  "area": "days",
+  "description": "The Day 6 record consists solely of Major-General van Rooyen's written statement and annexures VR1-VR9. It contains no oral hearing transcript — no Chairperson dialogue and no examination — so whether her legal opinion that the directive was unlawful executive overreach was orally led, questioned or tested on that sitting day cannot be established from the record. Her statement also closes with a note that a further statement may follow, which does not appear in Days 7 to 15.",
+  "would_resolve": "The oral transcript for the 25 September 2025 sitting, if one exists, and the further statement her statement foreshadows.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-171",
+  "area": "days",
+  "description": "Whether the Minister's directive was ever actually implemented as to personnel, as distinct from dockets, was asked by Commissioner Khumalo SC on Day 1 and expressly deferred. Across Days 2 to 9 the position remained that no witness had sent a disbandment instruction onward, that the team continued operating with reduced personnel reportedly for budgetary reasons, and that the team had never in fact been disbanded — yet Sibiya's 4 February 2025 letter directed deactivation and disbandment. The operative status of the team through 2025 is not clearly established.",
+  "would_resolve": "Establishment records, personnel postings and budget approvals for the PKTT across 2025, and evidence from Lt Gen Sibiya and Lt Gen Senthumule on what was done in consequence of the letters.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-172",
+  "area": "days",
+  "description": "The docket figures and removal dates remain unreconciled across the record: 121 on the task team's count against 123 on the head-office audit, and removal on 26 March and 10 April per Days 1 and 2 against 28 March and 22 April per Day 7. It is also unresolved what proportion of the dockets had any entry made while at head office — Mkhwanazi declined to give a percentage — and whether the five dockets with outstanding J50 arrest warrants suffered irremediable prejudice.",
+  "would_resolve": "Production of the head-office audit itself, together with the handover registers bearing actual dates of physical transfer and return.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-173",
+  "area": "days",
+  "description": "The PKTT's claimed effectiveness has not been substantiated in a form the Commission can use. The Chairperson pressed Mkhwanazi on Day 1 for a comparator against which the 'unmatched success rate' could be measured, questioned the raw docket-finalisation figures with Masemola on Day 4, and showed on Day 8 that Khumalo's figures do not reconcile (34 not guilty plus 82 withdrawn against 83 convictions). Adv Harrison offered on Day 7 to obtain historical and comparative finalisation and success-rate figures for PKTT prosecutions, but they were not produced.",
+  "would_resolve": "Production of the comparative statistics Adv Harrison offered, and a corrected, case-level breakdown from Lt-Gen Khumalo distinguishing outcomes per accused from outcomes per case.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-174",
+  "area": "days",
+  "description": "Witnesses B and C were provided for in the amended Day 15 ruling but had not testified by the end of Day 15. Witness B is referenced throughout Witness A's evidence as the co-investigator who was present at the Shibiri meeting, who declined to give a report over the phone, and to whom a senior officer at the second gathering allegedly 'made means to get through'.",
+  "would_resolve": "The evidence of Witnesses B and C, which would test Witness A's account of the meeting, the gatherings and the approaches to the investigating team.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-175",
+  "area": "days",
+  "description": "The 'three envelopes' bribery allegation remains untested and its chain of custody is unclear. Masemola relayed it as hearsay on Day 4 and pointed the Commission to General Khumalo, who did not address it on Days 8 or 9. Witness A gave first-hand evidence of it on Day 15, attributing it to Maj-Gen Shibiri. Masemola testified he does not know whether any case was opened on the allegation.",
+  "would_resolve": "Evidence from Maj-Gen Shibiri, from Witness B (the co-investigator present at the meeting), and confirmation of whether any criminal or disciplinary case was registered.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-176",
+  "area": "days",
+  "description": "Several people named in the chat evidence were never identified: 'Deon', who supplied PERSAL personnel and vehicle and address data to Mogotsi; 'Mr S', referenced in connection with animals kept at his plot; the 'Cele' whose contact card Maj-Gen Senona sent to Matlala; and the person referred to only as 'him' in an exchange about a complaint to the Minister via Mr Kareem. Whether 'Sibiya' and 'Khan' in particular chats refer to the SAPS officers of those names was described by the witness as inference, not established fact.",
+  "would_resolve": "The supplementary statement Adv Hassim SC undertook on Day 12 to obtain, subscriber and metadata analysis, and the further evidence the witness said would be led in closed session.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-177",
+  "area": "days",
+  "description": "Whether the identity behind the contact saved as 'Senzo Mchunu' on Brown Mogotsi's phone is in fact the Minister of Police has never been established. Mkhwanazi conceded on Day 3 that he cannot confirm it because neither Mogotsi's nor the Minister's handset had been examined by investigators, and the Day 9 chat evidence rests on the same saved-contact name. The identification of a voice in a social-media video clip as the Minister was likewise not independently verified.",
+  "would_resolve": "Forensic examination of the handsets and subscriber records, or direct evidence from the Minister or Mr Mogotsi.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-178",
+  "area": "days",
+  "description": "The Chairperson's question on Day 13 — what evidentiary value in-camera evidence carries if the parallel police investigations are not finalised before the Commission concludes, so that implicated persons never get to answer it — was met with an assurance rather than a mechanism. Adv Chaskalson SC said the Commission was 'hoping and confident' the situation would not arise and undertook that no findings would be made against any person on the basis of secret information that could not be put to them, but identified no fallback procedure.",
+  "would_resolve": "A stated procedure for what happens to in-camera material that cannot be disclosed in time — for example a ruling that such evidence is excluded from the findings, or a mechanism for late disclosure and response.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-179",
+  "area": "days",
+  "description": "Day 14 has no published transcript because the Commission ruled on Day 13 that the hearings on that day and the next would be held in camera, the media respondents having withdrawn their opposition. The substantive evidence of Day 13 was likewise heard in camera and is absent from the public record.",
+  "would_resolve": "Public release of the in-camera transcripts once the underlying police investigations permit, as contemplated by the Day 12 ruling and by Adv Chaskalson SC's Day 13 undertaking that the material would become public before the Commission concludes its business.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-180",
+  "area": "days",
+  "description": "The Minister's stated reason for disbanding the PKTT — that following an assessment it was 'no longer required nor adding any value' — was never explained. Masemola testified he repeatedly asked and does not know what assessment was performed, when, or by whom. The letter's recital that the PKTT was established following the Moerane Commission report was shown by two witnesses to be factually wrong, and no witness could account for how that claim entered the letter.",
+  "would_resolve": "Evidence from the Minister, his Chief of Staff, or whoever drafted the letter, identifying the assessment relied on and the source of the Moerane recital.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-181",
+  "area": "days",
+  "description": "Maj Gen Anthony Gopaul's affidavit — the source of the allegation that the Minister applied direct pressure over an iLembe councillor murder docket — was placed before the Commission unsigned on Day 3, with the Evidence Leaders stating they were trying to track down the signed original. It was never produced in Days 4 to 15, and Gopaul did not testify.",
+  "would_resolve": "Production of the signed affidavit, or oral evidence from Maj Gen Gopaul, which would move the allegation from an unsigned document to tested testimony.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-182",
+  "area": "days",
+  "description": "The IMC minutes said to corroborate the Inter-Ministerial Committee's approval of and support for the PKTT strategy were never produced. On Day 1 the Evidence Leader said a declassification process had been initiated; on Day 2 the position was unchanged. No IMC minutes appear anywhere in Days 3 to 15.",
+  "would_resolve": "Completion of the declassification process and tender of the IMC minutes as an exhibit, which would test the witnesses' accounts of the executive mandate under which the PKTT was created and extended.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-183",
+  "area": "days",
+  "description": "No implicated person had responded at the Commission by the end of Day 15. The Chairperson placed on record on Day 2 that, because the first witness statement was finalised the day before hearings began, implicated-person notices could not go out before testimony started, and directed that notices, transcripts and underlying statements be sent. On Day 8, when a fresh set of individuals was named (Mogotsi, Senona, Julius Mkhwanazi, Rafadi, Kareem, and by implication the Minister, his Chief of Staff and Lt Gen Sibiya), Adv Hassim SC confirmed notices had still not been issued but were in preparation.",
+  "would_resolve": "Confirmation on the record of which notices were actually served and when, followed by Phase 2 of the Commission's stated three-phase process, in which implicated persons respond and cross-examination is permitted.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-184",
+  "area": "days",
+  "description": "Day 164 — Tier 1 and Tier 2/3 conflict. The commission's own hearings index does NOT list a Day 164. Its most recent August entry is Day 163 on 20 August 2026. SABC News, SABC+ and YouTube all carry 'Day 164' material dated Friday 21 August 2026, and Tier 2/3 reporting describes Adams continuing his evidence that day. A sitting on 21 August is well attested. Whether it is numbered 164 is not confirmed by Tier 1, most likely because the commission's index had not yet been updated when it was read.",
+  "would_resolve": "Re-reading the commission's hearings index after it publishes the 21 August entry.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-185",
+  "area": "days",
+  "description": "Day 159 — Tier 1 and Tier 2/3 conflict. The commission's own hearings index records the Day 159 witness as 'Mr Carrim', with evidence leaders Adv Hassim SC and Adv Premhid. Tier 2 and Tier 3 reporting (TimesLIVE, Daily Maverick) says Carrim did NOT appear on 14 August and that the commission resolved to set a criminal process in motion over his non-compliance; a Sunday World item places Adv Drushantha Ramsamy at the commission that day. Adv Premhid is described in reporting as Carrim's counsel, not an evidence leader. Unresolved. The commission's index may be recording whose matter was before it rather than who took the stand. Both readings are held; neither is presented as settled.",
+  "would_resolve": "The Day 159 transcript, downloadable from the commission's own page for 2026/08/14.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-186",
+  "area": "days",
+  "description": "Tier 1 transcripts and audio exist for every sitting day and are downloadable from the commission's own per-day pages, but none has yet been read. Every day summary on this site still rests on Tier 2/3 reporting.",
+  "would_resolve": "Downloading and reading the per-day transcripts, which would move day summaries, quotations and exhibit references from REPORTING to EVIDENCE.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-187",
+  "area": "days",
+  "description": "The commission's index lists Day 154 (2026/08/05, Drushantha Ramsamy) and Day 153 (2026/08/04, Adv Peter Serunye), which this scaffold does not hold. The sample of ten days is therefore Days 155–164 by broadcaster numbering, which Tier 1 only confirms to 163.",
+  "would_resolve": "Phase 2 back-fill from Day 1.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-188",
+  "area": "days",
+  "description": "No formal exhibit numbering was recoverable except a single reference to a document marked 'A1'. Exhibit references are generally not carried in news reports.",
+  "would_resolve": "Daily transcripts or the commission's exhibit bundle index.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-189",
+  "area": "days",
+  "description": "The surname-only reference to the deceased taxi industry figure whose device evidence was led on Day 161 reflects an unresolved first-name conflict ('Jotham' vs 'Mswazi').",
+  "would_resolve": "The commission's transcript for 18 August 2026, or a Tier 1/2 report giving the full name.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-190",
+  "area": "days",
+  "description": "No sitting occurred on Saturday 22 August 2026. Matlala's evidence was scheduled to resume on Monday 24 and Tuesday 25 August 2026, and a filing deadline of 18:00 on 22 August was set, but these were future events not verified as having occurred.",
+  "would_resolve": "Reporting from 24 August 2026 onward.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-191",
+  "area": "people",
+  "description": "No photographs could be verified. Wikimedia Commons file pages and the Wikipedia API were not retrievable from this environment (Commons returned 'cache-only', the API returned HTTP 403, and Commons category/search pages required a permission grant). One Commons file page URL for Cyril Ramaphosa appeared verbatim in search results, but neither its licence nor a direct upload.wikimedia.org URL could be confirmed, so all photo fields are null.",
+  "would_resolve": "A single fetch of the relevant Wikimedia Commons file pages (or the MediaWiki pageimages API) to read the direct file URL and licence template for each subject.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-192",
+  "area": "people",
+  "description": "The commission's own site, criminaljusticecommission.org.za, is JavaScript-rendered. Its landing page fetched but returned no content; /about.php and /hearing.php returned 404. No official witness list, hearing calendar, transcript or exhibit index could be obtained from Tier 1.",
+  "would_resolve": "Rendering the site with a headless browser, or locating the commission's PDF transcript/exhibit downloads or its media statements via a static endpoint.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-193",
+  "area": "people",
+  "description": "Three of the six required status labels do not fit central non-witness, non-implicated public officials — notably President Cyril Ramaphosa, acting Minister of Police Firoz Cachalia, and acting National Commissioner Puleng Dimpane. They are therefore recorded only through the 'presidency' and 'ministry-of-police' org entries and in events, not in `people`.",
+  "would_resolve": "Adding a neutral label such as 'Public official (not implicated)' to the closed list, or confirming whether any of them has given evidence to the commission.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-194",
+  "area": "people",
+  "description": "The identities and institutional roles of the protected witnesses (Witness G, and the 'Witness X', 'Witness C', 'Witness E' and 'Witness F' referred to in reporting) are withheld, and Witness G's in-camera evidence is not public. Only Witness G could be included with enough sourcing.",
+  "would_resolve": "Publication of a redacted transcript or a commission ruling describing each protected witness's role in general terms.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-195",
+  "area": "people",
+  "description": "Full names for the nine Ekurhuleni officials and nine suspended SAPS bid-committee officers referred by the commission could not be verified. News24's summary named six Ekurhuleni officials (including Bafana Twala, Aiden McKenzie and Linda Gxasheka) but the retrieved text did not attribute a specific role or reason to each, so only the best-corroborated names were included.",
+  "would_resolve": "Access to the full text of the first interim report, or a fully retrievable version of the Daily Maverick arrests list (2026-05-12), which was only partially readable.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-196",
+  "area": "people",
+  "description": "Advocate Andrew Chauke, Gauteng South Director of Public Prosecutions, features in August 2026 evidence about an alleged IDAC/NPA probe into his communications, but the same source records that he was cleared by a fitness-for-office inquiry. Applying any 'Implicated' label from the closed list would misstate his position, so he is excluded from `people`.",
+  "would_resolve": "Confirmation of whether the commission itself has made any adverse finding or invitation to respond regarding him.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-197",
+  "area": "people",
+  "description": "Former Police Minister Bheki Cele appears in one secondary summary of Masemola's September 2025 testimony as having been implicated, but this rests on a single summarised bullet and could not be corroborated; his verified July 2026 testimony was to the separate Khampepe Commission, not this one. He is therefore excluded.",
+  "would_resolve": "A transcript or direct-quote report of what Masemola said about Cele at the Madlanga Commission.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-198",
+  "area": "people",
+  "description": "Wikipedia's Madlanga Commission article referred to a 'Witness D' identified as Marius van der Merwe, to a police informant named Jaco Hanekom, and to a 'Rovo Spies'. None of these could be corroborated in Tier 1–3 sources, so they were not carried into this roster.",
+  "would_resolve": "Corroboration from commission transcripts or contemporaneous Tier 1–3 reporting.",
+  "logged": "2026/08/25"
+ },
+ {
+  "id": "gap-199",
   "area": "people",
   "description": "Dates are approximate for a few entries: Rachel Matjeng's testimony is fixed only to February 2026, Julius Mkhwanazi's commission appearance to 14 April 2026 (inferred from a News24 headline slug rather than fetched body text), and the second interim report's delivery date (29 May 2026 per The Citizen) differs from the 6 August 2026 date on which the Presidency noted it.",
   "would_resolve": "The commission's published hearing calendar or the report cover dates.",
-  "logged": "2026/08/23"
+  "logged": "2026/08/25"
  }
 ]
