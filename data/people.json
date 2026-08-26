@@ -2432,6 +2432,36 @@
   ]
  },
  {
+  "id": "lieutenant-colonel-kelebogile-thepa",
+  "name": "Lieutenant Colonel Kelebogile Thepa",
+  "initials": "LC",
+  "role": "EMPD spokesperson and Head of the EMPD Media and Public Relations Unit at the relevant time (2021-2024); subsequently redeployed as Precinct Commander, OR Tambo International Airport; currently reporting to Colonel Du Plessis in the Office of the Chief of Police pending Commission attendance",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 33.",
+  "bio": null,
+  "first_appearance": "2025/11/14",
+  "linked_days": [
+   33
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/11/14",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
+ },
+ {
   "id": "linda-gxasheka",
   "name": "Linda Gxasheka",
   "initials": "LG",
@@ -2953,6 +2983,36 @@
   "photo_mode": "initials"
  },
  {
+  "id": "mary-cockey-motsepe",
+  "name": "Mary Cockey Motsepe",
+  "initials": "MC",
+  "role": "Major-General; National Component Head, Serious and Violent Crime Investigations, SAPS Detective and Forensic Services Division, reporting to Lt-Gen Senthumule and Lt-Gen Sibiya",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 34.",
+  "bio": null,
+  "first_appearance": "2025/11/17",
+  "linked_days": [
+   34
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/11/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
+ },
+ {
   "id": "mary-motsepe",
   "name": "Mary Motsepe",
   "initials": "MM",
@@ -3296,6 +3356,36 @@
   "photo_mode": "initials"
  },
  {
+  "id": "mr-xolani-prince-nciza",
+  "name": "Mr Xolani (Prince) Nciza",
+  "initials": "MX",
+  "role": "Former Divisional Head: Employee Relations, City of Ekurhuleni (EMPD); witness statement author, continuing testimony from prior day(s)",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 31.",
+  "bio": null,
+  "first_appearance": "2025/11/12",
+  "linked_days": [
+   31
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/11/12",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
+ },
+ {
   "id": "ms-bouwer",
   "name": "Ms Bouwer",
   "initials": "MB",
@@ -3603,6 +3693,36 @@
    "Full biographical background"
   ],
   "photo_mode": "initials"
+ },
+ {
+  "id": "ntate-paul-khumalo",
+  "name": "Ntate Paul Khumalo",
+  "initials": "NP",
+  "role": "Lieutenant-Colonel; former PKTT TACJOC and MAJOC (combat) commander from the PKTT's 2018 inception until 2025, now at SAPS head office",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 34.",
+  "bio": null,
+  "first_appearance": "2025/11/17",
+  "linked_days": [
+   34
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/11/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
  },
  {
   "id": "nthabiseng-nzama",
@@ -4770,6 +4890,36 @@
   "photo_mode": "initials"
  },
  {
+  "id": "witness-d",
+  "name": "Witness D",
+  "initials": "WD",
+  "role": "Serving EMPD member; application granted for partial in-camera, remote testimony with name and image withheld, matching the format used for Witnesses A, B and C; testimony deferred to the next sitting day (17 November 2025) and not given on Day 33",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 33.",
+  "bio": null,
+  "first_appearance": "2025/11/14",
+  "linked_days": [
+   33
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/11/14",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
+ },
+ {
   "id": "witness-g",
   "name": "Witness G",
   "initials": "WG",
@@ -4841,6 +4991,36 @@
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
+ },
+ {
+  "id": "xolani-nciza",
+  "name": "Xolani Nciza",
+  "initials": "XN",
+  "role": "Former Divisional Head: Employee Relations, City of Ekurhuleni Metropolitan Municipality; dismissed March 2024; testified over multiple days",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 32.",
+  "bio": null,
+  "first_appearance": "2025/11/13",
+  "linked_days": [
+   32
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/11/13",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
  },
  {
   "id": "xolani-prince-nciza",

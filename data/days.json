@@ -928,6 +928,625 @@
   "reporting_context": []
  },
  {
+  "id": "day-034",
+  "day_number": 34,
+  "day_number_verified": true,
+  "date": "2025/11/17",
+  "weekday": "Monday",
+  "workstream": "kzn-pktt",
+  "witnesses": [
+   {
+    "person_id": "mary-cockey-motsepe",
+    "name": "Mary Cockey Motsepe",
+    "role_as_described": "Major-General; National Component Head, Serious and Violent Crime Investigations, SAPS Detective and Forensic Services Division, reporting to Lt-Gen Senthumule and Lt-Gen Sibiya",
+    "note": "testified"
+   },
+   {
+    "person_id": "ntate-paul-khumalo",
+    "name": "Ntate Paul Khumalo",
+    "role_as_described": "Lieutenant-Colonel; former PKTT TACJOC and MAJOC (combat) commander from the PKTT's 2018 inception until 2025, now at SAPS head office",
+    "note": "testified"
+   }
+  ],
+  "summary": "Day 34 dealt with the handover of the 121 (later found to be 123) dockets between the KZN Political Killings Task Team (PKTT) and SAPS head office in Pretoria. Maj-Gen Mary Motsepe, National Component Head for Serious and Violent Crime Investigations, testified first (led by Adv Pooe), describing how the dockets arrived at head office on 28 March 2025 ostensibly for a one-day audit, then sat largely untouched for months amid funding disputes, before her team was instructed to investigate them after Lt-Gen Mkhwanazi refused to take them back into KZN. Lt-Col Ntate Paul Khumalo, a former PKTT commander now at head office, testified in the afternoon (led by Adv Hassim SC) about the PKTT's investigative methodology, the disruptive effect of the 31 December 2024 disbandment letter, the rushed and \"messy\" March 2025 handover, and the PKTT's loss of specialist capacity (98 to 56 members) after the dockets were eventually returned to KZN in August 2025.",
+  "rulings": [
+   {
+    "description": "Directed evidence leaders to identify documents descriptively rather than by running exhibit numbers, noting exhibit numbering had rarely been used for a long stretch of the Commission's proceedings; evidence leaders agreed but continued to also mark items as exhibits for the record (e.g., Exhibit 33).",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/17",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": "Exhibit 33",
+    "description": "Witness statement and annexures of Colonel Israel Mdluli, including IM1 (attendance register for the 28 March 2025 docket audit at Crime Intelligence) and IM2 (the audit process/signatories)."
+   },
+   {
+    "ref": "MCM1 / SMCM1",
+    "description": "Motsepe's draft executive-summary inspection report (6 June 2025) motivating for budget and direction from Generals Sibiya and Senthumule."
+   },
+   {
+    "ref": "MCM2 / MCM3 / MCM4",
+    "description": "Motsepe's information notes requesting additional funding and flagging missing statements in three dockets (Umlazi, Greytown, Mthatha), including a revised version signed by Brig Kgopodithata."
+   },
+   {
+    "ref": "NPK1",
+    "description": "Khumalo's pre-handover table (March 2025) recording each of the 121 dockets' background, evidence, suspects and outstanding remarks."
+   },
+   {
+    "ref": "NPK2",
+    "description": "Khumalo's table reproducing head office's August 2025 inspection/audit comments for each returned docket."
+   },
+   {
+    "ref": "NPK3",
+    "description": "Physical bundle of sample dockets (e.g. Alice and Amanzimtoti cases) examined page-by-page in testimony."
+   },
+   {
+    "ref": "NPK4",
+    "description": "The Sunday World article reporting on Motsepe's leaked draft audit report."
+   },
+   {
+    "ref": "NPK6",
+    "description": "Sample PKTT daily/weekly 'tasking' log slides used to show investigative work not reflected in docket SAP5 diaries."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "the dockets were not gathering dust",
+    "speaker": "Maj-Gen Motsepe",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/17",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "it is not true",
+    "speaker": "Maj-Gen Motsepe",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/17",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "I will accept that, Commissioner, if you say it is true",
+    "speaker": "Maj-Gen Motsepe",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/17",
+    "tier_label": "REPORTING",
+    "words": 11
+   },
+   {
+    "text": "the dockets were gathering dust",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/17",
+    "tier_label": "REPORTING",
+    "words": 5
+   },
+   {
+    "text": "It just does not make sense",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/17",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "the handing over was messy",
+    "speaker": "Lt-Col Khumalo",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/17",
+    "tier_label": "REPORTING",
+    "words": 5
+   },
+   {
+    "text": "it torn them apart",
+    "speaker": "Lt-Col Khumalo",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/17",
+    "tier_label": "REPORTING",
+    "words": 4
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/11/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Whether the Mthatha docket audit finding of 88 'missing' statements was fully resolved; Khumalo said the statements were later located in a safe but had not formally corrected head office's audit record.",
+   "The precise substance and effect of commentator Mary De Haas's public remarks referenced in connection with a prosecutor-recusal application; Khumalo said he needed to confirm the facts."
+  ],
+  "reporting_context": [
+   {
+    "claim": "Day 34 of the Madlanga Commission centred on the 121 dockets handed between the KZN Political Killings Task Team and SAPS head office.",
+    "url": "https://www.ewn.co.za/2025/11/17/madlanga-commission-121-dockets-from-kzn-pktt-take-centre-stage",
+    "publisher": "EWN",
+    "tier": 2,
+    "retrieved": "2026/08/25",
+    "partial": true
+   },
+   {
+    "claim": "Reported that the Commission heard of serious discrepancies in at least 120 of the dockets probed by the KZN PKTT.",
+    "url": "https://www.ewn.co.za/2025/11/17/madlanga-commission-hears-that-at-least-120-dockets-probed-by-kzn-pktt-had-serious-discrepancies",
+    "publisher": "EWN",
+    "tier": 2,
+    "retrieved": "2026/08/25",
+    "partial": true
+   },
+   {
+    "claim": "Reported that a SAPS head confirmed the 121 KZN political-killing case dockets sat idle in Pretoria.",
+    "url": "https://iol.co.za/news/politics/2025-11-17-saps-head-confirms-121-kzn-political-killing-cases-sat-idle-in-pretoria-madlanga-commission/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/08/25",
+    "partial": true
+   },
+   {
+    "claim": "Reported that the Namhla Mtwa case was among the 121 PKTT dockets described in testimony as 'gathering dust'.",
+    "url": "https://www.timeslive.co.za/news/2025-11-17-namhla-mtwas-case-among-121-pktt-dockets-gathering-dust-commission-hears/",
+    "publisher": "TimesLIVE",
+    "tier": 2,
+    "retrieved": "2026/08/25",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-033",
+  "day_number": 33,
+  "day_number_verified": true,
+  "date": "2025/11/14",
+  "weekday": "Friday",
+  "workstream": "kzn-pktt",
+  "witnesses": [
+   {
+    "person_id": "lieutenant-colonel-kelebogile-thepa",
+    "name": "Lieutenant Colonel Kelebogile Thepa",
+    "role_as_described": "EMPD spokesperson and Head of the EMPD Media and Public Relations Unit at the relevant time (2021-2024); subsequently redeployed as Precinct Commander, OR Tambo International Airport; currently reporting to Colonel Du Plessis in the Office of the Chief of Police pending Commission attendance",
+    "note": "testified"
+   },
+   {
+    "person_id": "witness-d",
+    "name": "Witness D",
+    "role_as_described": "Serving EMPD member; application granted for partial in-camera, remote testimony with name and image withheld, matching the format used for Witnesses A, B and C; testimony deferred to the next sitting day (17 November 2025) and not given on Day 33",
+    "note": "testified"
+   }
+  ],
+  "summary": "On Day 33 (14 November 2025) the Commission heard evidence from Ekurhuleni Metro Police Department (EMPD) spokesperson Lieutenant Colonel Kelebogile Thepa, led by Adv Motlhasedi, concerning her handling of 2023 media enquiries from journalist Jeff Wicks about a \"blue lights\" letter signed by Brigadier JD Mkhwanazi that purportedly authorised a private security firm, CAT VIP, to provide EMPD-marked VIP protection services, in a matter linked to Vusimuzi \"Cat\" Matlala. Thepa testified about two subsequent armed abductions she believes were connected to her work, a City-wide communications restructuring that centralised and later disbanded the EMPD media unit, her redeployment without a written order, and unsuccessful internal grievance proceedings. At the close of the day, evidence leader Adv Sello SC applied for a further EMPD member, designated \"Witness D,\" to testify anonymously and remotely at the next sitting; the Commission granted the application and adjourned to 17 November 2025.",
+  "rulings": [
+   {
+    "description": "Granted the application by Adv Sello SC for the next EMPD witness to testify remotely and anonymously, with name and image withheld, as 'Witness D' — the same partial in-camera format previously used for Witnesses A, B and C — citing the sensitivity of the evidence.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/14",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": "KX1",
+    "description": "Curriculum vitae of Lt-Col Kelebogile Thepa, attached to her witness statement"
+   },
+   {
+    "ref": "KX2",
+    "description": "\"Letter of Confirmation\" dated 16 October 2021, signed by Brigadier JD Mkhwanazi, describing a working relationship/MOU between EMPD and private firm CAT VIP and listing seven vehicles"
+   },
+   {
+    "ref": "KX3",
+    "description": "E-mail chain: Jeff Wicks' media enquiry to Thepa (2 Feb 2023) and Commissioner Revo Spies' internal response ('Request for comments, News24 investigation'), colour-coded questions and answers"
+   },
+   {
+    "ref": "KX5",
+    "description": "Follow-up e-mail from Jeff Wicks (8 Feb 2023) listing three EMM vehicle registrations and asking whether they were ever allocated to EMPD"
+   },
+   {
+    "ref": "KX7",
+    "description": "Memorandum from City Manager Dr MI Mashazi dated 13 October 2023, titled 'Centralisation of communications and media enquiries,' addressed to all Heads of Department"
+   },
+   {
+    "ref": "KX8 (Annexure K8, p.27 of bundle)",
+    "description": "E-mail from Commissioner JD Mkhwanazi dated 31 July 2024, subject 'immediate disbandment of media unit,' announcing redeployment of the nine media unit members effective 1 August 2024"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "This is an illegal letter /decision.",
+    "speaker": "Commissioner Revo Spies (email, read into the record by Lt-Col Thepa)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/14",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "I was told to back off.",
+    "speaker": "Lt-Col Kelebogile Thepa",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/14",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "Dictatorship would best describe it",
+    "speaker": "Lt-Col Kelebogile Thepa",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/14",
+    "tier_label": "REPORTING",
+    "words": 5
+   },
+   {
+    "text": "the individuals involved in this case are highly connected and powerful",
+    "speaker": "Lt-Col Kelebogile Thepa (witness statement)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/14",
+    "tier_label": "REPORTING",
+    "words": 11
+   },
+   {
+    "text": "a dirty cop",
+    "speaker": "Brigadier JD Mkhwanazi (as recounted by Lt-Col Thepa)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/14",
+    "tier_label": "REPORTING",
+    "words": 3
+   },
+   {
+    "text": "the vehicles do indeed belong to the EMPD",
+    "speaker": "Zweli Dlamini (as recounted by Lt-Col Thepa)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/14",
+    "tier_label": "REPORTING",
+    "words": 8
+   },
+   {
+    "text": "advised me to lay low as a spokesperson",
+    "speaker": "Zweli Dlamini (as recounted by Lt-Col Thepa)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/14",
+    "tier_label": "REPORTING",
+    "words": 8
+   },
+   {
+    "text": "immediate disbandment of the media unit",
+    "speaker": "Commissioner JD Mkhwanazi (email, read into the record by Lt-Col Thepa)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/14",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "has an endless working relationship and memorandum of understanding with CAT VIP",
+    "speaker": "Letter of Confirmation signed by Brigadier JD Mkhwanazi (Annexure KX2)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/14",
+    "tier_label": "REPORTING",
+    "words": 12
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/11/14",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Thepa's suspicion that a grey Audi that followed her before her first attack was linked, via a vehicle-registration check, to a person surnamed Mkhwanazi based in Pretoria.",
+   "Thepa's stated belief/suspicion that City Manager Dr MI Mashazi and Brigadier (later Commissioner) JD Mkhwanazi had a 'close bond' and that he was being protected by her — she characterised this as her own inference rather than established fact.",
+   "Thepa's characterisation of both armed attacks on her as retaliation connected to her handling of the blue lights media enquiry — presented by her as personal belief/inference, not confirmed by any investigation outcome in the transcript."
+  ],
+  "reporting_context": [
+   {
+    "claim": "Reported on EMPD spokesperson Lt-Col Thepa's testimony to the Madlanga Commission on alleged corruption in Ekurhuleni (headline-level coverage only; full article text not retrieved)",
+    "url": "https://iol.co.za/news/politics/2025-11-14-watch-empd-spokesperson-testifies-at-madlanga-commission-on-alleged-corruption-in-ekurhuleni/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/08/25",
+    "partial": true
+   },
+   {
+    "claim": "Reported that the Madlanga Commission heard evidence described in the headline as concerning 'rogue Ekurhuleni police and alleged perjury' on the same date (14 November 2025); full article text not retrieved",
+    "url": "https://www.dailymaverick.co.za/article/2025-11-14-madlanga-commission-and-parliament-hear-of-rogue-ekurhuleni-police-and-alleged-perjury/",
+    "publisher": "Daily Maverick",
+    "tier": 3,
+    "retrieved": "2026/08/25",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-032",
+  "day_number": 32,
+  "day_number_verified": true,
+  "date": "2025/11/13",
+  "weekday": "Thursday",
+  "workstream": "political-interference",
+  "witnesses": [
+   {
+    "person_id": "xolani-nciza",
+    "name": "Xolani Nciza",
+    "role_as_described": "Former Divisional Head: Employee Relations, City of Ekurhuleni Metropolitan Municipality; dismissed March 2024; testified over multiple days",
+    "note": "testified"
+   }
+  ],
+  "summary": "On Day 32, Xolani Nciza, the dismissed former Divisional Head: Employee Relations at the City of Ekurhuleni, continued and concluded his evidence-in-chief before evidence leader Adv Motlhasedi. He described the fallout from anonymous \"Bhixi-Bhixi\" emails exposing the stalled disciplinary case against Brigadier (later Deputy Chief of Police) Julius Mkhwanazi, a City Manager memorandum he says stripped his disciplinary-appointment powers, his own August 2023 suspension and March 2024 summary dismissal, and repeated deployment of Metro Police vehicles and officers to serve him documents at home. The Chairperson and Commissioners Baloyi SC and Khumalo SC questioned him at length on the procedural and legal detail, and the Commission was shown a December 2023 video in which Mkhwanazi is heard pledging personal loyalty to City Manager Dr Imogen Mashazi. Proceedings adjourned for the day to resume with a new witness on 14 November 2025.",
+  "rulings": [],
+  "exhibits": [
+   {
+    "ref": "PN10",
+    "description": "Disciplinary charge sheet against Julius Mkhwanazi (annexure bundle p.292)"
+   },
+   {
+    "ref": "PN12",
+    "description": "First anonymous \"Bhixi-Bhixi\" email, 20-21 August 2023, to Jeff Wiggs (News24)"
+   },
+   {
+    "ref": "PN13",
+    "description": "22 August 2023 City Manager memorandum revising disciplinary/authorised-representative delegations"
+   },
+   {
+    "ref": "PN15",
+    "description": "Nciza's comprehensive written response objecting to the 22 August 2023 delegation changes"
+   },
+   {
+    "ref": "PN16",
+    "description": "Second anonymous \"Bhixi-Bhixi\" email, 2 September 2023"
+   },
+   {
+    "ref": "PN18",
+    "description": "July 2023 report proposing salary package adjustments for certain HODs"
+   },
+   {
+    "ref": "PN19",
+    "description": "Unsigned/co-signed 13 December 2023 City legal-department letter to IPID disputing its findings against Mkhwanazi"
+   },
+   {
+    "ref": "PN20",
+    "description": "Nciza's summary dismissal/termination letter, dated 8 March 2024, served 22 March 2024"
+   },
+   {
+    "ref": "JM19",
+    "description": "Full IPID investigation report (attached to Chief Mapiyeye's evidence bundle)"
+   },
+   {
+    "ref": "Video recording",
+    "description": "December 2023 municipal Christmas function footage showing Mkhwanazi and Mashazi"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "I will take a bullet for you",
+    "speaker": "Julius Mkhwanazi (per video shown to the Commission)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/13",
+    "tier_label": "REPORTING",
+    "words": 7
+   },
+   {
+    "text": "it was not about risk, it was about humiliation",
+    "speaker": "Mr Nciza",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/13",
+    "tier_label": "REPORTING",
+    "words": 9
+   },
+   {
+    "text": "this would introduce or create a culture of impunity",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/13",
+    "tier_label": "REPORTING",
+    "words": 9
+   },
+   {
+    "text": "Why send police to my house at night?",
+    "speaker": "Mr Nciza (WhatsApp message read into record)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/13",
+    "tier_label": "REPORTING",
+    "words": 8
+   },
+   {
+    "text": "Xolani Nciza's powers have been taken by Imogen Mashazi deliberately",
+    "speaker": "\"Bhixi-Bhixi\" (anonymous email, read by Mr Nciza)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/13",
+    "tier_label": "REPORTING",
+    "words": 10
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/11/13",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Nciza's account of a Senior Management Team meeting in which Mashazi allegedly told Chief Mapiyeye and Deputy Chief Spies they must work with Mkhwanazi was relayed to him second-hand by two unnamed HODs, not witnessed by him directly.",
+   "Nciza's characterisation of Ms Gxasheka's and Adv Behari's conduct as \"malicious\" and of a General Secretary of an unrecognised union having been \"weaponised\" against him are his own inferences, not corroborated findings.",
+   "Nciza's claim that his stated dismissal reasons (unsigned contract, unproven qualification) were a pretext for retaliation is his own characterisation, pending any adjudicated outcome in his ongoing Bargaining Council disputes."
+  ],
+  "reporting_context": [
+   {
+    "claim": "Report on Nciza's Day 32 testimony describing City of Ekurhuleni governance as affected by corruption and irregularities",
+    "url": "https://www.ewn.co.za/2025/11/13/city-of-ekurhuleni-rooted-in-corruption-irregularities-nciza-tells-madlanga-commission",
+    "publisher": "EWN",
+    "tier": 2,
+    "retrieved": "2026/08/25",
+    "partial": true
+   },
+   {
+    "claim": "Report on Nciza's testimony alleging City Manager Mashazi shielded Mkhwanazi from discipline",
+    "url": "https://iol.co.za/news/politics/2025-11-13-watch-nciza-claims-city-manager-shielded-empds-mkhwanazi-madlanga-commission/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/08/25",
+    "partial": true
+   },
+   {
+    "claim": "Report on the video shown to the Commission of Mkhwanazi telling Mashazi he would \"take a bullet\" for her",
+    "url": "https://iol.co.za/news/politics/2025-11-13-madlanga-commission--caught-on-camera-mkhwanazi-declares-i-will-take-a-bullet-for-you-to-mashazi/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/08/25",
+    "partial": true
+   },
+   {
+    "claim": "Report on testimony regarding a salary-adjustment report benefiting officials linked to Mkhwanazi",
+    "url": "https://iol.co.za/news/politics/2025-11-13-madlanga-commission--julius-mkhwanazi-loyalists-in-ekurhuleni-got-over-half-a-million-salaries-increases/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/08/25",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-031",
+  "day_number": 31,
+  "day_number_verified": true,
+  "date": "2025/11/12",
+  "weekday": "Wednesday",
+  "workstream": "matlala-saps-contract",
+  "witnesses": [
+   {
+    "person_id": "mr-xolani-prince-nciza",
+    "name": "Mr Xolani (Prince) Nciza",
+    "role_as_described": "Former Divisional Head: Employee Relations, City of Ekurhuleni (EMPD); witness statement author, continuing testimony from prior day(s)",
+    "note": "testified"
+   }
+  ],
+  "summary": "On Day 31 Mr Xolani Nciza, former Divisional Head: Employee Relations at the City of Ekurhuleni, continued testimony under evidence leader Adv Motlhasedi concerning the 2023 suspension and abandoned disciplinary process against EMPD Director/Brigadier Julius Mkhwanazi. He walked the Commission through a suspension letter, an unsigned \"intention to donate\" letter and memorandum of agreement linking EMPD to CAT VIP Protection Services (headed by Mr Vusimuzi Matlala), and a six-count disciplinary charge sheet. Nciza testified that then-City Manager Dr Imogen Mashazi and HOD: HR Ms Linda Gxasheka intervened to block extension of Mkhwanazi's suspension and later blocked service of the charge sheet, which he characterised as an abuse of power; Mkhwanazi was never disciplined and was later promoted, while Nciza said he himself was subsequently suspended and dismissed.",
+  "rulings": [
+   {
+    "description": "Directed Mr Nciza not to keep naming EMPD officers (McKenzie, Stols, Twala) allegedly implicated in a murder/extortion matter under IPID investigation, noting earlier witnesses had avoided the names because it was unclear whether the officers had appeared in court.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/12",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "Ruled it unnecessary for the witness to name the specific law firm, advocate-prosecutor, and advocate-presiding-officer appointed for the Mkhwanazi disciplinary tribunal; evidence leader agreed the witness could refer to them generically.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/12",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": "Annexure PN2",
+    "description": "WhatsApp screenshots of 20 Feb 2023 exchange between Mr Nciza and Ms Gxasheka discussing security concerns ahead of Mkhwanazi's suspension"
+   },
+   {
+    "ref": "Annexure PN3",
+    "description": "Intention to Suspend letter to Brigadier Julius Mkhwanazi, dated 20 February 2023"
+   },
+   {
+    "ref": "Annexure PN4",
+    "description": "Suspension letter for Brigadier Mkhwanazi; dated 20 Feb 2023 on its face but, per Nciza, actually signed 24 February 2023"
+   },
+   {
+    "ref": "Documents 15A / 15B (handed up during session, to be paginated into bundle)",
+    "description": "15A: Directive for Implementation of the new DPCA (15 Feb 2018); 15B: South African Local Government Bargaining Council circular on the collective agreement"
+   },
+   {
+    "ref": "Annexure bundle pp.134-145",
+    "description": "Unsigned memoranda of agreement purportedly between EMPD and CAT VIP Protection Services (Vusimuzi Matlala) and between EMPD and Medicare24 Emergency Services"
+   },
+   {
+    "ref": "Letter of intention to commit / donation letter (CAT VIP Protection)",
+    "description": "Unsigned letter cited as basis for a 'donation' of vehicles to EMPD; disputed by Nciza as not a valid donation"
+   },
+   {
+    "ref": "Memorandum from Mr Chris Steyn (fleet/licensing)",
+    "description": "Memorandum describing registration and later cancellation of donated-vehicle registrations to EMPD, Dec 2022-Feb 2023"
+   },
+   {
+    "ref": "Annexure PN7",
+    "description": "WhatsApp messages of 24 May 2023 between Ms Gxasheka and Mr Nciza instructing that a letter be drafted for Mkhwanazi's return to duty"
+   },
+   {
+    "ref": "Annexure PN9",
+    "description": "Appointment letter for the advocate/attorneys briefed as presiding officer in the disciplinary tribunal (names withheld on the Chair's direction)"
+   },
+   {
+    "ref": "Annexure PN10 (pp.292-296)",
+    "description": "Six-count disciplinary charge sheet against Brigadier Mkhwanazi, finalised 20 June 2023, never served"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "But I do not want people penetrating my private space",
+    "speaker": "Ms Linda Gxasheka (WhatsApp message read into record by Mr Nciza)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/12",
+    "tier_label": "REPORTING",
+    "words": 10
+   },
+   {
+    "text": "This was abuse of authority and power in the extreme.",
+    "speaker": "Mr Nciza",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/12",
+    "tier_label": "REPORTING",
+    "words": 10
+   },
+   {
+    "text": "it only takes good men to sit and do nothing",
+    "speaker": "Mr Nciza",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/12",
+    "tier_label": "REPORTING",
+    "words": 10
+   },
+   {
+    "text": "you have to read the room",
+    "speaker": "Mr Nciza",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/12",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "we must leave Julius alone",
+    "speaker": "Dr Mashazi (as recounted by Mr Nciza during testimony)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/12",
+    "tier_label": "REPORTING",
+    "words": 5
+   },
+   {
+    "text": "You think this is your municipality.",
+    "speaker": "Dr Mashazi (as recounted by Mr Nciza, translated from vernacular)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/12",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "I was suspended in September and dismissed the next year without even a hearing",
+    "speaker": "Mr Nciza",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2025/11/12",
+    "tier_label": "REPORTING",
+    "words": 14
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/11/12",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Whether McKenzie, Stols and Twala have been criminally charged in relation to the alleged murder/extortion/torture matter",
+   "The existence and nature of any personal relationship between Dr Mashazi and Brigadier Mkhwanazi (raised only as Nciza's inference, not evidence)",
+   "Whether Adv Kemi Behari's conclusion that 'there was no case' against Mkhwanazi was made independently or on instruction from Dr Mashazi",
+   "Exhibit reference 'Memorandum from Mr Chris Steyn (fleet/licensing)' could not be found in the transcript and may be misread."
+  ],
+  "reporting_context": [
+   {
+    "claim": "IOL reported that Nciza testified Dr Mashazi told him by phone 'You hate Julius. You must leave Julius alone. You are not going to extend his suspension,' and that he called her intervention 'an abuse of power and authority, in the extreme'; the article also covers the disputed CAT VIP vehicle donations.",
+    "url": "https://iol.co.za/news/2025-11-12-uncovering-the-abuse-of-power-ekurhuleni-city-managers-role-in-the-empd-scandal/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/08/25",
+    "partial": false
+   }
+  ]
+ },
+ {
   "id": "day-030",
   "day_number": 30,
   "day_number_verified": true,
