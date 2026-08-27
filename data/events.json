@@ -208,6 +208,22 @@
   "best_tier": 1
  },
  {
+  "id": "undercover-saps-operation-to-arrest-musa-khawula-at-kroonstad-concert",
+  "title": "Undercover SAPS operation to arrest Musa Khawula at Kroonstad concert",
+  "date": null,
+  "description": "Six SAPS members, using concert tickets paid for by civilian complainant Zenzile 'Ze' Nxumalo, travelled from Gauteng to a music event at Kroon Park Holiday Resort, Kroonstad, on an unsuccessful undercover attempt to arrest journalist Musa Khawula; the investigating officer assigned to the case was not given a ticket and never arrived.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "assassination-of-sindiso-magaqa",
   "title": "Assassination of Sindiso Magaqa",
   "date": "2017",
@@ -2014,6 +2030,22 @@
   "title": "Brown Mogotsi's non-appearance and contempt question",
   "date": "2026/03/02",
   "description": "Mogotsi failed to appear for scheduled testimony citing illness; Chairperson stated that, absent a medical certificate, he was in contempt, with the question held over to 4 March 2026.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "sergeant-nkosi-s-anonymity-and-remote-testimony-order-lifted",
+  "title": "Sergeant Nkosi's anonymity and remote-testimony order lifted",
+  "date": "2026/03/16",
+  "description": "The Chairperson read reasons into the record for the 13 March 2026 order recalling the earlier arrangement allowing Sergeant Fannie Nkosi to testify remotely, off-camera and anonymised as 'Witness F', holding that continued anonymity was no longer justified because his name and image had already entered the public domain via a video clip of him leaving Katiso Molefe's home.",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",

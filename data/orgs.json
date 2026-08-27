@@ -240,6 +240,22 @@
   "best_tier": 1
  },
  {
+  "id": "chromecore",
+  "name": "ChromeCore",
+  "type": "Mining joint venture",
+  "description": "A roughly R55-56 million chrome-mining joint venture between Suleiman Carrim and Morgan Maumela dating to 2023, disclosed by Carrim on Day 73 as a separate business relationship with Maumela that also broke down, with Maumela allegedly not returning funds.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "city-of-ekurhuleni",
   "name": "City of Ekurhuleni",
   "type": "municipality",
@@ -807,6 +823,22 @@
   "name": "Judicial Commission of Inquiry into Criminality, Political Interference and Corruption in the Criminal Justice System (the Madlanga Commission)",
   "type": "Judicial commission of inquiry",
   "description": "The commission itself, chaired by retired Justice Mbuyiseli Madlanga, whose Days 43-51 sittings are the subject of this synthesis.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "luthaga-trading-enterprise",
+  "name": "Luthaga Trading Enterprise",
+  "type": "Third-party payment recipient",
+  "description": "Entity used to route R500,000 (later R750,000 total) from Suleiman Carrim's side to Morgan Maumela, with transfers timed within minutes of Medicare 24 SAPS-contract payments being forwarded; evidence leaders raised a possible Prevention of Organised Crime Act section 5 (money laundering) question over the source of these funds, which the Commission allowed to be explored under protest.",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
@@ -1448,6 +1480,22 @@
   "name": "Tameez Investments (Pty) Ltd",
   "type": "Private company",
   "description": "Entity linked to Suleiman Kareem which received payments of R1,500,000 and R1,000,000 from Matlala and made an outgoing payment of R92,000 to Gotlhe Specialists.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "tasmica-construction",
+  "name": "Tasmica Construction",
+  "type": "Suleiman Carrim-linked company",
+  "description": "Company whose bank statements, disclosed to Carrim's legal team only on the morning of Day 74, showed two previously undisclosed payments to Medicare 24 Tshwane District (R1 million on 27 June 2024 and R1.12 million on 7 October 2024), raising Carrim's total payments to Medicare 24 to R12.12 million against the R10 million stated in his witness statement.",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",

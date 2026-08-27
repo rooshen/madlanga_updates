@@ -928,6 +928,1147 @@
   "reporting_context": []
  },
  {
+  "id": "day-079",
+  "day_number": 79,
+  "day_number_verified": true,
+  "date": "2026/03/17",
+  "weekday": "Tuesday",
+  "workstream": "matlala-saps-contract",
+  "witnesses": [
+   {
+    "person_id": "sergeant-fannie-nkosi",
+    "name": "Sergeant Fannie Nkosi",
+    "role_as_described": "SAPS Gauteng organised crime sergeant, formerly attached to Brigadier Ramangwa's kidnapping-investigation team; close associate of General Sibiya and of Vusimuzi 'Cat' Matlala; continuing cross-examination begun on a prior sitting day",
+    "note": "testified"
+   }
+  ],
+  "summary": "On Day 79 (17 March 2026), cross-examination of Sergeant Fannie Nkosi by Adv Chaskalson SC continued, working through his WhatsApp exchanges with General Sibiya, businessman Steve Motsumi, General Shibiri and General Mkhwanazi. Nkosi was pressed on why he repeatedly forwarded news articles and internal SAPS material about General Khumalo, General Masemola and General Mkhwanazi to Motsumi, a civilian, and on an internal SAPS report naming a complainant, a witness and arrested suspects in a Mooinooi chrome-theft case that he shared with Motsumi two days before the suspects' first court appearance; the Chairperson and Commissioners Khumalo and Baloyi repeatedly found his explanations unsatisfactory or evasive. Extensive questioning also covered Nkosi's proximity to Mr Matlala around the 6 December 2024 raid on Matlala's house (including a suspected tip-off, which Nkosi denied while confirming he was on the phone with Matlala when the Special Task Force arrived), a media enquiry about kidnapping figure Esmael Nangy that Sibiya asked Nkosi to route to Matlala, an alleged 2022 attempt by Matlala on the life of Mr Sibanyoni, and a photograph of an internal SAPS personnel screen -- showing the home address of the officer investigating Matlala and Mr Molefe -- that Nkosi said an informant introduced by General Shibiri had given him, an account Chaskalson confronted with chat metadata suggesting the chronology and authorship were false. The day opened and later paused twice on disputes, resolved by Chairperson's rulings, over documents and chat material referred to by the evidence leaders that had not been placed in Mr Ngoato's paginated bundle.",
+  "rulings": [
+   {
+    "description": "On the morning dispute over attorneys having approached Sergeant Nkosi and amended his file bundle overnight without notice to his attorney, Mr Ngoato: the Chairperson recorded Adv Chaskalson's concession that this was wrong and his undertaking it would not recur, and confirmed that none of the newly added bank statements or handwritten statements would be used that day.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/17",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "Ruled that it was fair for the evidence leaders to put Sergeant Nkosi's WhatsApp chats with General Mkhwanazi to him, even though those chats were on a disclosed memory stick rather than in the paginated bundle, because the witness's own evidence had made them relevant; directed Adv Chaskalson to provide the relevant extract (about 35 pages) to Mr Ngoato by tea time.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/17",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "On Mr Ngoato's renewed objection that chats with an unnamed Pakistani informant (used to challenge Nkosi's account of a SAPS personnel-screen photograph) were not in his bundle, ruled that cross-examination should continue without a stop-start pause since the line arose from the witness's own answers, while directing that the underlying chat material be made available to Mr Ngoato to consult and potentially use in re-examination.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/17",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": "Exhibit bundle File 1, p.154",
+    "description": "News article 'Police Witnesses Change Statements for Promotion', alleging General Mkhwanazi pressured witnesses to change affidavits to secure the dismissal of Maj-Gen Feroz Khan; forwarded by Nkosi to General Sibiya and to Mr Motsumi."
+   },
+   {
+    "ref": "Exhibit bundle File 2, p.571 and p.577",
+    "description": "News articles 'Breaking: SAPS KZN in crisis' and 'ID guns for National Police rogue unit', concerning allegations against Generals Mkhwanazi and Khumalo, sent by Nkosi to Motsumi and Sibiya."
+   },
+   {
+    "ref": "Annexure Bundle File 3, p.103-104 / Exhibit bundle File 2, p.578",
+    "description": "Journalist's media-enquiry email dated 11 February 2025 asking about a named individual's dealings with kidnapping figure Esmael Nangy and a donation reportedly disclosed to Maj-Gen Sibiya; forwarded by Sibiya to Nkosi for onward transmission to Mr Matlala, and separately forwarded by Nkosi to Mr Motsumi."
+   },
+   {
+    "ref": "Exhibit bundle File 1, p.434-455",
+    "description": "Nkosi's WhatsApp chats with a contact saved as 'Galito EFF spokesperson' (identified as Mr Sibande), including a call log showing a contact saved as '007' and messages referencing calls from Mr Motsumi around the time of an unspecified incident."
+   },
+   {
+    "ref": "Annexure Bundle File 3, p.191 / Exhibit bundle File 2, p.604",
+    "description": "WhatsApp screenshot of a call log with General Mkhwanazi and a forwarded YouTube link to a Tupac Shakur song, sent by Mkhwanazi to Nkosi on 26 June 2025 (the day General Khumalo and Crime Intelligence officers were arrested) and forwarded by Nkosi to Mr Motsumi."
+   },
+   {
+    "ref": "Exhibit bundle File 2, p.595-596",
+    "description": "Internal SAPS report on arrests in a chrome-theft/business-robbery case in Mooinooi, North West, naming a complainant, a witness and suspects with their case numbers; shared by Nkosi with Mr Motsumi on 27 May 2025, two days before the suspects' first court appearance."
+   },
+   {
+    "ref": "Exhibit bundle File 3, p.1031-1032",
+    "description": "Nkosi's WhatsApp chats with Mr Joe Sibanyoni, including a 2 a.m. message on 6 December 2024 reading 'Sure, STF have arrived at the address awaiting results', put to Nkosi as evidence he anticipated the Special Task Force raid on Mr Matlala's house that day."
+   },
+   {
+    "ref": "Exhibit bundle File 2/4, p.230, 533, 697",
+    "description": "Screenshot of a chat between contacts saved as 'Jerry Kazi' (identified as Gareth Mnisi, CFO of Tshwane) and a contact linked to the late Deputy President's nephew, dated 17 January 2024, forwarded by Nkosi to Mr Motsumi."
+   },
+   {
+    "ref": "Annexure Bundle, p.797-799",
+    "description": "Photograph of what appears to be an internal SAPS personnel-system screen showing a SAPS officer's home address, service number and email; Nkosi said it was given to him by an informant introduced to him by General Shibiri, an account Chaskalson challenged using chat-date metadata."
+   },
+   {
+    "ref": "Exhibit bundle File 2, p.442-444",
+    "description": "WhatsApp chats between Nkosi and General Shibiri from February 2024 concerning a property in Jane Furse, Limpopo, linked to a foreign national allegedly storing cigarette stock; put to Nkosi to show the photographs were sent by Shibiri to him, not the reverse."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "Ziyakhala Manje",
+    "speaker": "Sergeant Nkosi (WhatsApp message to General Sibiya)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/17",
+    "tier_label": "REPORTING",
+    "words": 2
+   },
+   {
+    "text": "You know why you sent it to him, you are just not telling us.",
+    "speaker": "Adv Baloyi SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/17",
+    "tier_label": "REPORTING",
+    "words": 14
+   },
+   {
+    "text": "You are not automated, or you are not a machine",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/17",
+    "tier_label": "REPORTING",
+    "words": 10
+   },
+   {
+    "text": "I do not want to justify something that is unjustifiable",
+    "speaker": "Sergeant Nkosi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/17",
+    "tier_label": "REPORTING",
+    "words": 10
+   },
+   {
+    "text": "He said, I am fine, I am good.",
+    "speaker": "Sergeant Nkosi, describing General Mkhwanazi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/17",
+    "tier_label": "REPORTING",
+    "words": 8
+   },
+   {
+    "text": "Can we park it, Commissioner?",
+    "speaker": "Sergeant Nkosi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/17",
+    "tier_label": "REPORTING",
+    "words": 5
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Nkosi's claim that an informant introduced by General Shibiri gave him a SAPS personnel-system screenshot showing the home address of the officer investigating Matlala and Molefe is uncorroborated on this day's record and was directly challenged by date evidence from Nkosi's own chats.",
+   "Nkosi's assertion that he sent (rather than received) the Jane Furse, Limpopo property photographs to General Shibiri is disputed by the chat evidence put to him and was not resolved.",
+   "Whether Nkosi tipped off Mr Matlala ahead of the 6 December 2024 raid remains an allegation aired by Commissioner Khumalo and denied by Nkosi; not resolved on this day's record.",
+   "Exhibit reference 'Exhibit bundle File 1, p.154' could not be found in the transcript and may be misread.",
+   "Exhibit reference 'Exhibit bundle File 2, p.571 and p.577' could not be found in the transcript and may be misread.",
+   "Exhibit reference 'Annexure Bundle File 3, p.103-104 / Exhibit bundle File 2, p.578' could not be found in the transcript and may be misread.",
+   "Exhibit reference 'Exhibit bundle File 1, p.434-455' could not be found in the transcript and may be misread.",
+   "Exhibit reference 'Annexure Bundle File 3, p.191 / Exhibit bundle File 2, p.604' could not be found in the transcript and may be misread.",
+   "Exhibit reference 'Exhibit bundle File 2, p.595-596' could not be found in the transcript and may be misread.",
+   "Exhibit reference 'Exhibit bundle File 3, p.1031-1032' could not be found in the transcript and may be misread.",
+   "Exhibit reference 'Exhibit bundle File 2/4, p.230, 533, 697' could not be found in the transcript and may be misread.",
+   "Exhibit reference 'Exhibit bundle File 2, p.442-444' could not be found in the transcript and may be misread."
+  ],
+  "reporting_context": [
+   {
+    "claim": "IOL reported that Sergeant Fannie Nkosi faced criticism at the Commission for sharing a classified internal SAPS document about a Mooinooi chrome-theft case -- naming suspects, a complainant and a witness -- with businessman Steve Motsumi on 27 May 2025, two days before the suspects' court appearance, and that Commissioners Khumalo and Baloyi challenged his claim the document was already public.",
+    "url": "https://iol.co.za/news/2026-03-17-madlanga-commission-sergeant-nkosi-faces-backlash-for-sharing-police-documents-with-taxi-boss/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/08/27",
+    "partial": false
+   },
+   {
+    "claim": "IOL reported that Sergeant Nkosi (referred to in some commission-related coverage as 'Witness F') testified that General Mkhwanazi sent him a Tupac Shakur song on 26 June 2025 shortly after General Khumalo's arrest, which he forwarded to Steve Motsumi, and that he denied evidence leader Adv Chaskalson's suggestion the song carried a hidden message about resisting the arrests.",
+    "url": "https://iol.co.za/news/politics/2026-03-17-witness-f-denies-hidden-message-in-mkhwanazis-tupac-song-after-saps-arrests-madlanga-commission/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/08/27",
+    "partial": false
+   }
+  ]
+ },
+ {
+  "id": "day-078",
+  "day_number": 78,
+  "day_number_verified": true,
+  "date": "2026/03/16",
+  "weekday": "Monday",
+  "workstream": "matlala-saps-contract",
+  "witnesses": [
+   {
+    "person_id": "sergeant-fannie-ezekiel-nkosi",
+    "name": "Sergeant Fannie Ezekiel Nkosi",
+    "role_as_described": "SAPS sergeant, formerly attached to the Deputy National Commissioner for Crime Detection's office; previously anonymised in Commission proceedings as 'Witness F'; continuing cross-examination on his relationship with Mr Vusimuzi 'Cat' Matlala, Lt-Gen Shadrack Sibiya, Brigadier Ramangwa, General Fannie, Brigadier Glenda Bokaba, General Shibiri, Mr Zenzile 'Ze' Nxumalo and Mr Motsumi",
+    "note": "testified"
+   }
+  ],
+  "summary": "The day opened with the Chairperson reading reasons for his 13 March 2026 order recalling the earlier ruling that had allowed Sergeant Nkosi to testify remotely, off-camera and without his name being used; the Chair held that continued anonymity was no longer justified because Nkosi's identity and image had already entered the public domain via a video clip played during General Khumalo's testimony and inadvertent references by Nkosi's own attorney and an evidence leader, and Nkosi then testified for the first time in open session under his own name. Adv Chaskalson SC resumed cross-examination on outstanding topics from Nkosi's February testimony, including the timing of Mr Matlala's first meeting with Lt-Gen Sibiya, Nkosi's forwarding of a warrant of arrest and other suspect information for Mr Musa Khawula to complainant Mr Zenzile Nxumalo, and an unsuccessful undercover operation in which six SAPS members travelled to a Kroonstad concert on tickets bought by Nxumalo to try to arrest Khawula. Extensive questioning also covered Nkosi's practice of forwarding internal and confidential SAPS communications -- including a confidential audit report recommending termination of Mr Matlala's SAPS contract -- to Mr Matlala, General Shibiri and Mr Matlala's associate/creditor Mr Motsumi, and Nkosi's frequent, code-gated visits to Mr Motsumi's Waterfall Estate home, often with fellow officers who were then sent vehicle registration numbers to trace. The Commissioners repeatedly put to Nkosi that his conduct suggested Nxumalo and Matlala were effectively directing police action and that state resources had been misused for private benefit, which Nkosi largely denied while attributing contradictions to memory lapses on his and General Sibiya's part; the hearing adjourned to resume on 17 March 2026.",
+  "rulings": [
+   {
+    "description": "Recalling the order of 30 January 2026 (as repeated on 3 February 2026), the Chairperson directed that Sergeant Nkosi appear physically and testify in open session under his own name, holding that his identity and image were already public and that his witness statement and evidence did not implicate anyone in a way that would justify continued remote, off-camera, anonymised testimony; reasons for the underlying 13 March 2026 order were read into the record at the start of the day.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/16",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [],
+  "quotes": [
+   {
+    "text": "the proverbial cat was out of the bag",
+    "speaker": "Chairperson (Justice Madlanga)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/16",
+    "tier_label": "REPORTING",
+    "words": 8
+   },
+   {
+    "text": "Please, my brother.",
+    "speaker": "Sergeant Fannie Nkosi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/16",
+    "tier_label": "REPORTING",
+    "words": 3
+   },
+   {
+    "text": "I did not use any police powers on",
+    "speaker": "Sergeant Fannie Nkosi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/16",
+    "tier_label": "REPORTING",
+    "words": 8
+   },
+   {
+    "text": "It is the arrest register, is it not?",
+    "speaker": "Adv Chaskalson SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/16",
+    "tier_label": "REPORTING",
+    "words": 8
+   },
+   {
+    "text": "appears to be abuse of state resources.",
+    "speaker": "Adv Khumalo SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/16",
+    "tier_label": "REPORTING",
+    "words": 7
+   },
+   {
+    "text": "He is the one who told me.",
+    "speaker": "Sergeant Fannie Nkosi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/16",
+    "tier_label": "REPORTING",
+    "words": 7
+   },
+   {
+    "text": "But you know what you did not mean.",
+    "speaker": "Chairperson (Justice Madlanga)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/16",
+    "tier_label": "REPORTING",
+    "words": 8
+   },
+   {
+    "text": "Because it was in all the Facebooks.",
+    "speaker": "Sergeant Fannie Nkosi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/16",
+    "tier_label": "REPORTING",
+    "words": 7
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/16",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Nkosi's account (in his 3 March 2026 affidavit, summarised in the Chair's ruling) that he received calls or texts from the ANC, Parliament, a Portfolio Committee and the ANC Soshanguve Branch, and from unnamed senior ANC members and their associates, discouraging him from testifying further -- not tested or corroborated during the day's cross-examination",
+   "Nkosi's assumption that Mr Msibi's urgent need for medication sourced via Mr Nxumalo became less pressing because Msibi obtained alternative medication from a doctor in the interim",
+   "Nkosi's claim that he did not know General Sibiya had a personal interest in the Khawula case before 21 October 2024, given his own evidence that Sibiya was already communicating with him about Mr Matlala from earlier in 2024"
+  ],
+  "reporting_context": [
+   {
+    "claim": "Reported that the Commission ordered Sergeant Nkosi (Witness F) to testify publicly in person, rejecting a bid for continued in-camera protection, after Chairperson Madlanga found his identity had already been exposed by CCTV/video footage showing him at Katiso 'KT' Molefe's home and concluded there was insufficient evidence that public testimony would endanger his safety.",
+    "url": "https://www.ewn.co.za/2026/03/16/witness-f-ordered-to-testify-publicly-at-madlanga-commission",
+    "publisher": "EWN",
+    "tier": 2,
+    "retrieved": "2026/08/27",
+    "partial": true
+   },
+   {
+    "claim": "Reported that Sergeant Fannie Nkosi (Witness F) faced scrutiny over alleged links to organised crime figures, including claims he acted as a go-between linking underworld figure Vusimuzi 'Cat' Matlala and senior SAPS officials, and noted that his anonymity had unravelled after his own court application to block his testimony inadvertently made his identity public.",
+    "url": "https://iol.co.za/saturday-star/news/2026-03-16-witness-f-faces-scrutiny-at-madlanga-commission-over-alleged-underworld-links/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/08/27",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-077",
+  "day_number": 77,
+  "day_number_verified": true,
+  "date": "2026/03/13",
+  "weekday": "Friday",
+  "workstream": "kzn-pktt",
+  "witnesses": [
+   {
+    "person_id": "lt-gen-shibiri",
+    "name": "Lt-Gen Shibiri",
+    "role_as_described": "SAPS Head of Organised Crime, continuing cross-examination on a recorded phone call with an investigating officer ('Witness A'), on the Armand Swart murder investigation, the arrest of Katiso Molefe, and alleged instructions from Deputy National Commissioner Lt-Gen Sibiya",
+    "note": "testified"
+   }
+  ],
+  "summary": "Day 77 (13 March 2026, a Friday, held at Brigitte Mabandla Justice College) continued the cross-examination of SAPS Lt-Gen Shibiri on a recorded December 2024 phone call with an investigating officer, 'Witness A', concerning the murder of Armand Swart and the arrest of Katiso Molefe. Evidence leaders pressed Shibiri on shifting explanations for who Deputy National Commissioner Lt-Gen Sibiya wanted information for ('the other side'), on his now-confirmed reference to a 'group of five' business associates of the late Mr Mswazi (including Molefe), on figures named 'Joe' and 'Zee', and on whether a district-level official he described as interfering in the investigation was Brigadier Nkhwashu. The Commission also examined a R53,538 suit purchase Shibiri denied was a gift from implicated businessmen, and heard his stated reluctance, on safety grounds, to name certain individuals publicly. Separately, counsel for a prospective witness, 'Witness G', applied for partially in-camera, off-camera testimony to protect that witness's identity; the Commission made no ruling, directing counsel to prepare a joint protocol with public notice, and stood the matter down until 16 March 2026.",
+  "rulings": [
+   {
+    "description": "No order made on the application for 'Witness G' to testify partially in camera and off-camera; the Commission directed evidence leader Adv Chaskalson SC and Witness G's counsel, Mr Matlala, to jointly draft a protocol to be publicised with at least 72 hours' notice to the media before any restriction takes effect, with the matter stood down until 16 March 2026.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/13",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "Placed on record that the Commission is not responsible for the composition of the task team appointed to investigate SAPS members implicated in the Commission's proceedings; the Commission's role was limited to making referrals.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/13",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": "CJC97",
+    "description": "Transcript (file 4) of the recorded December 2024 phone call between Lt-Gen Shibiri and Witness A, used extensively to cross-examine Shibiri's evolving account of the call, including his references to 'the other side', a 'group of five', 'Joe' and 'Zee'."
+   },
+   {
+    "ref": "File 3, item 83",
+    "description": "Witness A's statement (paras 88-96) describing the 7 December 2024 call from Col Mokoena, the instruction from Brig Gopane not to report to anyone but her, and Witness A's understanding of Shibiri's reference to a district-level official ('homeboy')."
+   },
+   {
+    "ref": "File 3, item 84",
+    "description": "Witness B's statement (para 75) describing Sergeant Shukuru's approach on behalf of Brigadier Nkhwashu asking that Mr Tau's bail not be opposed, and a later 'thank you' message conveyed via Shukuru."
+   },
+   {
+    "ref": "File 3, item 85",
+    "description": "Witness C's statement (paras 55-56, 10) describing Brigadier Nkhwashu's visit to Mr Molefe in prison on 9 December 2024 in an unmarked BMW after visiting hours."
+   },
+   {
+    "ref": "CJC70",
+    "description": "WhatsApp chat record (file 3) between Lt-Gen Shibiri and Sergeant Nkosi, including a reference to 'Zee' and to General Khan's suspension, put to Shibiri to test his denial of knowing 'Zee'."
+   },
+   {
+    "ref": "File 4, page 24",
+    "description": "Lt-Gen Shibiri's October 2023 bank statement, showing a R58,820 credit and a R53,538 purchase at Zegna on his birthday, which he said was paid for a friend, Mr Chang of Africa Steel."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "No, you are tricking me again.",
+    "speaker": "Lt-Gen Shibiri",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/13",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "It is a safety issue, General.",
+    "speaker": "Adv Baloyi SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/13",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "No, it was not.",
+    "speaker": "Lt-Gen Shibiri",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/13",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "So that is my mistake that.",
+    "speaker": "Lt-Gen Shibiri",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/13",
+    "tier_label": "REPORTING",
+    "words": 6
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/13",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [],
+  "reporting_context": [
+   {
+    "claim": "EWN reported that a Crime Intelligence officer identified only as Witness G applied on 13 March 2026 to testify before the Madlanga Commission from behind closed doors with identity protection and voice distortion, with the witness's lawyer, Tshepo Matlala, warning that exposure could endanger associates seen with him, and evidence leader Matthew Chaskalson noting the Commission had not found satisfactory voice-altering technology.",
+    "url": "https://www.ewn.co.za/2026/03/13/witness-g-requests-identity-protection-and-voice-distortion-at-madlanga-commission",
+    "publisher": "EWN",
+    "tier": 2,
+    "retrieved": "2026/08/27",
+    "partial": false
+   }
+  ]
+ },
+ {
+  "id": "day-076",
+  "day_number": 76,
+  "day_number_verified": true,
+  "date": "2026/03/12",
+  "weekday": "Thursday",
+  "workstream": "matlala-saps-contract",
+  "witnesses": [
+   {
+    "person_id": "lt-gen-maj-gen-richard-shibiri",
+    "name": "Lt-Gen (Maj-Gen) Richard Shibiri",
+    "role_as_described": "Component Head: Organised Crime, SAPS (national) — continuing cross-examination, focused on a personal loan from Mr Vusi Matlala and his May 2024 briefing of investigators on the Swart murder case",
+    "note": "testified"
+   }
+  ],
+  "summary": "On Day 76 (12 March 2026, held at the Brigitte Mabandla Justice College), cross-examination of Lt-Gen Richard Shibiri continued, centred on his account of a personal loan from businessman Vusi Matlala used to pay for accident repairs. The Chairperson and evidence leaders used Shibiri's own bank and credit-card statements to argue that he and his son already had well over R100,000 available at the time, undermining his stated need for the loan, and put WhatsApp messages to him suggesting he had expected Matlala to attend the September 2024 gathering at which the loan arose. The day also revisited Shibiri's 16 May 2024 briefing of Swart-murder investigators about an alleged bribery and threat, and closed with the Commission playing a secretly recorded December 2024 phone call between Shibiri and a protected witness after Shibiri had earlier denied that witness's account of it. Proceedings were adjourned in the late afternoon, before cross-examination was complete, to resume at 9:30 the next morning, 13 March 2026.",
+  "rulings": [],
+  "exhibits": [
+   {
+    "ref": "CJC89",
+    "description": "Signed statement of Sergeant Ndlela dated 8 July 2025, compared against an earlier unsigned draft of the same statement"
+   },
+   {
+    "ref": "RS10",
+    "description": "Unsigned draft statement of Sergeant Ndlela dated 7 July 2025, annexed to Lt-Gen Shibiri's own statement"
+   },
+   {
+    "ref": "RS12",
+    "description": "Unsigned pre-prepared statement Sergeant Ndlela says he was given, which he was told had to be consistent with Witness A's account"
+   },
+   {
+    "ref": "CJC97",
+    "description": "English transcript of a secretly recorded 16 December 2024 phone call between Lt-Gen Shibiri and Witness A"
+   },
+   {
+    "ref": "CJC98",
+    "description": "isiZulu (with English) transcript of the same recorded call, played to the Commission with one name redacted"
+   },
+   {
+    "ref": null,
+    "description": "Lt-Gen Shibiri's ABSA bank statements (Files 2 and 4) used to test his account of needing a loan from Mr Matlala"
+   },
+   {
+    "ref": null,
+    "description": "Lt-Gen Shibiri's ABSA credit-card statement for September 2024"
+   },
+   {
+    "ref": null,
+    "description": "WhatsApp chat records (File 3) between Lt-Gen Shibiri and Sergeant Nkosi from the night of General Sibiya's family function"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "30 minutes, I am there.",
+    "speaker": "Sergeant Nkosi (WhatsApp message to Lt-Gen Shibiri)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/12",
+    "tier_label": "REPORTING",
+    "words": 5
+   },
+   {
+    "text": "Cat has arrived there.",
+    "speaker": "Sergeant Nkosi (WhatsApp message to Lt-Gen Shibiri)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/12",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "I do not see him.",
+    "speaker": "Lt-Gen Shibiri (WhatsApp reply to Sergeant Nkosi)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/12",
+    "tier_label": "REPORTING",
+    "words": 5
+   },
+   {
+    "text": "I am saying I cannot associate with",
+    "speaker": "Lt-Gen Shibiri",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/12",
+    "tier_label": "REPORTING",
+    "words": 7
+   },
+   {
+    "text": "who will freely fight organized crime if people at that level are so fearful.",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/12",
+    "tier_label": "REPORTING",
+    "words": 14
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/12",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "The Chairperson's reference to 'the other General' who was 'also quite fearful' (described as heading the Hawks/DPCI in KZN) is not further identified by name in this transcript."
+  ],
+  "reporting_context": [
+   {
+    "claim": "EWN reported that Shibiri stood by financial-difficulty reasoning for accepting the loan from Matlala, in coverage published the same day as this sitting.",
+    "url": "https://www.ewn.co.za/2026/03/12/shibiri-stands-on-financial-difficulty-when-accepting-loan-from-matlala",
+    "publisher": "EWN",
+    "tier": 2,
+    "retrieved": "2026/08/27",
+    "partial": true
+   },
+   {
+    "claim": "IOL reported that bank records shown at the Madlanga Commission indicated Shibiri had ample funds available when he took the R70,000 loan from Matlala, matching this day's cross-examination on his bank statements.",
+    "url": "https://iol.co.za/news/politics/2026-03-12-watch-shibiri-grilled-over-r70000-loan-from-matlala-as-bank-records-reveal-ample-funds-madlanga-commission/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/08/27",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-075",
+  "day_number": 75,
+  "day_number_verified": true,
+  "date": "2026/03/11",
+  "weekday": "Wednesday",
+  "workstream": "matlala-saps-contract",
+  "witnesses": [
+   {
+    "person_id": "lt-gen-richard-shibiri",
+    "name": "Lt-Gen Richard Shibiri",
+    "role_as_described": "Lieutenant-General, Head of SAPS Organised Crime Investigations (OCI); continuing witness testifying about his relationship with Sergeant Nkosi and businessman Vusimuzi 'Cat' Matlala",
+    "note": "testified"
+   }
+  ],
+  "summary": "On Day 75 (11 March 2026) at the Brigitte Mabandla Justice College, Lieutenant-General Richard Shibiri continued giving evidence and being cross-examined, opening with a supplementary statement about inconsistencies in an affidavit attributed to Sergeant Ndlela (referred to as Witness C). Evidence leader Adv Pooe, with interventions from Commissioners Baloyi SC and Khumalo SC and the Chairperson, questioned Shibiri at length on WhatsApp and call records with Sergeant Nkosi and Mr Matlala, his close personal relationship with Matlala, a R70,000 payment from Matlala that Shibiri described as a loan, and his role, through Sergeant Nkosi, in assisting Matlala with an extortion complaint involving Musa Khawula and with delayed payments under Matlala's SAPS Medicare 24/Tshwane District contract. Proceedings were briefly interrupted for a postponement application concerning a separate witness referred to as Witness G, and the hearing adjourned to resume the next day, 12 March 2026.",
+  "rulings": [
+   {
+    "description": "Witness G, whose appearance was scheduled for the day but who has a pending in-camera application, was excused; the Chair directed that the witness be re-subpoenaed for a date to be determined by the evidence leaders once the application is resolved.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/11",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "Direction that references to Sergeant Ndlela's name in General Shibiri's supplementary statement be read out as 'Witness C' to protect his identity.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/11",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": "CJC89-CJC102",
+    "description": "Additional exhibits in a newly introduced File 4 (WhatsApp/call-data analysis, bank statements, and an infographic of Mr Matlala's prior criminal cases), provided to General Shibiri and his legal team ahead of cross-examination."
+   },
+   {
+    "ref": "RS10",
+    "description": "Annexure to General Shibiri's original witness statement: a signed affidavit by Sergeant Ndlela (Witness C) dated 7 July 2025, discussed in Shibiri's supplementary statement."
+   },
+   {
+    "ref": "RS12",
+    "description": "Annexure to General Shibiri's supplementary statement: an unsigned prepared affidavit attributed to Sergeant Ndlela (Witness C), which Shibiri said appeared to have been drafted before any oath was administered."
+   },
+   {
+    "ref": "RS6",
+    "description": "JBI panel-beater's quotation dated 19 September 2024 for repair of General Shibiri's son's vehicle, produced to explain the amount of the R70,000 payment Shibiri received from Mr Matlala."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "Is this true?",
+    "speaker": "Lt-Gen Shibiri",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/11",
+    "tier_label": "REPORTING",
+    "words": 3
+   },
+   {
+    "text": "this thing is turning ugly and dragging through the integrity of SAPS into disrepute",
+    "speaker": "Lt-Gen Shibiri",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/11",
+    "tier_label": "REPORTING",
+    "words": 14
+   },
+   {
+    "text": "he became like a younger brother and a friend",
+    "speaker": "Lt-Gen Shibiri",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/11",
+    "tier_label": "REPORTING",
+    "words": 9
+   },
+   {
+    "text": "you have a close relationship with him",
+    "speaker": "Adv Pooe",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/11",
+    "tier_label": "REPORTING",
+    "words": 7
+   },
+   {
+    "text": "I do not belong to anybody. I belong to Shibiri and the SAPS.",
+    "speaker": "Lt-Gen Shibiri",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/11",
+    "tier_label": "REPORTING",
+    "words": 13
+   },
+   {
+    "text": "Good morning, is too bad.",
+    "speaker": "Lt-Gen Shibiri",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/11",
+    "tier_label": "REPORTING",
+    "words": 5
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/11",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Whether Sergeant Nkosi obtained payment-status screenshots for Mr Matlala's SAPS contract from Matlala himself, or accessed SAPS finance systems directly, was disputed and not resolved during the day's proceedings.",
+   "General Shibiri's account of when and from whom he learned that Matlala had called him 'his person' was inconsistent on the record and not independently corroborated during the day's proceedings.",
+   "The identity of the person who allegedly told General Shibiri about Matlala's remarks was not disclosed on the public record."
+  ],
+  "reporting_context": [
+   {
+    "claim": "IOL reported that bank records shown at the Madlanga Commission revealed Lt-Gen Shibiri had more than R50,000 available in his account when he borrowed R70,000 from Matlala, and that the Commission suggested the December repayment looked like an attempt to retroactively frame the payment as a loan.",
+    "url": "https://iol.co.za/news/politics/2026-03-12-watch-shibiri-grilled-over-r70000-loan-from-matlala-as-bank-records-reveal-ample-funds-madlanga-commission/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/08/27",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-074",
+  "day_number": 74,
+  "day_number_verified": true,
+  "date": "2026/03/10",
+  "weekday": "Tuesday",
+  "workstream": "matlala-saps-contract",
+  "witnesses": [
+   {
+    "person_id": "mr-suleiman-carrim",
+    "name": "Mr Suleiman Carrim",
+    "role_as_described": "Businessman continuing cross-examination on his funding arrangement with Mr Vusimuzi 'Cat' Matlala and Medicare 24 Tshwane (the SAPS-linked medical services contract), and on his relationship with Mr Morgan Maumela",
+    "note": "testified"
+   }
+  ],
+  "summary": "The sitting opened with a dispute over the Commission's disclosure to Mr Carrim's legal team, that morning, of Tasmica Construction bank statements showing two undisclosed payments to Medicare 24 (R1 million on 27 June 2024 and R1.12 million on 7 October 2024); Adv Bhana SC sought a stand-down to bring a postponement application, which the Chairperson refused after a tense exchange over an alleged suggestion he had prejudged the matter, instead granting time to consult until 11:45 and ruling that a separate infographic/spreadsheet dispute would stand over to a later date. Evidence leader Adv Chaskalson SC then questioned Mr Carrim on the newly discovered payments (which brought his companies' total payments to Medicare 24 to R12.12 million rather than the stated R10 million), on his relationship with Mr Morgan Maumela including a chrome-mining joint venture and a funded interdict that appeared to benefit a Maumela-linked company, and on evidence that Mr Matlala had forwarded screenshots of his chats with Mr Carrim to Mr Maumela. The hearing was adjourned part-heard, with Mr Carrim's testimony to resume on 16 April 2026.",
+  "rulings": [
+   {
+    "description": "Application for a stand-down to prepare a formal postponement application was refused; Mr Carrim's legal team was instead given time to consult with him until 11:45 before the hearing resumed.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/10",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "The dispute over the infographic/spreadsheet of municipal payments to Mr Carrim's companies (approx. R332-336 million) was ordered to stand over to a later date to be arranged between counsel, while the Tasmica/Medicare 24 bank-statement issue would be dealt with that day.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/10",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": "page 505",
+    "description": "Infographic summarising payments from municipalities (where Mr Carrim is ANC treasurer) to companies owned by Mr Carrim, totalling approximately R332-336 million"
+   },
+   {
+    "ref": null,
+    "description": "Electronic spreadsheet of underlying line-item transactions supporting the page 505 infographic, emailed to Mr Carrim's legal team the previous morning"
+   },
+   {
+    "ref": null,
+    "description": "Tasmica Construction and Medicare 24 bank statements showing a R1 million payment on 27 June 2024 and a R1.12 million payment on 7 October 2024, produced to Mr Carrim's legal team the morning of the hearing"
+   },
+   {
+    "ref": "pages 398-399",
+    "description": "SARS preservation order against Mr Maumela listing Aloo Construction as the 11th respondent"
+   },
+   {
+    "ref": "page 511",
+    "description": "Judgment in Brown-Mogotsi Foundation v MEC for Health and Mediware, the interdict litigation Mr Carrim funded"
+   },
+   {
+    "ref": "page 507",
+    "description": "Record of Mr Carrim's payments to Gotlhe Specialists (10 August and 19 September) said to have funded the Brown-Mogotsi Foundation interdict"
+   },
+   {
+    "ref": "pages 550-551",
+    "description": "Medicare 24 bank statement showing the 7 October Tasmica payment and a further, unexplained R3 million payment into the account on 9 October"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "Only I issue instructions.",
+    "speaker": "Mr Suleiman Carrim",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/10",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "I knew nothing about this meeting.",
+    "speaker": "Mr Suleiman Carrim",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/10",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "I guarantee you, Counsel.",
+    "speaker": "Mr Suleiman Carrim",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/10",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "something does not look good here.",
+    "speaker": "Mr Suleiman Carrim",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/10",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "people have stolen 2.12 million from you",
+    "speaker": "Adv Chaskalson SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/10",
+    "tier_label": "REPORTING",
+    "words": 7
+   },
+   {
+    "text": "I take strong exception to that.",
+    "speaker": "Chairperson (Justice Madlanga)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/10",
+    "tier_label": "REPORTING",
+    "words": 6
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/10",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Mr Carrim's claim that the two undisclosed Tasmica payments were unauthorised and misappropriated by staff, rather than payments he in fact knew about",
+   "Mr Carrim's explanation that a 7 January WhatsApp message from Mr Matlala about 'invoicing' actually concerned a request for additional funding, which Commissioner Baloyi said was not supported by the surrounding message trail",
+   "Mr Carrim's denial that he ever met with Mr Maumela and Mr Mogotsi together, which Adv Chaskalson SC said was contradicted by Mr Mogotsi's account to the Commission",
+   "Whether the R3 million payment into Medicare 24 on 9 October 2024 traces to any of Mr Carrim's companies",
+   "Exhibit reference 'pages 398-399' could not be found in the transcript and may be misread.",
+   "Exhibit reference 'pages 550-551' could not be found in the transcript and may be misread."
+  ],
+  "reporting_context": [
+   {
+    "claim": "Proceedings were reported as halted after financial records revealed over R2 million in previously undisclosed payments from Tasmica Construction into a Medicare24 account, prompting Carrim's legal team to seek time to consider a postponement application; coverage also noted the Chair's sharp rebuke of Carrim's counsel over a suggestion he had prejudged the matter.",
+    "url": "https://iol.co.za/news/politics/2026-03-10-madlanga-commission-drama-carrim-scrutinized-over-undisclosed-r2-million-medicare-24-payments/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/08/27",
+    "partial": true
+   },
+   {
+    "claim": "Reported that evidence leaders revealed Carrim's company Tasmica Construction had made two additional undisclosed payments totalling over R2.1 million to Medicare24 between June and October 2024, which Carrim's lawyer said was an unintentional omission since Tasmica was not named in the original 10(6) notice.",
+    "url": "https://www.ewn.co.za/2026/03/10/carrim-accused-of-hiding-over-r2-million-of-payments-made-to-matlalas-company",
+    "publisher": "EWN",
+    "tier": 2,
+    "retrieved": "2026/08/27",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-073",
+  "day_number": 73,
+  "day_number_verified": true,
+  "date": "2026/03/09",
+  "weekday": "Monday",
+  "workstream": "matlala-saps-contract",
+  "witnesses": [
+   {
+    "person_id": "suleiman-carrim",
+    "name": "Suleiman Carrim",
+    "role_as_described": "Businessman; director/shareholder of Fusion Technical Team and associated with Ziggy and Tameez Investments; financier who advanced R10 million to Vusi Matlala's Medicare 24 Tshwane District SAPS medical-services contract",
+    "note": "testified"
+   },
+   {
+    "person_id": "brigadier-mkhwanazi",
+    "name": "Brigadier Mkhwanazi",
+    "role_as_described": "SAPS/EMPD officer under subpoena for further testimony (Commissioner Mkhwanazi of EMPD); appeared only for an unopposed application, through attorney Nkosana Khumalo, to postpone his evidence to 23 March 2026; did not testify on this sitting day",
+    "note": "testified"
+   }
+  ],
+  "summary": "Sitting at the Brigitte Mabandla Justice College, the Commission heard the sworn testimony of businessman Suleiman Carrim, who advanced R10 million to Vusi Matlala's Medicare 24 Tshwane District SAPS contract and admitted fabricating a close relationship with Police Minister Senzo Mchunu, on the advice of Oupa 'Brown' Mogotsi, to pressure Matlala into repaying him. Evidence leader Adv Chaskalson SC used WhatsApp and banking records to challenge Carrim's claim that Matlala had been 'avoiding' him and to probe R500,000-R750,000 in payments routed via Tameez Investments to Luthaga Trading Enterprise for the benefit of Morgan Maumela, raising a possible money-laundering issue under section 5 of POCA over Adv Bhana SC's objection that this exceeded the Commission's mandate; the Chairperson allowed the questioning to continue at this stage. Before the afternoon session the Commission also granted an unopposed application postponing further testimony by Brigadier Mkhwanazi to 23 March 2026, citing preparation time and a scheduled eye operation. The day opened with the Chairperson recording an earlier off-camera altercation and mutual apologies among counsel and refusing interlocutory relief sought on Matlala's behalf regarding late document production; Carrim's cross-examination is set to continue on the next sitting day.",
+  "rulings": [
+   {
+    "description": "On an application concerning the applicant's Notice of Motion dated 18 February 2026, the relief sought in prayers 3 and 4 (Chair initially misspoke this as prayers 2 and 3) is refused; written reasons to follow after the tea adjournment and later confirmed to have been furnished to the parties and uploaded to the Commission's website.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/09",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "Over Adv Bhana SC's objection that questioning about proceeds-of-crime and possible money-laundering (section 5 of POCA) linked to payments to Luthaga Trading Enterprise exceeded the Commission's mandate, the Chairperson allowed Adv Chaskalson SC to continue that line of questioning at this stage, without foreclosing later argument on whether the evidence should ultimately be admitted; Carrim was directed to answer under protest.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/09",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "Unopposed application by Brigadier Mkhwanazi, through his attorney, to postpone resumption of his further testimony (originally under subpoena for 9-13 March) to 23 March 2026 at 09:30, granted.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/09",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": "Evidence bundle File 1, p.6",
+    "description": "Bank/payment screen showing a R1.5 million payment processed 31 January 2025 and reflected 4 February 2025 from Medicare 24 to Tameez Investments"
+   },
+   {
+    "ref": "Evidence bundle File 1, p.28",
+    "description": "WhatsApp thread between Carrim and Matlala, 6-14 May 2025, including the 'good morning, Minister' message and subsequent calls, used to test Carrim's claim that Matlala was avoiding him"
+   },
+   {
+    "ref": "Evidence bundle File 1, p.365/367",
+    "description": "Signed letter dated 13 May 2025 from Matlala's attorneys to SAPS disputing termination of the Medicare 24 contract, WhatsApped to Carrim"
+   },
+   {
+    "ref": "Evidence bundle File 2, p.473",
+    "description": "Medicare 24 bank statement recording the R1.5 million payment to Tameez Investments on 4 February 2025"
+   },
+   {
+    "ref": "Evidence bundle File 2, p.499-500",
+    "description": "Summary schedule of payments from Ziggy and Tameez to Luthaga Trading Enterprise, December 2023-March 2025, totalling roughly R42.4 million (Ziggy) and R3.25 million (Tameez)"
+   },
+   {
+    "ref": "Evidence bundle File 2, p.535/537",
+    "description": "Records showing Matlala forwarding the same SAPS proof-of-payment to Carrim and to Morgan Maumela within seconds, relied on regarding the R500,000 payment to Luthaga said to be 'on behalf of' Maumela"
+   },
+   {
+    "ref": null,
+    "description": "Carrim's signed 11-page witness statement, read into the record and confirmed under oath, covering his dealings with Matlala, Medicare 24, Mogotsi, Maumela, Minister Mchunu, General Khan, Kgotle Specialists and General Sibiya"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "That is a classic ambush.",
+    "speaker": "Adv Bhana SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/09",
+    "tier_label": "REPORTING",
+    "words": 5
+   },
+   {
+    "text": "it is regrettable that some of these documents were furnished late",
+    "speaker": "Adv Chaskalson SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/09",
+    "tier_label": "REPORTING",
+    "words": 11
+   },
+   {
+    "text": "I had no influence with the Minister",
+    "speaker": "Suleiman Carrim (read from his statement)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/09",
+    "tier_label": "REPORTING",
+    "words": 7
+   },
+   {
+    "text": "The lady insists it is paid.",
+    "speaker": "Suleiman Carrim (WhatsApp message to Vusi Matlala)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/09",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "He believed that I had connections in the SAPS.",
+    "speaker": "Suleiman Carrim",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/09",
+    "tier_label": "REPORTING",
+    "words": 9
+   },
+   {
+    "text": "Is this someone who is avoiding you?",
+    "speaker": "Adv Chaskalson SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/09",
+    "tier_label": "REPORTING",
+    "words": 7
+   },
+   {
+    "text": "I had not done this with any intention of committing any fraud.",
+    "speaker": "Suleiman Carrim",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/09",
+    "tier_label": "REPORTING",
+    "words": 12
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/09",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "The transcript's closing lines read 'INQUIRY POSTPONED UNTIL 10 FEBRUARY 2026' immediately after the Chairperson said the sitting would resume at 09:30 the next day (i.e., 10 March 2026); this appears to be a transcription/template artifact rather than an actual ruling and has not been treated as a fact in this record.",
+   "The transcript's opening lines attribute a reply to 'Adv Bhana SC' immediately after the Chairperson greets 'Ms Hassim', suggesting a possible speaker-attribution error at the very start of the record.",
+   "A single line is attributed to 'Adv Ngcukaitobi SC' during Commissioner Baloyi's questioning; it is unclear whether this reflects a separate Commissioner present that day or a transcription error.",
+   "The identity of 'the lady' Carrim referenced in a WhatsApp message as having confirmed payment was not established; Carrim said he had no idea who she was.",
+   "Exhibit reference 'Evidence bundle File 1, p.6' could not be found in the transcript and may be misread.",
+   "Exhibit reference 'Evidence bundle File 1, p.28' could not be found in the transcript and may be misread.",
+   "Exhibit reference 'Evidence bundle File 2, p.473' could not be found in the transcript and may be misread.",
+   "Exhibit reference 'Evidence bundle File 2, p.499-500' could not be found in the transcript and may be misread."
+  ],
+  "reporting_context": [
+   {
+    "claim": "IOL reported that Suleiman Carrim testified he was manipulated by Brown Mogotsi and Vusimuzi 'Cat' Matlala, lost about R8.2 million after investing in Matlala's Medicare24 SAPS tender, and denied having a direct relationship with Police Minister Senzo Mchunu.",
+    "url": "https://iol.co.za/news/politics/2026-03-09-mogotsi-and-matlala-played-me-carrim-says-he-lost-millions-in-medicare24-tender-saga-madlanga-commission/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/08/27",
+    "partial": false
+   }
+  ]
+ },
+ {
+  "id": "day-072",
+  "day_number": 72,
+  "day_number_verified": true,
+  "date": "2026/03/06",
+  "weekday": "Friday",
+  "workstream": "political-interference",
+  "witnesses": [
+   {
+    "person_id": "suleiman-carrim",
+    "name": "Suleiman Carrim",
+    "role_as_described": "Businessman and ANC member; applicant in the interlocutory in-camera application argued this day; scheduled to give his own evidence to the Commission on 9 and 10 March 2026",
+    "note": "testified"
+   }
+  ],
+  "summary": "Day 72 (6 March 2026) was devoted entirely to legal argument on an interlocutory application brought by Suleiman Carrim, through counsel Adv Premhid, seeking that his forthcoming evidence (scheduled for 9-10 March) be heard in camera on the grounds of threats received against him, his family and his businesses. After the Chairperson refused, in open session, a preliminary request that the in-camera application itself be argued in camera, the Commission heard full argument on the merits from Adv Premhid and from evidence leader Adv Hassim SC, with extensive questioning from the Chairperson and Commissioners Baloyi SC and Khumalo SC probing the factual basis for the threats, their connection (or lack of one) to the Commission, and whether in-camera relief would actually protect Carrim given his identity and testimony dates are already public. The Commission reserved a combined written ruling on both the morning's preliminary point and the afternoon's merits argument for 9:30am Monday 9 March 2026, and directed that any supplementary affidavit from Carrim addressing the possible source of the threats be filed by midday Saturday 7 March, with any evidence-leader response due by 7pm that day.",
+  "rulings": [
+   {
+    "description": "Refused Mr Carrim's preliminary request that the interlocutory in-camera application itself be argued/heard in camera; directed that it be argued in open session, with brief written reasons to follow.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/06",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "Directed that any supplementary affidavit by Mr Carrim addressing the possible source of the threats against him be filed by midday Saturday 7 March 2026, with any response by the evidence leaders due by 7pm the same day; reserved the substantive ruling on both the morning's preliminary point and the merits of the in-camera application for delivery in writing at 9:30am Monday 9 March 2026.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/06",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [],
+  "quotes": [
+   {
+    "text": "My direction is to refuse that the application, main application, be heard in camera.",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/06",
+    "tier_label": "REPORTING",
+    "words": 14
+   },
+   {
+    "text": "But Mr Carrim cannot make his own rules.",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/06",
+    "tier_label": "REPORTING",
+    "words": 8
+   },
+   {
+    "text": "Commission's kill rate, it is nobody else's kill rate",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/06",
+    "tier_label": "REPORTING",
+    "words": 9
+   },
+   {
+    "text": "there is a responsibility for legal practitioners to advise their clients.",
+    "speaker": "Commissioner Baloyi SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/06",
+    "tier_label": "REPORTING",
+    "words": 11
+   },
+   {
+    "text": "why does it have to be in camera if he is coming to testify?",
+    "speaker": "Commissioner Khumalo SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/06",
+    "tier_label": "REPORTING",
+    "words": 14
+   },
+   {
+    "text": "The witness seems to be paranoid about the posture of the Commission",
+    "speaker": "Adv Hassim SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/06",
+    "tier_label": "REPORTING",
+    "words": 12
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/06",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "The precise content and full context of several threatening WhatsApp/text messages and images annexed to Carrim's affidavits were read into the record piecemeal by counsel and the Commissioners; the underlying documents themselves were not independently examined in this transcript.",
+   "Details of the earlier, unrelated postponement and High Court proceedings involving Carrim referenced in argument (e.g. the exact date and outcome of his High Court urgent application) were described by counsel but not independently confirmed from this day's record alone."
+  ],
+  "reporting_context": [
+   {
+    "claim": "Evidence leaders opposed Carrim's bid to testify in camera, arguing that secrecy could actually amplify a witness's vulnerability and that his public prominence made an in-camera hearing unnecessary.",
+    "url": "https://www.ewn.co.za/2026/03/06/evidence-leaders-oppose-carrims-request-to-testify-in-camera-at-madlanga-commission",
+    "publisher": "EWN",
+    "tier": 2,
+    "retrieved": "2026/08/27",
+    "partial": false
+   },
+   {
+    "claim": "The Commission spent a full day hearing argument on Carrim's request to testify privately and virtually, citing threats to his life and business interests, and said it would rule on the application the following Monday.",
+    "url": "https://www.ewn.co.za/2026/03/06/madlanga-commission-to-rule-on-carrims-in-camera-testimony-request",
+    "publisher": "EWN",
+    "tier": 2,
+    "retrieved": "2026/08/27",
+    "partial": false
+   }
+  ]
+ },
+ {
+  "id": "day-071",
+  "day_number": 71,
+  "day_number_verified": true,
+  "date": "2026/03/04",
+  "weekday": "Wednesday",
+  "workstream": "matlala-saps-contract",
+  "witnesses": [
+   {
+    "person_id": "maj-gen-richard-abednego-shibiri",
+    "name": "Maj-Gen Richard Abednego Shibiri",
+    "role_as_described": "Suspended SAPS Component Head, Organised Crime Investigation; implicated person testifying in response to a Commission Rule 10(6) summons covering alleged infiltration of law enforcement by criminal syndicates, his relationship with Vusi 'Cat' Matlala and Vusi Makhubela, the 16 May 2024 'envelope strategy' briefing to Vereeniging murder-case detectives, contact relating to journalist Musa Khawula, the SAPS-Medicare24 Tshwane contract, and allegations about Warrant Officer Michael Pule Tau's bail",
+    "note": "testified"
+   },
+   {
+    "person_id": "mr-mogotsi",
+    "name": "Mr Mogotsi",
+    "role_as_described": "Scheduled witness whose testimony was postponed after the Commission found his medical certificate (stating only 'medical condition') inadequate; he addressed the Commission briefly but did not give evidence",
+    "note": "testified"
+   }
+  ],
+  "summary": "The Commission opened by declining to hear Mr Mogotsi, whose vague medical certificate drew sharp criticism from the Chairperson, who said the Commission may refer such certificates to the medical regulatory council and question doctors in a private session; Mogotsi's testimony was postponed. The Commission then heard the sworn evidence of Maj-Gen Richard Shibiri, suspended Component Head of SAPS Organised Crime Investigation, who read through his statement responding to a Commission summons covering alleged criminal-syndicate infiltration of law enforcement, his relationship with businessman Vusi 'Cat' Matlala (including a loan he says he repaid) and self-described traditional healer Vusi Makhubela, a 16 May 2024 briefing to detectives investigating the Vereeniging/Armand Swart murder case (the disputed 'envelope strategy' allegation), contact relating to journalist Musa Khawula, the SAPS-Medicare24 Tshwane contract, and allegations he improperly disclosed bail information about Warrant Officer Michael Pule Tau. Shibiri denied orchestrating or suggesting bribery and denied influencing bail decisions, while confirming some elements of disputed conversations and alleging that a colleague, Sergeant Daniel Motaung, was improperly induced with a promised promotion to give adverse information against him. The hearing, punctuated by several adjournments and on-record corrections to Shibiri's written statement, stood down for Thursday and is set to resume his testimony on Friday, 6 March 2026.",
+  "rulings": [
+   {
+    "description": "Mr Mogotsi's testimony was postponed to a date to be determined, after the Chairperson found his medical certificate inadequate; the Commission indicated it is considering referring the certificate to the medical regulatory council and questioning the doctor in a private session.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/04",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": "RS10",
+    "description": "Sergeant Ndlela's sworn affidavit (deposed 7 July 2025), which Shibiri says confirms the true nature of his 16 May 2024 briefing to detectives; Commissioner Khumalo SC disputed that the affidavit actually disputes any suggestion of bribery."
+   },
+   {
+    "ref": "RS11",
+    "description": "Sergeant Daniel Motaung's affidavit alleging he was approached by SAPS members offering promotion in exchange for adverse information about Shibiri and General Sibiya."
+   },
+   {
+    "ref": "RS5 / RS6 / RS6A",
+    "description": "Bank statement and mechanic's proof-of-deposit/quotation documents Shibiri says support his account of the loan from Matlala and its use for his son's vehicle repairs."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "Then I put the docket in an envelope.",
+    "speaker": "Maj-Gen Shibiri",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/04",
+    "tier_label": "REPORTING",
+    "words": 8
+   },
+   {
+    "text": "I always check myself.",
+    "speaker": "Maj-Gen Shibiri",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/04",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "No, I deny all of those.",
+    "speaker": "Maj-Gen Shibiri",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/04",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "Did you say proper or improper?",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/04",
+    "tier_label": "REPORTING",
+    "words": 6
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/04",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Shibiri's denial that Witness B overheard his December 2024 phone call with Witness A was not tested against Witness B's own statement during this sitting.",
+   "The identity and reliability of the unnamed 'source' who allegedly supplied Shibiri the 'three envelopes' intelligence was not established or tested in this sitting.",
+   "Whether the SAPS service record (SAPS6) of the police member implicated in the 2021 Alrode drug-consignment arrest was in fact submitted to the Commission was left uncertain by counsel."
+  ],
+  "reporting_context": [
+   {
+    "claim": "Reported that Shibiri testified he received an R80,000 loan from Vusi 'Cat' Matlala after his son's September 2024 car accident, repaid via livestock sales and a bank transfer, and that he denied offering bribes via a 'three envelopes' scheme while investigators had alleged otherwise.",
+    "url": "https://www.dailymaverick.co.za/article/2026-03-04-saps-organised-crime-boss-explains-his-r80000-loan-from-cat-matlala/",
+    "publisher": "Daily Maverick",
+    "tier": 3,
+    "retrieved": "2026/08/27",
+    "partial": false
+   },
+   {
+    "claim": "Reported Shibiri's denial of the 'three envelopes' bribery allegation, quoting him as saying 'I did not distribute envelopes or provide money. I did not solicit bribes,' and that he described his office comments as a warning against corruption rather than an offer of it.",
+    "url": "https://mg.co.za/news/south-africa/2026-03-05-shibiri-i-didn-t-offer-bribes/",
+    "publisher": "Mail & Guardian",
+    "tier": 3,
+    "retrieved": "2026/08/27",
+    "partial": true
+   }
+  ]
+ },
+ {
   "id": "day-070",
   "day_number": 70,
   "day_number_verified": true,

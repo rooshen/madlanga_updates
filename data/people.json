@@ -1339,6 +1339,36 @@
   "photo_mode": "initials"
  },
  {
+  "id": "brigadier-mkhwanazi",
+  "name": "Brigadier Mkhwanazi",
+  "initials": "BM",
+  "role": "SAPS/EMPD officer under subpoena for further testimony (Commissioner Mkhwanazi of EMPD); appeared only for an unopposed application, through attorney Nkosana Khumalo, to postpone his evidence to 23 March 2026; did not testify on this sitting day",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 73.",
+  "bio": null,
+  "first_appearance": "2026/03/09",
+  "linked_days": [
+   73
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/09",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
+ },
+ {
   "id": "brigadier-nkhwashu",
   "name": "Brigadier Nkhwashu",
   "initials": "BN",
@@ -2746,8 +2776,8 @@
   "name": "General Richard Shibiri",
   "initials": "GR",
   "role": "Gauteng SAPS organised crime head",
-  "status": "Implicated (untested)",
-  "status_reason": "WhatsApp records produced via Witness F on Day 53 show him coordinating around Matlala's Thanksgiving-ceremony attendance and warning blogger Musa Khawula off a story about Matlala; he has not testified or responded within these days.",
+  "status": "Testified",
+  "status_reason": "Gave sworn evidence-in-chief and was extensively cross-examined over Days 71, 75, 76 and 77 on his relationship with Vusi 'Cat' Matlala, an undisclosed R70,000 loan/payment from Matlala, his 16 May 2024 briefing of investigators on the Armand Swart murder case, and a recorded December 2024 phone call about Katiso Molefe's detention; he denied wrongdoing throughout but confirmed several previously-denied facts once challenged with WhatsApp and call records.",
   "bio": null,
   "first_appearance": null,
   "linked_days": [],
@@ -2755,6 +2785,13 @@
   "photo_source": null,
   "photo_licence": null,
   "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   },
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
     "tier": 1,
@@ -3906,6 +3943,36 @@
   "photo_mode": "initials"
  },
  {
+  "id": "lt-gen-maj-gen-richard-shibiri",
+  "name": "Lt-Gen (Maj-Gen) Richard Shibiri",
+  "initials": "LM",
+  "role": "Component Head: Organised Crime, SAPS (national) — continuing cross-examination, focused on a personal loan from Mr Vusi Matlala and his May 2024 briefing of investigators on the Swart murder case",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 76.",
+  "bio": null,
+  "first_appearance": "2026/03/12",
+  "linked_days": [
+   76
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/12",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
+ },
+ {
   "id": "lt-gen-gen-mkhwanazi-kwazulu-natal-provincial-commissioner",
   "name": "Lt-Gen / Gen Mkhwanazi (KwaZulu-Natal Provincial Commissioner)",
   "initials": "LG",
@@ -4189,6 +4256,36 @@
   "photo_mode": "initials"
  },
  {
+  "id": "lt-gen-richard-shibiri",
+  "name": "Lt-Gen Richard Shibiri",
+  "initials": "LR",
+  "role": "Lieutenant-General, Head of SAPS Organised Crime Investigations (OCI); continuing witness testifying about his relationship with Sergeant Nkosi and businessman Vusimuzi 'Cat' Matlala",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 75.",
+  "bio": null,
+  "first_appearance": "2026/03/11",
+  "linked_days": [
+   75
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/11",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
+ },
+ {
   "id": "lt-gen-samuel-dumisani-khumalo",
   "name": "Lt-Gen Samuel Dumisani Khumalo",
   "initials": "LS",
@@ -4246,6 +4343,36 @@
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
+ },
+ {
+  "id": "lt-gen-shibiri",
+  "name": "Lt-Gen Shibiri",
+  "initials": "LS",
+  "role": "SAPS Head of Organised Crime, continuing cross-examination on a recorded phone call with an investigating officer ('Witness A'), on the Armand Swart murder investigation, the arrest of Katiso Molefe, and alleged instructions from Deputy National Commissioner Lt-Gen Sibiya",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 77.",
+  "bio": null,
+  "first_appearance": "2026/03/13",
+  "linked_days": [
+   77
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/13",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
  },
  {
   "id": "lt-gen-sibiya",
@@ -4484,6 +4611,36 @@
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
+ },
+ {
+  "id": "maj-gen-richard-abednego-shibiri",
+  "name": "Maj-Gen Richard Abednego Shibiri",
+  "initials": "MR",
+  "role": "Suspended SAPS Component Head, Organised Crime Investigation; implicated person testifying in response to a Commission Rule 10(6) summons covering alleged infiltration of law enforcement by criminal syndicates, his relationship with Vusi 'Cat' Matlala and Vusi Makhubela, the 16 May 2024 'envelope strategy' briefing to Vereeniging murder-case detectives, contact relating to journalist Musa Khawula, the SAPS-Medicare24 Tshwane contract, and allegations about Warrant Officer Michael Pule Tau's bail",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 71.",
+  "bio": null,
+  "first_appearance": "2026/03/04",
+  "linked_days": [
+   71
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/04",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
  },
  {
   "id": "maj-gen-senona",
@@ -5115,6 +5272,34 @@
   "photo_mode": "initials"
  },
  {
+  "id": "morgan-maumela",
+  "name": "Morgan Maumela",
+  "initials": "MM",
+  "role": "Businessman; associate and later disputed business partner of Suleiman Carrim, alleged recipient of payments routed via Luthaga Trading Enterprise",
+  "status": "Implicated (untested)",
+  "status_reason": "Named extensively in Suleiman Carrim's Days 73-74 testimony: recipient of a disputed R55-56 million 'ChromeCore' mining joint venture with Carrim that broke down; alleged recipient, via Luthaga Trading Enterprise, of R500,000-R750,000 in payments timed within minutes of Medicare 24 SAPS-contract proceeds being forwarded, which evidence leaders suggested could raise a Prevention of Organised Crime Act (money laundering) question; also linked, via a Mediware tender dispute, to an unsuccessful bidder company (Aloo Construction). Has not testified or responded at the Commission.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
   "id": "mr-brown-mogotsi",
   "name": "Mr Brown Mogotsi",
   "initials": "MB",
@@ -5179,12 +5364,13 @@
   "id": "mr-mogotsi",
   "name": "Mr Mogotsi",
   "initials": "MM",
-  "role": "Scheduled witness who did not appear; had already testified extensively before the Commission and in Parliament, with further topics still to be canvassed",
+  "role": "Scheduled witness whose testimony was postponed after the Commission found his medical certificate (stating only 'medical condition') inadequate; he addressed the Commission briefly but did not give evidence",
   "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 70.",
+  "status_reason": "Gave evidence before the commission on day 71.",
   "bio": null,
-  "first_appearance": "2026/03/02",
+  "first_appearance": "2026/03/04",
   "linked_days": [
+   71,
    70
   ],
   "photo_url": null,
@@ -5193,7 +5379,7 @@
   "photo_mode": "initials",
   "sources": [
    {
-    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/02",
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/04",
     "tier": 1,
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
@@ -5260,6 +5446,36 @@
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
+ },
+ {
+  "id": "mr-suleiman-carrim",
+  "name": "Mr Suleiman Carrim",
+  "initials": "MS",
+  "role": "Businessman continuing cross-examination on his funding arrangement with Mr Vusimuzi 'Cat' Matlala and Medicare 24 Tshwane (the SAPS-linked medical services contract), and on his relationship with Mr Morgan Maumela",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 74.",
+  "bio": null,
+  "first_appearance": "2026/03/10",
+  "linked_days": [
+   74
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/10",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
  },
  {
   "id": "mr-xolani-prince-nciza",
@@ -6286,6 +6502,66 @@
   "photo_mode": "initials"
  },
  {
+  "id": "sergeant-fannie-ezekiel-nkosi",
+  "name": "Sergeant Fannie Ezekiel Nkosi",
+  "initials": "SF",
+  "role": "SAPS sergeant, formerly attached to the Deputy National Commissioner for Crime Detection's office; previously anonymised in Commission proceedings as 'Witness F'; continuing cross-examination on his relationship with Mr Vusimuzi 'Cat' Matlala, Lt-Gen Shadrack Sibiya, Brigadier Ramangwa, General Fannie, Brigadier Glenda Bokaba, General Shibiri, Mr Zenzile 'Ze' Nxumalo and Mr Motsumi",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 78.",
+  "bio": null,
+  "first_appearance": "2026/03/16",
+  "linked_days": [
+   78
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/16",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
+ },
+ {
+  "id": "sergeant-fannie-nkosi",
+  "name": "Sergeant Fannie Nkosi",
+  "initials": "SF",
+  "role": "SAPS Gauteng organised crime sergeant, formerly attached to Brigadier Ramangwa's kidnapping-investigation team; close associate of General Sibiya and of Vusimuzi 'Cat' Matlala; continuing cross-examination begun on a prior sitting day",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 79.",
+  "bio": null,
+  "first_appearance": "2026/03/17",
+  "linked_days": [
+   79
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
+ },
+ {
   "id": "sergeant-fannie-nkosi-witness-f",
   "name": "Sergeant Fannie Nkosi (\"Witness F\")",
   "initials": "SF",
@@ -6517,6 +6793,37 @@
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
+ },
+ {
+  "id": "suleiman-carrim",
+  "name": "Suleiman Carrim",
+  "initials": "SC",
+  "role": "Businessman; director/shareholder of Fusion Technical Team and associated with Ziggy and Tameez Investments; financier who advanced R10 million to Vusi Matlala's Medicare 24 Tshwane District SAPS medical-services contract",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 73.",
+  "bio": null,
+  "first_appearance": "2026/03/09",
+  "linked_days": [
+   73,
+   72
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/09",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
  },
  {
   "id": "suleiman-kareem",
@@ -7541,6 +7848,34 @@
   "linked_days": [
    30
   ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
+  "id": "zenzile-ze-nxumalo",
+  "name": "Zenzile \"Ze\" Nxumalo",
+  "initials": "ZZ",
+  "role": "Civilian complainant against journalist Musa Khawula; associate of Sergeant Fannie Nkosi and General Shibiri",
+  "status": "Implicated (untested)",
+  "status_reason": "Day 78 testimony describes Nxumalo supplying Sergeant Nkosi with a warrant of arrest, profiling/consumer-trace reports and address details for Musa Khawula, and paying for concert tickets used by six SAPS members on an undercover trip to Kroonstad to attempt Khawula's arrest. Has not testified or responded at the Commission.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
