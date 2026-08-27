@@ -48,6 +48,38 @@
   "best_tier": 1
  },
  {
+  "id": "african-national-congress-anc",
+  "name": "African National Congress (ANC)",
+  "type": "political party",
+  "description": "Referenced regarding Mogotsi's funding of January 8 celebrations and his 2017 role running Mchunu's ANC Secretary-General branding campaign.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "alu-construction",
+  "name": "Alu Construction",
+  "type": "private company",
+  "description": "Losing tender bidder later linked by the evidence leader to the Maumela/Matlala consortium awarded the Tembisa Hospital contract.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "bad-boys-security",
   "name": "Bad Boys Security",
   "type": "private security company",
@@ -64,10 +96,122 @@
   "best_tier": 1
  },
  {
+  "id": "bidvest-protea-coin",
+  "name": "Bidvest Protea Coin",
+  "type": "private security company",
+  "description": "Provided residential protection to IPID investigators Magagula, Dlamini and Masuku from March 2023 to July 2024 after threats linked to EMPD-related investigations.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "black-ak-trading",
   "name": "Black AK Trading",
   "type": "private company",
   "description": "Alleged EFT conduit for an R80,000 payment from Matlala to Maj-Gen Shibiri (rejected/returned before being paid in cash).",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "brown-mogotsi-foundation",
+  "name": "Brown Mogotsi Foundation",
+  "type": "non-profit organisation",
+  "description": "Mogotsi's foundation, which brought the 2023 interdict against the North West Health Department tender.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "buena-vista-learning-academy-formerly-mokoko-grill",
+  "name": "Buena Vista Learning Academy (formerly Mokoko Grill)",
+  "type": "Private training company",
+  "description": "Company (sole director Tsakani Baloyi) awarded a R66,500 Ekurhuleni skills-development tender in November 2023 that was ultimately paid almost R3.5 million; multiple bid irregularities were conceded in testimony.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "cat-security",
+  "name": "CAT Security",
+  "type": "Private security company",
+  "description": "Company controlled by Vusimuzi Matlala, alleged in Julius Mkhwanazi's disciplinary Charge 4 to have unlawfully used blue-light vehicles and impersonated police.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "cat-vip-protection",
+  "name": "CAT VIP Protection",
+  "type": "private company",
+  "description": "Vusimuzi 'Cat' Matlala's company; source of the vehicle donations to EMPD/Mkhwanazi and of payments into Witness F's personal bank account.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "cat-vip-protection-anubis-protection-services",
+  "name": "CAT VIP Protection / Anubis Protection Services",
+  "type": "private security firms",
+  "description": "Beneficiaries of MOUs signed by Brigadier Julius Mkhwanazi permitting blue-light and City vehicle-registration use.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "cat-vip-protection-services",
+  "name": "CAT VIP Protection Services",
+  "type": "Private security company",
+  "description": "Vusimuzi 'Cat' Matlala's security company, deployed alongside EMPD at the 2022 State of the City address and central to the vehicle-donation and blue-lights allegations against Julius Mkhwanazi.",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
@@ -135,10 +279,58 @@
   "best_tier": 1
  },
  {
+  "id": "city-of-ekurhuleni-metropolitan-municipality",
+  "name": "City of Ekurhuleni Metropolitan Municipality",
+  "type": "municipal government",
+  "description": "Dr Mashazi's former employer as City Manager; subject of the EMPD oversight-failure testimony.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "city-of-johannesburg",
+  "name": "City of Johannesburg",
+  "type": "Metropolitan municipality",
+  "description": "Sibiya's former employer; site of the disputed GFIS spying-equipment procurement controversy addressed on Day 62.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "civilian-secretariat-for-the-police-service-csps",
   "name": "Civilian Secretariat for the Police Service (CSPS)",
   "type": "Statutory civilian oversight body",
   "description": "Oversight body identified in Van Rooyen's statement as deficient in independence because it depends on ministerial will.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "crime-intelligence-saps-division",
+  "name": "Crime Intelligence (SAPS division)",
+  "type": "SAPS division",
+  "description": "Subject of corruption allegations (slush funds, informant payment irregularities) via Mogotsi's testimony; also linked in Mogotsi's account to the alleged Magaqa cover-up.",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
@@ -270,10 +462,42 @@
   "best_tier": 2
  },
  {
+  "id": "directorate-for-priority-crime-investigations-dpci-the-hawks",
+  "name": "Directorate for Priority Crime Investigations (DPCI / the Hawks)",
+  "type": "SAPS specialised investigative directorate",
+  "description": "Maj-Gen Lesetja Senona's directorate as KwaZulu-Natal Provincial Head; subject of testimony on the November 2021 Port Shepstone cocaine theft.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "directorate-of-public-prosecutions-kwazulu-natal",
   "name": "Directorate of Public Prosecutions, KwaZulu-Natal",
   "type": "NPA regional office",
   "description": "Office headed by Adv Elaine Harrison, which allocated a dedicated prosecutorial capacity to political-killings cases within its Organised Crime Component and received no formal notification of the PKTT's reported disestablishment.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "empd-integrity-and-standards-unit",
+  "name": "EMPD Integrity and Standards Unit",
+  "type": "internal disciplinary unit",
+  "description": "Headed by Colonel Hennie Erasmus; per Magagula's Day 60 testimony, it routinely obtained evidence sufficient to open internal disciplinary cases independently of IPID but often did not act on it.",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
@@ -303,6 +527,22 @@
     "tier": 1,
     "publisher": "The Presidency (South Africa)",
     "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "forensic-science-laboratory-fsl-pretoria-silverton",
+  "name": "Forensic Science Laboratory (FSL), Pretoria Silverton",
+  "type": "SAPS forensic laboratory",
+  "description": "Ballistics laboratory where Captain Makgotloe worked and to which he says he was taken overnight on 7 January 2025.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
     "partial": false
    }
   ],
@@ -373,6 +613,22 @@
   "best_tier": 1
  },
  {
+  "id": "gotlhe-specialist-kgotle",
+  "name": "Gotlhe Specialist / Kgotle",
+  "type": "travel/logistics company",
+  "description": "Company owned by Mogotsi's fiancée, used to route Matlala's January-8 payment and Brown Mogotsi Foundation interdict funding.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "gotlhe-specialists-gotlhe-travel",
   "name": "Gotlhe Specialists / Gotlhe Travel",
   "type": "Private company (travel agency)",
@@ -393,6 +649,38 @@
   "name": "Groenpunt Correctional Centre",
   "type": "government correctional facility",
   "description": "Prison holding Katiso Molefe as an awaiting-trial detainee; site of Brigadier Nkhwashu's 9 December 2024 visit under false pretences.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "group-forensic-and-investigative-services-gfis",
+  "name": "Group Forensic and Investigative Services (GFIS)",
+  "type": "City of Johannesburg investigative unit",
+  "description": "Procured the TSCM (counter-surveillance) equipment at the centre of the 'spying equipment' allegations against Sibiya.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "high-tech-special-operations-and-risk-management",
+  "name": "High Tech Special Operations and Risk Management",
+  "type": "Private security company",
+  "description": "Sibiya's former private security company, from which he said he resigned before 2022; referenced in questioning about a school-fees e-wallet payment.",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
@@ -515,10 +803,58 @@
   "best_tier": 1
  },
  {
+  "id": "judicial-commission-of-inquiry-into-criminality-political-interference-and-corruption-in-the-criminal-justice-system-the-madlanga-commission",
+  "name": "Judicial Commission of Inquiry into Criminality, Political Interference and Corruption in the Criminal Justice System (the Madlanga Commission)",
+  "type": "Judicial commission of inquiry",
+  "description": "The commission itself, chaired by retired Justice Mbuyiseli Madlanga, whose Days 43-51 sittings are the subject of this synthesis.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "majang-law-firm",
   "name": "Majang (law firm)",
   "type": "private law firm",
   "description": "Alleged in an anonymous email (Day 30) to have been appointed to oversee disciplinary charges against Julius Mkhwanazi that never proceeded to a hearing.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "majang-inc-attorneys",
+  "name": "Majang Inc Attorneys",
+  "type": "Law firm",
+  "description": "Firm alleged by Gxasheka to have withheld case files relating to the Mkhwanazi disciplinary matter over unpaid invoices.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "medi24-tshwane-saps-health-service-tender-medicare-24",
+  "name": "Medi24 Tshwane SAPS Health Service Tender / Medicare 24",
+  "type": "SAPS health-services contract/contractor",
+  "description": "SAPS health-services contract linked to Matlala; subject of a confidential preliminary audit report recommending termination that Sibiya forwarded and that was further disseminated to Matlala, Shibiri and Motsumi.",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
@@ -547,10 +883,42 @@
   "best_tier": 1
  },
  {
+  "id": "medicare-24-tshwane-district",
+  "name": "Medicare 24 Tshwane District",
+  "type": "SAPS contractor",
+  "description": "Held the SAPS health risk manager / medical-surveillance contract at the centre of Brigadier Matjeng's testimony; the contract was later terminated by SAPS (letter cited as exhibit MTJ9 on Day 55) on grounds including misrepresentation, fronting, and undisclosed director resignation.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "medicare-24-tshwane-district-pty-ltd",
   "name": "Medicare 24 Tshwane District (Pty) Ltd",
   "type": "Private company",
   "description": "Company associated with Vusimuzi Matlala which held a SAPS health-risk-management contract, referred to in evidence as worth some R360 million, cancelled on 13 May 2025 following an audit.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "medicare24",
+  "name": "Medicare24",
+  "type": "private company (Matlala's)",
+  "description": "Company awarded the disputed SAPS health-risk-management tender central to the matlala-saps-contract workstream.",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
@@ -648,6 +1016,38 @@
   "best_tier": 1
  },
  {
+  "id": "national-political-killings-task-team-pktt-npktt",
+  "name": "National Political Killings Task Team (PKTT/NPKTT)",
+  "type": "SAPS task team",
+  "description": "Disbanded 31 December 2024; central subject of Days 37, 39-40 and 42 testimony on its establishment, docket handling and disbandment.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "national-priority-offences-operations-toms",
+  "name": "National Priority Offences Operations (TOMS)",
+  "type": "SAPS division",
+  "description": "The legitimate multidisciplinary operation (executing J50/J51 warrants) encountered at the Sandhurst address on 6 December 2024.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "npa",
   "name": "National Prosecuting Authority (NPA)",
   "type": "NPA",
@@ -675,6 +1075,38 @@
   "name": "News24",
   "type": "Media organisation",
   "description": "One of two media respondents that opposed the Evidence Leaders' in-camera application on Day 11 and withdrew that opposition on Day 13.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "office-of-the-director-of-public-prosecutions-dpp",
+  "name": "Office of the Director of Public Prosecutions (DPP)",
+  "type": "prosecuting authority",
+  "description": "Received IPID's referrals in the Boksburg blue-lights matter (October 2023) and the Brakpan/Mbense case (February 2026); decisions on both remained pending as of these days.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "osizweni-meat-market",
+  "name": "Osizweni Meat Market",
+  "type": "Third-party business",
+  "description": "Butchery whose account, held by Modiegi (Modiege) Kekana, received disputed payments from Mr Matlala that Brigadier Matjeng said were intended for her but which she said she never received.",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
@@ -724,6 +1156,22 @@
    }
   ],
   "best_tier": 3
+ },
+ {
+  "id": "public-service-commission-psc",
+  "name": "Public Service Commission (PSC)",
+  "type": "State oversight body",
+  "description": "Issued a report (SS39) finding General Senthumule's promotion irregular, which SAPS internally disputed (SS40).",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
  },
  {
   "id": "q-tech",
@@ -807,6 +1255,22 @@
     "tier": 2,
     "publisher": "The Citizen",
     "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "saps-forensic-science-laboratory-abis",
+  "name": "SAPS Forensic Science Laboratory / ABIS",
+  "type": "SAPS forensic service",
+  "description": "Subject of Day 40 questioning on causes of delay (sample volumes, capacity, staff attrition); Senthumule committed to a written report.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
     "partial": false
    }
   ],
@@ -900,6 +1364,38 @@
   "best_tier": 1
  },
  {
+  "id": "senzo-and-thembeka-mchunu-foundation",
+  "name": "Senzo and Thembeka Mchunu Foundation",
+  "type": "Registered entity",
+  "description": "Foundation whose registration document (Annexure SEN3) Matlala sent to Senona during a 13 April 2025 meeting; Senona said he never opened it.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "serious-organised-crime-investigation-unit-hawks-johannesburg",
+  "name": "Serious Organised Crime Investigation Unit, Hawks Johannesburg",
+  "type": "Hawks unit",
+  "description": "Unit to which Nortje, Radebe and Kadwa belonged; dispatched the Sandhurst verification team.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "sanef",
   "name": "South African National Editors' Forum (SANEF)",
   "type": "other",
@@ -952,6 +1448,22 @@
   "name": "Tameez Investments (Pty) Ltd",
   "type": "Private company",
   "description": "Entity linked to Suleiman Kareem which received payments of R1,500,000 and R1,000,000 from Matlala and made an outgoing payment of R92,000 to Gotlhe Specialists.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "tasmika-construction-ziggy-investments",
+  "name": "Tasmika Construction / Ziggy Investments",
+  "type": "private companies (Suleiman Kareem's)",
+  "description": "Source of funds traced into Gotlhe Specialist for the 2023 North West Health Department tender interdict.",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
