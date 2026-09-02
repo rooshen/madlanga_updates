@@ -549,6 +549,22 @@
   "best_tier": 1
  },
  {
+  "id": "elshadai-security",
+  "name": "Elshadai Security",
+  "type": "TMPD security services contractor",
+  "description": "One of three companies (with Ngaphesheya and Gubis85) named by Chief Faro as matching entities favoured in Sergeant Nkosi's WhatsApp exchanges with City officials; its SLA was signed by Deputy Chief Spies while Faro was on leave and without Faro reviewing the draft.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "forensic-science-laboratory-fsl-pretoria-silverton",
   "name": "Forensic Science Laboratory (FSL), Pretoria Silverton",
   "type": "SAPS forensic laboratory",
@@ -681,6 +697,22 @@
   "name": "Group Forensic and Investigative Services (GFIS)",
   "type": "City of Johannesburg investigative unit",
   "description": "Procured the TSCM (counter-surveillance) equipment at the centre of the 'spying equipment' allegations against Sibiya.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "gubis85-solutions",
+  "name": "Gubis85 Solutions",
+  "type": "TMPD security services contractor",
+  "description": "Security company that received a disproportionate share of TMPD's ad hoc (emergency/short-term) guarding deployments -- R59.1 million over roughly a year per Spies's Day 84 testimony, with irregularities including purchase orders created after deployment letters and allocations by an officer (Inspector Phiri) with no authority to make them. Separately under Hawks investigation for alleged 'ghost billing'.",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
@@ -1107,6 +1139,22 @@
   "name": "News24",
   "type": "Media organisation",
   "description": "One of two media respondents that opposed the Evidence Leaders' in-camera application on Day 11 and withdrew that opposition on Day 13.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "ngaphesheya-security-services",
+  "name": "Ngaphesheya Security Services",
+  "type": "TMPD/City of Tshwane contractor",
+  "description": "Security company (also referenced as Ngaphesheya Construction and Projects) linked to Sergeant Fannie Nkosi's brother Bheki Nkosi; evidence before the Commission suggested CFO Gareth Mnisi and Deputy Chief Dhlamini, with Sergeant Nkosi, helped secure its appointment on a non-compliant bid for the TMPD 'land invasion' tender (TMPD 1/2024-25). Paid R2,028,154.32 to date as of Day 84.",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
@@ -1551,6 +1599,22 @@
   "name": "Transnet",
   "type": "state-owned enterprise",
   "description": "State logistics company whose tender arrangements with SK Group/Q-Tech are alleged to be the fraud motive behind the Armand Swart murder.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "triotic-protection-services",
+  "name": "Triotic Protection Services",
+  "type": "TMPD security services contractor",
+  "description": "One of 22 companies awarded the TMPD2 2016-2017 outsourced security tender by a 2021 court order; linked to Eugene 'Bonzo' Modise, reported (News24, Exhibit CJC104) to have been its sole director/shareholder and ANC Tshwane regional secretary at relevant times.",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",

@@ -118,16 +118,18 @@ pick up the next unprocessed batch, and keep going.
 ## Where things stand (update this section every session — check `tools/BACKLOG.md` too, it's the
 more detailed/authoritative day-by-day log)
 
-As of 2026/08/27: Days 1–15 (pilot), 17–42, 43–51, 52–53+57–61, 62–70 are extracted, verified,
-merged, built and delivered to the user's Mac. Days 71–79 are extracted (9/9 JSON files in
-`/home/claude/day_json/`) but not yet combined/verified/synthesized/merged/built/shipped — that's
-the immediate next step in whatever session picks this up next, if it hasn't happened yet. Days
-80–89 (minus gap day 85) are the next batch after that. Days 92–166 are sitting downloaded on the
-user's Mac but stuck there by the `device_stage_files` issue above. Day 14 needs re-fetching (bad
-local copy was deleted). Known genuinely-missing transcript days (no transcript media exists):
-16, 56, 85, 90, 91, 104, 124, 125, 130, 131, 143 — don't keep trying these, they're recorded gaps.
-Nothing has been pushed to GitHub yet — all commits are local to the sandbox and mirrored to the
-user's Mac clone.
+As of 2026/08/31: Days 1–15 (pilot), 17–89 are extracted, verified, merged, built and delivered
+to the user's Mac — i.e. the entire 1–90 range is done except Day 14 (blocked, see below) and the
+confirmed gaps. **Days 92–166 (69 days) are blocked**: their PDFs are already downloaded to the
+user's Mac (`~/Downloads/mad-day-0NN.pdf`) but `mcp__remote-devices__device_stage_files` keeps
+returning `untrusted_device` — re-confirmed again on 2026/08/31 with a single-file retry, per the
+standing "retry once per session, don't loop" rule. **This needs the user to re-authenticate the
+Claude desktop app on that Mac** before staging (and therefore any further extraction) can
+proceed — ask once per session if it's still blocked, don't hammer it. Day 14 is blocked by the
+same issue. Known genuinely-missing transcript days (no transcript media exists): 16, 56, 85, 90,
+91, 104, 124, 125, 130, 131, 143 — don't keep trying these, they're recorded gaps. Nothing has
+been pushed to GitHub yet — all commits are local to the sandbox and mirrored to the user's Mac
+clone; there's a growing stack of local commits the user needs to `git push` themselves.
 
 ## Why CLAUDE.md, and what "best practice" means here
 

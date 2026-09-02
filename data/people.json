@@ -1904,6 +1904,34 @@
   "photo_mode": "initials"
  },
  {
+  "id": "chief-of-police-yolande-faro",
+  "name": "Chief of Police Yolande Faro",
+  "initials": "CO",
+  "role": "TMPD Chief of Police",
+  "status": "Testified",
+  "status_reason": "Concluding testimony on Day 86 covering WhatsApp messages linking Sergeant Fannie Nkosi to City officials, the Elshadai Security SLA signed in her absence by Deputy Chief Spies, and TMPD's own investigation into potentially cancelling improperly-awarded contracts including Ngaphesheya's.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
   "id": "chris-steyn",
   "name": "Chris Steyn",
   "initials": "CS",
@@ -2136,6 +2164,62 @@
   "photo_mode": "initials"
  },
  {
+  "id": "deputy-chief-sean-bolhuis",
+  "name": "Deputy Chief Sean Bolhuis",
+  "initials": "DC",
+  "role": "TMPD Deputy Chief of Police; caretaker of the Asset Protection and Security Services (APSS) division for 8 months (1 July 2024 - 28 February 2025)",
+  "status": "Testified",
+  "status_reason": "Sworn testimony on Day 86 detailing 42 irregular ad hoc site allocations to Gubis85 Solutions worth roughly R14.1 million in a single month (potentially far higher over the full period), an October 2024 email chain showing invoices and SLAs withheld from the finance section, and his own acknowledged oversight failures.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
+  "id": "deputy-chief-umashi-samson-dhlamini",
+  "name": "Deputy Chief Umashi Samson Dhlamini",
+  "initials": "DC",
+  "role": "TMPD Deputy Chief of Police; suspended (precautionary, 20 March 2026) after his name arose in Commission testimony",
+  "status": "Testified",
+  "status_reason": "Sworn testimony on Day 88 describing a roughly 30-year personal relationship with Sergeant Fannie Nkosi, his role resolving outstanding ad hoc security invoices for Gubis85 and other providers, and disputed WhatsApp messages about the CFO being 'captured'; denied any corrupt benefit and was not fully cross-examined before being recalled under subpoena.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
   "id": "deputy-chief-of-police-revo-spies",
   "name": "Deputy Chief of Police Revo Spies",
   "initials": "DC",
@@ -2162,6 +2246,64 @@
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
+ },
+ {
+  "id": "director-tshukudu-malatji",
+  "name": "Director Tshukudu Malatji",
+  "initials": "DT",
+  "role": "TMPD Director of Asset Protection Services since 2013; suspended since July 2025 pending disciplinary/forensic process",
+  "status": "Testified",
+  "status_reason": "Gave sworn testimony on Day 87 on the TMPD2 2016-2017 outsourced security tender, admitted knowing from around December 2024 that ad hoc deployments to Gubis85 Solutions were irregular but taking no corrective action for months despite a written instruction from Deputy Chief Spies to halt them, and largely agreed his inaction amounted to gross negligence while disputing sole responsibility.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
+  "id": "director-tshukudu-p-malatji",
+  "name": "Director Tshukudu P. Malatji",
+  "initials": "DT",
+  "role": "Director, Tshwane Metro Police Department (TMPD) Asset Protection Services since 2013, currently suspended; main witness of the day, examined at length on TMPD2 2016-2017 tender and irregular ad hoc security deployments",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 87.",
+  "bio": null,
+  "first_appearance": "2026/04/09",
+  "linked_days": [
+   87
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/04/09",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
  },
  {
   "id": "dr-imogen-mashazi",
@@ -2660,6 +2802,36 @@
   "photo_mode": "initials"
  },
  {
+  "id": "gareth-mnisi",
+  "name": "Gareth Mnisi",
+  "initials": "GM",
+  "role": "Witness present under subpoena; appearance interposed to 17 April 2026 by agreement, did not testify",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 87.",
+  "bio": null,
+  "first_appearance": "2026/04/09",
+  "linked_days": [
+   87
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/04/09",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
+ },
+ {
   "id": "general-fannie-masemola",
   "name": "General Fannie Masemola",
   "initials": "GF",
@@ -3097,6 +3269,36 @@
   "photo_mode": "initials"
  },
  {
+  "id": "inspector-a-l-phiri",
+  "name": "Inspector A.L. Phiri",
+  "initials": "IA",
+  "role": "Inspector, TMPD Asset Protection Services, working under Dr Elvis Madihlaba; recalled but excused without giving evidence, redirected to appear 20 April 2026",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 87.",
+  "bio": null,
+  "first_appearance": "2026/04/09",
+  "linked_days": [
+   87
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/04/09",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
+ },
+ {
   "id": "isaac-jabulani-mapiyeye",
   "name": "Isaac Jabulani Mapiyeye",
   "initials": "IJ",
@@ -3262,6 +3464,7 @@
   "bio": null,
   "first_appearance": null,
   "linked_days": [
+   89,
    44,
    43
   ],
@@ -6173,6 +6376,7 @@
   "bio": null,
   "first_appearance": null,
   "linked_days": [
+   84,
    30,
    28
   ],
@@ -6380,6 +6584,36 @@
   "photo_mode": "initials"
  },
  {
+  "id": "sean-ian-edward-eugene-bolhuis",
+  "name": "Sean Ian Edward Eugene Bolhuis",
+  "initials": "SI",
+  "role": "Deputy Chief of Police, Training and Innovation, TMPD, and Chief of Staff to the Chief of Police; former caretaker of the Asset Protection and Security Services (APSS) unit from 1 July 2024 to 28 February 2025",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 86.",
+  "bio": null,
+  "first_appearance": "2026/04/08",
+  "linked_days": [
+   86
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/04/08",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
+ },
+ {
   "id": "senzo-mchunu",
   "name": "Senzo Mchunu",
   "initials": "SM",
@@ -6535,12 +6769,13 @@
   "id": "sergeant-fannie-nkosi",
   "name": "Sergeant Fannie Nkosi",
   "initials": "SF",
-  "role": "SAPS Gauteng organised crime sergeant, formerly attached to Brigadier Ramangwa's kidnapping-investigation team; close associate of General Sibiya and of Vusimuzi 'Cat' Matlala; continuing cross-examination begun on a prior sitting day",
+  "role": "SAPS sergeant, continuing testimony; described as a family friend of the late taxi figure Mr Msibi ('Baba') and his associates, an intermediary between General Mkhwanazi/General Sibiya and various taxi-industry figures, and connected to his brother's security company Ngaphesheya (which bid, alongside Elshadai Security Services, for a Tshwane Metro Police Department tender)",
   "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 79.",
+  "status_reason": "Gave evidence before the commission on day 80.",
   "bio": null,
-  "first_appearance": "2026/03/17",
+  "first_appearance": "2026/03/18",
   "linked_days": [
+   80,
    79
   ],
   "photo_url": null,
@@ -6549,7 +6784,7 @@
   "photo_mode": "initials",
   "sources": [
    {
-    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/17",
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/18",
     "tier": 1,
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
@@ -6588,6 +6823,38 @@
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
+ },
+ {
+  "id": "sergeant-nkosi",
+  "name": "Sergeant Nkosi",
+  "initials": "SN",
+  "role": "SAPS Sergeant who worked with (then) General Sibiya in the SAPS head office, described as having acted as an intermediary between General Sibiya and Mr Cat Matlala; continued his cross-examination on this day.",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 83.",
+  "bio": null,
+  "first_appearance": "2026/03/23",
+  "linked_days": [
+   83,
+   82,
+   81
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/23",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
  },
  {
   "id": "sesi-baloyi",
@@ -7188,6 +7455,36 @@
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
+ },
+ {
+  "id": "umashi-samson-dhlamini",
+  "name": "Umashi Samson Dhlamini",
+  "initials": "US",
+  "role": "Deputy Chief of Police, City of Tshwane Metropolitan Police Department (TMPD), responsible for the Support and Administration division; currently on self-requested precautionary suspension",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 88.",
+  "bio": null,
+  "first_appearance": "2026/04/10",
+  "linked_days": [
+   88
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/04/10",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
  },
  {
   "id": "unnamed-witness-represented-by-mr-matlala",
@@ -7865,6 +8162,36 @@
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
+ },
+ {
+  "id": "yolande-faro",
+  "name": "Yolande Faro",
+  "initials": "YF",
+  "role": "Chief of Police, City of Tshwane Metropolitan Police Department (TMPD); continuing her testimony from the previous sitting day",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 86.",
+  "bio": null,
+  "first_appearance": "2026/04/08",
+  "linked_days": [
+   86
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/04/08",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
  },
  {
   "id": "zenzile-ze-nxumalo",

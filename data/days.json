@@ -928,6 +928,1108 @@
   "reporting_context": []
  },
  {
+  "id": "day-089",
+  "day_number": 89,
+  "day_number_verified": true,
+  "date": "2026/04/14",
+  "weekday": "Tuesday",
+  "workstream": "matlala-saps-contract",
+  "witnesses": [
+   {
+    "person_id": "julius-doctor-mkhwanazi",
+    "name": "Julius Doctor Mkhwanazi",
+    "role_as_described": "Suspended Deputy Chief of Police (and former Acting Chief of Police), Ekurhuleni Metro Police Department (EMPD); addressed throughout by the transcript as 'Commissioner Mkhwanazi'; continuing testimony after two earlier postponements, still under oath from a prior appearance",
+    "note": "testified"
+   }
+  ],
+  "summary": "Julius Doctor Mkhwanazi, Deputy Chief of Police at the Ekurhuleni Metro Police Department, resumed testimony that had twice been postponed. The sitting opened with evidence leader Adv Sello SC putting Department of Home Affairs records to Mkhwanazi that appeared to contradict his earlier explanation that the relative whose death he had cited for a postponement was his mother rather than his stepmother, and submitting he be held in contempt for misleading the Commission; the Chairperson deferred any determination and invited Mkhwanazi to file a written affidavit instead. The remainder of the day worked through Mkhwanazi's supplementary statement on EMPD matters, including disputed promotions initiated under suspended Chief of Police Isaac Mapiyeye, the Law Enforcement Skills Programme, the Community Liaison Unit, EMPD operations outside its municipal jurisdiction, a truck-hijacking task team's action against online \"fake stones\" fraudsters, and a unit called the DEU reporting directly to him, before he denied kidnapping and sexual-harassment allegations made against him by a subordinate. The inquiry was postponed to 15 April 2026 (Day 90).",
+  "rulings": [
+   {
+    "description": "Rather than ruling immediately on the evidence leaders' submission that Mkhwanazi be held in contempt for allegedly misleading the Commission about his deceased relative to obtain an earlier postponement, the Chairperson offered him the opportunity to set out his response in a written affidavit, to be lodged roughly two days after his testimony concludes.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/14",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": null,
+    "description": "Small bundle (items 1-4) put to Mkhwanazi: the ID and death certificate of Ms Petunia Mkhwanazi, and a Department of Home Affairs letter dated 13 April 2026 (signed by the Director-General) with an accompanying notice of birth, used to test his account of his relationship to the deceased."
+   },
+   {
+    "ref": "JD12",
+    "description": "Annexure bundle headed 'mismanagement of EMPD resources and irregular expenditure', including a letter from then-Chief of Police Isaac Mapiyeye to HOD Human Resources Linda Gxasheka, relied on to substantiate the EMPD-promotions paragraph of Mkhwanazi's supplementary statement."
+   },
+   {
+    "ref": "JD17",
+    "description": "Email from Mkhwanazi to HOD Zanele Katembo concerning former Community Liaison Unit (CLU/SLU) members, put to him in support of his account of that unit's history and staffing."
+   },
+   {
+    "ref": "pages 204E-204S",
+    "description": "Annexure pages attached to the sexual-harassment portion of Mkhwanazi's supplementary statement, addressing allegations raised against him by a subordinate referred to as Stolls."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "I did not lie. I still maintain I did not lie.",
+    "speaker": "Commissioner Mkhwanazi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/14",
+    "tier_label": "REPORTING",
+    "words": 11
+   },
+   {
+    "text": "he lied to the Commission to avoid appearing before the Commission",
+    "speaker": "Adv Sello SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/14",
+    "tier_label": "REPORTING",
+    "words": 11
+   },
+   {
+    "text": "held in contempt for lying, deliberately lying to the Commission",
+    "speaker": "Adv Sello SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/14",
+    "tier_label": "REPORTING",
+    "words": 10
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/04/14",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Whether the allegations of kidnapping, blue-light abuse and sexual harassment made against Mkhwanazi by Kecia Stolls are substantiated remains contested; only Mkhwanazi's denial is on record for this day.",
+   "The precise family-court dispute Mkhwanazi says explains why his grandparents (not his biological parents) appear on Home Affairs birth records was not independently verified during this sitting; he asked the Commission to check court records itself.",
+   "The year of the truck-hijacking task team's '8 February' operation against the fake-stones fraud suspects was not confirmed on the record.",
+   "Exhibit reference 'pages 204E-204S' could not be found in the transcript and may be misread."
+  ],
+  "reporting_context": [
+   {
+    "claim": "EWN reported that Mkhwanazi, described as suspended EMPD deputy chief, returned to testify after his March appearance was postponed following his mother's death, and reported that he faces corruption allegations including using EMPD as a 'personal domain', tying EMPD to an irregular contract with tender businessman Vusimuzi 'Cat' Matlala's security company, improper promotions of officers loyal to him, and alleged involvement in the 2022 torture-murder of Emmanuel Mbhense and its cover-up.",
+    "url": "https://www.ewn.co.za/2026/04/14/julius-mkhwanazi-returns-to-the-madlanga-commission",
+    "publisher": "EWN",
+    "tier": 2,
+    "retrieved": "2026/08/31",
+    "partial": false
+   },
+   {
+    "claim": "IOL reported that Mkhwanazi contradicted earlier testimony from suspended EMPD Chief Isaac Mapiyeye, telling the Commission the disputed recruitment/promotions process was initiated by Mapiyeye and that he only continued it after Mapiyeye's suspension, and accused Mapiyeye's training division of ignoring a 2012 law enforcement skills programme; the article also noted Mapiyeye had earlier accused Mkhwanazi of pushing through 55 unauthorised senior appointments in 2024.",
+    "url": "https://iol.co.za/news/south-africa/2026-04-14-julius-mkhwanazis-explosive-claims-against-empd-chief-mapiyeye-at-the-madlanga-commission/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/08/31",
+    "partial": false
+   }
+  ]
+ },
+ {
+  "id": "day-088",
+  "day_number": 88,
+  "day_number_verified": true,
+  "date": "2026/04/10",
+  "weekday": "Friday",
+  "workstream": "matlala-saps-contract",
+  "witnesses": [
+   {
+    "person_id": "umashi-samson-dhlamini",
+    "name": "Umashi Samson Dhlamini",
+    "role_as_described": "Deputy Chief of Police, City of Tshwane Metropolitan Police Department (TMPD), responsible for the Support and Administration division; currently on self-requested precautionary suspension",
+    "note": "testified"
+   }
+  ],
+  "summary": "On Day 88, sworn testimony was given by TMPD Deputy Chief of Police Umashi Samson Dhlamini, who described requesting his own precautionary suspension after WhatsApp communications between him, Sergeant Fannie Nkosi and Chief Financial Officer Gareth Mnisi emerged during Nkosi's testimony. He detailed his decades-long personal relationship with Nkosi, his role in helping resolve roughly R14 million in outstanding invoices owed to Gubis 85 Solution and other ad hoc security service providers, and his referral of Nkosi to an associate, Nico Mathobela, over a tender document for Nkosi's brother's company, Ngaphesheya Security Services. He denied improperly influencing procurement, payment or recruitment processes, denied leaking confidential information, and disputed an allegation that he had blocked an internal-affairs investigation into a subordinate officer, Inspector Phiri. Because of other commitments the witness could not finish his statement or be asked probing questions, and the Commission indicated he will be recalled under subpoena.",
+  "rulings": [],
+  "exhibits": [
+   {
+    "ref": "Annexure D / Annexure I",
+    "description": "TMPD organogram referenced to show Dhlamini's role over finance-related functions; the statement itself refers to it inconsistently as both Annexure D and Annexure I (appearing around page 155)."
+   },
+   {
+    "ref": "Annexure F",
+    "description": "Trail of emails on outstanding invoices (from page 146); the witness and evidence leader agreed the annexure as filed did not match the referenced 7 February email and was likely the wrong document."
+   },
+   {
+    "ref": "Annexure G",
+    "description": "Spreadsheet listing outstanding invoices for ad hoc security services owed to multiple companies for July 2024-January 2025, totalling roughly R14 million (from page 149)."
+   },
+   {
+    "ref": "Annexure H",
+    "description": "Management Group WhatsApp communication concerning non-payment of service providers, EMM Executive Management Group chat (from page 152-153)."
+   },
+   {
+    "ref": "Annexure J",
+    "description": "Tender close-out/pricing document said to have been forwarded to Sergeant Nkosi as a public eTender document; Commissioner Khumalo SC disputed that it was genuinely publicly available and asked the witness to bring the website version on his return."
+   },
+   {
+    "ref": "Annexure N",
+    "description": "Security tender extension report and related WhatsApp/management communication concerning the extension of a security tender that had not been approved by the BAC."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "will rather request I mean a suspension, Commissioner.",
+    "speaker": "Deputy Chief Dhlamini",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/10",
+    "tier_label": "REPORTING",
+    "words": 8
+   },
+   {
+    "text": "ask to be placed on leave when they find themselves in that",
+    "speaker": "Adv Baloyi SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/10",
+    "tier_label": "REPORTING",
+    "words": 12
+   },
+   {
+    "text": "I do not know him, which intake does he",
+    "speaker": "Deputy Chief Dhlamini",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/10",
+    "tier_label": "REPORTING",
+    "words": 9
+   },
+   {
+    "text": "these answers are untenable for now.",
+    "speaker": "Adv Mosikili",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/10",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "Ujuda Wethu, that is Indumiso.",
+    "speaker": "Deputy Chief Dhlamini",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/10",
+    "tier_label": "REPORTING",
+    "words": 5
+   },
+   {
+    "text": "The spelling cannot be correct.",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/10",
+    "tier_label": "REPORTING",
+    "words": 5
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/04/10",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "The full surname of 'Sipho,' one of two men (with Muzi Mazibuko) the witness says approached him claiming to represent the EFF regarding a tender company list; the witness could not provide it.",
+   "The identity of the person the witness refers to as 'Ubaba Wakho' in a WhatsApp exchange; withheld from the public record pending private disclosure to commissioners.",
+   "The correct spelling of the surname the witness attempted to write down for 'Ubaba Wakho,' which the Chairperson doubted was rendered correctly as a Xhosa surname.",
+   "Which municipality or entity a separate tender (involving a firearm requirement, referenced via Mr Mathobela) that Sergeant Nkosi asked about actually related to; the witness said he did not know."
+  ],
+  "reporting_context": [
+   {
+    "claim": "EWN reported that the TMPD deputy chief requested his own suspension after being implicated at the Madlanga Commission, covering his testimony that he asked to step aside once WhatsApp messages tied him to Sergeant Nkosi and the CFO.",
+    "url": "https://www.ewn.co.za/2026/04/10/tmpd-deputy-requested-suspension-after-he-was-implicated-at-madlanga-commission",
+    "publisher": "EWN",
+    "tier": 2,
+    "retrieved": "2026/08/31",
+    "partial": false
+   },
+   {
+    "claim": "EWN separately reported that Dhlamini clarified, at the Commission, the alleged EFF tender list referenced in WhatsApp messages with Sergeant Nkosi.",
+    "url": "https://www.ewn.co.za/2026/04/10/dhlamini-clarifies-alleged-eff-tender-list-at-madlanga-commission",
+    "publisher": "EWN",
+    "tier": 2,
+    "retrieved": "2026/08/31",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-087",
+  "day_number": 87,
+  "day_number_verified": true,
+  "date": "2026/04/09",
+  "weekday": "Thursday",
+  "workstream": "matlala-saps-contract",
+  "witnesses": [
+   {
+    "person_id": "inspector-a-l-phiri",
+    "name": "Inspector A.L. Phiri",
+    "role_as_described": "Inspector, TMPD Asset Protection Services, working under Dr Elvis Madihlaba; recalled but excused without giving evidence, redirected to appear 20 April 2026",
+    "note": "testified"
+   },
+   {
+    "person_id": "director-tshukudu-p-malatji",
+    "name": "Director Tshukudu P. Malatji",
+    "role_as_described": "Director, Tshwane Metro Police Department (TMPD) Asset Protection Services since 2013, currently suspended; main witness of the day, examined at length on TMPD2 2016-2017 tender and irregular ad hoc security deployments",
+    "note": "testified"
+   },
+   {
+    "person_id": "gareth-mnisi",
+    "name": "Gareth Mnisi",
+    "role_as_described": "Witness present under subpoena; appearance interposed to 17 April 2026 by agreement, did not testify",
+    "note": "testified"
+   }
+  ],
+  "summary": "The day opened with housekeeping: Inspector Phiri was recalled and excused to appear instead on 20 April 2026 pending a signed statement, and witness Gareth Mnisi's appearance was interposed to 17 April 2026 by agreement between evidence leaders and his counsel. The bulk of the day was the sworn testimony of TMPD Director Tshukudu Malatji, who was led through his statement on the 2016-2017 TMPD2 security-services tender (won after a 2021 Court Order by 22 providers including Triotic and Gubis 85), the circumstances in which bid documents were moved from Supply Chain Management premises to a college venue, and his role as a Bid Evaluation Committee member and tender contact person. Commissioners repeatedly pressed Malatji on why, despite becoming aware in December 2024 of irregular ad hoc security deployments to Gubis 85 (allocated by Inspector Phiri without proper authority), he did not act on a 12 March 2025 written instruction from Deputy Chief Revo Spies to halt all ad hoc deployments, a delay that cost the City of Tshwane roughly R14-17 million a month until termination letters were finally issued in June 2025. Malatji also made unproven \"suspicions\" of an irregular recruitment process behind Spies's appointment, which commissioners pressed him to substantiate or drop, and asked the Commission's help accessing TMPD records for a supplementary statement given restrictions from his ongoing suspension.",
+  "rulings": [
+   {
+    "description": "Inspector A.L. Phiri, recalled but not yet ready to testify, was excused for the day and directed to appear instead on 20 April 2026, with a signed and finalised statement to be submitted at least five days beforehand.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/09",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "Witness Gareth Mnisi, present under subpoena, was excused with his appearance interposed to 17 April 2026 at 09:30, after evidence leaders and his counsel (Adv Van Den Heever) agreed on the new date and bundle-exchange timeline.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/09",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "Director Malatji was ruled to be at liberty to supplement his statement with further documents once the evidence leaders assist him to access them, with the Commission to decide later whether that takes the form of a supplemented statement or further oral testimony.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/09",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": "CJC104",
+    "description": "News24 news article on Triotic Protection Services and its reported links to Eugene Modise, ANC Tshwane regional secretary"
+   },
+   {
+    "ref": "CJC105",
+    "description": "City of Tshwane Supply Chain Management Regulations (later referred to in the same session as \"CJC5\"; numbering inconsistency in the transcript)"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "It simply does not make sense, Mr Malatji.",
+    "speaker": "Chairperson (Justice Madlanga)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/09",
+    "tier_label": "REPORTING",
+    "words": 8
+   },
+   {
+    "text": "the municipality, because of Phiri, incurred a R14 million expense",
+    "speaker": "Adv Baloyi SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/09",
+    "tier_label": "REPORTING",
+    "words": 10
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/04/09",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "The exact date Malatji says he first became aware of the January/February 2025 Gubis 85 deployment letters is unclear from his own testimony (he first said 'recently', then conceded knowledge as of 12 March 2025 under questioning).",
+   "Whether all documents in the TMPD2 2016-2017 tender were in fact evaluated without any going missing is disputed between Malatji's account and the SCM internal report referenced in the proceedings; this was not resolved on the record."
+  ],
+  "reporting_context": [
+   {
+    "claim": "IOL reported that Director Malatji admitted at the Madlanga Commission that he ignored a direct instruction from Deputy Chief Revo Spies to immediately halt irregular ad hoc security deployments, and that this delay cost the City of Tshwane roughly R14 million.",
+    "url": "https://iol.co.za/news/politics/2026-04-09-madlanga-commission-reveals-how-malatjis-refusal-to-halt-ad-hoc-contracts-cost-tshwane-r14-million/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/08/31",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-086",
+  "day_number": 86,
+  "day_number_verified": true,
+  "date": "2026/04/08",
+  "weekday": "Wednesday",
+  "workstream": "matlala-saps-contract",
+  "witnesses": [
+   {
+    "person_id": "yolande-faro",
+    "name": "Yolande Faro",
+    "role_as_described": "Chief of Police, City of Tshwane Metropolitan Police Department (TMPD); continuing her testimony from the previous sitting day",
+    "note": "testified"
+   },
+   {
+    "person_id": "sean-ian-edward-eugene-bolhuis",
+    "name": "Sean Ian Edward Eugene Bolhuis",
+    "role_as_described": "Deputy Chief of Police, Training and Innovation, TMPD, and Chief of Staff to the Chief of Police; former caretaker of the Asset Protection and Security Services (APSS) unit from 1 July 2024 to 28 February 2025",
+    "note": "testified"
+   }
+  ],
+  "summary": "The Commission concluded Chief of Police Yolande Faro's testimony, examining WhatsApp messages linking Sergeant Fannie Nkosi to City officials and Deputy Commissioner Umashi Dhlamini's suspension, before Faro was excused. Deputy Chief Sean Bolhuis was then affirmed and began testimony on his period as caretaker of the Asset Protection and Security Services (APSS) unit, describing a poor handover from the Office of the City Manager and a chaotic, under-budgeted procurement environment. Bolhuis's evidence focused heavily on 42 ad hoc security-site allocations made to Gubis85 Solutions (Pty) Ltd by Inspector Lebogang Phiri and two by Dr KE Madihlaba, which Bolhuis said were irregular and made without authority, together with an October 2024 email exchange showing invoices and purchase orders being processed without proper documentation.",
+  "rulings": [],
+  "exhibits": [
+   {
+    "ref": "File 5/6, pages 177 & 440-456",
+    "description": "WhatsApp messages between Sergeant Nkosi, CFO Mnisi and Deputy Commissioner Dhlamini concerning the land invasion tender"
+   },
+   {
+    "ref": "File 3, page 499",
+    "description": "Service level agreement between the City of Tshwane and Elshadai Security Services for the land invasion tender"
+   },
+   {
+    "ref": "File 1, page 93-95",
+    "description": "Deputy Commissioner Umashi Dhlamini's precautionary suspension request and Chief Faro's cover letter of support"
+   },
+   {
+    "ref": "Annexure SB1",
+    "description": "Handover report on the transfer of the Asset Protection Services Unit from the Office of the City Manager to TMPD, emailed by Paledi Marota nine months late"
+   },
+   {
+    "ref": "Annexure SB3",
+    "description": "Spreadsheet of purchase orders for ad hoc services from Gubis85 Solutions totalling R13,635,133.60, loaded on the TMPD system on 5-6 March 2025"
+   },
+   {
+    "ref": "Annexure SB4 / File 1 pages 67-109",
+    "description": "Notification-for-deployment letters signed by Inspector AL Phiri allocating sites to Gubis85 Solutions between 14 January and 13 February 2025"
+   },
+   {
+    "ref": "Annexure SB5 / File 1 page 110-112",
+    "description": "Summary table of sites allocated to Gubis85 by Phiri, totalling approximately R14.1 million, with two allocations by Dr Madihlaba subtracted"
+   },
+   {
+    "ref": "Annexure SB6 / SB7",
+    "description": "Generic job descriptions for a warrant officer/inspector and a senior superintendent in Regional Policing, used to show Phiri and Madihlaba lacked delegated authority"
+   },
+   {
+    "ref": "Annexure SB8 / File pages 124-129",
+    "description": "October 2024 email chain between Bolhuis, Director Tshukudu Malatji and Director Veli Nwandule concerning slow payment of service providers and missing SLA/invoice documentation"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "Captain, find below our vehicles for land to be given to Mfowethu.",
+    "speaker": "Sergeant Fannie Nkosi (WhatsApp message, read into record by Adv Sikhakhane)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/08",
+    "tier_label": "REPORTING",
+    "words": 12
+   },
+   {
+    "text": "I do not agree with that statement.",
+    "speaker": "Commissioner Yolande Faro",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/08",
+    "tier_label": "REPORTING",
+    "words": 7
+   },
+   {
+    "text": "It is millions of rands of public funds.",
+    "speaker": "Adv Khumalo SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/08",
+    "tier_label": "REPORTING",
+    "words": 8
+   },
+   {
+    "text": "We were used as decent, law-abiding, loyal officials.",
+    "speaker": "Commissioner Yolande Faro",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/08",
+    "tier_label": "REPORTING",
+    "words": 8
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/04/08",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Faro's characterisation that some senior officials at Metro Police have 'never' signed SLAs prior to the ones at issue was not independently corroborated within this day's record.",
+   "Bolhuis's own suspicion that a 'long-standing process of manipulating' finance systems existed before the APSS transfer to TMPD, possibly for financial gain, was expressly caveated by him as speculation not backed by evidence he personally held."
+  ],
+  "reporting_context": [
+   {
+    "claim": "Tshwane metro may have paid millions for security services that were not actually rendered, with reporting drawing on testimony from both Sean Bolhuis (described as testifying on the Wednesday, i.e. 8 April/Day 86) suggesting Inspector Lebogang Phiri irregularly allocated sites to Gubis85, and separately from Tshukudu Malatji two days later; Gubis85 Solutions (owned by Calvin Mahlangu and Precious Magubane) was reported to have received R59.1 million between July 2024 and June 2025.",
+    "url": "https://www.timeslive.co.za/news/south-africa/2026-04-10-tshwane-might-have-paid-millions-for-services-not-rendered-madlanga-hears/",
+    "publisher": "TimesLIVE",
+    "tier": 2,
+    "retrieved": "2026/08/31",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-084",
+  "day_number": 84,
+  "day_number_verified": true,
+  "date": "2026/03/24",
+  "weekday": "Tuesday",
+  "workstream": "political-interference",
+  "witnesses": [
+   {
+    "person_id": "revo-spies",
+    "name": "Revo Spies",
+    "role_as_described": "Deputy Chief of Police for Asset Protection and Security Services, Tshwane Metropolitan Police Department (TMPD); previously testified before the Commission in the Ekurhuleni Metropolitan Police Department stream",
+    "note": "testified"
+   }
+  ],
+  "summary": "Commissioner (Deputy Chief) Revo Spies of the Tshwane Metropolitan Police Department testified about the TMPD 2/2016/17 physical security guarding tender, its irregular procurement history, litigation, and repeated month-to-month extensions that kept the same 22 companies in place for years past the original three-year term. He detailed how ad hoc security services, ostensibly emergency deployments, were used to funnel a disproportionate share of work and payment (around R59 million over one year, plus purchase orders totalling roughly R13.6 million created in a suspicious cluster on 6 March 2025) to one company, Gubis85 Solutions, and described email exchanges implicating CFO Gareth Mnisi and Deputy Commissioner Umashi Dhlamini in the escalation. Spies also testified about a Metro Police inspector, Lebogang/AL Phiri, issuing deployment letters he had no authority to issue, his own instructions to halt the ad hoc deployments, the suspension of Director Tshukudu Malatji, and referrals of the matter to internal affairs, Group Audit and Risk, and the Hawks. He briefly covered a second, land-invasion-related tender (TMPD 1/2024-25) involving Ngaphesheya Construction and Projects, and closed with remarks about victimisation of whistleblowers within TMPD.",
+  "rulings": [],
+  "exhibits": [
+   {
+    "ref": "RS21",
+    "description": "Tender Advertisement Request (TAR) for TMPD 2/2016/2017, issued 8 July 2016 by Director Tshukudu Malatji"
+   },
+   {
+    "ref": "RS23",
+    "description": "Bundle of bid committee members' declarations of no interest in the tender"
+   },
+   {
+    "ref": "RS25",
+    "description": "High Court order of Justice Molopa-Sethosa dated 22 October 2021 directing award of TMPD 2/2016/17 to 22 companies"
+   },
+   {
+    "ref": "RS27",
+    "description": "Bid Adjudication Committee cancellation report dated 23 October 2025 for tender TMPD 03/2024/25"
+   },
+   {
+    "ref": "RS28",
+    "description": "Gubis85 Solutions bank statement extract showing payments received from Tshwane"
+   },
+   {
+    "ref": "RS29",
+    "description": "Spreadsheet summarising all payments to the 22 companies under TMPD 2/2016/17 from March 2022, excluding ad hoc services"
+   },
+   {
+    "ref": "RS210",
+    "description": "Letter requesting upliftment of R91 million in funds for security services for May-June 2025"
+   },
+   {
+    "ref": "RS211/RS212",
+    "description": "Email from Deputy Commissioner Umashi Dhlamini (12 March 2025) with January and February 2025 ad hoc security deployment spreadsheets attached"
+   },
+   {
+    "ref": "RS213",
+    "description": "Letter from Spies to Gubis85 Solutions dated 24 June 2025 instructing stoppage of ad hoc services"
+   },
+   {
+    "ref": "RS216.1 to RS216.8",
+    "description": "Award letters for the eight companies awarded tender TMPD 1/2024-25 (land invasion tender)"
+   },
+   {
+    "ref": "RS217",
+    "description": "Spies's acting appointment letter as Acting Chief of Police"
+   },
+   {
+    "ref": "RS290",
+    "description": "Spreadsheet of payments made to Ngaphesheya Construction and Projects under TMPD 1/2024-25"
+   },
+   {
+    "ref": null,
+    "description": "Minutes of the Bid Adjudication Committee dated 27 February 2025 approving extension of TMPD 2/2016/17 (referenced at bundle page 945)"
+   },
+   {
+    "ref": null,
+    "description": "Internal Affairs investigation report by Freddy Chauke into Inspector Phiri, dated 29 July 2025, forwarded 30 July 2025"
+   },
+   {
+    "ref": null,
+    "description": "43-page deployment letter package sent by Gubis85 Solutions to Spies on 26 June 2025, mostly signed by Inspector Phiri"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "there was a false need created",
+    "speaker": "Commissioner Spies",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/24",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "definitely favouritism towards one company",
+    "speaker": "Commissioner Spies",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/24",
+    "tier_label": "REPORTING",
+    "words": 5
+   },
+   {
+    "text": "stop all ad hoc services with immediate effect",
+    "speaker": "Chief of Police Yolande Faro (quoted by Commissioner Spies)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/24",
+    "tier_label": "REPORTING",
+    "words": 8
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/24",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "The Chairperson's suggestion that WhatsApp chats (from prior testimony) may show Mnisi and Dhlamini orchestrating the ad hoc extension was explicitly not put to Spies for comment and remains an inference for later evidence, not something Spies confirmed.",
+   "The claim that Malatji personally directed Phiri to issue the deployment letters is Spies's inference ('if he deployed it, it is either under the direct instruction of Director Malatji'), not confirmed fact.",
+   "Exhibit reference 'RS216.1 to RS216.8' could not be found in the transcript and may be misread."
+  ],
+  "reporting_context": [
+   {
+    "claim": "SABC News reported that Deputy Commissioner Revo Spies told the Madlanga Commission that Gubis85 Solutions received R59 million from TMPD for ad hoc security services.",
+    "url": "https://www.sabcnews.com/sabcnews/gubis-85-solutions-received-r59-million-from-tmpd-spies/",
+    "publisher": "SABC News",
+    "tier": 2,
+    "retrieved": "2026/08/31",
+    "partial": false
+   }
+  ]
+ },
+ {
+  "id": "day-083",
+  "day_number": 83,
+  "day_number_verified": true,
+  "date": "2026/03/23",
+  "weekday": "Monday",
+  "workstream": "matlala-saps-contract",
+  "witnesses": [
+   {
+    "person_id": "sergeant-nkosi",
+    "name": "Sergeant Nkosi",
+    "role_as_described": "SAPS Sergeant who worked with (then) General Sibiya in the SAPS head office, described as having acted as an intermediary between General Sibiya and Mr Cat Matlala; continued his cross-examination on this day.",
+    "note": "testified"
+   }
+  ],
+  "summary": "Sergeant Nkosi continued his cross-examination, focused mainly on an FNB bank card linked to Mr Cat Matlala that Nkosi said he found in a jet ski, where evidence leaders and Commissioners confronted him with multiple contradictory versions (on timing, who alerted whom, and where it was found) and with ATM withdrawals in December 2024 suggesting he had personal use of the card. He was also questioned about R385,000 in cash found in his safe during an October 2024 raid, which he attributed to a truck sale by his brother, but the supporting documents (sale agreement, affidavits) contained date and detail inconsistencies suggesting they were prepared after the fact. Further questioning covered a R500 payment to a journalist referred to as \"Natasha SABC\" for a phone number, video footage of him collecting a bag from Mr Katiso Molefe's house that he initially said (in his statement) he returned to Harley-Davidson but later admitted he never did, and his role relaying messages between Mr Matlala and General Sibiya, including regarding impalas allegedly delivered to Sibiya's farm. The Chair excused the witness at the end of the day pending a decision on whether re-examination would proceed.",
+  "rulings": [
+   {
+    "description": "Chairperson ruled that Sergeant Nkosi would not be given further time to consult his WhatsApp chats regarding the disputed R500 payment to the journalist \"Natasha SABC\", noting he had already been invited to do so a week earlier and had not, though he would not be barred from submitting a supplementary affidavit or statement.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/23",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": null,
+    "description": "Sergeant Nkosi's handwritten statement given to police on 8 October 2024 (statement bundle, from page 1335)."
+   },
+   {
+    "ref": null,
+    "description": "Sergeant Nkosi's typed statement submitted to the Commission, including annexures on the truck sale and Harley-Davidson purchases (statement bundle, e.g. pages 1-17, Annexures A-F)."
+   },
+   {
+    "ref": null,
+    "description": "Bank/card transaction statement showing ATM cash withdrawals and purchases on the FNB card in December 2024 and January 2025 (referenced from around page 1325 of the files)."
+   },
+   {
+    "ref": null,
+    "description": "WhatsApp chat bundle between Sergeant Nkosi and Mr Matlala, and between Sergeant Nkosi and the journalist 'Natasha SABC' (file 104, and pages around 1343-1345)."
+   },
+   {
+    "ref": "Annexure B",
+    "description": "Affidavit of Sergeant Nkosi's brother, Abednico Bongani (Bheki) Nkosi, regarding the sale of a truck."
+   },
+   {
+    "ref": "Annexure E",
+    "description": "Affidavit of the purchaser, Mr Hartley Ngoato, confirming purchase of the truck for R400,000."
+   },
+   {
+    "ref": "Annexure F",
+    "description": "Sale agreement for the truck between Abednico Nkosi and Hartley Ngoato, signed 7 and 19 October/December 2025/2024 respectively (dates disputed in questioning)."
+   },
+   {
+    "ref": "Annexure A2",
+    "description": "Harley-Davidson invoice dated 20 December 2023 for riding gear purchased for Mr Katiso Molefe."
+   },
+   {
+    "ref": null,
+    "description": "Video footage of Sergeant Nkosi at Mr Katiso Molefe's house on 27 November 2024, showing him arriving without a bag and leaving with one."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "Let us hope it ends today.",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/23",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "I just wrote it.",
+    "speaker": "Sergeant Nkosi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/23",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "I cannot say I volunteered.",
+    "speaker": "Sergeant Nkosi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/23",
+    "tier_label": "REPORTING",
+    "words": 5
+   },
+   {
+    "text": "It could be a human error.",
+    "speaker": "Sergeant Nkosi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/23",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "No, it was not me.",
+    "speaker": "Sergeant Nkosi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/23",
+    "tier_label": "REPORTING",
+    "words": 5
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/23",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Sergeant Nkosi's claim that he sold the Harley-Davidson riding gear 'somewhere' after allegedly failing to return it is unverified and speculative.",
+   "The account of a discrepancy between General Sibiya's version (that he never asked for impalas) and any role Matlala or Nkosi played in arranging them was raised but not resolved on this day."
+  ],
+  "reporting_context": [
+   {
+    "claim": "EWN reported that Sergeant Nkosi's home was raided in a search for Mr Matlala's credit card, as told to the Madlanga Commission on this sitting day.",
+    "url": "https://www.ewn.co.za/2026/03/23/nkosi-s-home-once-raided-in-search-of-matlala-s-credit-card-madlanga-commission-told",
+    "publisher": "EWN",
+    "tier": 2,
+    "retrieved": "2026/08/31",
+    "partial": true
+   },
+   {
+    "claim": "EWN reported that Nkosi told the Madlanga Commission about 'Cat' Matlala's link to Deputy President Paul Mashatile during this day's testimony.",
+    "url": "https://www.ewn.co.za/2026/03/23/nkosi-tells-madlanga-commission-about-cat-matlalas-link-to-paul-mashatile",
+    "publisher": "EWN",
+    "tier": 2,
+    "retrieved": "2026/08/31",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-082",
+  "day_number": 82,
+  "day_number_verified": true,
+  "date": "2026/03/20",
+  "weekday": "Friday",
+  "workstream": "matlala-saps-contract",
+  "witnesses": [
+   {
+    "person_id": "sergeant-nkosi",
+    "name": "Sergeant Nkosi",
+    "role_as_described": "SAPS member (Organised Crime); continuing cross-examination on his WhatsApp communications and associations with Mr Mampane, General Dlamini, MMC Morodi, Tshwane CFO Mr Mnisi, Mr Sibanyoni, Mr Lekukela, the late taxi owner Mr Msibi, General Sibiya, Mr Sibande and Mr Matlala",
+    "note": "testified"
+   }
+  ],
+  "summary": "Cross-examination of Sergeant Nkosi by evidence leader Adv Chaskalson SC continued for a further sitting day, covering a TMPD tender bidder list he sent to Mr Mampane, City of Tshwane job-application documents he forwarded to General Dlamini and received from MMC Morodi, the true extent of his relationship with Mr Sibanyoni, and large cash payments for four motorcycles bought for associates of the late Mr Msibi. Commissioners Baloyi and Khumalo repeatedly challenged the witness's memory and candour, and the Chairperson at one point told him directly that he was lying about a 2022 WhatsApp message concerning the murder of DJ Sumbody. A short video of the 2023 murder of AKA and Tebello Motsoane was played after a sensitivity warning, and the witness confirmed circulating that footage and separate allegations against Mr Matlala. Separately, the Commission granted a postponement of Commissioner Julius Mkhwanazi's (EMPD) evidence from 23 March to 14 April 2026 due to a family bereavement.",
+  "rulings": [
+   {
+    "description": "Postponement of Commissioner Julius Mkhwanazi's (EMPD) scheduled testimony from 23 March 2026 to 14 April 2026, granted on application by his counsel following a family bereavement/funeral",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/20",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "Chairperson stated on the record, more than once, that Sergeant Nkosi was lying in his answers about why he sent Mr Lekukela a WhatsApp message ('Why didn't you call him to order?') shortly after DJ Sumbody's murder, and directed him to give a truthful answer",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/20",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": null,
+    "description": "TMPD tender 3/2425 bidder/price list sent by Sergeant Nkosi to Mr Mampane on 30 April 2025 (File 3, pp.932-935)"
+   },
+   {
+    "ref": null,
+    "description": "Internal City of Tshwane 'TMPD 03/2425 Draft Admin Report' extract showing pre-compliance evaluation of 435 bidders (File 3, pp.989-993)"
+   },
+   {
+    "ref": null,
+    "description": "WhatsApp exchange between Sergeant Nkosi and Mr Mampane, 30 April 2025, including the message 'Boetie, please let him say no to that appointment. Please.'"
+   },
+   {
+    "ref": null,
+    "description": "Series of City of Tshwane job-application receipt/acknowledgment letters forwarded by Sergeant Nkosi to General Dlamini, received from applicants and from MMC Morodi (April, July and September 2025 batches)"
+   },
+   {
+    "ref": null,
+    "description": "WhatsApp chat with General Dlamini including 'My General, how legit is this?' about a Metro Police fitness-assessment invitation"
+   },
+   {
+    "ref": null,
+    "description": "Record of at least 12 visits by Sergeant Nkosi to Mr Sibanyoni's private residence between March 2024 and September 2025"
+   },
+   {
+    "ref": null,
+    "description": "WhatsApp of 15 November 2024 sending CFO Mr Mnisi a TikTok link to the opening of the Joe Sibanyoni Foundation"
+   },
+   {
+    "ref": null,
+    "description": "WhatsApp exchange with CFO Mr Mnisi referring to 'JS'/'number 1', including 'Eish, should we be worried?'"
+   },
+   {
+    "ref": null,
+    "description": "Photograph of Sergeant Nkosi and DJ Sumbody sent to Mr Lekukela on 23 November 2022 captioned 'Why didn't you call him to order?'"
+   },
+   {
+    "ref": null,
+    "description": "Photographs of cash and firearms from a Sebayeng, Limpopo kidnapping/extortion case sent by Sergeant Nkosi to Mr Lekukela"
+   },
+   {
+    "ref": null,
+    "description": "Copy of a warrant of arrest for Musa Khawula sent by Sergeant Nkosi to Mr Lekukela"
+   },
+   {
+    "ref": null,
+    "description": "WhatsApp with CFO Mr Mnisi referring to Mr Lekukela as 'Imbungulu' alongside a news article about EFF's Julius Malema"
+   },
+   {
+    "ref": null,
+    "description": "Invitation to General Sibiya's birthday celebration, marked non-transferable, forwarded by Sergeant Nkosi to Mr Lekukela"
+   },
+   {
+    "ref": null,
+    "description": "Bank deposit slips and EFT records (ABSA, Mkombeni Transport, Zinopindrana) totalling over R1 million in cash and transfers for motorcycles bought for Mr Molefe, the late Mr Msibi, Mr Mthakathi and Mr Motsumi"
+   },
+   {
+    "ref": null,
+    "description": "'Spider diagram' police intelligence documents on a named individual sent by Sergeant Nkosi to the late Mr Msibi on 6 August 2021"
+   },
+   {
+    "ref": null,
+    "description": "Photograph of a Harley Davidson jacket containing cash, sent by Sergeant Nkosi to Mr Msibi on 8 August 2021"
+   },
+   {
+    "ref": null,
+    "description": "Video clip of the murder of AKA and his friend Tebello Motsoane, shown during the hearing and earlier sent by Sergeant Nkosi to Mr Sibande"
+   },
+   {
+    "ref": null,
+    "description": "YouTube clip about Mr Matlala ('Tembisa Tender Tycoon, his mama cat, and their brazen blue light brigade') sent by Sergeant Nkosi to Mr Sibande and, in February 2023, to Mr Msibi"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "Boetie, please let him say no to that appointment.",
+    "speaker": "Mr Mampane",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/20",
+    "tier_label": "REPORTING",
+    "words": 9
+   },
+   {
+    "text": "My General, how legit is this?",
+    "speaker": "Sergeant Nkosi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/20",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "Eish, should we be worried?",
+    "speaker": "Mr Mnisi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/20",
+    "tier_label": "REPORTING",
+    "words": 5
+   },
+   {
+    "text": "Why didn’t you call him to order?",
+    "speaker": "Sergeant Nkosi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/20",
+    "tier_label": "REPORTING",
+    "words": 7
+   },
+   {
+    "text": "I have got no reason to lie.",
+    "speaker": "Sergeant Nkosi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/20",
+    "tier_label": "REPORTING",
+    "words": 7
+   },
+   {
+    "text": "You are lying.",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/20",
+    "tier_label": "REPORTING",
+    "words": 3
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/20",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Sergeant Nkosi's explanation, given after the lunch adjournment, that 'Why didn't you call him to order?' referred to warning DJ Sumbody about 'interfering with people's girlfriends' was not independently tested against other evidence in this sitting day.",
+   "The identity and significance of the person named in the 'spider diagram' documents sent to Mr Msibi was referenced but not read into the public record (evidence leader asked for the name to be taken down/redacted from broadcast)."
+  ],
+  "reporting_context": [
+   {
+    "claim": "Daily Maverick reported that Sergeant Nkosi's testimony on this sitting day exposed alleged cross-party patronage networks shaping Tshwane tenders and jobs, in a report headlined noting the Tshwane mayor's suspension of an ActionSA MMC as the Commission turned to alleged City corruption.",
+    "url": "https://www.dailymaverick.co.za/article/2026-03-20-nkosi-testimony-exposes-alleged-cross-party-patronage-networks-shaping-tshwane-tenders-and-jobs/",
+    "publisher": "Daily Maverick",
+    "tier": 3,
+    "retrieved": "2026/08/31",
+    "partial": true
+   },
+   {
+    "claim": "IOL reported that Sergeant Nkosi's testimony at the Madlanga Commission on this day raised serious concerns about the City of Tshwane's CFO.",
+    "url": "https://iol.co.za/news/2026-03-20-madlanga-commission-sergeant-nkosis-testimony-raises-serious-concerns-about-city-of-tshwane-cfo/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/08/31",
+    "partial": true
+   },
+   {
+    "claim": "IOL reported, under the headline 'Ghost Tender', that the Tshwane CFO and Sergeant Nkosi were linked to a bid for a non-existent municipality, in coverage of this same sitting day.",
+    "url": "https://iol.co.za/news/politics/2026-03-20-ghost-tender-tshwane-cfo-and-nkosi-linked-to-bid-for-non-existent-municipality-madlanga-commission/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/08/31",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-081",
+  "day_number": 81,
+  "day_number_verified": true,
+  "date": "2026/03/19",
+  "weekday": "Thursday",
+  "workstream": "political-interference",
+  "witnesses": [
+   {
+    "person_id": "sergeant-nkosi",
+    "name": "Sergeant Nkosi",
+    "role_as_described": "SAPS sergeant continuing cross-examination on his personal dealings with City of Tshwane CFO Mnisi, TMPD Deputy Head General Dlamini, and others, including his brother's security company's tender award",
+    "note": "testified"
+   }
+  ],
+  "summary": "Sergeant Nkosi continued testimony, this time focused on Tshwane municipal matters, with the evidence leader working through extensive WhatsApp chats showing a close personal friendship with Tshwane CFO Mnisi and a longstanding relationship with TMPD Deputy Head General Dlamini. Nkosi was questioned about acting as an intermediary relaying screenshots between the CFO and General Dlamini to expedite payment of an invoice to security firm Gubis, about a tender (1/2024-25) that was ultimately awarded partly to his brother's company Ngaphesheya, and about references in chats to a list of preferred bidders allegedly linked to a figure called \"CIC Juju.\" Commissioners repeatedly suggested the witness was being evasive, including on why outstanding-document chats with General Dlamini related, in the witness's account, to a separate and largely unsubstantiated Mpumalanga tender rather than the Tshwane tender under discussion. The day closed with the Chairperson directing the witness and his attorneys to try to obtain documents relating to that Mpumalanga tender before the inquiry resumed.",
+  "rulings": [
+   {
+    "description": "Chairperson placed on record, for the public sitting, that a ruling in the 'Witness G' matter (already issued and published on the Commission's website and other media platforms prior to this sitting) was now formally noted in open session; no new ruling was made on this sitting day",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/19",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [],
+  "quotes": [
+   {
+    "text": "You did well on the range, my man .",
+    "speaker": "Sergeant Nkosi (WhatsApp message to CFO Mnisi, read into record)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/19",
+    "tier_label": "REPORTING",
+    "words": 9
+   },
+   {
+    "text": "Not too bad for the first time, my bro .",
+    "speaker": "CFO Mnisi (WhatsApp message, read into record)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/19",
+    "tier_label": "REPORTING",
+    "words": 10
+   },
+   {
+    "text": "This guy is in trouble.",
+    "speaker": "CFO Mnisi (WhatsApp message re Mr Khawula, read into record)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/19",
+    "tier_label": "REPORTING",
+    "words": 5
+   },
+   {
+    "text": "In you I found a brother.",
+    "speaker": "CFO Mnisi (New Year's WhatsApp message, read into record)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/19",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "At that stage I saw him as an easy tool",
+    "speaker": "Sergeant Nkosi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/19",
+    "tier_label": "REPORTING",
+    "words": 10
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/19",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Allegation that Mr Sibanyoni has an indirect interest in Gubis Security (put to witness, not confirmed or denied with certainty).",
+   "Allegation that Mandla Mgcina is associated with Gubis Security (witness said he did not know).",
+   "Witness's claim that a genuine, separate Mpumalanga (Mathews Phosa Municipality) tender existed and explained the 'outstanding documents' chats, pending document production ordered by the Chair.",
+   "Witness's account that his intervention in the Gubis invoice matter involved only a single invoice, which the evidence leader disputed based on chat content referring to multiple invoices in the plural."
+  ],
+  "reporting_context": [
+   {
+    "claim": "Daily Maverick reported that Sergeant Fannie Nkosi's testimony (around this period of the inquiry) exposed alleged cross-party patronage networks shaping Tshwane tenders and jobs, describing him as a middleman between politicians, TMPD deputy chief Umashi Dlamini and CFO Gareth Mnisi despite having no formal municipal employment, and referencing R385,000 found in his safe and links to businessman Vusimuzi Matlala",
+    "url": "https://www.dailymaverick.co.za/article/2026-03-20-nkosi-testimony-exposes-alleged-cross-party-patronage-networks-shaping-tshwane-tenders-and-jobs/",
+    "publisher": "Daily Maverick",
+    "tier": 3,
+    "retrieved": "2026/08/31",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-080",
+  "day_number": 80,
+  "day_number_verified": true,
+  "date": "2026/03/18",
+  "weekday": "Wednesday",
+  "workstream": "matlala-saps-contract",
+  "witnesses": [
+   {
+    "person_id": "sergeant-fannie-nkosi",
+    "name": "Sergeant Fannie Nkosi",
+    "role_as_described": "SAPS sergeant, continuing testimony; described as a family friend of the late taxi figure Mr Msibi ('Baba') and his associates, an intermediary between General Mkhwanazi/General Sibiya and various taxi-industry figures, and connected to his brother's security company Ngaphesheya (which bid, alongside Elshadai Security Services, for a Tshwane Metro Police Department tender)",
+    "note": "testified"
+   }
+  ],
+  "summary": "On Day 80, held at the Brigitte Mabandla Justice College on 18 March 2026, evidence leader Adv Chaskalson SC continued cross-examining Sergeant Fannie Nkosi on WhatsApp records showing his communications with Mthakathi Mswazi, Warrant Officer Zungu, General Mkhwanazi, General Sibiya and a man referred to as 'Mampane', including how Nkosi came to identify a murder suspect (Tiego 'Danny' Mabusela) and forwarded CCTV footage of the murder and internal SAPS situation reports to civilians. Questioning also covered cash payments Nkosi received from Mr Mampane linked to his brother's security company Ngaphesheya, and Nkosi's role, together with a 'General Dlamini' and a Mr Mnisi, in influencing which companies (Ngaphesheya and Elshadai Security Services) were put forward for a Tshwane Metro Police Department tender (3/2004). A separate, briefly sensitive line of questioning concerned a woman referred to as 'Mama', whom General Sibiya had asked Nkosi to help find employment. The sitting was interrupted by several adjournments due to the witness's medical condition, and cross-examination on the tender allegations was set to continue the next day.",
+  "rulings": [],
+  "exhibits": [
+   {
+    "ref": "File 4, p.311",
+    "description": "Document headed 'Case Numbers for Joe Sibanyoni' listing seven case numbers, sent to Sergeant Nkosi by Mthakathi Mswazi"
+   },
+   {
+    "ref": "File 2, pp.787-791",
+    "description": "WhatsApp chat log between Sergeant Nkosi and Mthakathi Mswazi, including the ID details of Tiego 'Danny' Mabusela"
+   },
+   {
+    "ref": "File (new) 3, p.792",
+    "description": "CCTV video sent by Mthakathi Mswazi to Sergeant Nkosi showing the murder of Mr Armand Swart"
+   },
+   {
+    "ref": "File (new) 3, pp.869-897",
+    "description": "Photographs and SAPS situation reports (crime scenes, stolen property, a double murder) forwarded by Sergeant Nkosi to Mr Mampane"
+   },
+   {
+    "ref": "File 4, p.402/404",
+    "description": "Bank statement showing a R12,500.00 payment to Sergeant Nkosi referenced 'Firstrand Mampane'"
+   },
+   {
+    "ref": "File 3 (new), pp.932-980",
+    "description": "List of bidders and prices for Tshwane Municipal Police Department tender 3/2004, including Ngaphesheya Security Services and Elshadai Security Services"
+   },
+   {
+    "ref": "File 1, pp.148-154",
+    "description": "WhatsApp chats between Sergeant Nkosi, General Dlamini and Mr Mnisi ('Mfowethu') and a Tshwane CFO regarding the tender shortlist"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "Send.",
+    "speaker": "Mthakathi Mswazi (WhatsApp message read into record)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/18",
+    "tier_label": "REPORTING",
+    "words": 1
+   },
+   {
+    "text": "Sitrep AP 13.",
+    "speaker": "SAPS situation report forwarded by Sergeant Nkosi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/18",
+    "tier_label": "REPORTING",
+    "words": 3
+   },
+   {
+    "text": "Eish",
+    "speaker": "Sergeant Nkosi (WhatsApp reply, per chat record)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/18",
+    "tier_label": "REPORTING",
+    "words": 1
+   },
+   {
+    "text": "I am tired, Commissioners. I am tired.",
+    "speaker": "Sergeant Nkosi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/18",
+    "tier_label": "REPORTING",
+    "words": 7
+   },
+   {
+    "text": "I keep it in my head.",
+    "speaker": "Sergeant Nkosi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/18",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "Telling me to submit five is an insult",
+    "speaker": "Tshwane CFO (WhatsApp message read into record)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/03/18",
+    "tier_label": "REPORTING",
+    "words": 8
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/18",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "The correct spelling of 'Mthakathi'/'Mothakathi' and whether he is also known as 'Ivan'/'Irvin' Mthakathi was not settled during testimony.",
+   "Whether Warrant Officer Zungu and Mthakathi Mswazi had already spoken directly by the time Mthakathi sent Danny Mabusela's ID details could not be confirmed by Sergeant Nkosi.",
+   "The transcript's running page header reads '18 MARCH 2026 – DAY 90' throughout, while the transcript's title page and the day banner at the top read 'DAY 80'; this record uses 'DAY 80', consistent with the provided hint and the title-page header, but the discrepancy in the running header is unresolved."
+  ],
+  "reporting_context": [
+   {
+    "claim": "SABC News reported on the Commission hearing testimony that a man linked to a taxi tycoon gave Sergeant Nkosi a case list, matching this sitting day's evidence about Mthakathi Mswazi and the Sibanyoni case-number list.",
+    "url": "https://www.sabcnews.com/sabcnews/commission-hears-how-a-man-linked-to-taxi-tycoon-gave-nkosi-case-list/",
+    "publisher": "SABC News",
+    "tier": 2,
+    "retrieved": "2026/08/31",
+    "partial": true
+   }
+  ]
+ },
+ {
   "id": "day-079",
   "day_number": 79,
   "day_number_verified": true,

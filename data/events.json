@@ -304,6 +304,22 @@
   "best_tier": 1
  },
  {
+  "id": "tmpd-tender-tmpd2-2016-2017-awarded-by-2021-court-order-after-litigation",
+  "title": "TMPD tender TMPD2 2016-2017 awarded by 2021 court order after litigation",
+  "date": "2021/01/01",
+  "description": "The physical-security guarding tender, cancelled twice for irregularities including missing bid documents, was ultimately awarded to 22 companies (including Triotic and Gubis85) by court order; its three-year term expired February 2025 and has since been extended month-to-month, with a replacement tender process itself cancelled once for irregularities.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "theft-of-approximately-541kg-of-cocaine-dpci-port-shepstone-storage-facility",
   "title": "Theft of approximately 541kg of cocaine, DPCI Port Shepstone storage facility",
   "date": "2021/11",
@@ -2046,6 +2062,22 @@
   "title": "Sergeant Nkosi's anonymity and remote-testimony order lifted",
   "date": "2026/03/16",
   "description": "The Chairperson read reasons into the record for the 13 March 2026 order recalling the earlier arrangement allowing Sergeant Fannie Nkosi to testify remotely, off-camera and anonymised as 'Witness F', holding that continued anonymity was no longer justified because his name and image had already entered the public domain via a video clip of him leaving Katiso Molefe's home.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "deputy-commissioner-dhlamini-s-precautionary-suspension",
+  "title": "Deputy Commissioner Dhlamini's precautionary suspension",
+  "date": "2026/03/20",
+  "description": "TMPD Deputy Chief Umashi Dhlamini was placed on precautionary suspension days after his name arose in Sergeant Fannie Nkosi's Commission testimony around 18-19 March 2026, per Chief Faro's Day 86 evidence and Dhlamini's own Day 88 account.",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",

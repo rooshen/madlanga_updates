@@ -40,13 +40,21 @@ project and never replaced).
 Day 161 (18 Aug 2026) has a transcript despite the sitting itself being reported as the
 scheduled witness (Vusimuzi Matlala) being postponed — it exists, download and process as normal.
 
-## Status as of 2026/08/26 ~21:25 UTC
-- Extracted + merged + shipped: Days 1-15 (pilot), 17-30, 31-34 (partial synthesis), 35-42.
+## Status as of 2026/08/31 ~21:15 UTC
+- Extracted + merged + shipped: Days 1-15 (pilot), 17-89, minus gaps 16/56/85 and minus Day 14
+  (needs re-fetch). That is the entire 1-90 range fully done except those two.
+- Day 90 and Day 91 are confirmed transcript gaps (no `kind:'transcript'` media row) — nothing
+  to extract there.
 - Downloaded as PDF to the user's Mac (`~/Downloads/mad-day-0NN.pdf`) but NOT yet staged/
-  converted/extracted: Days 92-166 minus the gap days above (69 files) — staging blocked this
-  run by `untrusted_device` (user needs to re-auth the desktop app; do not retry blindly).
-- Downloaded and converted to .txt, NOT yet extracted: Days 43-50, 51-90 range (minus 56/85/90).
-- Never downloaded: Day 14 (re-fetch), Day 16 confirmed genuinely missing.
+  converted/extracted: Days 92-166 minus the gap days above (69 files). **Staging is still
+  blocked by `untrusted_device`** — re-confirmed on 2026/08/31 with a single-file retry
+  (`mad-day-092.pdf`), same error as before. Per standing rule this was one retry for the
+  session, not a loop — **the user needs to re-authenticate the Claude desktop app on that
+  Mac before this can proceed.** Do not keep retrying every session; ask once, then wait for
+  confirmation the app has been re-signed-in before trying again.
+- Day 14 also blocked by the same `untrusted_device` issue (its PDF is on the Mac at
+  `~/Downloads/mad-day-014.pdf`, 20MB, but was never successfully staged into the container).
+- Day 16 confirmed genuinely missing (no transcript exists for it).
 
 ## Reusable extraction workflow
 `tools/wf_extract_batch.js` (Workflow script, run via the Workflow tool with
