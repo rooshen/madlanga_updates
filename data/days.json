@@ -1393,6 +1393,1120 @@
   "reporting_context": []
  },
  {
+  "id": "day-118",
+  "day_number": 118,
+  "day_number_verified": true,
+  "date": "2026/06/11",
+  "weekday": "Thursday",
+  "workstream": "political-interference",
+  "witnesses": [
+   {
+    "person_id": "chief-inspector-samuel-mashaba",
+    "name": "Chief Inspector Samuel Mashaba",
+    "role_as_described": "Gauteng Provincial Traffic Chief Inspector; in 2020-2021 Acting Deputy Director for the Sedibeng District (Southern Corridor), covering the Vereeniging, Heidelberg and Heidelberg Weighbridge offices; continuing testimony from a prior sitting day",
+    "note": "testified"
+   }
+  ],
+  "summary": "The Commission sat at the Brigitte Mabandla Justice College and opened by granting, on agreement between the parties, a postponement of Mr Tumelo Nku's scheduled testimony to 18 June 2026 following a family bereavement. Chief Inspector Samuel Mashaba continued his testimony, first clarifying details of a 2021 Aeroton incident involving an alleged drug-carrying truck and his calls to senior SAPS officers, then facing extended questioning from the Chairperson and Commissioners on the legal limits of a traffic officer's law-enforcement powers. Evidence leaders then put an extensive WhatsApp record between Mashaba and businessman Mr Nku, dating from 2019, to him, including exhibits (CJC274.3, CJC275.1) purporting to show Mashaba directing named SAPS members to perform paid, unofficial recovery and investigative work for Nku -- including in relation to cash and property reported stolen at an airport -- and a message in which Mashaba told Nku they should keep working so he could 'look after' the newly appointed Gauteng MEC for Community Safety, Faith Mazibuko. Mashaba confirmed the phone number and many of the messages as his own but repeatedly said he could not recall the underlying events, prompting sharp exchanges with the Chairperson and Commissioners about the plausibility of his memory lapses.",
+  "rulings": [
+   {
+    "description": "The hearing of Mr Tumelo Nku's evidence is postponed to Thursday, 18 June 2026, following an application citing a family bereavement, agreed to by the Evidence Leaders.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/11",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": "CJC274.3",
+    "description": "WhatsApp/screenshots bundle (pages 55-124) containing chats between Mr Nku and a number saved in his phone as 'Doggy Hawks'."
+   },
+   {
+    "ref": "CJC275.1",
+    "description": "Exhibit handed up confirming the 'Doggy Hawks' number was RICA'd to Chief Inspector Mashaba in 2019."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "I would invite SAPS.",
+    "speaker": "Chief Inspector Samuel Mashaba",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/11",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "he is harassing us.",
+    "speaker": "Chief Inspector Samuel Mashaba",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/11",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "I sent my boys.",
+    "speaker": "Chief Inspector Samuel Mashaba",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/11",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "At that time, it means I knew.",
+    "speaker": "Chief Inspector Samuel Mashaba",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/11",
+    "tier_label": "REPORTING",
+    "words": 7
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/11",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Mashaba's account of a 'harassment' by a 'General Khan' during the Aeroton incident is uncorroborated in this transcript by any other witness.",
+   "Whether Brigadier Shibiri, General Mthombeni, General Mawela or General Khan have responded to Mashaba's account is not addressed on this day.",
+   "Whether MEC Faith Mazibuko has been asked to respond to the implication that Mashaba sought to curry favour with her is not addressed on this day.",
+   "The full scope and outcome of the alleged airport cash/foreign-currency theft investigation referenced in the WhatsApp exhibits is not established on this day."
+  ],
+  "reporting_context": [
+   {
+    "claim": "EWN reported that WhatsApp messages dating to 2019 were presented showing Nku sending Mashaba money that Mashaba allegedly distributed to men he called his 'boys', and that Mashaba repeatedly said he could not recall details despite conceding he 'knew' at the time -- a distinction co-Commissioner Sisi Baloyi challenged as different from genuinely forgetting.",
+    "url": "https://www.ewn.co.za/2026/06/11/madlanga-commission-questions-traffic-officer-s-claimed-memory-lapses-over-whatsapp-exchanges",
+    "publisher": "EWN",
+    "tier": 2,
+    "retrieved": "2026/09/04",
+    "partial": false
+   }
+  ]
+ },
+ {
+  "id": "day-117",
+  "day_number": 117,
+  "day_number_verified": true,
+  "date": "2026/06/10",
+  "weekday": "Wednesday",
+  "workstream": "matlala-saps-contract",
+  "witnesses": [
+   {
+    "person_id": "witness-i",
+    "name": "Witness I",
+    "role_as_described": "Hawks/DPCI TOMS officer, continuing testimony on the 2021 Aeroton drug bust, his SANEB/DPCI history, and his relationship with Vusimuzi 'Cat' Matlala",
+    "note": "testified"
+   },
+   {
+    "person_id": "samuel-tsiane-mashaba",
+    "name": "Samuel Tsiane Mashaba",
+    "role_as_described": "Chief (Traffic Officer), Gauteng Department of Roads and Transport, formerly Acting Deputy Director Sedibeng district; present at and arrested during the 2021 Aeroton drug bust",
+    "note": "testified"
+   }
+  ],
+  "summary": "The Commission resumed the evidence of Witness I, who first read a supplementary statement disclosing that he had lived for two years at a Matlala family property in Mamelodi (arranged by Captain Zungu after a 2023 attempt on his life) and alleging that DPCI TOMS' mandate had since been dismantled. Evidence leaders and Commissioners then extensively cross-examined him on his conduct at the 2021 Aeroton drug bust, testing his claim that the seized drugs fell under an existing 2020 inquiry, his dealings with Warrant Officer Phakula, Magane and Mashaba, a recorded meeting with a Crime Intelligence officer and Mr Mogotsi concerning General Khan's disciplinary hearing, and his links to Matlala; he conceded several of his prior criticisms of Generals Khan and Kadwa were unfair. After Witness I was excused, the Commission dismissed an application by Chief Samuel Mashaba to testify entirely remotely with his face hidden, and Mashaba then took the oath and began reading his statement on the Aeroton bust and his subsequent arrest, detention and suspension.",
+  "rulings": [
+   {
+    "description": "Chief Mashaba's application to testify remotely, with his face not shown, was dismissed; he was ordered to testify in open session in the auditorium, with the Commission undertaking to accommodate shorter breaks for his health.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/10",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": "BM6A",
+    "description": "Document added overnight to Steyn Exhibit File 2, taken from Mr Mogotsi's annexures"
+   },
+   {
+    "ref": null,
+    "description": "Witness I's four-page signed supplementary statement addressing his stay at Matlala's family property and the status of DPCI TOMS"
+   },
+   {
+    "ref": null,
+    "description": "2020 inquiry-opening request/statement (Steyn Exhibit File 2, pages 276-277), attributed to Sergeant Mukwevho, concerning Tanzanian nationals and Nyaope"
+   },
+   {
+    "ref": null,
+    "description": "Sergeant Andrew Phakula's IPID statement (Booysens CAS/Khan disciplinary exhibit file, page 408)"
+   },
+   {
+    "ref": null,
+    "description": "Transcript of a recorded meeting between Witness I, a Crime Intelligence officer, and Mr Mogotsi (Steyn Exhibit File 2, pages 197-227)"
+   },
+   {
+    "ref": null,
+    "description": "Major General Khan's statement (Booysens CAS/Khan disciplinary exhibit file, pages 190-192)"
+   },
+   {
+    "ref": null,
+    "description": "Colonel Bok's and Colonel Seobe's statements regarding Witness I's whereabouts on the day of the Aeroton bust (Booysens CAS/Khan disciplinary exhibit file, pages 170-173)"
+   },
+   {
+    "ref": null,
+    "description": "Chief Samuel Mashaba's signed witness statement on the Aeroton drug bust and its aftermath"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "That was my suspicion.",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/10",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "we must dismiss your application and you must testify in open session",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/10",
+    "tier_label": "REPORTING",
+    "words": 12
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/10",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Witness I's claim that an unnamed member warned him of a plan to discredit him using the Matlala housing disclosure was not corroborated by any named source or document in this transcript.",
+   "Witness I's account that General Gerber told him he suspected Witness I was being 'misled' by others into asserting jurisdiction over the Aeroton scene was not tested against General Gerber's own evidence in this excerpt."
+  ],
+  "reporting_context": [
+   {
+    "claim": "IOL reported that on 10 June a Hawks TOMS officer identified as Witness I accused Major Generals Feroz Khan and Ebrahim Kadwa of interfering at the scene of the 2021 Aeroton drug bust, and disclosed he had stayed at Vusimuzi 'Cat' Matlala's family home in Mamelodi for two years, with his testimony described as containing inconsistencies.",
+    "url": "https://iol.co.za/news/south-africa/2026-06-11-madlanga-commission-to-hear-testimony-from-gauteng-traffic-police-boss-samuel-mashaba/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/09/04",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-116",
+  "day_number": 116,
+  "day_number_verified": true,
+  "date": "2026/06/09",
+  "weekday": "Tuesday",
+  "workstream": "crime-intelligence",
+  "witnesses": [
+   {
+    "person_id": "takalani-maphosho",
+    "name": "Takalani Maphosho",
+    "role_as_described": "IPID Assistant Director, the investigator who compiled the IPID report and NPA referral into the Aeroton drug-bust matter (Booysens CAS 98/07/2021 and CAS 252/10/2021), continuing testimony from the previous day",
+    "note": "testified"
+   },
+   {
+    "person_id": "lt-col-schnell",
+    "name": "Lt-Col Schnell",
+    "role_as_described": "SAPS member who had been placed under subpoena to appear but submitted an affidavit instead and was excused without giving oral evidence",
+    "note": "testified"
+   },
+   {
+    "person_id": "witness-i",
+    "name": "Witness I",
+    "role_as_described": "Protected-identity former member of TOMS (a national DPCI covert/tactical unit), testifying anonymously by voice-only remote link about the Sun City firearms case, Lieutenant General Mbotho's alleged interference, Brigadier Mokoena, and his knowledge of informer Vusi 'Cat' Matlala",
+    "note": "testified"
+   }
+  ],
+  "summary": "IPID Assistant Director Takalani Maphosho continued testimony on her investigation into the July 2021 Aeroton drug bust, facing sustained criticism from Commissioners Baloyi and Khumalo and the Chairperson that her report accepted the complainants' version uncritically, mischaracterised General Khan and General Kadwa as 'unable to explain' their conduct despite detailed statements from both, and drew unsupported conclusions (such as three containers and changed exhibit bags) without testing them against evidence from Warrant Officer Morris, Captain Nortje or the FSL analyst. Lieutenant Colonel Schnell was excused for the day after submitting an affidavit instead of oral evidence. In the afternoon, a protected witness identified only as Witness I, appearing anonymously by voice, testified about the 2024 Sun City firearms/TOMS case, alleged interference by Lieutenant General Mbotho and Brigadier Mokoena, an attempted extortion of informer Vusi 'Cat' Matlala, and his unsuccessful attempts to have the matter investigated by IPID or raised with Parliament's police portfolio committee chair.",
+  "rulings": [
+   {
+    "description": "Lieutenant Colonel Schnell, who had been under subpoena to appear, was excused for the day after submitting an affidavit to the Commission; he may be subpoenaed to appear in person at a later stage if the Commission decides the affidavit alone is insufficient.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/09",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "The Commission ruled that Assistant Director Maphosho's written 'Request for Commission's Intervention' (raising security-sensitive matters) and her related supplementary affidavit would not be read into the public record, but would instead be considered privately by the Commissioners.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/09",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": "TK15",
+    "description": "Statement of Sergeant Mabule Patrick Sape (SAPS Dog Unit, Silverton K9 unit)"
+   },
+   {
+    "ref": "TK16",
+    "description": "Statement of Warrant Officer Phakula, corroborating Sergeant Sape's account of the Aeroton scene"
+   },
+   {
+    "ref": "SDK17",
+    "description": "SAP13 exhibit register recording 49 exhibit bags / 700 solid substance blocks booked at Booysens"
+   },
+   {
+    "ref": "TK18",
+    "description": "Statement of Captain Nortje on transport of exhibits from Booysens to FSL"
+   },
+   {
+    "ref": "TK19",
+    "description": "Statement of Warrant Officer Morris describing damaged exhibit bags being placed inside new bags"
+   },
+   {
+    "ref": "TK22",
+    "description": "Warning-statement request letter sent to Major General Khan"
+   },
+   {
+    "ref": "TK25",
+    "description": "General Kadwa's written response to IPID's request for a warning statement"
+   },
+   {
+    "ref": "TK26",
+    "description": "Major General Khan's written response seeking further information from IPID"
+   },
+   {
+    "ref": "TK27",
+    "description": "IPID's written reply to General Khan's response"
+   },
+   {
+    "ref": "TK33",
+    "description": "IPID's referral of Booysens CAS 252/10/2021 to the NPA/DPP recommending prosecution of Khan, Kadwa, Sekgobela, Steyn and Sebola"
+   },
+   {
+    "ref": "TK36",
+    "description": "IPID's investigation report (analysis, findings and recommendations) underlying the NPA referral"
+   },
+   {
+    "ref": "CJC229.57",
+    "description": "Exhibit bundle including a statement by Dumisane Pompi and material referencing Marumo Magane"
+   },
+   {
+    "ref": "A39",
+    "description": "Statement in the docket (from Mashaba's supervisor) indicating he had no knowledge of Mashaba's operation on the day of the drug bust"
+   },
+   {
+    "ref": null,
+    "description": "Steyn Exhibit File 2, the exhibit bundle used during Witness I's testimony"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "your assumption was not with much factual basis",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/09",
+    "tier_label": "REPORTING",
+    "words": 8
+   },
+   {
+    "text": "It is just plain wrong, the approach that you took here",
+    "speaker": "Adv Baloyi SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/09",
+    "tier_label": "REPORTING",
+    "words": 11
+   },
+   {
+    "text": "I would say yes, he is lying",
+    "speaker": "Assistant Director Maphosho",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/09",
+    "tier_label": "REPORTING",
+    "words": 7
+   },
+   {
+    "text": "The objective facts speak for themselves",
+    "speaker": "General Khan (per his statement, read into record)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/09",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "he never came back to me to date",
+    "speaker": "Witness I",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/09",
+    "tier_label": "REPORTING",
+    "words": 8
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/09",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Informer Nku's account of three containers being given 'preference' at Durban harbour and his broader claims of an 11-container shipment were not corroborated by a formal statement.",
+   "Witness I's suspicion that General Mbotho wanted seized firearms and suspects released, and his account of Brigadier Mokoena's extortion attempt against Vusi Matlala, rest on his own recollection and were not tested against other witnesses in this session.",
+   "Exhibit reference 'SDK17' could not be found in the transcript and may be misread.",
+   "Exhibit reference 'CJC229.57' could not be found in the transcript and may be misread."
+  ],
+  "reporting_context": [
+   {
+    "claim": "EWN reported that the Madlanga Commission continued to poke holes in IPID investigator Maphosho's probe of the 2021 Aeroton drug-bust case on this sitting day.",
+    "url": "https://www.ewn.co.za/2026/06/09/madlanga-commission-continues-to-poke-holes-at-probe-of-ipid-s-maphoso",
+    "publisher": "EWN",
+    "tier": 2,
+    "retrieved": "2026/09/04",
+    "partial": true
+   },
+   {
+    "claim": "SABC News reported that the IPID officer was challenged over alleged interference in the Aeroton drug bust during Day 116 of the Madlanga Commission.",
+    "url": "https://www.sabcnews.com/sabcnews/ipid-officer-challenged-over-aeroton-drug-bust-alleged-interference/",
+    "publisher": "SABC News",
+    "tier": 2,
+    "retrieved": "2026/09/04",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-115",
+  "day_number": 115,
+  "day_number_verified": true,
+  "date": "2026/06/08",
+  "weekday": "Monday",
+  "workstream": "crime-intelligence",
+  "witnesses": [
+   {
+    "person_id": "lt-col-nkoana-joseph-sebola",
+    "name": "Lt-Col Nkoana Joseph Sebola",
+    "role_as_described": "DPCI (Hawks) investigating officer in the Booysens CAS 98/07/2021 investigation, testifying via supplementary affidavit and an analyst-prepared presentation on cellphone/digital evidence linked to the Aeroton drug bust",
+    "note": "testified"
+   },
+   {
+    "person_id": "takalani-zelda-maphosho",
+    "name": "Takalani Zelda Maphosho",
+    "role_as_described": "Assistant Director, IPID National Specialized Investigative Team; investigated the defeating-the-ends-of-justice complaint (Booysens CAS 252/10/2021) laid by Chief Mashaba, Warrant Officer Magane and Warrant Officer Phakula",
+    "note": "testified"
+   }
+  ],
+  "summary": "The Commission resumed testimony from Lt-Col Sebola, who read a supplementary affidavit and was taken through an analyst-prepared presentation of cellphone/Threema/WhatsApp/Telegram screenshots said to link Tumelo Nku, an individual saved as 'Alpha', and Samuel Mashaba (saved in Nku's phone as 'General Mashaba of Hawks') to surveillance and movement of shipping containers, including an apparent earlier attempt in May 2021 and the Aeroton consignment in July 2021. Commissioners repeatedly found Sebola unable to explain key features of the presentation (including how Threema screenshots were distinguished from WhatsApp ones, and the meaning of call-diagrams linking Mashaba, Phokungwana and Magane) and asked that a comprehensive statement be obtained from the analyst who compiled it. Sebola also gave evidence on IPID's and General Gerber's and Major-General Kadwa's respective findings on the DPCI's conduct, on DPCI's refusal to hand IPID the docket, and alleged senior-official interference in the Booysens investigation, while conceding several administrative/evidentiary errors flagged by General Gerber. In the afternoon, IPID Assistant Director Takalani Maphosho was sworn in and read her statement on IPID's investigation into the complaint of defeating the ends of justice at the Aeroton scene, describing the arrests of Magane, Phakula and Mashaba by DPCI members led by General Khan and General Kadwa, the release of the truck driver, receiving clerk (Jolene Koekemoer) and warehouse manager, and DPCI's persistent refusal (escalated to Generals Sekgobela, Kadwa and Lebeya) to provide IPID with the Booysens docket. Commissioners pressed Maphosho hard on IPID's failure to verify Nku's claimed status as an 'informer', its lack of scrutiny of the complainants' own conduct and jurisdiction, and the basis for concluding the arresting DPCI officers (rather than the original three) had defeated the ends of justice, given that no one, on the Commissioners' analysis, should have been arrested that day.",
+  "rulings": [
+   {
+    "description": "Chairperson requested that DPCI provide a short affidavit from the analyst who compiled the cellphone-data presentation, specifically explaining the methodology used to identify communications and their sources.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/08",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "Matter postponed to continue the following day, with the topic of statements from SAPS Dog Unit members to be taken up then.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/08",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": null,
+    "description": "Steyn Exhibit File"
+   },
+   {
+    "ref": null,
+    "description": "Exhibit file titled 'Booysens CAS Number' with docket and Khan Disciplinary"
+   },
+   {
+    "ref": null,
+    "description": "Exhibit File - IPID Investigation"
+   },
+   {
+    "ref": null,
+    "description": "Analyst-prepared presentation (referenced throughout, pages cited up to approx. page 30) of cellphone screenshots (Threema, WhatsApp, Telegram), computer/Transnet screenshots, cellphone tower tracking maps, and photographs comparing Aeroton drugs/packaging to images found on Tumelo Nku's phone"
+   },
+   {
+    "ref": "TK1-TK18 (approx.)",
+    "description": "Annexures to Assistant Director Maphosho's IPID statement, including the Section 28(1)(h) referral memorandum, statements of Mashaba, Pokungwana, Phakula, the 10111 report, statements of Generals Mawela, Ntombeni and Shibiri, and statements of independent witnesses (truck driver Brightman Vusi Mtembu, Jolene Koekemoer Wentzel, Francois Riekert)"
+   },
+   {
+    "ref": null,
+    "description": "Blue folder described as a 'view-once' file to be discussed but not made public"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "I must just comment that this is really confusing",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/08",
+    "tier_label": "REPORTING",
+    "words": 9
+   },
+   {
+    "text": "It is strange, Commissioners.",
+    "speaker": "Lt-Col Sebola",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/08",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "there is no statement that we took from Mr Nku",
+    "speaker": "Assistant Director Maphosho",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/08",
+    "tier_label": "REPORTING",
+    "words": 10
+   },
+   {
+    "text": "My sense was that he was not a registered informer",
+    "speaker": "Assistant Director Maphosho",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/08",
+    "tier_label": "REPORTING",
+    "words": 10
+   },
+   {
+    "text": "I find it quite disturbing that you say you do not probe your complainants",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/08",
+    "tier_label": "REPORTING",
+    "words": 14
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/08",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Sebola's claim to have 'followed up' and 'established the source' of a Transnet-originated computer screenshot was not detailed on record.",
+   "Nku's own claim, relayed by Maphosho, that the truck driver deliberately avoided weighbridges on instruction, was not independently corroborated.",
+   "Sebola's suspicion that information from law-enforcement presentations he gave was leaked to tip off a Scania-linked individual who then resigned was not substantiated with evidence."
+  ],
+  "reporting_context": [
+   {
+    "claim": "Daily Maverick reported on Hawks officer Lt-Col Sebola's testimony describing 'mission impossible' trafficking chats and an alleged Transnet information leak linked to the roughly R286 million cocaine haul at the centre of the Aeroton case.",
+    "url": "https://www.dailymaverick.co.za/article/2026-06-08-mission-impossible-trafficking-plus-transnet-info-leak-linked-to-r286m-cocaine-hawks-cop/",
+    "publisher": "Daily Maverick",
+    "tier": 3,
+    "retrieved": "2026/09/04",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-114",
+  "day_number": 114,
+  "day_number_verified": true,
+  "date": "2026/06/05",
+  "weekday": "Friday",
+  "workstream": "kzn-pktt",
+  "witnesses": [
+   {
+    "person_id": "lieutenant-colonel-kwazikwakhe-goodenough-sibiya",
+    "name": "Lieutenant Colonel Kwazikwakhe Goodenough Sibiya",
+    "role_as_described": "DPCI (Hawks) officer, at the time of the 22 June 2021 incident attached to Organized Crime's Economic Protected Resources (EPR) component on a temporary duty arrangement, later promoted into SANEB; present at the CHC Depot (Port Shepstone/Isipingo) cocaine seizure and its subsequent handling",
+    "note": "testified"
+   }
+  ],
+  "summary": "Lieutenant Colonel Kwazikwakhe Goodenough Sibiya testified about the 22 June 2021 seizure of 541 suspected cocaine bricks at CHC Depot in Isipingo, describing how he assisted Lieutenant Colonel Jacob and Warrant Officer Mpangase and later helped move, sample and book the exhibits between Isipingo SAPS and the Port Shepstone DPCI walk-in safe. He read his statement denying the allegations against him from a Rule 3.5 notice arising from Major General Flynn's testimony, maintaining he was a subordinate present at the scene who took no operational decisions and was on training at Paarl Academy at the time of the alleged theft. Under questioning by the evidence leaders and Commissioners Khumalo and Baloyi, he acknowledged the exhibits went unrecorded in any SAPS system for roughly 24-48 hours after leaving Isipingo, that he could not have questioned his seniors' handling of the scene since he lacked drugs-investigation experience, and that a later \"clarification statement\" he and Jacob gave about Warrant Officer Perumal lacking storage space differed from Perumal's own account. The Chairperson put to him directly that this later account appeared to be concocted; he had no substantive answer.",
+  "rulings": [],
+  "exhibits": [
+   {
+    "ref": "Isipingo SAP13 373/2021",
+    "description": "SAP13 exhibit register entry at Isipingo SAPS for the 541 suspected cocaine bricks seized at CHC Depot"
+   },
+   {
+    "ref": "Port Shepstone SAP13 8H9/2021",
+    "description": "SAP13 exhibit register entry at Port Shepstone SAPS recording samples taken from the seized bricks"
+   },
+   {
+    "ref": "Container BEAU5955535",
+    "description": "Shipping container at CHC Depot, Prospecton, in which the cocaine bricks were found among sacks declared as animal feed"
+   },
+   {
+    "ref": "Annexures KG1-KG3",
+    "description": "Sibiya's flight ticket and training-completion certificate submitted to support his alibi that he was at SAPS Paarl Academy during the period the theft is alleged to have occurred"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "what you are telling us appears to be concocted.",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/05",
+    "tier_label": "REPORTING",
+    "words": 9
+   },
+   {
+    "text": "It is fair, Chair.",
+    "speaker": "Lt-Col Sibiya",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/05",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "It is just strange.             Ja, it is just strange.",
+    "speaker": "Adv Baloyi SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/05",
+    "tier_label": "REPORTING",
+    "words": 9
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/05",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "The precise reason management structures chose Sibiya, an officer with no narcotics experience, to assist at the scene was explored at length but never conclusively established beyond his own account of ad hoc office practice.",
+   "What became of the other officers named in the FSL/CAS cross-reference list (including officers referred to only as 'Duarica' and 'Msomi') beyond Jooste is not established in this day's testimony.",
+   "Exhibit reference 'Container BEAU5955535' could not be found in the transcript and may be misread.",
+   "Exhibit reference 'Annexures KG1-KG3' could not be found in the transcript and may be misread."
+  ],
+  "reporting_context": [
+   {
+    "claim": "EWN reported that KZN Hawks officer Kwazikwakhe Sibiya denied playing a role in the 2021 Port Shepstone drugs heist during his testimony at the Madlanga Commission.",
+    "url": "https://www.ewn.co.za/2026/06/05/kzn-hawks-kwazikwakhe-sibiya-denies-playing-role-in-2021-drugs-heist",
+    "publisher": "EWN",
+    "tier": 2,
+    "retrieved": "2026/09/04",
+    "partial": true
+   },
+   {
+    "claim": "EWN reported that the Madlanga Commission questioned similarities between the testimony of Hawks officers Sibiya and Jacob.",
+    "url": "https://www.ewn.co.za/2026/06/05/madlanga-commission-questions-similarities-in-testimony-of-hawks-officers-sibiya-and-jacob",
+    "publisher": "EWN",
+    "tier": 2,
+    "retrieved": "2026/09/04",
+    "partial": true
+   },
+   {
+    "claim": "IOL reported that Sibiya told the Madlanga Commission he was just following orders in the missing cocaine case.",
+    "url": "https://iol.co.za/news/politics/2026-06-05-sibiya-i-followed-orders-in-missing-cocaine-case-madlanga-commission/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/09/04",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-113",
+  "day_number": 113,
+  "day_number_verified": true,
+  "date": "2026/06/04",
+  "weekday": "Thursday",
+  "workstream": "kzn-pktt",
+  "witnesses": [
+   {
+    "person_id": "colonel-jacob",
+    "name": "Colonel Jacob",
+    "role_as_described": "Lieutenant Colonel (now Colonel) in the DPCI, at the time of the June 2021 seizure the Investigating Officer on a 541kg Cocaine seizure at the CHC Container Depot, Durban; now Unit Commander of Durban's COCIU (comprising the National Priority Violent Crime Section, SANEB and EPR). Continuing testimony begun the previous sitting day.",
+    "note": "testified"
+   }
+  ],
+  "summary": "Colonel Jacob continued his cross-examination on the 2021 CHC Depot Cocaine seizure and the subsequent theft of the exhibits from a Port Shepstone office. Evidence leader Adv Sello SC and Commissioners Baloyi and Khumalo used a DPCI presentation and Captain Moolman's statement to show that Maydon Wharf accommodated 999kg of Cocaine six weeks after Jacob's seizure, undermining his claim to have 'exhausted all avenues' for storage in Durban before the exhibits were moved to Port Shepstone; Jacob ultimately conceded the assumption was wrong and not based on fact, and that telling his Brigadier he had exhausted all avenues was, factually, untrue. He also conceded there was no justification for not calling the LCRC (forensic) unit to the scene, and that the reliability of the investigation diary compiled by Warrant Officer Mpangase was open to serious doubt on several points, including an unrecorded decision to detain the container and the sequencing of when the 27kg/kilogram drug quantity became known. At the start of the day the Commission granted, by agreement between the parties, a partially in-camera arrangement for a protected witness ('Witness I') to testify by audio link with visual features concealed on 9 June, over a media objection from Daily Maverick and News24. Housekeeping at the end of the day recorded that Major General Senona's evidence, scheduled for the next sitting, was postponed to a date in the week of 8 June 2026 due to counsel's illness.",
+  "rulings": [
+   {
+    "description": "By agreement between the parties, Witness I's application for his evidence to be heard partially in camera on 9 June 2026 was granted: his testimony will be heard publicly via audio link with his face/visual features concealed, and media and other persons present are prohibited from publishing any image or footage that may reveal or tend to reveal his identity.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/04",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": "CJC270",
+    "description": "Colonel Jacob's own 'information note', prepared ahead of consultation with Evidence Leaders, containing more detailed reasons for moving the seizure from the CHC Depot to Isipingo than his formal Commission statement."
+   },
+   {
+    "ref": "CJC244",
+    "description": "Statement of Warrant Officer Mpangase, including his account (paragraphs 2-3) of receiving information about a container with approximately 27 kilograms of drugs, dated 23 November 2021."
+   },
+   {
+    "ref": "CJC258",
+    "description": "Statement of Captain Stephan Albert Moolman, exhibit clerk at SAPS Maydon Wharf (2014-2024), describing the handing-in of exhibits seized within Durban Harbour Police's jurisdiction, including a table (p.769) of major seizures stored there."
+   },
+   {
+    "ref": "CJC230",
+    "description": "National Instruction 8 of 2017 on Property and Exhibit Management, including paragraph 7(4) requiring exhibits to be entered in the SAP13 of the relevant police station."
+   },
+   {
+    "ref": "CJC242",
+    "description": "A presentation titled 'major Cocaine and Heroin seizures' (2020 to 2025), marked Annexure S2 to General Senona's January statement, whose table (p.570) was used to show storage capacity existed in and around Durban at the relevant time; Colonel Jacob disputed its accuracy on one line item."
+   },
+   {
+    "ref": "CJC235",
+    "description": "LCRC Durban forensic report compiled by Warrant Officer Zungu for a different (Maydon Wharf) seizure, containing a formally documented photographic record, contrasted with the informal photographs taken of Colonel Jacob's own seizure."
+   },
+   {
+    "ref": "CJC248/CJC268",
+    "description": "The investigation diary (Exhibit File 3), used extensively to test the sequencing and completeness of Colonel Jacob's and Warrant Officer Mpangase's accounts of the seizure, the decision to detain the container, and events at Port Shepstone."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "So you lied to him when you said you had exhausted all avenues.",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/04",
+    "tier_label": "REPORTING",
+    "words": 13
+   },
+   {
+    "text": "I did not ask.",
+    "speaker": "Colonel Jacob",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/04",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "You are the one that is sitting with these drugs.",
+    "speaker": "Adv Baloyi SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/04",
+    "tier_label": "REPORTING",
+    "words": 10
+   },
+   {
+    "text": "You simply do not have that power.",
+    "speaker": "Adv Khumalo SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/04",
+    "tier_label": "REPORTING",
+    "words": 7
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/04",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Colonel Jacob's first name was not stated in this transcript excerpt (referred to throughout only as 'Colonel Jacob' / 'Lieutenant Colonel Jacob').",
+   "The precise date(s) of the alleged 1 July 2021 Megafreight/Hawks re-seal visit remain unresolved on the transcript record."
+  ],
+  "reporting_context": [
+   {
+    "claim": "IOL reported that Hawks officer Colonel (Gavin) Jacob admitted to failures in the handling of the major cocaine bust during his 4 June 2026 Madlanga Commission testimony.",
+    "url": "https://iol.co.za/news/politics/2026-06-04-madlanga-commission-hawks-officer-jacob-admits-to-failures-in-major-cocaine-bust/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/09/04",
+    "partial": true
+   },
+   {
+    "claim": "SABC News reported that evidence at the Commission dismantled Colonel Jacob's version that he had exhausted storage options for the seized cocaine before it was moved to Port Shepstone.",
+    "url": "https://www.sabcnews.com/sabcnews/probe-dismantles-jacobs-version-that-he-exhausted-storage-options/",
+    "publisher": "SABC News",
+    "tier": 2,
+    "retrieved": "2026/09/04",
+    "partial": true
+   },
+   {
+    "claim": "SABC News reported that Major General Senona's scheduled Madlanga Commission appearance was postponed.",
+    "url": "https://www.sabcnews.com/sabcnews/hawks-senonas-madlanga-commission-appearance-postponed/",
+    "publisher": "SABC News",
+    "tier": 2,
+    "retrieved": "2026/09/04",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-112",
+  "day_number": 112,
+  "day_number_verified": true,
+  "date": "2026/06/03",
+  "weekday": "Wednesday",
+  "workstream": "kzn-pktt",
+  "witnesses": [
+   {
+    "person_id": "colonel-gavin-houston-jacob",
+    "name": "Colonel Gavin Houston Jacob",
+    "role_as_described": "Colonel, DPCI; Unit Commander of the Durban Serious Organised Crime Investigation Unit (SANEB); testified as the officer who led the 22 June 2021 seizure of suspected cocaine at the CHC container depot, Isipingo, and gave evidence on the subsequent storage of those exhibits and their November 2021 theft from Port Shepstone",
+    "note": "testified"
+   }
+  ],
+  "summary": "Colonel Gavin Jacob, continuing testimony begun on a prior day, walked the Commission through his statement on the 22 June 2021 seizure of some 541 one-kilogram bricks of suspected cocaine from a 'rip-on-rip-off' container at the CHC depot in Isipingo, the breakdown in exhibit handling that followed (no exhibit bags at Isipingo SAP, an unrecorded overnight period, and eventual storage at Port Shepstone SOCIU on instruction from Brigadier Nyuswa and General Senona), and the 8 November 2021 theft of those exhibits from that storage. He disputed Major-General Flynn's evidence to the Commission that the theft occurred 'by design', accused Flynn's investigation team of bias and of ignoring a whistleblower he says implicates other DPCI members, and said he personally believes DPCI members conspired with criminals in the theft. Commissioners pressed him on contradictions between his statement and earlier evidence about Isipingo's storage capacity, on the absence of any diary entry recording his account of a key phone call, and on the fact that no full quantitative or qualitative FSL analysis of the substance was ever completed before it was stolen. The sitting was adjourned to resume the next morning, with his testimony still incomplete.",
+  "rulings": [],
+  "exhibits": [
+   {
+    "ref": "Exhibit file 2, p.589",
+    "description": "Documentary exhibit containing the passage Colonel Jacob asked to have incorporated into his Commission statement, concerning his instruction to Warrant Officer Mpangase on 22 June 2021"
+   },
+   {
+    "ref": "Annexure GYJ1",
+    "description": "Affidavit of Warrant Officer Sander (IO, Durban Central CAS) attached to Colonel Jacob's statement, addressing storage of exhibits from a prior seizure"
+   },
+   {
+    "ref": "Annexure GYJ2",
+    "description": "Copy of the Isipingo SAP13 exhibit register relied on by Colonel Jacob to dispute claims that Isipingo had no storage problems"
+   },
+   {
+    "ref": "Annexure GYJ3",
+    "description": "Copy of Isipingo SAP occurrence book entries 386-387, including an entry by Warrant Officer Perumal recording a member falling ill because of drugs stored at the station"
+   },
+   {
+    "ref": "Annexure GYJ4",
+    "description": "Travel itinerary for the trip from Durban to Pretoria for disposal of the 2020 Mandrax exhibits at the FSL"
+   },
+   {
+    "ref": "Annexure GYJ5",
+    "description": "Photographs of exhibits stored at Brighton Beach SAP"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "So help me God.",
+    "speaker": "Colonel Gavin Jacob",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/03",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "I strongly disagree.",
+    "speaker": "Colonel Gavin Jacob",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/03",
+    "tier_label": "REPORTING",
+    "words": 3
+   },
+   {
+    "text": "corrupt members could steal it.",
+    "speaker": "Colonel Gavin Jacob",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/03",
+    "tier_label": "REPORTING",
+    "words": 5
+   },
+   {
+    "text": "Did you or did you not?",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/03",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "Were enquiries made? If not, why not?",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/03",
+    "tier_label": "REPORTING",
+    "words": 7
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/03",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Whether the seized substance was in fact cocaine, and its precise quantity/purity, since no full FSL quantitative or qualitative analysis was completed before the exhibits were stolen.",
+   "The approximately R200 million valuation of the stolen exhibits, which rests on an average per-kilogram price assumption rather than a lab-confirmed grade.",
+   "The existence of a written SOP requiring all cocaine seizures to be referred to the DPP's office; Jacob says it was an informal, unwritten provincial directive.",
+   "Whether Warrant Officer Setshedi's statement to General Flynn's investigation team was in fact obtained under duress, as Jacob says Setshedi told him privately.",
+   "Whether SARS Customs still had an active interest in the container at the time it was released, given the absence of any formal release documentation.",
+   "Exhibit reference 'Annexure GYJ4' could not be found in the transcript and may be misread."
+  ],
+  "reporting_context": [
+   {
+    "claim": "IOL reported that Colonel Gavin Jacob told the Madlanga Commission he believes Hawks (DPCI) members conspired with criminals in the theft of the 541 cocaine bricks (worth an estimated R200 million) from Port Shepstone storage, and that he disputed Major-General Hendrick Flynn's 'by design' theory of the theft.",
+    "url": "https://iol.co.za/news/2026-06-03-madlanga-commission-colonel-jacobs-testimony-says-hawks-officials-colluded-with-criminals-in-r200-million-drug-theft/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/09/04",
+    "partial": false
+   }
+  ]
+ },
+ {
+  "id": "day-111",
+  "day_number": 111,
+  "day_number_verified": true,
+  "date": "2026/06/02",
+  "weekday": "Tuesday",
+  "workstream": "crime-intelligence",
+  "witnesses": [
+   {
+    "person_id": "warrant-officer-karl-sander",
+    "name": "Warrant Officer Karl Sander",
+    "role_as_described": "DPCI investigator (Serious Organised Crime, Durban); continuing testimony on container drug seizure procedures, exhibit handling, and his own transfer and polygraph history",
+    "note": "testified"
+   },
+   {
+    "person_id": "lieutenant-colonel-justice-jabulani-duma",
+    "name": "Lieutenant Colonel Justice Jabulani Duma",
+    "role_as_described": "Unit Commander, Multi-Dimensional Organised Crime, Durban; formerly a Crime Intelligence operative in Border Security who supplied the tip-off that led to the 22 June 2021 cocaine seizure",
+    "note": "testified"
+   },
+   {
+    "person_id": "warrant-officer-bheki-mboweni-setshedi",
+    "name": "Warrant Officer Bheki Mboweni Setshedi",
+    "role_as_described": "Forensic Science Laboratory (FSL) member describing an interaction with Colonel Jacob about the seized exhibits and case-analysis assignment",
+    "note": "testified"
+   },
+   {
+    "person_id": "lieutenant-colonel-patience-nokwazi-songca",
+    "name": "Lieutenant Colonel Patience Nokwazi Songca",
+    "role_as_described": "Subsection Commander, Chemical Investigation, Chemistry Section, Forensic Science Laboratory KwaZulu-Natal; describing her limited role regarding the 541kg cocaine seizure and its subsequent theft from DPCI custody at Port Shepstone",
+    "note": "testified"
+   },
+   {
+    "person_id": "colonel-nonkululeko-promise-khuzwayo",
+    "name": "Colonel Nonkululeko Promise Khuzwayo",
+    "role_as_described": "Chemistry Section Commander, Forensic Science Laboratory KwaZulu-Natal, to whom Lt-Col Songca reports; questioned on communications about deploying FSL members to the crime scene and on the subsequent theft investigation",
+    "note": "testified"
+   }
+  ],
+  "summary": "The Commission continued hearing evidence on the 22 June 2021 seizure of roughly 541kg of suspected cocaine at a Durban-area container depot and its later theft from DPCI custody at Port Shepstone. Warrant Officer Sander concluded his testimony on container-seizure and exhibit-bagging procedure, on his own transfer out of operational duties, and on a polygraph result the Commission was told had since been found invalid due to examiner errors. Lieutenant Colonel Duma, testifying partially in camera to protect his identity as a Crime Intelligence operative, described how he gathered and passed on the tip-off that led to the seizure and was pressed on gaps between Crime Intelligence's stated container-inspection procedures and what actually happened at the depot. Forensic Science Laboratory witnesses Setshedi, Songca and Khuzwayo then gave evidence on their limited, process-related roles around the exhibits and on the circumstances of the drugs' later disappearance from DPCI custody.",
+  "rulings": [],
+  "exhibits": [
+   {
+    "ref": "CJC235",
+    "description": "First exhibit file dealing with the Maydon Wharf 999kg recovery, referenced at the start of the day"
+   },
+   {
+    "ref": "CJC247/CJC248",
+    "description": "Photographs of Mandrax in evidence bags and of the cordoned-off scene from the February 2020 drug bust, handed up during Sander's evidence"
+   },
+   {
+    "ref": "CJC249 (pages 667-671)",
+    "description": "SAP21 notice cancelling Sander's scarce skills allowance, his written response, and the earlier temporary-placement document signed by General Senona"
+   },
+   {
+    "ref": "Page 611.1 (bundle CJC244)",
+    "description": "Container list showing container BEAU5955535 and a Department of Health/Veterinary Services detention notice tied to a 'bone meal' commodity flag"
+   },
+   {
+    "ref": "Page 623",
+    "description": "SARS Illicit Trade Group notice of detention dated 23 June 2021 listing container BEAU5955535 among containers for inspection"
+   },
+   {
+    "ref": "Page 316 (confidential unlabelled bundle)",
+    "description": "Lt-Col Duma's prior intelligence report to his Commander dated 21 June 2021, before the seizure"
+   },
+   {
+    "ref": "Unsigned/signed polygraph review documents",
+    "description": "FSL Polygraph Section correspondence explaining that Sander's original 'deception indicated' polygraph result was invalidated after the examiner was found to have made serious errors and was stopped from conducting further tests"
+   },
+   {
+    "ref": "Page 672",
+    "description": "News article concerning two senior Hawks officers arrested for alleged extortion/corruption, put to Sander regarding treatment of a colleague who reported similar conduct"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "The suspects who stole the drugs are known.",
+    "speaker": "Warrant Officer Sander",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/02",
+    "tier_label": "REPORTING",
+    "words": 8
+   },
+   {
+    "text": "Therefore you prefer a methodology that kills your chances of detection.",
+    "speaker": "Chairperson (Justice Madlanga)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/02",
+    "tier_label": "REPORTING",
+    "words": 11
+   },
+   {
+    "text": "it was a sore matter which is a bit disgraceful to the SAPS",
+    "speaker": "Lieutenant Colonel Duma",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/02",
+    "tier_label": "REPORTING",
+    "words": 13
+   },
+   {
+    "text": "my evidence may be of assistance in the Commission's work",
+    "speaker": "Lieutenant Colonel Songca",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/02",
+    "tier_label": "REPORTING",
+    "words": 10
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/02",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Sander's claim that identified individuals who stole the cocaine have links to DPCI/Hawks management was presented by him as belief/inference rather than documented evidence.",
+   "Duma's account of a prior verbal warning to DPCI officers Colonel Jacob and Warrant Officer Mpangase 'a week before' the 21 June tip-off is uncorroborated by any written record referenced in the transcript.",
+   "Sander's belief that his placement in Supply Chain Management was retaliation for 'stepping on the toes' of drug traffickers was described by him as his own conclusion, absent direct evidence.",
+   "Exhibit reference 'Page 672' could not be found in the transcript and may be misread."
+  ],
+  "reporting_context": [
+   {
+    "claim": "Daily Maverick reported that Warrant Officer (named in the article as Karl) Sander was emotionally exonerated after the Commission received an email showing his polygraph examiner had made serious errors and the test was invalid, and that Sander testified the thieves of the R200-million Port Shepstone cocaine haul have links to Hawks management, without naming individuals.",
+    "url": "https://www.dailymaverick.co.za/article/2026-06-02-thieves-of-r200m-port-shepstone-cocaine-are-linked-to-hawks-bosses-says-exonerated-cop-/",
+    "publisher": "Daily Maverick",
+    "tier": 3,
+    "retrieved": "2026/09/04",
+    "partial": false
+   }
+  ]
+ },
+ {
+  "id": "day-110",
+  "day_number": 110,
+  "day_number_verified": true,
+  "date": "2026/06/01",
+  "weekday": "Monday",
+  "workstream": "crime-intelligence",
+  "witnesses": [
+   {
+    "person_id": "karl-roland-sander",
+    "name": "Karl Roland Sander",
+    "role_as_described": "Warrant Officer / Detective, SAPS Directorate for Priority Crime Investigation (DPCI), Serious Organised Crime (formerly SANEB narcotics investigator, now in the Economic Protected Resources unit); testified about narcotics seizures he handled between 2020 and 2023 and about being moved out of narcotics duties in 2024 following an unspecified internal corruption allegation",
+    "note": "testified"
+   }
+  ],
+  "summary": "Day 110 opened with housekeeping: a dispute over confusingly reissued summonses for Major General Senona was resolved without a formal ruling, and the Chairperson directed that Senona's sworn statement be filed by midnight on 2 June 2026 ahead of his postponed testimony on 5 June 2026. The Chair also ruled, by consent of the Evidence Leaders, the witness and media houses (Media24/Daily Maverick/News24), that Lieutenant Colonel Duma would testify the next day via audio link with his face concealed. A separate housekeeping matter saw implicated person Mr Carrim's appearance, previously subpoenaed, postponed by agreement to 25 June 2026 on medical grounds. The Commission then began hearing the Port Shepstone drug-bust stream, with Warrant Officer Karl Roland Sander giving lengthy evidence, as a subpoenaed (not statement-giving) witness, about his career in narcotics investigation, a February 2020 Mandrax seizure at CHC Depot in Isipingo whose exhibits could not safely be stored at Isipingo SAPS, and his removal from narcotics work in 2024 after an unresolved internal corruption complaint and inconclusive/contradictory polygraph results connected to the November 2021 Port Shepstone exhibit theft. His evidence was part-heard and due to continue the next sitting day.",
+  "rulings": [
+   {
+    "description": "General Senona's sworn witness statement (regulation 10(6) response) must be filed by midnight on 2 June 2026, ahead of his testimony now stood down to 5 June 2026.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/01",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "By consent of the Evidence Leaders, the witness and media counsel, Lieutenant Colonel Duma's evidence on 2 June 2026 (or until excused) will be heard publicly via audio link with his face/visual features concealed; publication of any image revealing his face is prohibited, though his name may be used with his consent.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/01",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": "CJC246",
+    "description": "Warrant Officer Sander's short written career-summary document, handed up and provisionally marked for inclusion in the exhibit bundle."
+   },
+   {
+    "ref": "GYJ1",
+    "description": "Warrant Officer Sander's statement, submitted as an annexure to Colonel Jacob's Commission statement, describing the February 2020 CHC Depot Mandrax seizure and the difficulty storing exhibits at Isipingo SAPS."
+   },
+   {
+    "ref": "CJC237",
+    "description": "Signed polygraph examination report (from the Port Shepstone theft investigation) listing test results for SANEB/task team members, including a 'DI' (deception indicated) result against Sander's name."
+   },
+   {
+    "ref": "CJC238",
+    "description": "Unsigned polygraph 'feedback' report, apparently intended for signature by the then national DPCI head General Lebeya, which lists Sander instead under 'no opinion recorded due to examiner error' rather than deceptive."
+   },
+   {
+    "ref": "CJC234",
+    "description": "Subpoenaed SAPS enquiry file / photographs and documentation relating to the February 2020 CHC Depot Mandrax seizure, used to take Sander through the operation in detail."
+   },
+   {
+    "ref": "CJC235",
+    "description": "Further documentation from the February 2020 CHC Depot operation, including the SARS/customs handover form referenced during Sander's evidence."
+   },
+   {
+    "ref": null,
+    "description": "Photograph (and later the original) of a February 2024 'Notice of Temporary Placement' letter signed by General Senona, moving Sander to Provincial Support Services pending an unspecified corruption investigation."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "12 Midnight tomorrow, Ms Tulk. That is the ruling.",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/01",
+    "tier_label": "REPORTING",
+    "words": 9
+   },
+   {
+    "text": "I was standing on their toes.",
+    "speaker": "Warrant Officer Sander",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/01",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "all I want is my name cleared.",
+    "speaker": "Warrant Officer Sander",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/01",
+    "tier_label": "REPORTING",
+    "words": 7
+   },
+   {
+    "text": "If I was corrupt, I would not sell drugs, I would sell guns.",
+    "speaker": "Warrant Officer Sander",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/01",
+    "tier_label": "REPORTING",
+    "words": 13
+   },
+   {
+    "text": "For me, it was prison.",
+    "speaker": "Warrant Officer Sander",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/01",
+    "tier_label": "REPORTING",
+    "words": 5
+   },
+   {
+    "text": "My only safe space was my coffee machine.",
+    "speaker": "Warrant Officer Sander",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/06/01",
+    "tier_label": "REPORTING",
+    "words": 8
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/01",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Sander's belief that his 2024 removal from narcotics duty was retaliatory (for 'stepping on toes' of a corrupt supply chain) is his own inference/opinion, not corroborated by documentary evidence produced on this day.",
+   "The existence and contents of the original complaint email against Sander were never verified; Sander himself was never shown it and stated he could not confirm it was genuine."
+  ],
+  "reporting_context": [
+   {
+    "claim": "The Mail & Guardian reported that Hawks (DPCI) boss Major General Senona was due to face the Madlanga Commission over the Port Shepstone cocaine theft, in a piece timed to the commission's 1 June 2026 sitting.",
+    "url": "https://mg.co.za/news/south-africa/2026-06-01-hawks-boss-senona-to-face-madlanga-commission-over-port-shepstone-cocaine-theft/",
+    "publisher": "Mail & Guardian",
+    "tier": 3,
+    "retrieved": "2026/09/04",
+    "partial": true
+   },
+   {
+    "claim": "EWN reported that the Madlanga Commission heard evidence of how General Senona pushed a senior narcotics investigator out of the drug unit, covering testimony from the Port Shepstone stream witness continuing into the following sitting day.",
+    "url": "https://www.ewn.co.za/2026/06/02/madlanga-commission-hears-how-senona-pushed-senior-cop-out-of-drug-unit",
+    "publisher": "EWN",
+    "tier": 2,
+    "retrieved": "2026/09/04",
+    "partial": true
+   },
+   {
+    "claim": "IOL's live coverage quoted the Hawks officer's remark that 'my only safe space was my coffee machine' while describing his account of working conditions after being moved out of the narcotics unit.",
+    "url": "https://iol.co.za/news/politics/2026-06-02-live-my-only-safe-space-was-my-coffee-machine-hawks-officer-continues-explosive-testimony-madlanga-commission/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/09/04",
+    "partial": true
+   }
+  ]
+ },
+ {
   "id": "day-109",
   "day_number": 109,
   "day_number_verified": true,

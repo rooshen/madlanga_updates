@@ -36,10 +36,12 @@ def page(name, title, desc, body, script, extra=""):
     print("  " + name)
 
 PHASE_NOTICE = """
-<div class="notice" id="phase-notice"><strong>Phase 1 — scaffold.</strong>
-This site currently holds only the ten most recent sitting days as a working sample.
-Days 1 to <span id="pn-first">…</span> are not yet back-filled. Nothing here is invented: every
-claim carries a source and a tier, and everything that could not be verified is listed on the
+<div class="notice" id="phase-notice"><strong>Back-fill in progress.</strong>
+This data layer holds <span id="pn-have">…</span> of the commission's <span id="pn-total">…</span>
+sitting days so far. <span id="pn-outstanding">…</span> are still being processed from the
+commission's own transcripts (a handful of day numbers have no transcript at all and are logged as
+confirmed gaps, not outstanding work). Nothing here is invented: every claim carries a source and a
+tier, and everything that could not be verified is listed on the
 <a href="methodology.html">Methodology</a> page.</div>"""
 
 # ---------------------------------------------------------------- home
@@ -50,7 +52,9 @@ page("index.html", "Home", "This week's briefing on the Madlanga Commission of I
 """, """
 (async () => {
   const [meta, idx] = await Promise.all([MT.data('meta'), MT.briefing('index.json')]);
-  document.getElementById('pn-first').textContent = (meta.latest_day - meta.days_in_data);
+  document.getElementById('pn-have').textContent = meta.days_in_data;
+  document.getElementById('pn-total').textContent = meta.latest_day;
+  document.getElementById('pn-outstanding').textContent = meta.days_outstanding;
   document.getElementById('stamp').textContent =
     'Last updated ' + meta.last_updated + ' · most recent sitting ' + meta.latest_day_date +
     (meta.latest_day_verified ? ', Day ' + meta.latest_day : ', reported as Day ' + meta.latest_day +
@@ -163,8 +167,8 @@ function render() {
 (async () => {
   [META, DAYS] = await MT.all('meta', 'days');
   document.getElementById('intro').innerHTML =
-    'Day ' + META.latest_day + ' sat on ' + META.latest_day_date + '. This scaffold holds <strong>' +
-    META.days_in_data + '</strong> of them — the most recent ten. <strong>' + META.days_outstanding +
+    'Day ' + META.latest_day + ' sat on ' + META.latest_day_date + '. This data layer holds <strong>' +
+    META.days_in_data + '</strong> of the commission\\'s sitting days so far. <strong>' + META.days_outstanding +
     '</strong> earlier sitting days are not yet back-filled.';
   document.getElementById('ws-filter').innerHTML =
     '<span class="small muted">Workstream:</span>' + META.workstreams.map(w =>

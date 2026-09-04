@@ -40,13 +40,14 @@ project and never replaced).
 Day 161 (18 Aug 2026) has a transcript despite the sitting itself being reported as the
 scheduled witness (Vusimuzi Matlala) being postponed — it exists, download and process as normal.
 
-## Status as of 2026/09/04 ~21:25 UTC
+## Status as of 2026/09/04 ~22:15 UTC
 - **`device_stage_files` is unblocked** as of 2026/09/04 — the user re-authenticated the desktop
   app. Confirmed working with a single-file retry (`mad-day-092.pdf`) and then a full 9-file batch.
-- Extracted + merged + shipped: Days 1-15 (pilot), 17-109 minus gaps 16/56/85/90/91/104, and Days
+- Extracted + merged + shipped: Days 1-15 (pilot), 17-118 minus gaps 16/56/85/90/91/104, and Days
   158-166 (which upgraded the old Phase-1 scaffold sample for 158-164 to full transcript-verified
-  records). **Days 110-157 (minus gaps 124/125/130/131/143) are the only remaining unprocessed
-  range** — 41 days.
+  records). Days 110-118 (Port Shepstone/Aeroton cocaine case: Mashaba, Witness I, Maphosho, Jacob,
+  Sander, Duma) shipped 2026/09/04. **Days 119-157 (minus gaps 124/125/130/131/143) are the only
+  remaining unprocessed range** — 32 days.
 - **Day 14 is NOT the DPCI Port Shepstone/Aeroton transcript** — attempted staging and pdftotext
   conversion on 2026/09/04 revealed `mad-day-014.pdf` on the user's Mac is actually a 63-page
   in-camera witness statement exhibit ("Statement of ICB", covering Matlala/Nkosi/Shibiri/Matjeng/

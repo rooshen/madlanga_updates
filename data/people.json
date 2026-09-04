@@ -1866,6 +1866,36 @@
   "photo_mode": "initials"
  },
  {
+  "id": "chief-inspector-samuel-mashaba",
+  "name": "Chief Inspector Samuel Mashaba",
+  "initials": "CI",
+  "role": "Gauteng Provincial Traffic Chief Inspector; in 2020-2021 Acting Deputy Director for the Sedibeng District (Southern Corridor), covering the Vereeniging, Heidelberg and Heidelberg Weighbridge offices; continuing testimony from a prior sitting day",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 118.",
+  "bio": null,
+  "first_appearance": "2026/06/11",
+  "linked_days": [
+   118
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/11",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
+ },
+ {
   "id": "chief-isaac-mapiyeye",
   "name": "Chief Isaac Mapiyeye",
   "initials": "CI",
@@ -2036,6 +2066,96 @@
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
+ },
+ {
+  "id": "colonel-gavin-houston-jacob",
+  "name": "Colonel Gavin Houston Jacob",
+  "initials": "CG",
+  "role": "SAPS officer who led the 22 June 2021 seizure of roughly 541kg of suspected cocaine at the CHC depot, Isipingo",
+  "status": "Testified",
+  "status_reason": "Sworn testimony over Days 112-113 on the seizure and the breakdown in exhibit handling that followed, including documentary comparisons showing more secure alternative storage facilities were available at the time.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   112
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
+  "id": "colonel-jacob",
+  "name": "Colonel Jacob",
+  "initials": "CJ",
+  "role": "Lieutenant Colonel (now Colonel) in the DPCI, at the time of the June 2021 seizure the Investigating Officer on a 541kg Cocaine seizure at the CHC Container Depot, Durban; now Unit Commander of Durban's COCIU (comprising the National Priority Violent Crime Section, SANEB and EPR). Continuing testimony begun the previous sitting day.",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 113.",
+  "bio": null,
+  "first_appearance": "2026/06/04",
+  "linked_days": [
+   113
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/04",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
+ },
+ {
+  "id": "colonel-nonkululeko-promise-khuzwayo",
+  "name": "Colonel Nonkululeko Promise Khuzwayo",
+  "initials": "CN",
+  "role": "Chemistry Section Commander, Forensic Science Laboratory KwaZulu-Natal, to whom Lt-Col Songca reports; questioned on communications about deploying FSL members to the crime scene and on the subsequent theft investigation",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 111.",
+  "bio": null,
+  "first_appearance": "2026/06/02",
+  "linked_days": [
+   111
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/02",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
  },
  {
   "id": "colonel-roodt",
@@ -3768,6 +3888,36 @@
   "photo_mode": "initials"
  },
  {
+  "id": "karl-roland-sander",
+  "name": "Karl Roland Sander",
+  "initials": "KR",
+  "role": "Warrant Officer / Detective, SAPS Directorate for Priority Crime Investigation (DPCI), Serious Organised Crime (formerly SANEB narcotics investigator, now in the Economic Protected Resources unit); testified about narcotics seizures he handled between 2020 and 2023 and about being moved out of narcotics duties in 2024 following an unspecified internal corruption allegation",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 110.",
+  "bio": null,
+  "first_appearance": "2026/06/01",
+  "linked_days": [
+   110
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/01",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
+ },
+ {
   "id": "katiso-kt-molefe",
   "name": "Katiso 'KT' Molefe",
   "initials": "K'",
@@ -4131,6 +4281,36 @@
   "photo_mode": "initials"
  },
  {
+  "id": "lieutenant-colonel-justice-jabulani-duma",
+  "name": "Lieutenant Colonel Justice Jabulani Duma",
+  "initials": "LC",
+  "role": "Crime Intelligence operative who gathered the tip-off leading to the 22 June 2021 seizure",
+  "status": "Testified",
+  "status_reason": "Sworn testimony (partly in camera to protect his identity) on Day 111 describing the 21 June 2021 tip-off and 22 June inspection, conceding Border Police should have been notified when the container seal was broken but were not, and saying he lost trust in DPCI after the drugs later disappeared from its custody.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   111
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
   "id": "lieutenant-colonel-kelebogile-thepa",
   "name": "Lieutenant Colonel Kelebogile Thepa",
   "initials": "LC",
@@ -4149,6 +4329,36 @@
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/11/14",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
+ },
+ {
+  "id": "lieutenant-colonel-kwazikwakhe-goodenough-sibiya",
+  "name": "Lieutenant Colonel Kwazikwakhe Goodenough Sibiya",
+  "initials": "LC",
+  "role": "DPCI (Hawks) officer, at the time of the 22 June 2021 incident attached to Organized Crime's Economic Protected Resources (EPR) component on a temporary duty arrangement, later promoted into SANEB; present at the CHC Depot (Port Shepstone/Isipingo) cocaine seizure and its subsequent handling",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 114.",
+  "bio": null,
+  "first_appearance": "2026/06/05",
+  "linked_days": [
+   114
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/05",
     "tier": 1,
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
@@ -4187,6 +4397,36 @@
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
+ },
+ {
+  "id": "lieutenant-colonel-patience-nokwazi-songca",
+  "name": "Lieutenant Colonel Patience Nokwazi Songca",
+  "initials": "LC",
+  "role": "Subsection Commander, Chemical Investigation, Chemistry Section, Forensic Science Laboratory KwaZulu-Natal; describing her limited role regarding the 541kg cocaine seizure and its subsequent theft from DPCI custody at Port Shepstone",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 111.",
+  "bio": null,
+  "first_appearance": "2026/06/02",
+  "linked_days": [
+   111
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/02",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
  },
  {
   "id": "linda-gxasheka",
@@ -4393,6 +4633,66 @@
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
+ },
+ {
+  "id": "lt-col-nkoana-joseph-sebola",
+  "name": "Lt-Col Nkoana Joseph Sebola",
+  "initials": "LN",
+  "role": "DPCI (Hawks) investigating officer in the Booysens CAS 98/07/2021 investigation, testifying via supplementary affidavit and an analyst-prepared presentation on cellphone/digital evidence linked to the Aeroton drug bust",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 115.",
+  "bio": null,
+  "first_appearance": "2026/06/08",
+  "linked_days": [
+   115
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/08",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
+ },
+ {
+  "id": "lt-col-schnell",
+  "name": "Lt-Col Schnell",
+  "initials": "LS",
+  "role": "SAPS member who had been placed under subpoena to appear but submitted an affidavit instead and was excused without giving oral evidence",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 116.",
+  "bio": null,
+  "first_appearance": "2026/06/09",
+  "linked_days": [
+   116
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/09",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
  },
  {
   "id": "lt-gen-maj-gen-richard-shibiri",
@@ -7013,8 +7313,8 @@
   "name": "Samuel Mashaba",
   "initials": "SM",
   "role": "Gauteng Provincial Traffic Chief; involved in the 9 July 2021 Aeroton drug bust and interception",
-  "status": "Implicated (untested)",
-  "status_reason": "Named across Days 105-108 as having stopped and then allowed the container to proceed unsearched, helped load the drug bags, and been arrested for dealing in drugs alongside Magane, Phakula and informant Tumelo Nku; has not testified or responded at the Commission.",
+  "status": "Testified",
+  "status_reason": "Gave sworn testimony over Days 117-118, describing his role at the Aeroton stop, denying any independent investigative authority as a peace officer, and being confronted with WhatsApp records (since 2019) showing sustained contact with Tumelo Nku including paid 'side hustle' recovery work for SAPS members and a message seeking to curry favour with Gauteng MEC Faith Mazibuko; declined to answer on the Mazibuko point.",
   "bio": null,
   "first_appearance": null,
   "linked_days": [],
@@ -7028,6 +7328,13 @@
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
     "partial": false
+   },
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
    }
   ],
   "best_tier": 1,
@@ -7035,6 +7342,36 @@
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
+ },
+ {
+  "id": "samuel-tsiane-mashaba",
+  "name": "Samuel Tsiane Mashaba",
+  "initials": "ST",
+  "role": "Chief (Traffic Officer), Gauteng Department of Roads and Transport, formerly Acting Deputy Director Sedibeng district; present at and arrested during the 2021 Aeroton drug bust",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 117.",
+  "bio": null,
+  "first_appearance": "2026/06/10",
+  "linked_days": [
+   117
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/10",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
  },
  {
   "id": "sandile-khumalo",
@@ -7688,6 +8025,66 @@
   "photo_mode": "initials"
  },
  {
+  "id": "takalani-maphosho",
+  "name": "Takalani Maphosho",
+  "initials": "TM",
+  "role": "IPID Assistant Director, the investigator who compiled the IPID report and NPA referral into the Aeroton drug-bust matter (Booysens CAS 98/07/2021 and CAS 252/10/2021), continuing testimony from the previous day",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 116.",
+  "bio": null,
+  "first_appearance": "2026/06/09",
+  "linked_days": [
+   116
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/09",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
+ },
+ {
+  "id": "takalani-zelda-maphosho",
+  "name": "Takalani Zelda Maphosho",
+  "initials": "TZ",
+  "role": "IPID Assistant Director; investigated the July 2021 Aeroton drug bust",
+  "status": "Testified",
+  "status_reason": "Sworn testimony over Days 115-116 in which she conceded, under sustained Commissioner questioning, that her report's central claims (that Generals Khan and Kadwa were 'unable to explain' their conduct, that three containers were obstructed from search, that exhibit bags had been swapped) had no basis in the statements she had actually taken.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   115
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
   "id": "terry-motau",
   "name": "Terry Motau SC",
   "initials": "TM",
@@ -8231,6 +8628,36 @@
   ]
  },
  {
+  "id": "warrant-officer-bheki-mboweni-setshedi",
+  "name": "Warrant Officer Bheki Mboweni Setshedi",
+  "initials": "WO",
+  "role": "Forensic Science Laboratory (FSL) member describing an interaction with Colonel Jacob about the seized exhibits and case-analysis assignment",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 111.",
+  "bio": null,
+  "first_appearance": "2026/06/02",
+  "linked_days": [
+   111
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/02",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
+ },
+ {
   "id": "warrant-officer-boy-steve-phakula",
   "name": "Warrant Officer Boy Steve Phakula",
   "initials": "WO",
@@ -8285,6 +8712,64 @@
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
+ },
+ {
+  "id": "warrant-officer-karl-roland-sander",
+  "name": "Warrant Officer Karl Roland Sander",
+  "initials": "WO",
+  "role": "SAPS/DPCI officer involved in the 541kg cocaine seizure and exhibit handling",
+  "status": "Testified",
+  "status_reason": "Sworn testimony over Days 110-111: his polygraph 'deception indicated' result was shown to have been invalidated after the examiner was barred for serious errors; testified the identities of those who stole the cocaine consignment are known to him with links to DPCI/Hawks management, though he could not point to direct evidence against a specific manager, and said his complaint about the loss was never acknowledged or investigated.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
+  "id": "warrant-officer-karl-sander",
+  "name": "Warrant Officer Karl Sander",
+  "initials": "WO",
+  "role": "DPCI investigator (Serious Organised Crime, Durban); continuing testimony on container drug seizure procedures, exhibit handling, and his own transfer and polygraph history",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 111.",
+  "bio": null,
+  "first_appearance": "2026/06/02",
+  "linked_days": [
+   111
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/02",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
  },
  {
   "id": "warrant-officer-makgotloe",
@@ -8734,6 +9219,37 @@
   "unverified": [
    "Witness G's identity, role and institutional affiliation",
    "The substance of the in-camera evidence"
+  ],
+  "photo_mode": "initials"
+ },
+ {
+  "id": "witness-i",
+  "name": "Witness I",
+  "initials": "WI",
+  "role": "Former DPCI TOMS (Tactical Operational Management Section) member; protected-identity witness",
+  "status": "Testified",
+  "status_reason": "Sworn testimony on Day 117 disclosing he lived for about two years at a Matlala family property in Mamelodi (arranged by Captain Zungu after a 2023 attempt on his life), alleging DPCI TOMS' mandate was dismantled, and withdrawing earlier claims that Generals Khan and Kadwa had 'defeated the ends of justice' after being confronted with contrary documentary evidence and a recorded meeting with Mr Mogotsi.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   117,
+   116
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
  },

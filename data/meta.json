@@ -2,13 +2,26 @@
  "site": "The Madlanga Tracker",
  "commission": "Judicial Commission of Inquiry into Criminality, Political Interference and Corruption in the Criminal Justice System",
  "chair": "Retired Justice Mbuyiseli Madlanga",
- "phase": "Phase 1 - scaffold. Sample data only: the ten most recent sitting days.",
- "last_updated": "2026/09/03 21:46 SAST",
- "latest_day": 164,
- "latest_day_date": "2026/08/21",
+ "phase": "Phase 2 - back-fill in progress. Processing every sitting day from the commission's own transcripts, oldest gaps first; see the Methodology page for exactly what's left.",
+ "last_updated": "2026/09/05 00:27 SAST",
+ "latest_day": 166,
+ "latest_day_date": "2026/08/25",
  "latest_day_verified": true,
- "days_in_data": 114,
- "days_outstanding": 50,
+ "days_in_data": 123,
+ "days_outstanding": 32,
+ "confirmed_gap_days": [
+  16,
+  56,
+  85,
+  90,
+  91,
+  104,
+  124,
+  125,
+  130,
+  131,
+  143
+ ],
  "status_labels": [
   "Testified",
   "Implicated (denied)",
@@ -69,12 +82,12 @@
   "denied"
  ],
  "counts": {
-  "days": 114,
-  "people": 278,
+  "days": 123,
+  "people": 295,
   "orgs": 103,
   "events": 144,
-  "edges": 179,
-  "gaps": 578
+  "edges": 182,
+  "gaps": 627
  },
  "method_note": "TIER 1 REACHED 2026/08/22. The commission's own hearings index is a JavaScript-rendered application and returns an empty shell to a plain fetch; it was read through a rendered browser session instead. It publishes, per sitting day, the witness, the evidence leader, downloadable audio and a full transcript, at /hearings/YYYY/MM/DD. That confirmed the date and number of Days 155–163, supplied evidence-leader names for all nine, and corrected two things this scaffold had wrong: Day 160 was recorded as inferred and is now confirmed, and Day 164 was recorded as confirmed but is absent from the commission's index, so its number is now marked unverified. Two Tier 1 / Tier 2 conflicts are recorded rather than resolved — the Day 159 witness, and the existence of a Day 164. No transcript has been read yet, so every day summary here remains Tier 2/3 REPORTING. SABC+ and YouTube video titles proved the most reliable day-number-to-date binding, because many carry both in one verbatim string. That verified Days 155, 156, 157, 158, 159, 161, 162, 163 and 164. SABC News runs a 'LIVE: Madlanga Commission of Inquiry Day NNN' page per sitting day; page titles confirmed the existence of days 158 and 160-164, but the page bodies returned only a cookie/privacy notice, so they are title-only evidence. Substantive daily content came from The Citizen, Sowetan, TimesLIVE/Sunday Times, EWN, Business Day, Cape Times, IOL, SABC News articles and Daily Maverick; none of the fetched articles was paywalled. A schedule notice independently explained the 7-10 August gap (no sitting on Friday 7 August; 10 August a public holiday; resumption 09:30 on 11 August), which corroborates the Day 155 to Day 156 jump and means no sitting days are missing from this run of ten. An unofficial aggregator was used only as corroboration and never as sole authority; its weekday column is systematically wrong, so all weekdays were computed from the dates. Confidence: high on the ten dates and on nine of ten day numbers; high on witness identity for every day; moderate on evidence-leader names; low on exhibit references. WebFetch returns model-summarised page content, so short quotes carry a small transcription risk. 15 searches and 22 fetches were performed."
 }

@@ -14,10 +14,12 @@
 <main class="wrap" id="main">
 <p class="stamp" id="stamp">Loading…</p>
 
-<div class="notice" id="phase-notice"><strong>Phase 1 — scaffold.</strong>
-This site currently holds only the ten most recent sitting days as a working sample.
-Days 1 to <span id="pn-first">…</span> are not yet back-filled. Nothing here is invented: every
-claim carries a source and a tier, and everything that could not be verified is listed on the
+<div class="notice" id="phase-notice"><strong>Back-fill in progress.</strong>
+This data layer holds <span id="pn-have">…</span> of the commission's <span id="pn-total">…</span>
+sitting days so far. <span id="pn-outstanding">…</span> are still being processed from the
+commission's own transcripts (a handful of day numbers have no transcript at all and are logged as
+confirmed gaps, not outstanding work). Nothing here is invented: every claim carries a source and a
+tier, and everything that could not be verified is listed on the
 <a href="methodology.html">Methodology</a> page.</div>
 <div id="brief"></div>
 </main>
@@ -28,7 +30,9 @@ MT.chrome();
 
 (async () => {
   const [meta, idx] = await Promise.all([MT.data('meta'), MT.briefing('index.json')]);
-  document.getElementById('pn-first').textContent = (meta.latest_day - meta.days_in_data);
+  document.getElementById('pn-have').textContent = meta.days_in_data;
+  document.getElementById('pn-total').textContent = meta.latest_day;
+  document.getElementById('pn-outstanding').textContent = meta.days_outstanding;
   document.getElementById('stamp').textContent =
     'Last updated ' + meta.last_updated + ' · most recent sitting ' + meta.latest_day_date +
     (meta.latest_day_verified ? ', Day ' + meta.latest_day : ', reported as Day ' + meta.latest_day +

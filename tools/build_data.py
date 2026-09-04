@@ -47,6 +47,11 @@ WORKSTREAMS = [
 
 EDGE_STRENGTHS = ["testified", "documented", "alleged", "denied"]
 
+# Sitting days confirmed to have no transcript at all (checked against the commission's own
+# hearing_media index — see tools/BACKLOG.md). These are not "outstanding": there is nothing to
+# back-fill. Day 14 is treated as unresolved rather than a confirmed gap — see BACKLOG.md.
+CONFIRMED_GAP_DAYS = {16, 56, 85, 90, 91, 104, 124, 125, 130, 131, 143}
+
 
 def slug(s):
     s = unicodedata.normalize("NFKD", s or "").encode("ascii", "ignore").decode()
@@ -297,14 +302,17 @@ def main():
         "commission": "Judicial Commission of Inquiry into Criminality, Political Interference and "
                       "Corruption in the Criminal Justice System",
         "chair": "Retired Justice Mbuyiseli Madlanga",
-        "phase": "Phase 1 - scaffold. Sample data only: the ten most recent sitting days.",
+        "phase": "Phase 2 - back-fill in progress. Processing every sitting day from the commission's "
+                 "own transcripts, oldest gaps first; see the Methodology page for exactly what's left.",
         "last_updated": now.strftime("%Y/%m/%d %H:%M") + " SAST",
         "latest_day": days_raw.get("latest_day_number"),
         "latest_day_date": days_raw.get("latest_day_date"),
         "latest_day_verified": next((d["day_number_verified"] for d in days
                                      if d["day_number"] == days_raw.get("latest_day_number")), False),
         "days_in_data": len(days),
-        "days_outstanding": (days_raw.get("latest_day_number") or 0) - len(days),
+        "days_outstanding": max(0, (days_raw.get("latest_day_number") or 0) - len(days)
+                                - len([n for n in CONFIRMED_GAP_DAYS if n <= (days_raw.get("latest_day_number") or 0)])),
+        "confirmed_gap_days": sorted(CONFIRMED_GAP_DAYS),
         "status_labels": STATUS_LABELS,
         "tiers": {str(k): v for k, v in TIERS.items()},
         "workstreams": WORKSTREAMS,

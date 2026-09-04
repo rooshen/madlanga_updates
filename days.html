@@ -57,8 +57,8 @@ function render() {
 (async () => {
   [META, DAYS] = await MT.all('meta', 'days');
   document.getElementById('intro').innerHTML =
-    'Day ' + META.latest_day + ' sat on ' + META.latest_day_date + '. This scaffold holds <strong>' +
-    META.days_in_data + '</strong> of them — the most recent ten. <strong>' + META.days_outstanding +
+    'Day ' + META.latest_day + ' sat on ' + META.latest_day_date + '. This data layer holds <strong>' +
+    META.days_in_data + '</strong> of the commission\'s sitting days so far. <strong>' + META.days_outstanding +
     '</strong> earlier sitting days are not yet back-filled.';
   document.getElementById('ws-filter').innerHTML =
     '<span class="small muted">Workstream:</span>' + META.workstreams.map(w =>

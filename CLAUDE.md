@@ -118,16 +118,16 @@ pick up the next unprocessed batch, and keep going.
 ## Where things stand (update this section every session — check `tools/BACKLOG.md` too, it's the
 more detailed/authoritative day-by-day log)
 
-As of 2026/08/31: Days 1–15 (pilot), 17–89 are extracted, verified, merged, built and delivered
-to the user's Mac — i.e. the entire 1–90 range is done except Day 14 (blocked, see below) and the
-confirmed gaps. **Days 92–166 (69 days) are blocked**: their PDFs are already downloaded to the
-user's Mac (`~/Downloads/mad-day-0NN.pdf`) but `mcp__remote-devices__device_stage_files` keeps
-returning `untrusted_device` — re-confirmed again on 2026/08/31 with a single-file retry, per the
-standing "retry once per session, don't loop" rule. **This needs the user to re-authenticate the
-Claude desktop app on that Mac** before staging (and therefore any further extraction) can
-proceed — ask once per session if it's still blocked, don't hammer it. Day 14 is blocked by the
-same issue. Known genuinely-missing transcript days (no transcript media exists): 16, 56, 85, 90,
-91, 104, 124, 125, 130, 131, 143 — don't keep trying these, they're recorded gaps. Nothing has
+As of 2026/09/04: `device_stage_files` is unblocked (the user re-authenticated the desktop app).
+Days 1–15 (pilot), 17–118 (minus confirmed gaps), and 158–166 are extracted, verified, merged,
+built and delivered to the user's Mac. Two site features shipped this session: an Entities tab
+(`entities.html`, derived entirely from existing `data/orgs.json`/`edges.json`, no schema change)
+and redesigned map-node popups (`map.html`'s `onNode` handler — summary, linked people, profile
+link, focus button). The stale "Phase 1 scaffold" banner/metadata was also fixed — `meta.json` now
+correctly reflects Phase 2 back-fill progress with a live `days_outstanding`/`confirmed_gap_days`.
+**Days 119–157 (minus gaps 124/125/130/131/143) are the only remaining unprocessed range** — 32
+days. Day 14 remains unresolved: `mad-day-014.pdf` on the user's Mac is actually a witness-statement
+exhibit, not the Day 14 hearing transcript — don't extract it under that day number. Nothing has
 been pushed to GitHub yet — all commits are local to the sandbox and mirrored to the user's Mac
 clone; there's a growing stack of local commits the user needs to `git push` themselves.
 

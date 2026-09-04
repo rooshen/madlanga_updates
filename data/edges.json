@@ -3227,5 +3227,59 @@
    }
   ],
   "best_tier": 1
+ },
+ {
+  "id": "edge-260",
+  "from": "samuel-mashaba",
+  "to": "tumelo-nku",
+  "type": "sustained WhatsApp contact since 2019 including paid 'side hustle' recovery work for SAPS members",
+  "strength": "testified",
+  "date": "2026/06/11",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-261",
+  "from": "witness-i",
+  "to": "vusimuzi-cat-matlala",
+  "type": "lived at a Matlala family property for two years; denied being 'Matlala's guy' despite WhatsApp evidence of payment for information",
+  "strength": "testified",
+  "date": "2026/06/10",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-262",
+  "from": "witness-i",
+  "to": "brown-mogotsi",
+  "type": "recorded meeting concerning General Khan's disciplinary hearing",
+  "strength": "testified",
+  "date": "2026/06/10",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
  }
 ]
