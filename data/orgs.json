@@ -773,6 +773,22 @@
   "best_tier": 1
  },
  {
+  "id": "invasys",
+  "name": "Invasys",
+  "type": "Technology supplier",
+  "description": "Supplier of IMSI-catcher ('grabber') surveillance technology at the centre of an alleged scheme (Day 161 evidence) in which Sergeant Fannie Nkosi signed a letter falsely representing a demonstration was for SAPS, when the actual buyer was to be the Kingdom of Eswatini; evidence leaders say private possession/use of such technology is unlawful without a judicial interception warrant.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "idac",
   "name": "Investigating Directorate Against Corruption (IDAC)",
   "type": "NPA",
@@ -855,6 +871,22 @@
   "name": "Judicial Commission of Inquiry into Criminality, Political Interference and Corruption in the Criminal Justice System (the Madlanga Commission)",
   "type": "Judicial commission of inquiry",
   "description": "The commission itself, chaired by retired Justice Mbuyiseli Madlanga, whose Days 43-51 sittings are the subject of this synthesis.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "kamprock-pty-ltd",
+  "name": "Kamprock (Pty) Ltd",
+  "type": "Tender beneficiary",
+  "description": "Company whose director, Nokuthula Nxumalo, allegedly forwarded Jothan Msibi its bid documents for an Ekurhuleni Project Management Unit tender and asked whether the tender was 'spoken for'; Kamprock was awarded the contract in November 2023. Nxumalo denied authorship of the 'spoken for' message in a written response to the Commission.",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
@@ -1286,6 +1318,22 @@
   "best_tier": 1
  },
  {
+  "id": "ramalepe-security-services",
+  "name": "Ramalepe Security Services",
+  "type": "TMPD-contracted security provider",
+  "description": "Another TMPD security contractor into which Major Lebogang Phiri admitted lending roughly R1.3 million, undocumented and partly paid directly into the company's own bank account, to individuals employed by or associated with it -- put to him on Day 96 as an undisclosed financial entanglement with a service provider he oversaw.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "richards-bay-minerals-rbm",
   "name": "Richards Bay Minerals (RBM)",
   "type": "Private company",
@@ -1589,6 +1637,22 @@
     "tier": 1,
     "publisher": "The Presidency (South Africa)",
     "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "themi-style",
+  "name": "Themi Style",
+  "type": "Front company",
+  "description": "Company through which Jothan Msibi, Steven Motsumi and Katiso Molefe allegedly operated, presenting itself as a state-linked security/intelligence provider, and which obtained a quotation for IMSI-catcher ('grabber') and jammer equipment from a European supplier following a multi-city European trip (Johannesburg-Frankfurt-Paris-Hamburg-Zurich).",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
     "partial": false
    }
   ],

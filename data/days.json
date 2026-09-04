@@ -1,99 +1,404 @@
 [
  {
-  "id": "day-164",
-  "day_number": 164,
-  "day_number_verified": false,
-  "date": "2026/08/21",
-  "weekday": "Friday",
-  "workstream": "idac-npa",
+  "id": "day-166",
+  "day_number": 166,
+  "day_number_verified": true,
+  "date": "2026/08/25",
+  "weekday": "Tuesday",
+  "workstream": "matlala-saps-contract",
   "witnesses": [
    {
-    "person_id": "fadiel-adams",
-    "name": "Fadiel Adams",
-    "role_as_described": "Leader of the National Coloured Congress (NCC) and Member of Parliament; described in several reports as suspended",
+    "person_id": "vusimuzi-cat-matlala",
+    "name": "Vusimuzi Cat Matlala",
+    "role_as_described": "Implicated person continuing cross-examination on his relationships with Hangwani Morgan Maumela, Suleiman Carrim, Jotham Msibi and Mr Motsumi, and on the SAPS Medicare24 Tshwane health-risk-management contract",
     "note": "testified"
    }
   ],
-  "summary": "Adams continued and corrected parts of his evidence before the commission in Pretoria. He retracted his earlier account of contacting a man he knows as 'Elvis' from Orlando Police Station, saying instead that he met Elvis at a tyre shop and that they arrived at the station together. He gave evidence about a fifth affidavit taken from him by Investigating Directorate Against Corruption (IDAC) investigator Dylan Perumal on the evening of 6 January 2025, saying Perumal came to his home at night and was on a call with then IDAC head Advocate Andrea Johnson. Adams also alleged that his section 27 referral document had been altered, and told the commission he intended to lay criminal complaints against State Advocate Drushantha Ramsamy and complain to the legal profession's regulator rather than have a recording of his IDAC meeting played. Commissioner Sandile Khumalo SC put to him that he appeared to have gone along with a scheme to bolster the cases. Proceedings were reported to continue the following week.",
-  "rulings": [],
+  "summary": "Mr Matlala continued his cross-examination by Advocate Sello SC on his supplementary statement, beginning with a dispute over whether NPA/NDPP correspondence (CJC442) showed he was under investigation over recordings of his December 2024 and May 2025 interrogations; the Chairperson ruled the letter did not establish this and required specificity before any privilege could be claimed. The Commission then examined an SIU Special Tribunal freezing order (Annexure A) that listed companies linked to Matlala, with the Chairperson and Commissioners Baloyi and Khumalo finding it did not show Matlala himself was under investigation. Matlala was pressed at length on a 'revolving fund' arrangement with Hangwani Morgan Maumela for supplying medical consumables to the Gauteng Department of Health via a 'main supplier' (identified as Telox), and on WhatsApp chats with the late Jotham Msibi showing shared payment notifications (naming Agrippa Khoza and referencing Maumela), an aborted aircraft purchase, and a VIP-lounge business proposal, which Commissioners said indicated a closer relationship than the 'mere service provider' account he had first given. In the afternoon, Matlala described a R5 million loan (later acknowledged by debt, not a loan agreement) from businessman Mr Motsumi to his company Medicare24 Tshwane, and a separate unrealised R20 million investment proposal tied to funding the SAPS Medicare24 contract, before evidence leaders moved to a letter of demand for non-performance on that SAPS contract, where Matlala repeatedly declined to answer questions citing his pending criminal trial.",
+  "rulings": [
+   {
+    "description": "The Chairperson ruled that Annexure CJC442 (the DPP/NPA letter) does not show Mr Matlala is under investigation or a suspect in respect of the December 2024/May 2025 recordings, and that Ms Sello could proceed to question him on the recordings; any assertion of privilege must specify the crime and basis, per paragraph 109 of the Constitutional Court's Jafta judgment.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/25",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "The Chairperson and Commissioners Baloyi and Khumalo ruled that the SIU Special Tribunal freezing order (with Annexure A listing Matlala's companies) does not indicate Matlala himself is under investigation, since the order concerns the named respondents' beneficial interests in other people's entities, not those entities being investigated.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/25",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "Commissioner Baloyi ruled that, since Matlala accepted he had never been approached by any investigator and the SIU document he relied on did not establish suspect status, he was required to answer the Regulation 10.6 questions about his relationships with Mr Maumela and Mr Carrim.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/25",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "The Chairperson found that nothing in Matlala's account of the Maumela 'revolving fund' arrangement self-evidently disclosed criminality, and that Matlala could not assert privilege merely by saying an unspecified investigation might exist; he was required to identify a specific offence.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/25",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "On Ms van den Heever's objection concerning Mr Matlala's constitutional/section 35 fair trial rights, the Chairperson ruled that any invocation of such rights must be specific to a particular question and document, not raised as a blanket objection; he pressed Ms van den Heever to substantiate the point immediately rather than deferring to the next day.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/25",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "Commissioner Baloyi ruled that further submissions/legal argument on section 35 rights be deferred so evidence-leading with Mr Matlala could continue before the 4pm adjournment.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/25",
+    "tier_label": "RULING"
+   }
+  ],
   "exhibits": [
    {
+    "ref": "CJC442",
+    "description": "Letter dated 6 March 2026 from the Director of Public Prosecutions to Matlala's attorneys (Hlawu Maluleke Attorneys) responding to a request for recordings of his December 2024 and May 2025 interrogations/arrest."
+   },
+   {
+    "ref": "CJC443",
+    "description": "SIU Special Tribunal order of 29 September 2025 (Justice Victor) in an ex parte application naming 78 respondents including the 'Maumela Syndicate', with Annexure A listing 39 entities including companies linked to Matlala (Black AK Trading Suppliers, Cor Kabeng Trading and Suppliers, Falcon Cat Trading and Suppliers)."
+   },
+   {
+    "ref": "CJC417",
+    "description": "Bundle of downloaded WhatsApp chats between Matlala and Jotham Msibi (File 1A/1B, from page 114), including an Aircraft Purchase Agreement, payment notifications referencing Agrippa Khoza and M Maumela, a 'CAT VIP lounge proposal: OR Tambo' document, an SAD500 customs declaration for a jet, and chats about a wedding security payment."
+   },
+   {
     "ref": null,
-    "description": "A fifth affidavit taken from Adams on the evening of 6 January 2025, bearing an official IDAC stamp, unlike four earlier statements taken that day"
+    "description": "FNB account confirmation letter for Luthagha (or similarly named) Trading Enterprise (Pty) Ltd, page 154 of the chats file, which Matlala said he did not recognise."
+   },
+   {
+    "ref": "CJC448",
+    "description": "Charge sheet in the Medicare matter (File 11, page 90), served on Matlala, referenced to test which specific offences underlie any claim of privilege."
+   },
+   {
+    "ref": "SM10 / SM4 / SM7",
+    "description": "Annexures in File 1.1 relating to Mr Motsumi: an acknowledgement of debt for a separate (non-R5-million) amount tied to a proposed R20 million loan agreement, a letter of response to SAPS about non-performance on the Medicare24 contract, and a notification of a R1 million payment (17 March 2025) from Luxo Africa Brand Investment to Bazwimi Factors."
+   },
+   {
+    "ref": null,
+    "description": "Letter from Medicare24 Tshwane District (Pty) Ltd CEO Mr Van Wyk to Lieutenant General Dr MI Fani (SAPS Divisional Commissioner, Supply Chain Management), File 11 pages 830-834, headed 'Letter of Demand: Non-performance on the contractual obligations' relating to the SAPS Medicare24 health-risk-management contract."
    }
   ],
   "quotes": [
    {
-    "text": "I was wrong in my testimony",
-    "speaker": "Fadiel Adams",
-    "source_url": "https://www.sabcnews.com/sabcnews/adams-retracts-parts-of-his-thursdays-testimony-at-commission/",
+    "text": "The State (including the investigating team) do not have a transcript",
+    "speaker": "DPP letter, read by Adv Sello SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/25",
+    "tier_label": "REPORTING",
+    "words": 11
+   },
+   {
+    "text": "it cannot be that you can spend the entire 1 million",
+    "speaker": "Vusimuzi Matlala",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/25",
+    "tier_label": "REPORTING",
+    "words": 11
+   },
+   {
+    "text": "This one is the account Morgan sent to deposit money to",
+    "speaker": "Jotham Msibi (quoted from chat by Adv Sello SC)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/25",
+    "tier_label": "REPORTING",
+    "words": 11
+   },
+   {
+    "text": "it is not the first time seeing 3 million or 4 million",
+    "speaker": "Vusimuzi Matlala",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/25",
+    "tier_label": "REPORTING",
+    "words": 12
+   },
+   {
+    "text": "I got arrested",
+    "speaker": "Vusimuzi Matlala",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/25",
+    "tier_label": "REPORTING",
+    "words": 3
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/08/25",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "The precise identity/ownership of the account holders 'Wafra Consulting' and the FNB account associated with a company whose name Advocate Sello read cautiously (transcribed as 'Luthagha'/'Luthagha Trading Enterprise (Pty) Ltd') were not established in the transcript; Matlala said he did not know these entities.",
+   "Who Agrippa (AM) Khoza is, and the underlying purpose of the roughly R3 million in payments to him referencing Maumela, was not established in the transcript.",
+   "The precise interest rate/terms on the R5 million loan from Mr Motsumi's company were not confirmed on the record; Matlala said these would be found in the acknowledgement of debt."
+  ],
+  "reporting_context": [
+   {
+    "claim": "The Madlanga Commission rejected Cat Matlala's claim that his relationship with the late Jotham Msibi was limited to a business/service-provider relationship, after WhatsApp exchanges put to him suggested a closer financial relationship.",
+    "url": "https://www.ewn.co.za/2026/08/26/madlanga-commission-rejects-matlala-s-claim-that-he-only-had-business-links-to-msibi",
+    "publisher": "EWN",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": false
+   },
+   {
+    "claim": "Matlala denied close links to Jotham Msibi and Mr Motsumi, figures reportedly associated with an alleged 'Big Five' cartel, during his testimony at the Commission.",
+    "url": "https://mg.co.za/news/south-africa/2026-08-25-matlala-denies-links-to-alleged-big-five-cartel-leaders-msibi-and-motsumi/",
+    "publisher": "Mail & Guardian",
+    "tier": 3,
+    "retrieved": "2026/09/03",
+    "partial": false
+   },
+   {
+    "claim": "WhatsApp exchanges shown at the Commission were reported to reveal financial links between Matlala, Hangwani Morgan Maumela and Jotham Msibi, including shared payment notifications.",
+    "url": "https://www.timeslive.co.za/news/south-africa/2026-08-26-whatsapp-exchanges-reveal-matlala-maumela-msibi-financial-links/",
+    "publisher": "TimesLIVE",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-165",
+  "day_number": 165,
+  "day_number_verified": true,
+  "date": "2026/08/24",
+  "weekday": "Monday",
+  "workstream": "matlala-saps-contract",
+  "witnesses": [
+   {
+    "person_id": "mr-matlala",
+    "name": "Mr Matlala",
+    "role_as_described": "Continuing witness under subpoena, giving supplementary testimony and undergoing questioning on his relationships with senior police officials and others; separately an accused/suspect in the Medicare tender criminal trial and in a separate Pretoria criminal matter",
+    "note": "testified"
+   }
+  ],
+  "summary": "The sitting day opened with an extended procedural dispute over Mr Matlala's legal team's request to postpone argument of his constitutional-rights application (seeking broad immunity from questioning on self-incrimination grounds) until the next day; the Chairperson refused the postponement and, after Matlala's team briefly threatened to withdraw from the brief, ruled the Commission would proceed. Matlala's team then elected to continue representing him, with Matlala reserving his right to claim privilege question-by-question rather than pursuing blanket immunity. The remainder of the day was taken up with Matlala reading supplementary responses into the record concerning his relationships with numerous individuals listed in the Commission's Regulation 10.6 notice, and extensive questioning - much of it focused on his previously undisclosed relationship with Lieutenant General Shadrack Sibiya and the disappearance of Mr Jerry Boshoga - during which Matlala repeatedly invoked self-incrimination and referenced an ongoing, unspecified state investigation and a section 204 affidavit he argued remained privileged. The hearing adjourned at 17:58 to resume the next morning.",
+  "rulings": [
+   {
+    "description": "Refused Mr Matlala's legal team's application to postpone argument of his constitutional-rights/self-incrimination application until the following day; directed that the application be argued at 12 midday that day.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/24",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "Formal ruling that, having considered the submissions, the Commission would go ahead and hear Mr Matlala's application rather than granting a further postponement.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/24",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "Ruled that a document Mr Matlala produced that morning (said to show he is a suspect in a matter involving Mr Hangwani Morgan Maumela) was not shown to be privileged and should be shared with the Evidence Leaders that same afternoon.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/24",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "Held that Mr Matlala could not refuse to answer a question about a civil application he brought for the return of seized personal property on the basis that answering would disclose his defence strategy in a separate criminal matter, finding no cogent link and no accepted legal basis for that objection.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/24",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": null,
+    "description": "Document produced by Mr Matlala on the morning of the sitting, said by him to show he is a suspect (money laundering) in a matter involving Mr Hangwani Morgan Maumela; ordered to be shared with the Evidence Leaders that afternoon."
+   },
+   {
+    "ref": "VMSA1",
+    "description": "Statement deposed to by Nthabiseng Cordelia Kabeng, annexed to Matlala's supplementary affidavit, addressing the fitting and use of blue lights on EMPD-linked vehicles; cited by Matlala as the basis for declining to answer further EMPD-related questions."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "That is the decision.",
+    "speaker": "Chairperson (Justice Madlanga)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/24",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "I am really under investigation.",
+    "speaker": "Mr Matlala",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/24",
+    "tier_label": "REPORTING",
+    "words": 5
+   },
+   {
+    "text": "I am not an accused. I am not an accused.",
+    "speaker": "Mr Matlala",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/24",
+    "tier_label": "REPORTING",
+    "words": 10
+   },
+   {
+    "text": "It is deeply problematic what just happened now",
+    "speaker": "Adv Baloyi SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/24",
+    "tier_label": "REPORTING",
+    "words": 8
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/08/24",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Mr Matlala's full first name is not stated in this transcript excerpt; he is referred to throughout only as 'Mr Matlala'.",
+   "The exact case number for the Pretoria matter (conspiracy to murder, attempted murder, unlawful possession of firearm/ammunition, money laundering) was not read into the record.",
+   "Whether the WhatsApp/text message from the area Correctional Services Commissioner, read into the record by Hassim SC disputing the defence team's account of consultation difficulties, was formally admitted as an exhibit."
+  ],
+  "reporting_context": [
+   {
+    "claim": "Reported that questions mounted over Matlala's reluctance to discuss the nature of his relationship with Lieutenant General Shadrack Sibiya during his Madlanga Commission testimony.",
+    "url": "https://www.dailymaverick.co.za/article/2026-08-24-questions-mount-over-matlala-s-reluctance-to-discuss-relationship-with-sibiya/",
+    "publisher": "Daily Maverick",
+    "tier": 3,
+    "retrieved": "2026/09/03",
+    "partial": true
+   },
+   {
+    "claim": "Reported that a legal standoff over Matlala's postponement application overshadowed the start of fresh questioning at the Madlanga Commission.",
+    "url": "https://iol.co.za/news/politics/2026-08-25-matlala-legal-standoff-overshadows-fresh-questions-at-madlanga-commission/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-164",
+  "day_number": 164,
+  "day_number_verified": true,
+  "date": "2026/08/21",
+  "weekday": "Friday",
+  "workstream": "political-interference",
+  "witnesses": [
+   {
+    "person_id": "fadiel-adams-mp",
+    "name": "Fadiel Adams MP",
+    "role_as_described": "Continuing witness; MP who laid criminal cases relating to his section 27 referral, dockets moved to General Jacobs, and his trip to Orlando Police Station",
+    "note": "testified"
+   },
+   {
+    "person_id": "lieutenant-colonel-deenadayalan-deena-govender",
+    "name": "Lieutenant Colonel Deenadayalan (Deena) Govender",
+    "role_as_described": "Acting Unit Commander, DPCI Serious Organized Crime Unit Durban, and Head of the DPCI Provincial Tracking Team (PKTT) in KwaZulu-Natal",
+    "note": "testified"
+   }
+  ],
+  "summary": "The sitting opened with Fadiel Adams MP correcting two points of his prior testimony -- how he travelled to Orlando Police Station and the basis for his view that his case dockets had been sabotaged -- before evidence leader Adv Segeels-Ncube took him through his section 27 affidavit and the discrepancy over whether it mentioned the PKTT and a forklift; Adams was excused around midday. In the afternoon Lieutenant Colonel Deenadayalan Govender, head of the KZN PKTT, was sworn in and began testifying that in mid-to-late August 2026 he was repeatedly approached by an intermediary known as Mavuso, who arranged calls in which a man Govender identified by voice as Police Minister Senzo Mchunu urged him to tell the Commission he was acting on instructions from Lieutenant General Nhlanhla Mkhwanazi in relation to police shootings. Excerpts of audio recordings and transcripts (marked DG1-DG3, with further items DG4-DG6) of these calls and a related meeting were played, and the Commission made a procedural ruling setting a timeline for Govender's pending in-camera application covering separate, more sensitive evidence (including regarding a Mr Clive Naicker) to be resumed on 31 August 2026.",
+  "rulings": [
+   {
+    "description": "Timetable ruling (as amended in session, merging paragraphs 2 and 5.1) governing Lt-Col Govender's in-camera application: Evidence Leaders to publish the fact of the original in-camera application on 21 August 2026; any opposing media to give notice by 25 August 2026 14h00; Govender to file a supplemented in-camera application and confidential affidavit by 25 August 2026 14h00; opposing answering affidavits by 26 August 2026 14h00; Govender's reply by 27 August 2026 09h00; argument (if needed) on or after 27 August 2026 16h30; consolidated non-confidential witness statement due 28 August 2026 09h00; Govender's evidence to continue 31 August 2026 09h30.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/21",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": "File 2, pp.512-516",
+    "description": "Adams' section 27 affidavit annexure bearing a misspelled surname and Commissioner of Oaths Felicia Solomons' details, disputed by Adams as omitting mention of the PKTT/forklift"
+   },
+   {
+    "ref": "File 9B, p.4004",
+    "description": "11 November 2024 letter from the Minister of Police's Office to Adams referring his case dockets to IDAC"
+   },
+   {
+    "ref": "File 9B, p.3920",
+    "description": "Letter from Major General Feroz Khan's attorneys naming 'Witness G' as the facilitator for hospital visit requests to General Khan"
+   },
+   {
+    "ref": "p.3527/3531",
+    "description": "IDAC section 28(6) summons to the Acting National Commissioner (May 2026) seeking particulars of the PKTT members who travelled to arrest Fadiel Adams MP"
+   },
+   {
+    "ref": "DG1",
+    "description": "Independent transcription of a 16 August 2026 phone call to Govender pressuring him to implicate Lt Gen Mkhwanazi"
+   },
+   {
+    "ref": "DG2",
+    "description": "Independent transcription/audio of a 18-19 August 2026 phone call in the same vein, played in part during the hearing"
+   },
+   {
+    "ref": "DG3",
+    "description": "Independent transcription of a 20 August 2026 call referencing Mkhwanazi's contract being terminated"
+   },
+   {
+    "ref": "DG4-DG6",
+    "description": "Additional annexures to Govender's supplementary statement, including audio recordings and video surveillance footage obtained from the Coastlands Hotel, Musgrave"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "I am starting to feel like a madman with what these people are saying",
+    "speaker": "Fadiel Adams MP",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/21",
+    "tier_label": "REPORTING",
+    "words": 14
+   },
+   {
+    "text": "this is a very nice country, we must not let anyone ruin this country",
+    "speaker": "Lt-Col Govender, recounting Minister Senzo Mchunu",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/21",
+    "tier_label": "REPORTING",
+    "words": 14
+   },
+   {
+    "text": "I am respectful towards the Minister",
+    "speaker": "Lt-Col Govender",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/21",
     "tier_label": "REPORTING",
     "words": 6
    },
    {
-    "text": "Someone has altered this thing. I don't know why; I don't know how.",
-    "speaker": "Fadiel Adams",
-    "source_url": "https://www.ewn.co.za/2026/08/21/madlanga-commission-fadiel-adams-changes-tune-in-his-testimony",
+    "text": "No, it is so unfair what they are doing to me",
+    "speaker": "Speaker 2 (identified as Govender) in recorded call",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/21",
     "tier_label": "REPORTING",
-    "words": 13
+    "words": 11
+   },
+   {
+    "text": "The whole world is watching what Mr Len John did",
+    "speaker": "Lt-Col Govender",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/21",
+    "tier_label": "REPORTING",
+    "words": 10
    }
   ],
-  "video_url": "https://www.youtube.com/watch?v=m9VKV_okboQ",
+  "video_url": null,
   "sources": [
    {
-    "url": "https://www.sabcnews.com/sabcnews/adams-retracts-parts-of-his-thursdays-testimony-at-commission/",
-    "tier": 2,
-    "publisher": "SABC News",
-    "retrieved": "2026/08/22",
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/08/21",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
     "partial": false
-   },
-   {
-    "url": "https://www.ewn.co.za/2026/08/21/madlanga-commission-fadiel-adams-changes-tune-in-his-testimony",
-    "tier": 2,
-    "publisher": "EWN",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.dailymaverick.co.za/article/2026-08-21-fadiel-adams-explosive-admission-on-the-mystery-idac-affidavit-implicating-andrea-johnson/",
-    "tier": 3,
-    "publisher": "Daily Maverick",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.sowetan.co.za/news/2026-08-21-watch-live-fadiel-adams-continues-testimony-at-madlanga-commission/",
-    "tier": 2,
-    "publisher": "Sowetan",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.sabcnews.com/sabcnews/live-madlanga-commission-of-inquiry-day-164/",
-    "tier": 2,
-    "publisher": "SABC News",
-    "retrieved": "2026/08/22",
-    "partial": true
-   },
-   {
-    "url": "https://www.youtube.com/watch?v=m9VKV_okboQ",
-    "tier": 2,
-    "publisher": "YouTube - SABC News stream",
-    "retrieved": "2026/08/22",
-    "partial": true
    }
   ],
-  "best_tier": 2,
+  "best_tier": 1,
   "partial_source": false,
   "unverified": [
-   "The commission's own hearings index does not list a Day 164. The 21 August sitting is attested by SABC and YouTube material; the number is not Tier 1 confirmed.",
-   "Name of the evidence leader questioning Adams on this specific day. SABC News and The Citizen name Advocate Lee Segeels-Ncube for the Adams stream; one EWN summary instead named Advocate Drushantha Ramsamy, who is elsewhere described as an IDAC prosecutor and a witness, so the EWN attribution is likely a conflation. Not resolved.",
-   "Whether the IDAC audio recording was in fact played on 21 August, or whether Adams's objection prevented it.",
-   "Whether Adams's evidence concluded on this day.",
-   "The SABC News Day 164 live page returned only a cookie/privacy notice to the fetcher - only its title was verifiable.",
-   "TIER 1 / TIER 2 CONFLICT — The commission's own hearings index does NOT list a Day 164. Its most recent August entry is Day 163 on 20 August 2026. SABC News, SABC+ and YouTube all carry 'Day 164' material dated Friday 21 August 2026, and Tier 2/3 reporting describes Adams continuing his evidence that day. A sitting on 21 August is well attested. Whether it is numbered 164 is not confirmed by Tier 1, most likely because the commission's index had not yet been updated when it was read."
+   "Adams' claim that his case dockets were 'sabotaged' rests on his own inference from General Senthumule's Ad Hoc Committee testimony, which he had never discussed with her directly.",
+   "Govender's identification of the caller as Minister Senzo Mchunu is based on his own voice recognition from two prior meetings; the recording itself only captures Govender's side of that call, not the Minister's voice.",
+   "The identity and employer of the second, unnamed man who regularly accompanied 'Mavuso Ntandani' were not established beyond Govender's description of both as political 'fixers'."
   ],
-  "reporting_context": []
+  "reporting_context": [
+   {
+    "claim": "Govender's testimony implicated suspended Police Minister Senzo Mchunu in an alleged campaign, run through an intermediary, to pressure him into falsely implicating KZN police commissioner Lieutenant General Nhlanhla Mkhwanazi over police shootings -- Govender said he felt 'used as a pawn'.",
+    "url": "https://www.dailymaverick.co.za/article/2026-08-23-bombshell-testimony-implicates-mchunu-in-alleged-bid-to-target-mkhwanazi/",
+    "publisher": "Daily Maverick",
+    "tier": 3,
+    "retrieved": "2026/09/03",
+    "partial": true
+   }
+  ]
  },
  {
   "id": "day-163",
@@ -101,82 +406,138 @@
   "day_number_verified": true,
   "date": "2026/08/20",
   "weekday": "Thursday",
-  "workstream": "idac-npa",
+  "workstream": "crime-intelligence",
   "witnesses": [
    {
-    "person_id": "fadiel-adams",
-    "name": "Fadiel Adams",
-    "role_as_described": "NCC leader and Member of Parliament",
+    "person_id": "fadiel-adams-mp",
+    "name": "Fadiel Adams MP",
+    "role_as_described": "Member of Parliament (National Coloured Congress), laid criminal charges against SAPS/Crime Intelligence officials and against IDAC, continuing testimony from the previous day",
     "note": "testified"
    }
   ],
-  "summary": "Adams completed a second day of evidence on the section 27 affidavit that IDAC used in its investigation of Crime Intelligence officials. Evidence leader Advocate Lee Segeels-Ncube pressed him on his reliance on the late General Andre Lincoln, who died in May 2025, as the source of his allegations, and on the timeline of when he opened criminal cases in Cape Town and Johannesburg in October 2024. Adams said he had written to then Police Minister Senzo Mchunu within a day of opening the cases. Justice Madlanga questioned how Lincoln, described as being in Cape Town and incapacitated, could have intercepted dockets. The sitting was adjourned to allow Adams to listen to recordings of his interactions with IDAC before questioning resumed.",
+  "summary": "The Commission continued the testimony of MP Fadiel Adams, focusing on documents he says he received anonymously (relating to the forklift procurement matter and General Madondo), his reliance on the late General Andre Lincoln as an information source, and the circumstances of him laying criminal charges at Orlando and Langlaagte police stations in Gauteng after first laying charges in Cape Town. Evidence leaders and Commissioners pressed Adams on inconsistencies, including his 1 November 2024 email to the Minister of Police alleging Gauteng dockets had already been intercepted (which he conceded was poorly worded and not strictly accurate), his non-disclosure of General Lincoln and of a Portfolio Committee approach to earlier bodies (Ad Hoc Committee, IGI, IDAC), and his admitted 'brush off' of SAPS Inspectorate investigator Colonel Phillips despite a same-day WhatsApp record showing Phillips explained the purpose of his call. The Commission also addressed logistics around a 2.5-hour recording of Adams' 6 January 2025 IDAC consultation, which Adams was given time to listen to during breaks so he could identify clips to play in evidence; a separate matter concerning subpoenaed JMPD officer Mr Johannes Mogatle was postponed to a date to be determined, with a directive that his statement be filed by the next day.",
   "rulings": [
    {
-    "description": "The commission adjourned proceedings to allow Adams to listen to audio recordings of his meeting with IDAC officials before questioning continued.",
-    "source_url": "https://www.sabcnews.com/sabcnews/madlanga-commission-adjourns-for-adams-to-listen-to-idac-recordings/",
+    "description": "JMPD officer Mr Johannes Mogatle's testimony postponed to a date to be determined; directed to file his statement by the following day.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/20",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "Arrangement confirmed for Mr Adams to listen to the full 2.5-hour recording of his 6 January 2025 IDAC consultation during tea and lunch adjournments, with agreed clips to be played in evidence; extracts must relate only to matters before the Commission.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/20",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "Chairperson accepted evidence leader's proposal that any portion of the recording not finished by lunch would still be played from where Adams had reached, so cross-examination could continue.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/20",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "Hearing adjourned mid-afternoon and postponed to 21 August 2026 at 9:30, with agreement that Adams' evidence would be completed by tea time the next day and that Adams would hand over details of his criminal case against IDAC officials before the following day's session.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/20",
     "tier_label": "RULING"
    }
   ],
   "exhibits": [
    {
-    "ref": null,
-    "description": "Audio recording, described as roughly two hours, of Adams's January 2025 meeting with IDAC officials"
+    "ref": "Bundle 9, pages 3499-3512",
+    "description": "Documents Adams says he found under his office door relating to the forklift procurement allegations, including an application for procurement of goods, bank confirmation, a confidential information note, and proof of payment."
+   },
+   {
+    "ref": "Bundle 9(B), pages 3897-3899",
+    "description": "Docket front cover, A1 statement, and Commissioner's stamp for one of the Orlando charges, timestamped half past 1."
+   },
+   {
+    "ref": "Bundle 9(B), page 3918 (Witness G statement, paragraph 91)",
+    "description": "Witness statement of 'Witness G' (identified as Mr Brown Mogotsi's associate/handler, a Colonel referred to by Adams as 'Elvis'), describing his account of assisting Adams to open a case at Orlando Police Station."
+   },
+   {
+    "ref": "Bundle 9(B), pages 3976-3978",
+    "description": "Email chain beginning with Adams' 1 November 2024 8:21am email (sent via Ms Sakina Frenchman MP) to the Minister of Police alleging dockets intercepted in both the Western Cape and Gauteng, and the subsequent forwarding chain through Mr Nkabinde, Major General Sebola, National Inspectorate, and Colonel van Rooyen."
+   },
+   {
+    "ref": "Bundle 9(B), page 3852-3854",
+    "description": "Information note from Colonel Phillips/Divisional Commissioner's office assessing whether the elements of a crime were present in the dockets Adams opened, referred to Legal Services."
+   },
+   {
+    "ref": "Bundle 9(B), pages 3856-3857 (WhatsApp/call log with Colonel Phillips)",
+    "description": "Investigation diary/contact log showing Colonel Phillips' attempts to arrange interviews with Adams in early November 2024, which Adams acknowledged he repeatedly avoided."
+   },
+   {
+    "ref": "9B, page 4049 (Ad Hoc Committee transcript)",
+    "description": "Transcript excerpt of Adams' earlier testimony before the Ad Hoc Committee on the Police, put to him regarding whether he brought the confidential documents to the Portfolio Committee before laying charges."
    }
   ],
   "quotes": [
    {
-    "text": "You cannot rely on a dead man every time.",
-    "speaker": "Advocate Lee Segeels-Ncube",
-    "source_url": "https://www.citizen.co.za/news/fadiel-adams-admits-misleading-minister-dead-man-defence-unravels-madlanga-commission/",
+    "text": "I blame both my co-Commissioners. They caused the confusion.",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/20",
     "tier_label": "REPORTING",
     "words": 9
+   },
+   {
+    "text": "You cannot rely on a dead man every time.",
+    "speaker": "Adv Segeels-Ncube",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/20",
+    "tier_label": "REPORTING",
+    "words": 9
+   },
+   {
+    "text": "it stinks of machinations. Do you want to comment?",
+    "speaker": "Adv Baloyi SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/20",
+    "tier_label": "REPORTING",
+    "words": 9
+   },
+   {
+    "text": "There is never enough haste.",
+    "speaker": "Mr Adams MP",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/20",
+    "tier_label": "REPORTING",
+    "words": 5
+   },
+   {
+    "text": "No, you are not being truthful, Mr Adams.",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/20",
+    "tier_label": "REPORTING",
+    "words": 8
+   },
+   {
+    "text": "I will concede that I could have worded it better, Commissioner.",
+    "speaker": "Mr Adams MP",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/20",
+    "tier_label": "REPORTING",
+    "words": 11
    }
   ],
-  "video_url": "https://www.youtube.com/watch?v=RW1p7K5o0qs",
+  "video_url": null,
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/08/20",
     "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official hearings index",
-    "retrieved": "2026/08/22",
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
     "partial": false
-   },
-   {
-    "url": "https://www.citizen.co.za/news/fadiel-adams-admits-misleading-minister-dead-man-defence-unravels-madlanga-commission/",
-    "tier": 2,
-    "publisher": "The Citizen",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.sabcnews.com/sabcnews/madlanga-commission-adjourns-for-adams-to-listen-to-idac-recordings/",
-    "tier": 2,
-    "publisher": "SABC News",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.youtube.com/watch?v=RW1p7K5o0qs",
-    "tier": 2,
-    "publisher": "YouTube - SABC News stream",
-    "retrieved": "2026/08/22",
-    "partial": true
-   },
-   {
-    "url": "https://www.sabcnews.com/sabcnews/live-madlanga-commission-of-inquiry-day-163/",
-    "tier": 2,
-    "publisher": "SABC News",
-    "retrieved": "2026/08/22",
-    "partial": true
    }
   ],
   "best_tier": 1,
   "partial_source": false,
   "unverified": [
-   "Exact date the adjournment direction was given (Thursday 20 August is the strong inference from the SABC report and the Friday resumption, but the SABC article carried no explicit date)."
+   "Adams' claim that '7 to 12 people died on the Cape Flats' the night before his testimony was stated by him as unchecked ('I have not checked the figures').",
+   "Adams' assertion that he suspected he 'might have' spoken to the IGI around the time he was avoiding Colonel Phillips was presented tentatively and not confirmed with documentary evidence in this day's proceedings."
   ],
-  "reporting_context": []
+  "reporting_context": [
+   {
+    "claim": "The Commission paused Adams' testimony to allow him to review recordings of his interactions with IDAC, with evidence leader Adv Segeels-Ncube indicating she planned to conclude her questioning of Adams on Friday; Adams told the Commission he contacted then-Police Minister Senzo Mchunu within 24 hours of filing criminal cases against Crime Intelligence officials, citing information from the late General Andre Lincoln that officials had tried to intercept the dockets.",
+    "url": "https://www.sabcnews.com/sabcnews/madlanga-commission-adjourns-for-adams-to-listen-to-idac-recordings/",
+    "publisher": "SABC News",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": false
+   }
+  ]
  },
  {
   "id": "day-162",
@@ -189,86 +550,86 @@
    {
     "person_id": "fadiel-adams",
     "name": "Fadiel Adams",
-    "role_as_described": "NCC leader and Member of Parliament",
+    "role_as_described": "Member of Parliament; witness recalled to give evidence relevant to the IDAC stream, including the section 27 referral to IDAC and his implication by Lieutenant General Nhlanhla Mkhwanazi",
     "note": "testified"
    }
   ],
-  "summary": "Adams began his substantive evidence after his appearance had been postponed from 11 August. He told the commission he had found an envelope marked 'Top Secret' pushed under his parliamentary office door in late October 2024, containing material about alleged irregular procurement and misuse of secret service funds. He disputed IDAC's account of a 6 January 2025 interview in Cape Town, saying a supplementary affidavit marked A1 attributed to IDAC investigator Dylan Perumal did not match the statements taken from him. He conceded he had been untruthful about only recently learning of earlier correspondence, having blamed a malfunctioning laptop, and he denied acting as a conduit for criminal cartels. Justice Madlanga corrected him for repeatedly addressing the chair as 'Chief'.",
+  "summary": "Fadiel Adams MP, sworn in, resumed testimony in the IDAC stream of the Commission, led by Adv Segeels-Ncube. The Chairperson first confronted Adams with a correspondence bundle showing he had received and responded to a Rule 3 notice in October 2025, contradicting his 11 August 2026 evidence that he only became aware of Commission communication three months earlier; Adams conceded the earlier statement was untruthful and apologised. Adams then took the Commission through large parts of his written statement, covering his background, his role as a Cape Town councillor and MP, his complaints about the Political Killings Task Team (PKTT) budget, his concerns about Crime Intelligence, his account of anonymous documents (including a polygraph document concerning General Madondo and forklift/'heister' procurement records) left under his parliamentary office door in October 2024 that led to his section 27 referral to IDAC, his criticism of IDAC's conduct and members, and the events surrounding his own arrest and pending criminal case linked to the PKTT. Commissioners Baloyi SC and Khumalo SC also questioned him, including on the chronology of dockets he alleges disappeared after he laid complaints, and the day was adjourned for the evening with Adams' testimony to continue the next day.",
   "rulings": [],
   "exhibits": [
    {
-    "ref": "A1",
-    "description": "Supplementary affidavit attributed to IDAC investigator Dylan Perumal, which Adams said did not match statements taken at the 6 January 2025 Cape Town meeting"
+    "ref": "File 9B",
+    "description": "Consolidated IDAC exhibit bundle used with Mr Adams, including his section 27 affidavit and A1 statements relevant to IDAC matters"
+   },
+   {
+    "ref": null,
+    "description": "Correspondence Bundle containing email exchanges between the Commission (Ms Mari Wilsnach) and Mr Adams from October 2025 to April 2026, including the Rule 3 notice and Adams' response"
    }
   ],
   "quotes": [
    {
-    "text": "I gave only one account of the events during my interview.",
-    "speaker": "Fadiel Adams",
-    "source_url": "https://www.dailymaverick.co.za/article/2026-08-19-adams-puts-idac-s-evidence-under-scrutiny-while-affidavit-dispute-deepens/",
+    "text": "It was untruthful.",
+    "speaker": "Chairperson (Justice Madlanga)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/19",
     "tier_label": "REPORTING",
-    "words": 11
+    "words": 3
+   },
+   {
+    "text": "I am happy to concede that.",
+    "speaker": "Fadiel Adams",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/19",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "I will not run from this.",
+    "speaker": "Fadiel Adams",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/19",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "Not 1 million, that is my mistake.",
+    "speaker": "Fadiel Adams",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/19",
+    "tier_label": "REPORTING",
+    "words": 7
    }
   ],
-  "video_url": "https://www.youtube.com/watch?v=SHm91eQixkE",
+  "video_url": null,
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/08/19",
     "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official hearings index",
-    "retrieved": "2026/08/22",
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
     "partial": false
-   },
-   {
-    "url": "https://www.dailymaverick.co.za/article/2026-08-19-adams-puts-idac-s-evidence-under-scrutiny-while-affidavit-dispute-deepens/",
-    "tier": 3,
-    "publisher": "Daily Maverick",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.sowetan.co.za/news/2026-08-19-five-key-things-about-adams-testimony-at-madlanga/",
-    "tier": 2,
-    "publisher": "Sowetan",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.youtube.com/watch?v=SHm91eQixkE",
-    "tier": 2,
-    "publisher": "YouTube - SABC News stream",
-    "retrieved": "2026/08/22",
-    "partial": true
-   },
-   {
-    "url": "https://www.sabcnews.com/sabcnews/live-madlanga-commission-of-inquiry-day-162/",
-    "tier": 2,
-    "publisher": "SABC News",
-    "retrieved": "2026/08/22",
-    "partial": true
-   },
-   {
-    "url": "https://www.timeslive.co.za/politics/2026-08-19-sorry-chief-adams-leaves-madlanga-amused-irritated/",
-    "tier": 2,
-    "publisher": "TimesLIVE",
-    "retrieved": "2026/08/22",
-    "partial": true
-   },
-   {
-    "url": "https://www.businessday.co.za/news/law/2026-08-19-i-was-wrong-fadiel-adams-caught-out-on-dates-at-madlanga-inquiry/",
-    "tier": 2,
-    "publisher": "Business Day",
-    "retrieved": "2026/08/22",
-    "partial": true
    }
   ],
   "best_tier": 1,
   "partial_source": false,
   "unverified": [
-   "Whether 'A1' is a formal commission exhibit reference or a document label used within IDAC's bundle.",
-   "The TimesLIVE, Business Day and SABC Day 162 items were seen only as search-result titles/URLs, not fetched in full."
+   "The specific content and outcome of the criminal case Adams says he laid against IDAC members Dylan Perumal and Brian Padayachee is not detailed in this day's transcript beyond his own description",
+   "The precise source of the information Adams says he received about a possible PKTT warrant against him is stated in his affidavit to be dealt with 'later in the statement' and was not fully covered in this day's proceedings as read"
   ],
-  "reporting_context": []
+  "reporting_context": [
+   {
+    "claim": "Mail & Guardian reported that Adams admitted to the Commission that he had misled it and had in fact received a summons/notice earlier than he previously claimed",
+    "url": "https://mg.co.za/news/south-africa/2026-08-19-adams-admits-he-misled-madlanga-commission-and-had-received-summons/",
+    "publisher": "Mail & Guardian",
+    "tier": 3,
+    "retrieved": "2026/09/03",
+    "partial": true
+   },
+   {
+    "claim": "Daily Maverick reported that Adams put IDAC's evidence under scrutiny during his testimony as a dispute over the origins of an affidavit deepened",
+    "url": "https://www.dailymaverick.co.za/article/2026-08-19-adams-puts-idac-s-evidence-under-scrutiny-while-affidavit-dispute-deepens/",
+    "publisher": "Daily Maverick",
+    "tier": 3,
+    "retrieved": "2026/09/03",
+    "partial": true
+   }
+  ]
  },
  {
   "id": "day-161",
@@ -278,75 +639,144 @@
   "weekday": "Tuesday",
   "workstream": "crime-intelligence",
   "witnesses": [],
-  "summary": "No witness gave oral evidence. Evidence leader Advocate Matthew Chaskalson SC led the commission through communications extracted from devices belonging to the late taxi industry figure Msibi. The material was said to show negotiations to acquire surveillance and signal-jamming equipment, including IMSI-catcher or 'grabber' technology, and an alleged plan to market it to the government of Eswatini. Chaskalson told the commission that three men, including Katiso 'KT' Molefe and businessman Steve Motsumi, allegedly presented themselves as representatives of the South African state in dealings with foreign suppliers. Other material presented was said to touch on tender-rigging and a cannabis project. The commission did not establish whether any transaction was completed.",
+  "summary": "With Mr Matlala's testimony postponed and no substitute witness available, evidence leader Adv Chaskalson SC used the day to present WhatsApp chat extracts from the phone of the late Mr Jothan Msibi and related police witnesses. The evidence traced an alleged scheme in which Sergeant Fannie Nkosi fraudulently signed and stamped a letter on SAPS letterhead to enable a Czech company, Invasys, to demonstrate IMSI-catcher 'grabber' and jamming technology, ostensibly to SAPS but actually with a view to selling it to the Kingdom of Eswatini. Further chat extracts linked Mr Msibi to Carnilinx (recovery of stolen tobacco stock and firearms), to an alleged rigged tender at the City of Ekurhuleni benefiting Kamprock (Pty) Ltd, to a joint venture involving Mr Karim's Ziggy Investments and Transnational Coaches in subsidised bus contracts, and to an unlicensed-looking dagga (cannabis) cultivation operation at Jack Frost Pharmaceuticals in Germiston. Commissioners repeatedly raised concerns about the legality of grabbers and jammers in private hands and about the implications of a SAPS stamp being used to authorise an international transaction.",
   "rulings": [],
   "exhibits": [
    {
-    "ref": null,
-    "description": "WhatsApp messages and other communications extracted from the late Msibi's cellphone"
+    "ref": "Bundle p.129-130",
+    "description": "Draft and later signed/stamped letter from Sergeant Nkosi to the Czech Ministry of Trade and Industry, on SAPS letterhead, authorising an Invasys demonstration of IMSI-catcher grabber technology"
+   },
+   {
+    "ref": "Bundle p.128",
+    "description": "Invasys company webpage material advertising Tellus, Luna and Tungsten mobile interception solutions"
+   },
+   {
+    "ref": "Bundle p.208",
+    "description": "Themi Style (Pty) Ltd company profile describing itself as an intelligence and security services provider, listing Mr Msibi and (on this document) Mr Molefe as directors"
+   },
+   {
+    "ref": "Bundle p.211",
+    "description": "Email from Nokuthula Nxumalo (in German) confirming Mr Msibi and Mr Motsumi's authority to act for Themi Style, attaching a CIPC registration form"
+   },
+   {
+    "ref": "Bundle p.193",
+    "description": "Themi Style quotation for a MultiRAT-BTS grabber unit priced at 780,000 Euros, with an optional second unit and a tactical DDS jammer"
+   },
+   {
+    "ref": "Bundle p.149",
+    "description": "Cover page of the City of Ekurhuleni bid invitation for a Project Management Unit and technical services contract, PS-PT 17-23"
+   },
+   {
+    "ref": "Bundle p.150-163",
+    "description": "Ekurhuleni web page listing of bids awarded in November 2023, reflecting Kamprock (Pty) Ltd as the successful bidder for the PMU contract"
+   },
+   {
+    "ref": "Bundle p.285",
+    "description": "Bid document for subsidised road-based public transport contracts in Gauteng, covering eight routes"
+   },
+   {
+    "ref": "Bundle p.289-294",
+    "description": "Court judgment on Putco's interdict against the Minister of Transport's decision to re-tender subsidised bus routes"
+   },
+   {
+    "ref": "Bundle p.313, 317",
+    "description": "Proof-of-payment documents: a R700,000 payment from Transnational Coach Lines to SANTACO, and a later R1 million payment to Tucofin (Pty) Ltd, a company of which Mr Msibi was a director"
+   },
+   {
+    "ref": "Bundle p.268",
+    "description": "Jack Frost Pharmaceuticals cultivation licence, issued 19 September 2022 under the Medicines and Related Substances Act"
+   },
+   {
+    "ref": "Bundle p.371",
+    "description": "A Mail & Guardian report referred to as possibly identifying a 'Shane Adams'/'Shane Jacobs' linked to a Parliament security tender controversy"
    }
   ],
-  "quotes": [],
-  "video_url": "https://www.youtube.com/watch?v=nkI-Q5OT1TU",
+  "quotes": [
+   {
+    "text": "Yes, we are.",
+    "speaker": "Sergeant Nkosi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/18",
+    "tier_label": "REPORTING",
+    "words": 3
+   },
+   {
+    "text": "So I am signing and then I will put a stamp.",
+    "speaker": "Sergeant Nkosi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/18",
+    "tier_label": "REPORTING",
+    "words": 11
+   },
+   {
+    "text": "that is an out-and-out fraud",
+    "speaker": "Adv Chaskalson SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/18",
+    "tier_label": "REPORTING",
+    "words": 5
+   },
+   {
+    "text": "we do not want to become fools",
+    "speaker": "Mr Msibi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/18",
+    "tier_label": "REPORTING",
+    "words": 7
+   },
+   {
+    "text": "Your soldiers arrived. I owe you, my brother.",
+    "speaker": "Kyle Phillips",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/18",
+    "tier_label": "REPORTING",
+    "words": 8
+   },
+   {
+    "text": "This one is not a panel. Is it spoken for?",
+    "speaker": "Nokuthula Nxumalo (message forwarded by Sergeant Nkosi)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/18",
+    "tier_label": "REPORTING",
+    "words": 10
+   },
+   {
+    "text": "You are the best my boy.",
+    "speaker": "Mr Msibi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/18",
+    "tier_label": "REPORTING",
+    "words": 6
+   }
+  ],
+  "video_url": null,
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/08/18",
     "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official hearings index",
-    "retrieved": "2026/08/22",
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
     "partial": false
-   },
-   {
-    "url": "https://www.sabcnews.com/sabcnews/molefe-msibi-posed-as-state-officials-in-spy-tech-deal-chaskalson/",
-    "tier": 2,
-    "publisher": "SABC News",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.youtube.com/watch?v=nkI-Q5OT1TU",
-    "tier": 2,
-    "publisher": "YouTube - SABC News stream",
-    "retrieved": "2026/08/22",
-    "partial": true
-   },
-   {
-    "url": "https://www.sabcnews.com/sabcnews/live-madlanga-commission-of-inquiry-day-161/",
-    "tier": 2,
-    "publisher": "SABC News",
-    "retrieved": "2026/08/22",
-    "partial": true
-   },
-   {
-    "url": "https://www.businessday.co.za/news/law/2026-08-18-madlanga-inquiry-hears-of-taxi-boss-plot-to-acquire-high-tech-spy-devices/",
-    "tier": 2,
-    "publisher": "Business Day",
-    "retrieved": "2026/08/22",
-    "partial": true
-   },
-   {
-    "url": "https://www.dailymaverick.co.za/article/2026-08-18-tobacco-tender-rigging-and-spy-tech-inside-the-world-of-alleged-big-five-boss/",
-    "tier": 3,
-    "publisher": "Daily Maverick",
-    "retrieved": "2026/08/22",
-    "partial": true
-   },
-   {
-    "url": "https://www.sabcnews.com/sabcnews/madlanga-commission-hears-of-planned-imsi-catcher-demonstration/",
-    "tier": 2,
-    "publisher": "SABC News",
-    "retrieved": "2026/08/22",
-    "partial": true
    }
   ],
   "best_tier": 1,
   "partial_source": false,
   "unverified": [
-   "The deceased taxi figure's first name: an independent archive gives 'Jotham Msibi' while news reports give 'Mswazi Msibi'. Not resolved, so only the surname is used.",
-   "Whether any part of 18 August was also used for Matlala-related procedural matters.",
-   "Several listed sources were seen only as search-result titles/URLs and were not fetched in full."
+   "The suggestion that 'Red Water' refers to mercury-contaminated water used in illegal artisanal gold refining is explicitly flagged by the evidence leader as one unconfirmed possibility among several, not an established fact.",
+   "Any link between the 'she' who received a Euro payment in the Nxumalo-Msibi chats and Ekurhuleni city manager Ms Mashazi is unestablished; Commissioner Khumalo cautioned against assuming the connection.",
+   "Whether the Jack Frost Pharmaceuticals cannabis operation was conducted without a valid permit at the relevant time is not yet confirmed; the evidence leader declined to characterise it as unlawful pending further enquiry."
   ],
-  "reporting_context": []
+  "reporting_context": [
+   {
+    "claim": "Sergeant Fannie Nkosi allegedly used his SAPS authority to sign and stamp a letter fraudulently facilitating Czech firm Invasys's IMSI-catcher demonstration, evidence leader Chaskalson telling the Commission it was 'an outright fraud', with the technology ultimately intended for sale to Eswatini.",
+    "url": "https://www.timeslive.co.za/news/south-africa/2026-08-19-madlanga-inquiry-hears-of-taxi-boss-plot-to-acquire-high-tech-spy-devices/",
+    "publisher": "TimesLIVE",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": false
+   },
+   {
+    "claim": "The Madlanga Commission heard that the late Jothan Msibi allegedly orchestrated recovery of stolen Carnilinx tobacco stock, used Nokuthula Nxumalo to help rig an Ekurhuleni municipal tender, and pursued grabber/spyware technology from Czech firm Invasys for onward sale to Eswatini, together with Steve Motsumi and murder-accused Katiso Molefe.",
+    "url": "https://www.dailymaverick.co.za/article/2026-08-18-tobacco-tender-rigging-and-spy-tech-inside-the-world-of-alleged-big-five-boss/",
+    "publisher": "Daily Maverick",
+    "tier": 3,
+    "retrieved": "2026/09/03",
+    "partial": false
+   }
+  ]
  },
  {
   "id": "day-160",
@@ -357,89 +787,99 @@
   "workstream": "matlala-saps-contract",
   "witnesses": [
    {
-    "person_id": "vusimuzi-cat-matlala",
-    "name": "Vusimuzi 'Cat' Matlala",
-    "role_as_described": "Businessman; an implicated person who faces a separate pending criminal matter in the Specialised Commercial Crimes Court",
+    "person_id": "vusimuzi-matlala",
+    "name": "Vusimuzi Matlala",
+    "role_as_described": "Implicated businessman (director of Medicare24 Tshwane, CAT VIP Protection and Black AK Trading and Suppliers) testifying in response to a Regulation 10.6 notice; currently a remand detainee facing separate pending criminal matters relating to the SAPS Medicare24 tender (Specialised Commercial Crimes Court) and an attempted murder/money laundering case (Johannesburg High Court)",
     "note": "testified"
    }
   ],
-  "summary": "Matlala appeared before the commission after earlier postponements. The start of proceedings was delayed by a fire alarm evacuation. He repeatedly declined to answer questions about the disputed R228-million SAPS health services contract awarded to Medicare24 and about alleged payments to police officials, invoking his right against self-incrimination because of his pending criminal matter. He denied knowing then Police Minister Senzo Mchunu and denied any relationship with Major-General Feroz Khan. He gave evidence about his dealings with Brown Mogotsi, acknowledging requests for money, and alleged that investigators had pressured him while in custody to implicate senior police officials. Justice Madlanga directed that a supplementary affidavit be filed setting out the legal basis for his refusals, with a replying affidavit and heads of argument due by 18:00 on 22 August 2026, and Matlala's evidence was set to resume on 24 and 25 August 2026.",
+  "summary": "On Day 160 the Commission began the scheduled testimony of Vusimuzi 'Cat' Matlala, who was sworn in and had his 10.6 statement read into the record after his counsel, Adv van den Heever SC, raised concerns about voluminous bundles (over 2,000 pages) served only the previous afternoon. Matlala repeatedly invoked the right against self-incrimination on questions touching his pending criminal charges over the Medicare24 SAPS tender, declining to address 13 named SAPS officials he described as co-accused and several other individuals listed in Annexure A of the 10.6 notice, while confirming or denying relationships with a number of others, including a detailed account of alleged extortion by Brown Mogotsi purportedly linked to former Minister Bheki Cele and Minister Senzo Mchunu. The Chairperson repeatedly pressed Matlala and his counsel to distinguish factual answers from assertions of privilege, and at the end of the day set a strict timetable for a supplementary affidavit and an application on points in limine, postponing continuation of Matlala's testimony to 24-25 August 2026.",
   "rulings": [
    {
-    "description": "Directions on filing: Matlala to file a supplementary affidavit by Friday; replying affidavit and heads of argument by 18:00 on 22 August 2026; evidence leaders' heads of argument by the same deadline; evidence to resume the following Monday and Tuesday.",
-    "source_url": "https://www.sabcnews.com/sabcnews/matlalas-supplementary-affidavit-must-be-filed-by-friday-madlanga/",
+    "description": "Supplementary affidavit and application on points in limine to be filed by Mr Matlala by 10:00 on 21 August 2026; Evidence Leaders' answering affidavit by 10:00 on 22 August 2026; Matlala's replying affidavit and heads of argument by 18:00 on 22 August 2026, and Evidence Leaders' heads of argument by 18:00 the same day; continuation of Mr Matlala's testimony postponed to 24 and 25 August 2026, to continue on 26 August 2026 if not finalised, with no slippage on filing dates permitted.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/17",
     "tier_label": "RULING"
    }
   ],
-  "exhibits": [],
-  "quotes": [
+  "exhibits": [
    {
-    "text": "I actually hate him. He caused a lot of problems for me",
-    "speaker": "Vusimuzi 'Cat' Matlala, on Brown Mogotsi",
-    "source_url": "https://www.citizen.co.za/news/matlala-madlanga-witness-i-actually-hate-him/",
-    "tier_label": "REPORTING",
-    "words": 12
+    "ref": null,
+    "description": "Vusimuzi Matlala's sworn statement (affidavit) dated 2 August 2026, filed in response to the Commission's Regulation 10.6 notice, read into the record together with the accompanying 10.6 notice."
    },
    {
-    "text": "It suffices to say, I do not know minister Mchunu",
-    "speaker": "Vusimuzi 'Cat' Matlala",
-    "source_url": "https://www.sundaytimes.timeslive.co.za/news/2026-08-17-i-wont-incriminate-myself-matlala-refuses-to-answer-madlanga-inquiry/",
-    "tier_label": "REPORTING",
-    "words": 10
+    "ref": "VM1",
+    "description": "Annexure VM1 to Matlala's statement, a two-page list of offences he was previously charged with that were later withdrawn."
    }
   ],
-  "video_url": "https://www.youtube.com/watch?v=Py2qiCGsVn4",
+  "quotes": [
+   {
+    "text": "I do not want to incriminate myself in that.",
+    "speaker": "Vusimuzi Matlala",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/17",
+    "tier_label": "REPORTING",
+    "words": 9
+   },
+   {
+    "text": "impersonated to me that he was from the office of the Minister of Police",
+    "speaker": "Vusimuzi Matlala",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/17",
+    "tier_label": "REPORTING",
+    "words": 14
+   },
+   {
+    "text": "Mr Senzo wants to fire General Khumalo and hire General",
+    "speaker": "Vusimuzi Matlala",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/17",
+    "tier_label": "REPORTING",
+    "words": 10
+   },
+   {
+    "text": "I invoke my right to not incriminate myself on this issue.",
+    "speaker": "Adv van den Heever SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/17",
+    "tier_label": "REPORTING",
+    "words": 11
+   },
+   {
+    "text": "Were you induced or threatened to give false information?",
+    "speaker": "Adv Sello SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/17",
+    "tier_label": "REPORTING",
+    "words": 9
+   },
+   {
+    "text": "You are answering questions on behalf of a witness, and that is improper.",
+    "speaker": "Adv Baloyi SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/17",
+    "tier_label": "REPORTING",
+    "words": 13
+   }
+  ],
+  "video_url": null,
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/08/17",
     "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official hearings index",
-    "retrieved": "2026/08/22",
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
     "partial": false
-   },
-   {
-    "url": "https://www.sundaytimes.timeslive.co.za/news/2026-08-17-i-wont-incriminate-myself-matlala-refuses-to-answer-madlanga-inquiry/",
-    "tier": 2,
-    "publisher": "Sunday Times / TimesLIVE",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.citizen.co.za/news/matlala-madlanga-witness-i-actually-hate-him/",
-    "tier": 2,
-    "publisher": "The Citizen",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://capetimes.co.za/news/politics/2026-08-18-matlalas-testimony-hit-by-fire-alarm-legal-standoff-and-denials-madlanga-commission-wrap/",
-    "tier": 2,
-    "publisher": "Cape Times",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.sabcnews.com/sabcnews/matlalas-supplementary-affidavit-must-be-filed-by-friday-madlanga/",
-    "tier": 2,
-    "publisher": "SABC News",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.youtube.com/watch?v=Py2qiCGsVn4",
-    "tier": 2,
-    "publisher": "YouTube - SABC News stream",
-    "retrieved": "2026/08/22",
-    "partial": true
    }
   ],
   "best_tier": 1,
   "partial_source": false,
   "unverified": [
-   "The day number 160 is INFERRED, not verified. No source retrieved pairs 'Day 160' with '17 August 2026' in one string. The inference rests on Day 159 being verified as 14 August, Day 161 as 18 August, and 17 August being the only sitting between them. The SABC News Day 160 live page could not be fetched.",
-   "Whether the 18:00 22 August 2026 filing deadline was met."
+   "The exact dates of some events recounted by Matlala from memory (e.g. the precise 2024 date of the R5 million loan from Steven Motsumi, and the year CAT VIP Protection was registered in his name) were given tentatively ('off the top of my head') and were not independently confirmed in this day's proceedings."
   ],
-  "reporting_context": []
+  "reporting_context": [
+   {
+    "claim": "TimesLIVE reported on Matlala's appearance before the Madlanga Commission on 17 August 2026, covering his repeated invocation of the right against self-incrimination in response to questioning.",
+    "url": "https://www.timeslive.co.za/news/2026-08-17-i-wont-incriminate-myself-matlala-refuses-to-answer-madlanga-inquiry/",
+    "publisher": "TimesLIVE",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": true
+   }
+  ]
  },
  {
   "id": "day-159",
@@ -450,98 +890,137 @@
   "workstream": "idac-npa",
   "witnesses": [
    {
-    "person_id": "drushantha-ramsamy",
-    "name": "Drushantha Ramsamy",
-    "role_as_described": "IDAC prosecutor",
+    "person_id": "suliman-carrim",
+    "name": "Suliman Carrim",
+    "role_as_described": "Witness required by the Commission's 29 July ruling to appear and testify, or be excused only on the basis of an independent medical assessment; did not appear",
+    "note": "testified"
+   },
+   {
+    "person_id": "ms-ramsamy",
+    "name": "Ms Ramsamy",
+    "role_as_described": "Former IDAC state advocate/prosecutor, continuing her sworn evidence on IDAC's Medicare 24 (Project Wellness) and Crime Intelligence appointment investigations",
     "note": "testified"
    }
   ],
-  "summary": "The commission dealt with the long-running non-appearance of businessman Suliman Carrim. Evidence leader Advocate Adila Hassim set out the correspondence record, including a letter of 3 August seeking a response by 10 August to which none was received. Carrim's counsel, Advocate Kameel Premhid, appeared for him. Justice Madlanga held that Carrim had failed to comply with the conditions attached to the earlier ruling requiring him either to appear in person or submit to an independent medical assessment, and announced that the commission would initiate a criminal process over the non-compliance with its summons. Commissioner Sesi Baloyi observed that the conditions had simply not been met. Evidence was also heard from IDAC prosecutor Advocate Drushantha Ramsamy on the same day.",
+  "summary": "The morning session dealt with the non-appearance of witness Suliman Carrim, who again failed to testify despite a 29 July ruling requiring either his appearance or an independent medical report; after lengthy argument between Adv Hassim SC (for the Evidence Leaders) and Adv Premhid (for Carrim) on audi rights, voluntariness and the adequacy of the late medical report, the Chairperson announced the Commission would direct its Secretary, Dr Vukuza, to lay a criminal charge against Carrim rather than merely recommend one. The Commission then resumed Ms Ramsamy's evidence, in which she played a recorded meeting to clarify that an IGI report was flown in from the Minister's 'office' rather than by the Minister himself, and took the Commission through IDAC's irregular authorisation and investigation of the Medicare 24 matter, including two prosecutorial memoranda she and Advocate Hlatshwayo prepared finding no prima facie case against Generals Masemola, Khumalo and Madondo. The day closed with an unopposed application, granted by the Chairperson, for a further witness's evidence to be heard in camera and kept confidential.",
   "rulings": [
    {
-    "description": "The commission resolved to set a criminal process in motion against Suliman Carrim for failing to comply with its summons, after he neither appeared in person nor submitted to an independent medical evaluation as previously directed.",
-    "source_url": "https://www.timeslive.co.za/news/2026-08-14-seen-shopping-but-too-ill-to-testify-at-madlanga-suliman-carrim-to-be-charged/",
+    "description": "The Commission will direct its Secretary, Dr Vukuza, to lay a criminal charge (not a recommendation) against Mr Carrim in respect of his non-appearance and non-compliance with the 29 July ruling; the Commission is not deciding wilfulness or mens rea, which will be for the relevant criminal authorities.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/14",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "Unopposed application granted for a witness's testimony to be heard in camera, with the transcript, recording and related documentation kept confidential.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/14",
     "tier_label": "RULING"
    }
   ],
-  "exhibits": [],
-  "quotes": [
+  "exhibits": [
    {
-    "text": "The commission is going to set the criminal process in motion.",
-    "speaker": "Justice Mbuyiseli Madlanga",
-    "source_url": "https://www.dailymaverick.co.za/article/2026-08-14-woolworths-shopper-patient-suliman-carrim-faces-criminal-charges-after-final-commission-no-show/",
-    "tier_label": "REPORTING",
-    "words": 11
+    "ref": "correspondence bundle, paginated pp. 210-225",
+    "description": "Treating doctor's medical report on Mr Carrim's condition and inability to attend, furnished two days before the hearing and marked strictly confidential"
    },
    {
-    "text": "That's the end of the road insofar as us having Mr Carrim before us.",
-    "speaker": "Justice Mbuyiseli Madlanga",
-    "source_url": "https://www.dailymaverick.co.za/article/2026-08-14-woolworths-shopper-patient-suliman-carrim-faces-criminal-charges-after-final-commission-no-show/",
-    "tier_label": "REPORTING",
-    "words": 14
+    "ref": "correspondence bundle, paginated p. 119 and p. 121-124",
+    "description": "24 June 2026 Evidence Leaders' letter and the Carrim legal team's response letter setting out the proposed way forward"
+   },
+   {
+    "ref": "audio recording",
+    "description": "Recording of a 1 September 2025 meeting in which Mr Perumal describes receiving the IGI report flown in from the Minister's office"
+   },
+   {
+    "ref": "file 10 part 2, p. 379-388",
+    "description": "2 July 2025 prosecutors' memorandum by Ramsamy and Hlatshwayo on 'leg four' (Masemola/Khumalo), concluding no prima facie case"
+   },
+   {
+    "ref": "file 10 part 2, p. 457",
+    "description": "4 July 2025 email from Advocate Johnson to the IDAC team on team conduct and evidence-based decision-making"
+   },
+   {
+    "ref": "file 10 part 2, p. 537-542",
+    "description": "7 July 2025 prosecutors' memorandum on 'leg three' (Khumalo/Madondo), also concluding no prima facie case"
+   },
+   {
+    "ref": "file 11, p. 60-63",
+    "description": "Ramsamy's handwritten notes of the 8 July 2025 meeting recording Advocate Johnson's instructions, including the snapshot analysis targets"
+   },
+   {
+    "ref": "file 10 part 2, p. 500-505",
+    "description": "Draft affidavit and J50 warrant-of-arrest application prepared by Mr Padayachee for General Masemola, General Khumalo and others"
    }
   ],
-  "video_url": "https://sabc-plus.com/video/29982587/Madlanga-Commission-of-Inquiry-Day-159-Friday14-August-2026",
+  "quotes": [
+   {
+    "text": "we keep going around the mulberry bush",
+    "speaker": "Adv Hassim SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/14",
+    "tier_label": "REPORTING",
+    "words": 7
+   },
+   {
+    "text": "the Commission will lay criminal charges against Mr Carrim",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/14",
+    "tier_label": "REPORTING",
+    "words": 9
+   },
+   {
+    "text": "we cannot and we will not have that",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/14",
+    "tier_label": "REPORTING",
+    "words": 8
+   },
+   {
+    "text": "he keeps telling us that something big is coming",
+    "speaker": "Ms Ramsamy",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/14",
+    "tier_label": "REPORTING",
+    "words": 9
+   },
+   {
+    "text": "Trust us to do that.",
+    "speaker": "Adv Baloyi SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/14",
+    "tier_label": "REPORTING",
+    "words": 5
+   }
+  ],
+  "video_url": null,
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/08/14",
     "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official hearings index",
-    "retrieved": "2026/08/22",
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
     "partial": false
-   },
-   {
-    "url": "https://www.dailymaverick.co.za/article/2026-08-14-woolworths-shopper-patient-suliman-carrim-faces-criminal-charges-after-final-commission-no-show/",
-    "tier": 3,
-    "publisher": "Daily Maverick",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.timeslive.co.za/news/2026-08-14-seen-shopping-but-too-ill-to-testify-at-madlanga-suliman-carrim-to-be-charged/",
-    "tier": 2,
-    "publisher": "TimesLIVE",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://sabc-plus.com/video/29982587/Madlanga-Commission-of-Inquiry-Day-159-Friday14-August-2026",
-    "tier": 2,
-    "publisher": "SABC+",
-    "retrieved": "2026/08/22",
-    "partial": true
-   },
-   {
-    "url": "https://www.youtube.com/watch?v=lnoecnOlRPo",
-    "tier": 2,
-    "publisher": "YouTube - SABC News stream",
-    "retrieved": "2026/08/22",
-    "partial": true
-   },
-   {
-    "url": "https://www.ewn.co.za/2026/08/15/ramsamy-concerned-about-tainted-idac-reputation",
-    "tier": 2,
-    "publisher": "EWN",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.enca.com/news-top-stories/madlanga-rules-suliman-carrim-must-appear-person-commission",
-    "tier": 2,
-    "publisher": "eNCA",
-    "retrieved": "2026/08/22",
-    "partial": true
    }
   ],
   "best_tier": 1,
   "partial_source": false,
   "unverified": [
-   "Whether Ramsamy's evidence on 14 August was a continuation or a conclusion. An EWN piece dated 15 August carrying his remarks was summarised as relating to an 11 August hearing; a Sunday World snippet places Ramsamy at the commission on Friday 14 August.",
-   "The exact wording of the Carrim ruling - sources gave paraphrase plus short quotes only.",
-   "Whether any other witness appeared on 14 August.",
-   "TIER 1 / TIER 2 CONFLICT — The commission's own hearings index records the Day 159 witness as 'Mr Carrim', with evidence leaders Adv Hassim SC and Adv Premhid. Tier 2 and Tier 3 reporting (TimesLIVE, Daily Maverick) says Carrim did NOT appear on 14 August and that the commission resolved to set a criminal process in motion over his non-compliance; a Sunday World item places Adv Drushantha Ramsamy at the commission that day. Adv Premhid is described in reporting as Carrim's counsel, not an evidence leader. Unresolved. The commission's index may be recording whose matter was before it rather than who took the stand. Both readings are held; neither is presented as settled."
+   "Ms Ramsamy's characterisation of Advocate Johnson's possible motives for agreeing then reversing on the 'no prima facie case' memoranda is offered by Ramsamy herself as speculation.",
+   "Ramsamy's account of being told by a member of Mr Perumal's team that Perumal, Padayachee and another senior state advocate were plotting to have her arrested is relayed secondhand and not independently corroborated in this transcript.",
+   "Exhibit reference 'audio recording' could not be found in the transcript and may be misread."
   ],
-  "reporting_context": []
+  "reporting_context": [
+   {
+    "claim": "The Madlanga Commission ordered that criminal charges be laid against Suliman Carrim after his repeated failure to appear and testify, with the Commission's Secretary to lay the charge rather than merely recommend one.",
+    "url": "https://iol.co.za/news/politics/breaking-or-madlanga-commission-to-lay-criminal-charges-against-carrim/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": false
+   },
+   {
+    "claim": "Carrim, described as the 'Woolworths shopper patient', faces criminal charges after his final no-show before the Commission despite the 29 July ruling giving him a route to be medically excused.",
+    "url": "https://www.dailymaverick.co.za/article/2026-08-14-woolworths-shopper-patient-suliman-carrim-faces-criminal-charges-after-final-commission-no-show/",
+    "publisher": "Daily Maverick",
+    "tier": 3,
+    "retrieved": "2026/09/03",
+    "partial": true
+   }
+  ]
  },
  {
   "id": "day-158",
@@ -554,102 +1033,88 @@
    {
     "person_id": "gregory-loftus",
     "name": "Gregory Loftus",
-    "role_as_described": "Father of Bevan Loftus, who was killed in an April 2023 police task team shooting in KwaZulu-Natal",
+    "role_as_described": "Father of the late Bevan Loftus; testified about his son's death, which he says was staged by SAPS as a legitimate operation but was in fact an execution",
     "note": "testified"
    },
    {
-    "person_id": "ashley-houston",
-    "name": "Ashley Houston",
-    "role_as_described": "Retired SAPS captain with about 38 years' service; described as a first responder at the shooting scene",
+    "person_id": "ashley-lynton-houston",
+    "name": "Ashley Lynton Houston",
+    "role_as_described": "Retired SAPS Captain (38 years' service, Durban); first police responder to reach the Morningside flat shooting scene on 1 April 2023",
     "note": "testified"
    }
   ],
-  "summary": "The commission heard its first civilian family evidence in this stream. Gregory Loftus told the commission he believed his son Bevan was killed unlawfully by police on 1 April 2023, in an incident in which five people died, and said he had applied for an interdict the day before seeking to restrain Lieutenant-Colonel Deena Govender. He rejected characterisations of his son as a drug figure. Retired captain Ashley Houston gave a contrasting account, describing Bevan Loftus as a notorious figure associated with a gang, while also saying the shooting scenario recorded in police statements was highly improbable and that the documents and the physical scene did not correspond. The evidence built on Len John's testimony the previous day about alleged collusion between rogue task team members and tow-truck operators.",
+  "summary": "Gregory Loftus, father of the late Bevan Loftus, testified that his son was killed along with four other men by a SAPS team at a Morningside, Durban flat on 1 April 2023, and that the operation was in fact an execution orchestrated at the instance of tow-truck rival Clive Naicker and carried out under Captain Deena Govender. Loftus described having deposed to an interdict application the day before the shooting seeking to stop Govender and SAPS from killing his son, and read extensively from his statement covering his son's employment, prior arrests, and the events leading up to the shooting. Later in the day, retired Captain Ashley Houston, the first police officer to reach the scene, testified that he found and identified two of the five deceased men, and, drawing on his firearms and tactical experience, said the police account of a mutual shootout in the confined flat was tactically improbable given the volume of rounds fired without any responding officer being hit. The hearing was adjourned for several tea breaks during the day and postponed to 14 August 2026, with Captain Houston's evidence to continue.",
   "rulings": [],
   "exhibits": [
    {
-    "ref": null,
-    "description": "Interdict application affidavit dated 31 March 2023, seeking to restrain a police officer"
-   },
-   {
-    "ref": null,
-    "description": "Police officers' statements from the April 2023 shooting scene"
+    "ref": "CJC403",
+    "description": "Daily Maverick news article discussing turf wars and alleged drug links among KZN tow-truck operators, put to Mr Loftus for context on reputational allegations"
    }
   ],
   "quotes": [
    {
-    "text": "Bevan was sitting with the Hollywood gang",
-    "speaker": "Ashley Houston",
-    "source_url": "https://www.sowetan.co.za/news/2026-08-13-retired-police-captain-calls-bevan-loftus-notorious-at-hearing/",
+    "text": "let us see who dies first",
+    "speaker": "Bevan Loftus (words read into the record from a statement/recording)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/13",
     "tier_label": "REPORTING",
-    "words": 7
+    "words": 6
    },
    {
-    "text": "He lived modestly.",
+    "text": "why do you want to create another false case?",
     "speaker": "Gregory Loftus",
-    "source_url": "https://www.sowetan.co.za/news/2026-08-13-retired-police-captain-calls-bevan-loftus-notorious-at-hearing/",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/13",
     "tier_label": "REPORTING",
-    "words": 3
+    "words": 9
+   },
+   {
+    "text": "clearly it was a police shooting",
+    "speaker": "Ashley Lynton Houston",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/13",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "you are just the blind is leading the blind",
+    "speaker": "Ashley Lynton Houston",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/08/13",
+    "tier_label": "REPORTING",
+    "words": 9
    }
   ],
-  "video_url": "https://sabc-plus.com/video/29981813/Madlanga-Commission-of-Inquiry-Day-158-Thursday13-August-2026",
+  "video_url": null,
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/08/13",
     "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official hearings index",
-    "retrieved": "2026/08/22",
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
     "partial": false
-   },
-   {
-    "url": "https://www.sowetan.co.za/news/2026-08-13-retired-police-captain-calls-bevan-loftus-notorious-at-hearing/",
-    "tier": 2,
-    "publisher": "Sowetan",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.dailymaverick.co.za/article/2026-08-13-my-son-was-murdered-in-cold-blood-by-the-police-father-tells-inquiry/",
-    "tier": 3,
-    "publisher": "Daily Maverick",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://sabc-plus.com/video/29981813/Madlanga-Commission-of-Inquiry-Day-158-Thursday13-August-2026",
-    "tier": 2,
-    "publisher": "SABC+",
-    "retrieved": "2026/08/22",
-    "partial": true
-   },
-   {
-    "url": "https://www.youtube.com/watch?v=1xNarRaL3OE",
-    "tier": 2,
-    "publisher": "YouTube - SABC News stream",
-    "retrieved": "2026/08/22",
-    "partial": true
-   },
-   {
-    "url": "https://www.sabcnews.com/sabcnews/live-madlanga-commission-of-inquiry-day-158/",
-    "tier": 2,
-    "publisher": "SABC News",
-    "retrieved": "2026/08/22",
-    "partial": true
-   },
-   {
-    "url": "https://iol.co.za/news/politics/2026-08-13-retired-saps-captain-calls-bevan-loftus-notorious-as-father-rejects-drug-kingpin-claims/",
-    "tier": 2,
-    "publisher": "IOL",
-    "retrieved": "2026/08/22",
-    "partial": true
    }
   ],
   "best_tier": 1,
   "partial_source": false,
   "unverified": [
-   "Whether any further witnesses appeared on 13 August."
+   "Gregory Loftus's account that Captain Deena Govender instructed an officer to falsely claim he saw Bevan Loftus shooting at him is Loftus's own characterisation and was not corroborated within this day's proceedings.",
+   "An anecdote Houston related, involving the shooting of a relative of Clive Naicker by a different SAPS member years earlier, was offered as background and its direct relevance to the Loftus case was not established in the transcript."
   ],
-  "reporting_context": []
+  "reporting_context": [
+   {
+    "claim": "Daily Maverick reported that Gregory Loftus told the Commission he believes his son Bevan Loftus was murdered in cold blood by police, in a killing he links to tow-truck rival Clive Naicker.",
+    "url": "https://www.dailymaverick.co.za/article/2026-08-13-my-son-was-murdered-in-cold-blood-by-the-police-father-tells-inquiry/",
+    "publisher": "Daily Maverick",
+    "tier": 3,
+    "retrieved": "2026/09/03",
+    "partial": true
+   },
+   {
+    "claim": "IOL reported that retired Captain Ashley Houston told the Commission that physical evidence at the Morningside flat -- including where bullet strikes and blood were found -- made the police's account of a shootout with Bevan Loftus and four others 'highly improbable'.",
+    "url": "https://iol.co.za/news/politics/2026-08-14-madlanga-commission-houston-tears-into-bevan-loftus-deadly-shooting-something-does-not-add-up/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": false
+   }
+  ]
  },
  {
   "id": "day-157",
@@ -926,6 +1391,1974 @@
    "Sowetan and SABC items were seen only as search-result titles/URLs."
   ],
   "reporting_context": []
+ },
+ {
+  "id": "day-109",
+  "day_number": 109,
+  "day_number_verified": true,
+  "date": "2026/05/15",
+  "weekday": "Friday",
+  "workstream": "crime-intelligence",
+  "witnesses": [
+   {
+    "person_id": "oupa-brown-mogotsi",
+    "name": "Oupa Brown Mogotsi",
+    "role_as_described": "Applicant for the recusal of Chief Evidence Leader Matthew Chaskalson; subsequently sworn and cross-examined on his claimed role as a Crime Intelligence agent/informant and his communications with Mr Matlala regarding alleged Crime Intelligence property purchases and the arrest of General Khumalo",
+    "note": "testified"
+   }
+  ],
+  "summary": "The day opened with argument on Mr Mogotsi's application, represented by Adv Mohomane, to recuse Chief Evidence Leader Matthew Chaskalson SC for perceived bias, based on WhatsApp and telephone exchanges between the two around 9-10 March 2026 during Carrim Suleiman's testimony. The Commissioners tested the applicant's case closely, noting that Mogotsi himself had initiated contact, that his account of a 'promise' of protection was retracted, and that deleted calls and emojis undermined his version; after the lunch adjournment the Chairperson dismissed the application, with reasons to follow. Mogotsi then testified under oath before Chaskalson but repeatedly invoked a privilege against self-incrimination in response to questions about his alleged status as an undercover agent/informant in Crime Intelligence, his handlers, and WhatsApp messages he sent to Mr Matlala concerning allegedly irregular Crime Intelligence property purchases and the arrest of General Khumalo. Mogotsi's counsel indicated he intends to bring a review application against the recusal ruling. The matter was postponed to 1 June 2026.",
+  "rulings": [
+   {
+    "description": "Application by Mr Mogotsi for the recusal of Chief Evidence Leader Matthew Chaskalson SC dismissed; full reasons to be given within one to two weeks. Effect: Mr Mogotsi's evidence to proceed the same day, led by Chaskalson.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/15",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": "CJC40",
+    "description": "Affidavit by a Colonel, Section Head of Undercover Operations and Agent Program, Division of Crime Intelligence, denying Mr Mogotsi was ever registered as an undercover agent or SAPS member"
+   },
+   {
+    "ref": "CJC41",
+    "description": "Affidavit by a Colonel of the Secret Services Account (Finance), Crime Intelligence, stating Mr Mogotsi was registered as a source/informant from 9 January 2001 to 20 August 2001 with no further recorded activity"
+   },
+   {
+    "ref": "BM7.23",
+    "description": "Bundle of WhatsApp images/screenshots sent by Mr Mogotsi to Mr Matlala on 2 January, including images of a property route, a photograph of a property, a SAPS salary record, company details, and a message referencing a Brigadier appointment"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "The application is dismissed.",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/15",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "I am not going to incriminate myself",
+    "speaker": "Mr Mogotsi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/15",
+    "tier_label": "REPORTING",
+    "words": 7
+   },
+   {
+    "text": "But I never fell under the bus.",
+    "speaker": "Mr Mogotsi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/15",
+    "tier_label": "REPORTING",
+    "words": 7
+   },
+   {
+    "text": "You are edging towards perjury",
+    "speaker": "Adv Chaskalson SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/15",
+    "tier_label": "REPORTING",
+    "words": 5
+   },
+   {
+    "text": "I think so too, but you cannot mess me around.",
+    "speaker": "Adv Chaskalson SC (WhatsApp message read into record)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/15",
+    "tier_label": "REPORTING",
+    "words": 10
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/05/15",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Mogotsi's allegations that named, now-deceased SAPS members (a Warrant Officer and a Brigadier, both described by Mogotsi as having died) were his handlers -- disputed by his alleged 'co-handler's' prior testimony.",
+   "Mogotsi's claim that Crime Intelligence irregularly purchased specific properties, illustrated by WhatsApp images sent to Mr Matlala, remains an unproven allegation pending further investigation.",
+   "Mogotsi's claim that an informant was killed three days after being introduced to a handler, and related claims about payments to informants -- asserted by Mogotsi but not corroborated in this day's record.",
+   "Mogotsi's characterisation of a 'Section 252A' operation involving a Colonel as intended only to 'get information,' disputed by the evidence leader's characterisation of it as an attempted bribe."
+  ],
+  "reporting_context": [
+   {
+    "claim": "The Madlanga Commission, chaired by Justice Mbuyiseli Madlanga, dismissed Brown Mogotsi's application to recuse chief evidence leader Matthew Chaskalson on 15 May 2026; Mogotsi had alleged Chaskalson offered him a form of immunity in exchange for testimony against Suliman Carrim, a claim he later withdrew and conceded had not actually been promised.",
+    "url": "https://www.ewn.co.za/madlanga-commission-dismisses-mogotsis-application-to-recuse-chaskalson/",
+    "publisher": "Eyewitness News (EWN)",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": false
+   }
+  ]
+ },
+ {
+  "id": "day-108",
+  "day_number": 108,
+  "day_number_verified": true,
+  "date": "2026/05/14",
+  "weekday": "Thursday",
+  "workstream": "crime-intelligence",
+  "witnesses": [
+   {
+    "person_id": "nkoana-joseph-sebola",
+    "name": "Nkoana Joseph Sebola",
+    "role_as_described": "Lieutenant Colonel, DPCI/SANEB investigating officer in the July 2021 Aeroton (Scania) drug-bust case",
+    "note": "testified"
+   }
+  ],
+  "summary": "Lieutenant Colonel Nkoana Joseph Sebola of DPCI's SANEB unit testified about his investigation into the July 2021 drug bust at Scania's Aeroton premises, where a marked Booysens police vehicle blocked a bakkie driven by Warrant Officer Magane after Magane and Traffic Officer Mashaba had falsely identified themselves as members of a non-existent 'Crime Intelligence Hawks' unit. He described arresting Magane, Mashaba, Warrant Officer Phakula and informer Tumelo Nku for defeating the ends of justice and later dealing in drugs after bags loaded into the bakkie were found to contain roughly 700-715 suspected cocaine bricks, and he detailed cell-phone evidence linking the men to concerns about a prior drug interception at Isipingo/Durban. Commissioners spent much of the day pressing Sebola on why his statement and oral evidence were completely silent about Major-General Khan's alleged active presence at the scene, despite several docket statements, including Khan's own, placing him there giving instructions. The hearing adjourned mid-testimony, with further evidence on DPP and IPID reports still outstanding and no date yet set for Sebola's return.",
+  "rulings": [],
+  "exhibits": [
+   {
+    "ref": "Booysens CAS98/07/2021",
+    "description": "Police case docket for the Aeroton/Scania drug-bust investigation, including witness statements, the SAP13 exhibit register and Section 35 rights certificates"
+   },
+   {
+    "ref": null,
+    "description": "Sketch plan of the Scania premises crime scene, prepared by Warrant Officer Woods, with an accompanying key identifying vehicle positions"
+   },
+   {
+    "ref": null,
+    "description": "Photographs of the seized black sports bags and unwrapped cocaine bricks bearing cartel branding (a red bull and a seagull/eagle insignia)"
+   },
+   {
+    "ref": null,
+    "description": "Radio/10111 transcript of the exchange between Sergeant Ndou (call sign BS12) and the control desk on the morning of the operation"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "It is a criminal offence to impersonate somebody.",
+    "speaker": "Lt-Col Sebola",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/14",
+    "tier_label": "REPORTING",
+    "words": 8
+   },
+   {
+    "text": "They were tracked to be from the same direction, which is Brazil.",
+    "speaker": "Lt-Col Sebola",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/14",
+    "tier_label": "REPORTING",
+    "words": 12
+   },
+   {
+    "text": "It is your point that you always identify the couriers, but never the kingpins.",
+    "speaker": "Adv Khumalo SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/14",
+    "tier_label": "REPORTING",
+    "words": 14
+   },
+   {
+    "text": "Perhaps the rush explains the confusion that I had",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/14",
+    "tier_label": "REPORTING",
+    "words": 9
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/05/14",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "A 2024 lab discovery that 136 kilograms of the seized substance was allegedly unaccounted for was put to Sebola by the evidence leader; he said it was 'news to me' and could not confirm it.",
+   "Whether the June 2021 Isipingo/Durban interception referenced in the cell-phone messages is the same incident discussed in an earlier commission sitting (a 'Port Shepstone' interception) was left an open question -- Sebola said this link 'only came through further investigation.'"
+  ],
+  "reporting_context": [
+   {
+    "claim": "IOL ran a live blog covering Lieutenant-Colonel Nkoana Joseph Sebola's testimony at the Madlanga Commission on the Aeroton drug bust on this sitting day.",
+    "url": "https://iol.co.za/news/2026-05-14-live-hawks-lieutenant-colonel-nkoana-joseph-sebola-testifies-at-madlanga-commission-on-aeroton-drug-bust/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-107",
+  "day_number": 107,
+  "day_number_verified": true,
+  "date": "2026/05/13",
+  "weekday": "Wednesday",
+  "workstream": "crime-intelligence",
+  "witnesses": [
+   {
+    "person_id": "boy-steve-phakula",
+    "name": "Boy Steve Phakula",
+    "role_as_described": "Warrant Officer, SAPS National Investigation Unit (NINU), Pretoria; testified as a sequel to Warrant Officer Magane's evidence about the 9 July 2021 Aeroton drug bust",
+    "note": "testified"
+   }
+  ],
+  "summary": "Warrant Officer Boy Steve Phakula testified as a follow-on to Warrant Officer Magane's prior-day evidence about the 9 July 2021 Aeroton drug bust, describing how he was called in as backup, arrived to find a bakkie already loaded with suspected drugs, and effectively took over as crime scene manager before being arrested by DPCI's Captain Sebola. Under sustained questioning from the Chairperson and Commissioners Baloyi and Khumalo, Phakula repeatedly conceded that key claims in his own statement -- that the scene was undisturbed, handled per National Instruction 1 of 2015, and properly handed over to him -- were false, and admitted he falsely claimed to have smelled cocaine and gave contradictory evidence about touching sealed exhibits. He also described a private post-arrest meeting with Major General Khan in which he relayed \"corridor gossip\" that the drugs belonged to Khan, his 2021 dismissal and prolonged disciplinary and reinstatement disputes, and DPP decisions not to prosecute Khan or DPCI members.",
+  "rulings": [],
+  "exhibits": [
+   {
+    "ref": "CJC227.3",
+    "description": "Written statement of Colonel Sephungu, part of the record, confirming Phakula's account that Sephungu authorised him to attend the Aeroton scene."
+   },
+   {
+    "ref": "CJC219",
+    "description": "SAPS National Instruction 1 of 2015 on crime scene management (Steyn bundle, incl. pages 109, 130, 140-141), used to test whether Phakula's conduct as de facto scene manager complied with the reporting, handover, and planning phases."
+   },
+   {
+    "ref": "CJC204",
+    "description": "Photographs of the seized consignment showing the drug bricks wrapped in plastic, canvas bags and outer plastic, used to challenge Phakula's claim that he could smell cocaine at the scene."
+   },
+   {
+    "ref": null,
+    "description": "Exhibit File photographs (pages 19, 37-38, 109) showing Phakula's red vehicle, the cordoned-off area near the yellow Scania truck/trailer, and the black Nissan NP300 bakkie loaded with black bags of suspected drugs."
+   },
+   {
+    "ref": null,
+    "description": "Screenshots of WhatsApp/text exchanges between Phakula and Major General Khan from 15-22 September 2021, part of Phakula's statement file, covering their private meeting and Khan's promised (but never delivered) supporting statement."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "So help me God.",
+    "speaker": "Boy Steven Phakula",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/13",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "the bottom line is that you lied",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/13",
+    "tier_label": "REPORTING",
+    "words": 7
+   },
+   {
+    "text": "You have told quite a number of untruths",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/13",
+    "tier_label": "REPORTING",
+    "words": 8
+   },
+   {
+    "text": "It was corridor gossip, Commissioner.",
+    "speaker": "Boy Steve Phakula",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/13",
+    "tier_label": "REPORTING",
+    "words": 5
+   },
+   {
+    "text": "I still believe he was recording me on that day.",
+    "speaker": "Boy Steve Phakula",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/13",
+    "tier_label": "REPORTING",
+    "words": 10
+   },
+   {
+    "text": "trying to get evidence to place on us",
+    "speaker": "Boy Steve Phakula",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/13",
+    "tier_label": "REPORTING",
+    "words": 8
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/05/13",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Phakula's belief that Major General Khan was recording their private September 2021 meeting was stated as his own suspicion, not established as fact.",
+   "Phakula's claim that impounding the transporting vehicle in all such cases is standard SAPS practice was disputed by Commissioner Baloyi with reference to a differing practice in an unrelated Port Shepstone case, and was not resolved."
+  ],
+  "reporting_context": [
+   {
+    "claim": "Reported that a police witness told the commission 'corridor talk' among officers connected the drugs found in the truck to Major General Feroz Khan.",
+    "url": "https://www.timeslive.co.za/politics/2026-05-13-cops-corridor-talk-connects-drugs-in-truck-to-khan-madlanga-commission-hears/",
+    "publisher": "TimesLIVE",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": false
+   },
+   {
+    "claim": "Reported that 'corridor gossip' named Feroz Khan as the owner of a R286-million cocaine consignment, according to the officer's evidence to the commission.",
+    "url": "https://www.dailymaverick.co.za/article/2026-05-13-corridor-gossip-named-feroz-khan-as-owner-of-r286m-cocaine-consignment-cop-tells-commission/",
+    "publisher": "Daily Maverick",
+    "tier": 3,
+    "retrieved": "2026/09/03",
+    "partial": false
+   },
+   {
+    "claim": "Reported that the SAPS officer's testimony pointed to Major General Khan's alleged involvement in the cocaine scandal at the centre of the inquiry.",
+    "url": "https://iol.co.za/news/2026-05-13-madlanga-commission-saps-officers-testimony-reveals-major-general-khans-alleged-involvement-in-cocaine-scandal/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": false
+   },
+   {
+    "claim": "Reported that Warrant Officer Phakula accused Feroz Khan of orchestrating his arrest to derail the cocaine bust investigation.",
+    "url": "https://mg.co.za/news/2026-05-13-warrant-officer-phakula-accuses-feroz-khan-of-orchestrating-arrest-to-derail-cocaine-bust",
+    "publisher": "Mail & Guardian",
+    "tier": 3,
+    "retrieved": "2026/09/03",
+    "partial": false
+   }
+  ]
+ },
+ {
+  "id": "day-106",
+  "day_number": 106,
+  "day_number_verified": true,
+  "date": "2026/05/12",
+  "weekday": "Tuesday",
+  "workstream": "crime-intelligence",
+  "witnesses": [
+   {
+    "person_id": "marumo-joseph-magane",
+    "name": "Marumo Joseph Magane",
+    "role_as_described": "Warrant Officer, Commander of CIMAC (Crime Information Management and Analysis Centre) at SAPS Zonkizizwe, stationed there since 2005; testified about the July 2021 Aeroton drug bust and his own subsequent arrest, suspension and departmental/criminal charges",
+    "note": "testified"
+   }
+  ],
+  "summary": "Warrant Officer Marumo Magane, an office-bound SAPS crime-statistics officer, testified about how he was drawn into a July 2021 drug interdiction after Gauteng Traffic Chief Samuel Mashaba asked him for manpower, and how the two men, together with an informant (Mr Tumelo Nku), followed a container truck without a warrant from Roodekop to a Scania warehouse in Aeroton before opening it and finding roughly 23 bags of suspected cocaine. Commissioners Baloyi and Khumalo took Magane in detail through repeated departures from the National Instruction on Crime Scene Management -- no cordon, no photographs before opening, no gloves, exhibits moved and handled by multiple untrained people before LCRC was called -- which Magane repeatedly conceded amounted to a 'stuff-up'. He described how Major General Feroz Khan of Crime Intelligence then arrived, disarmed Mashaba, and had Magane, Mashaba, Phakula and Nku arrested and detained for about two weeks, leading to departmental charges (later dismissed) and a criminal case that was provisionally withdrawn in 2022 but which a 2024/2025 NPA letter suggests may be reinstated. Commissioner Baloyi closed by putting to Magane a series of propositions -- including unexplained WhatsApp messages referencing a spare seal and R60,000 cash found in the informant's BMW -- suggesting he may, wittingly or not, have been used to help intercept the drugs rather than have them properly processed; Magane maintained his innocence throughout.",
+  "rulings": [],
+  "exhibits": [
+   {
+    "ref": "CJC217",
+    "description": "Photograph bundle including Magane's black Nissan bakkie and the Booysens SAPS vehicle at the Aeroton scene, and a News24 article mistakenly identifying the informant's vehicle as a BMW 5 Series rather than 7 Series"
+   },
+   {
+    "ref": null,
+    "description": "Photographs of black bags falling from the opened shipping container at Scania, and of the two seals found on the container (one cut open, one unused spare), from Magane's statement annexures"
+   },
+   {
+    "ref": null,
+    "description": "WhatsApp screenshot between Magane and Station Commander Lt Col Chauke discussing the estimated value of the seized bags"
+   },
+   {
+    "ref": null,
+    "description": "National Instruction 1 of 2015 on Crime Scene Management, read into the record from the exhibit bundle used the previous day for witness Steyn"
+   },
+   {
+    "ref": null,
+    "description": "Photographs from inside a BMW 7 Series (driven by informant Tumelo Nku) showing approximately R60,000 in cash"
+   },
+   {
+    "ref": null,
+    "description": "Handwritten and typed statements of Warrant Officer Phakula and Captain Modupi describing an arrangement to meet Magane at Alberton SAPS"
+   },
+   {
+    "ref": null,
+    "description": "Statement of Jolene Wentzel/Koekemoer of Scania describing the police informing her she would be taken to a police station"
+   },
+   {
+    "ref": null,
+    "description": "Letter from the Director of Public Prosecutions (JM Serapo) to Major General EA Kadwa regarding a possible re-enrolment of Booysens case 9807/2021, State v Magane and 3 Others"
+   },
+   {
+    "ref": null,
+    "description": "Advocate De Kock's reasons (NDPP office) for declining to prosecute Magane and co-accused, referencing Skynet photographs and witness statements"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "Then send the pigs with the seal.",
+    "speaker": "Unidentified WhatsApp chat participant (read into record by Adv Khumalo SC)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/12",
+    "tier_label": "REPORTING",
+    "words": 7
+   },
+   {
+    "text": "I fully disagree with my Station Commander.",
+    "speaker": "Warrant Officer Marumo Magane",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/12",
+    "tier_label": "REPORTING",
+    "words": 7
+   },
+   {
+    "text": "You were clueless, and you knew that you were clueless.",
+    "speaker": "Chairperson (Justice Madlanga)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/12",
+    "tier_label": "REPORTING",
+    "words": 10
+   },
+   {
+    "text": "I take a punch.",
+    "speaker": "Warrant Officer Marumo Magane",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/12",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "It does not look good on you.",
+    "speaker": "Adv Baloyi SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/12",
+    "tier_label": "REPORTING",
+    "words": 7
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/05/12",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "The value attributed to the seized cocaine varied between speakers during testimony (figures of R200 million and R250 million were both mentioned by Magane) and was not independently confirmed on this sitting day.",
+   "Magane's claim that the R60,000 cash found in Nku's BMW had nothing to do with any reward to him or Mashaba is his own uncorroborated assertion.",
+   "Commissioner Baloyi's suggestion that Magane may have knowingly or unwittingly assisted a scheme to intercept the drugs was framed explicitly as a proposition/suspicion for testing, not a proven fact."
+  ],
+  "reporting_context": [
+   {
+    "claim": "IOL reported that Warrant Officer Marumo Magane, CIMAC commander at SAPS Zonkizwe, was accused during Commission testimony of loading roughly 750kg of cocaine valued at about R300 million into his bakkie after the July 2021 Aeroton seizure, allegedly intending to see it delivered to traffickers, and quoted Commissioner Baloyi telling him there was 'no good intention on your part to get these drugs properly dealt with as prescribed by law.'",
+    "url": "https://iol.co.za/news/2026-05-12-saps-officer-accused-of-drug-trafficking-during-testimony-at-madlanga-commission/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": false
+   }
+  ]
+ },
+ {
+  "id": "day-105",
+  "day_number": 105,
+  "day_number_verified": true,
+  "date": "2026/05/11",
+  "weekday": "Monday",
+  "workstream": "crime-intelligence",
+  "witnesses": [
+   {
+    "person_id": "colonel-francois-steyn",
+    "name": "Colonel Francois Steyn",
+    "role_as_described": "Unit Commander, West Rand Serious Organised Crime Unit, SAPS/DPCI; Provincial Coordinator for SANEB (South African Narcotics Enforcement Bureau) and Kidnapping for Ransom investigations, Gauteng",
+    "note": "testified"
+   }
+  ],
+  "summary": "Colonel Francois Steyn testified about narcotics enforcement challenges generally before giving detailed evidence on the 9 July 2021 Aeroton drug bust, in which roughly 700-715 kilograms of cocaine were found in a Scania container shipped via Durban from Santos, Brazil, using a 'rip-on-rip-off' smuggling method requiring corrupt law enforcement involvement. He described a chaotic, poorly cordoned crime scene involving a Traffic Chief, two police officers and a civilian informant who allegedly tried to remove the drugs before Booysens SAPS intervened, and detailed discrepancies in the exhibit count (684/700/715 bricks) across the SAP13 register, forensic intake and later a discovery that 136.46 kilograms (roughly R55 million) of the cocaine was unaccounted for by February 2025 while in FSL custody. He also discussed the IPID recommendation for disciplinary proceedings against himself and four other DPCI/SAPS officials, Major General Gerber's departmental investigation which exonerated them but flagged administrative errors, and a February 2025 media leak of internal WhatsApp evidence linking the informant to a Durban-port businessman.",
+  "rulings": [
+   {
+    "description": "Exhibits CJC203 to CJC225 admitted into evidence on the application of evidence leader Hassim.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/11",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": "CJC203",
+    "description": "Colonel Steyn's original statement dated 13 July 2021"
+   },
+   {
+    "ref": "CJC206",
+    "description": "Statement of Warrant Officer Morris on exhibit handling and transport of the seized cocaine"
+   },
+   {
+    "ref": "CJC207",
+    "description": "Statement of Warrant Officer Wood (LCRC) including the crime scene sketch plan"
+   },
+   {
+    "ref": "CJC209",
+    "description": "Statement of Ms Bukelwa with transcript of the Flying Squad two-way radio communications on 9 July 2021"
+   },
+   {
+    "ref": "CJC210",
+    "description": "Section 212 statement of Captain Modise, forensic analyst, recording 715 solid substance blocks received"
+   },
+   {
+    "ref": "CJC211",
+    "description": "SAP13 exhibit register and statement of forensic analyst Warrant Officer Mabasa regarding an additional recovered brick"
+   },
+   {
+    "ref": "CJC215",
+    "description": "IPID investigation report recommending disciplinary proceedings against five SAPS/DPCI members"
+   },
+   {
+    "ref": "CJC216",
+    "description": "Investigation report by Major General Gerber into the conduct of DPCI members at the Aeroton scene, including his findings on administrative errors"
+   },
+   {
+    "ref": "CJC217",
+    "description": "Media article dated 22 February 2025 titled 'Crime Intelligence Battle, Key Witnesses in Feroz Khan Disciplinary to Face Drug Charges'"
+   },
+   {
+    "ref": "CJC219",
+    "description": "National Instruction on crime scene management, including provisions on inner and outer cordons"
+   },
+   {
+    "ref": "CJC203-CJC225",
+    "description": "Full exhibit bundle for Colonel Steyn's evidence on the Aeroton and related drug operations"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "The scene was contaminated.",
+    "speaker": "Colonel Francois Steyn",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/11",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "Lack of a better explanation, chaos.",
+    "speaker": "Colonel Francois Steyn",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/11",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "Forty, 50 people, easy.",
+    "speaker": "Colonel Francois Steyn",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/11",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "It is like a puzzle.",
+    "speaker": "Colonel Francois Steyn",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/11",
+    "tier_label": "REPORTING",
+    "words": 5
+   },
+   {
+    "text": "Ja, here the sun is still shining.",
+    "speaker": "Colonel Francois Steyn",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/11",
+    "tier_label": "REPORTING",
+    "words": 7
+   },
+   {
+    "text": "715 kilograms, yes.",
+    "speaker": "Colonel Francois Steyn",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/11",
+    "tier_label": "REPORTING",
+    "words": 3
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/05/11",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Whether a K9 narcotics dog inspection was actually conducted at the Aeroton scene.",
+   "Allegations by several unnamed members that General Khan prevented the K9 unit from conducting an inspection.",
+   "Whether Officer Mogana was in fact suspended (witness said he 'thinks' so but could not confirm as fact).",
+   "The employment/discipline status of the second SAPS officer involved, which the witness could not confirm."
+  ],
+  "reporting_context": [
+   {
+    "claim": "Daily Maverick reported that Colonel Steyn told the Madlanga Commission that 136.46kg of cocaine (about R55 million) went missing from FSL custody out of a 715.86kg haul (about R286 million) seized in the July 2021 Aeroton bust, and that combined with earlier evidence roughly R250 million of seized cocaine appears to have been stolen while in state custody.",
+    "url": "https://www.dailymaverick.co.za/article/2026-05-11-another-cocaine-theft-cop-confirms-r55m-missing-from-r286m-consignment-seized-by-police/",
+    "publisher": "Daily Maverick",
+    "tier": 3,
+    "retrieved": "2026/09/03",
+    "partial": false
+   },
+   {
+    "claim": "IOL reported on Colonel Steyn's testimony that around 750kg of cocaine worth R300 million was smuggled undetected from Durban Harbour to a Scania premises in Aeroton in July 2021, that officers allegedly loaded cocaine onto an unmarked black bakkie before being stopped, and that the scene was contaminated by roughly 50 people.",
+    "url": "https://iol.co.za/news/2026-05-11-how-cops-became-suspects-in-hawks-750kg-cocaine-investigation-madlanga-commission/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": false
+   }
+  ]
+ },
+ {
+  "id": "day-103",
+  "day_number": 103,
+  "day_number_verified": true,
+  "date": "2026/05/07",
+  "weekday": "Thursday",
+  "workstream": "kzn-pktt",
+  "witnesses": [
+   {
+    "person_id": "jakobus-jeremiah-petrus-prinsloo",
+    "name": "Jakobus Jeremiah Petrus Prinsloo",
+    "role_as_described": "Retired Lieutenant Colonel, DPCI (Hawks); was Acting Unit Commander of the Serious Organised Crime Investigation unit, DPCI Port Shepstone, at the relevant time",
+    "note": "testified"
+   }
+  ],
+  "summary": "Retired Lieutenant Colonel Jakobus Prinsloo, former Acting Unit Commander of the DPCI Port Shepstone office, testified about a consignment of roughly 554kg of cocaine that Brigadier Nyuswa and Major General Senona brought to his office for storage in June 2021, despite the office having suffered repeated break-ins and lacking armed-response security. He described handing the safe keys to Brigadier Nyuswa without completing the required handover form, and being instructed by General Senona not to disclose the drugs' presence to his own staff. On 8 November 2021 the office was burgled and 541kg of the cocaine, valued at over R200 million, was stolen and never recovered; Prinsloo was later polygraph-tested for six hours as a suspect. Commissioners, including the Chairperson, pressed him on why he did not refuse to store or escalate concerns about the unsecured exhibits, and on inconsistencies with General Senona's account of who took custody of the keys.",
+  "rulings": [],
+  "exhibits": [
+   {
+    "ref": "CJC189",
+    "description": "2021 Google Earth photo of the DPCI Port Shepstone office surroundings, showing the adjacent hardware store/yard through which entry may have been gained"
+   },
+   {
+    "ref": "CJC199",
+    "description": "A3 photo album of the DPCI Port Shepstone office layout, including the strong rooms/safes"
+   },
+   {
+    "ref": "CJC200",
+    "description": "A4 list of the multiple break-in incidents at the Port Shepstone office and what was taken in each"
+   },
+   {
+    "ref": "CJC201",
+    "description": "Application(s) for armed-response security at the Port Shepstone office, showing repeated unapproved requests up to 2023"
+   },
+   {
+    "ref": "CJC202",
+    "description": "A4 list compiled by Warrant Officer Van Den Berg of the 27 sealed exhibit bags containing the cocaine consignment"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "I did not do that, Commissioner.",
+    "speaker": "Jakobus Prinsloo",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/07",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "I was not comfortable.",
+    "speaker": "Jakobus Prinsloo",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/07",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "The exhibits were never recovered .",
+    "speaker": "Jakobus Prinsloo",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/07",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "to who stole this Cocaine, members of the DPCI would be",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/07",
+    "tier_label": "REPORTING",
+    "words": 11
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/05/07",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Exhibit reference 'CJC189' could not be found in the transcript and may be misread."
+  ],
+  "reporting_context": [
+   {
+    "claim": "Mail & Guardian reported that the Madlanga Commission heard the 541kg cocaine theft from the Port Shepstone Hawks office may have been an inside job.",
+    "url": "https://mg.co.za/news/2026-05-07-madlanga-commission-hears-541kg-cocaine-theft-may-have-been-inside-job/",
+    "publisher": "Mail & Guardian",
+    "tier": 3,
+    "retrieved": "2026/09/03",
+    "partial": true
+   },
+   {
+    "claim": "Daily Maverick reported that police had let a roughly R593-per-month security contract lapse at the Hawks building before the R200 million cocaine heist, according to the retired officer's testimony.",
+    "url": "https://www.dailymaverick.co.za/article/2026-05-07-cops-let-r593-per-month-security-contract-lapse-before-r200m-cocaine-hawks-building-heist/",
+    "publisher": "Daily Maverick",
+    "tier": 3,
+    "retrieved": "2026/09/03",
+    "partial": true
+   },
+   {
+    "claim": "IOL reported on the retired Hawks officer's six-hour polygraph test and what it revealed about the circumstances of the cocaine theft.",
+    "url": "https://iol.co.za/news/2026-05-08-madlanga-commission--retired-hawks-officers-six-hour-polygraph-unveils-alarming-cocaine-theft-secrets/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-102",
+  "day_number": 102,
+  "day_number_verified": true,
+  "date": "2026/05/06",
+  "weekday": "Wednesday",
+  "workstream": "kzn-pktt",
+  "witnesses": [
+   {
+    "person_id": "maj-gen-henrik-frans-flynn",
+    "name": "Maj-Gen Henrik Frans Flynn",
+    "role_as_described": "SAPS/DPCI Major-General continuing sworn testimony (from the previous day) on the June 2021 cocaine seizure at Durban harbour, its irregular exhibit handling and SAP13 documentation, and the subsequent theft of the cocaine from Port Shepstone DPCI offices; author of a supplementary statement comparing this seizure with six other Durban-area drug busts from 2020-2022",
+    "note": "testified"
+   }
+  ],
+  "summary": "Maj-Gen Flynn's testimony continued with close examination of two newly admitted SAP13 exhibit registers (Isipingo and Port Shepstone Police Station), which he confirmed contained non-compliant, incomplete descriptions, a false 'taken for analysis' entry, and an unidentified, unranked signature for the person who purportedly received the exhibits at Port Shepstone Police Station. Flynn testified there was no properly approved DPCI SAP13 at Port Shepstone, no independent corroboration that the exhibits registered at Isipingo were the same ones later logged at Port Shepstone, and no evidence of any genuine intention to submit the cocaine to the Forensic Science Laboratory for testing. He then read his supplementary statement comparing the seizure to other 2020-2022 Durban drug busts, concluding the Port Shepstone cocaine should never have been stored there, and stated General Senona ought to have been polygraph-tested given his active role. The Chairperson postponed General Senona's subpoenaed appearance to 1 June 2026.",
+  "rulings": [
+   {
+    "description": "General Senona's subpoenaed appearance, originally set for 8 May 2026, is postponed to 1 June 2026 at 09:30, following a request from his attorneys citing limited access to his computers and records since his suspension and a scheduled SAPS labour-matter hearing on 7 May.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/06",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": "CJC193",
+    "description": "Handwritten copy of the Isipingo Police Station SAP13 register (marked 'A16' in manuscript), recording the 22 June 2021 booking-in of the seizure (entry 373: '541 x 1kg brick containing powder suspected to be Cocaine') and its book-out marked 'items taken for analysis'."
+   },
+   {
+    "ref": "CJC194",
+    "description": "Handwritten copy of the Port Shepstone Police Station SAP13 register (marked 'A3' in manuscript), showing an entry made two days later (24 June 2021, reference 883) by Warrant Officer Mpangase, an unidentified/illegible 'receiving' signature with no name, rank or date, and a further entry booking the exhibits out 'for investigation'."
+   },
+   {
+    "ref": null,
+    "description": "Seven-page supplementary statement of Maj-Gen Henrik Frans Flynn, comparing the June 2021 Port Shepstone cocaine seizure with other Durban-area drug seizures from 2020-2022, formally admitted into evidence this sitting day."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "There was non-compliance, Commissioners.",
+    "speaker": "Maj-Gen Flynn",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/06",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "this entry is a false entry",
+    "speaker": "Maj-Gen Flynn",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/06",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "Not on that date and not ever.",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/06",
+    "tier_label": "REPORTING",
+    "words": 7
+   },
+   {
+    "text": "there was never an intention to submit these drugs to FSL",
+    "speaker": "Adv Khumalo SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/06",
+    "tier_label": "REPORTING",
+    "words": 11
+   },
+   {
+    "text": "he was supposed to be exposed to the process",
+    "speaker": "Maj-Gen Flynn",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/06",
+    "tier_label": "REPORTING",
+    "words": 9
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/05/06",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [],
+  "reporting_context": [
+   {
+    "claim": "EWN reported that Maj-Gen Flynn told the Madlanga Commission that failures in crime scene management contributed to the theft of cocaine from the Port Shepstone DPCI storage facility.",
+    "url": "https://www.ewn.co.za/2026/05/06/failure-in-crime-scene-management-led-to-port-shepstone-drug-theft-flynn",
+    "publisher": "EWN",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-101",
+  "day_number": 101,
+  "day_number_verified": true,
+  "date": "2026/05/05",
+  "weekday": "Tuesday",
+  "workstream": "matlala-saps-contract",
+  "witnesses": [
+   {
+    "person_id": "maj-gen-hendrik-frans-flynn",
+    "name": "Maj-Gen Hendrik Frans Flynn",
+    "role_as_described": "Component Head: Serious Organised Crime Investigation (SOCI), DPCI (Hawks) national head office; appointed 1 September 2024, previously Provincial Commander SOCI North West",
+    "note": "testified"
+   }
+  ],
+  "summary": "The Commission opened with an application by Adv Sello SC, on behalf of the Evidence Leaders, for the Friday witness on the Port Shepstone drug theft (a matter involving 541kg of cocaine) to testify fully in camera, out of concern that public testimony would jeopardise ongoing investigations, confidential sources and potential future prosecutions. The Chairperson granted condonation for short notice and issued a rule nisi, ordering the application be served on media by 14:00 that day with a response deadline of 14:00 on 7 May 2026, to be finalised on 8 May 2026 if opposed. The Commission then began a new evidentiary stream on drug seizures, hearing sworn testimony from Maj-Gen Hendrik Flynn, DPCI Component Head for Serious Organised Crime, who gave background on DPCI structure, illicit drug trafficking methods (including the 'rip-on-rip-off' technique), and then detailed the 22 June 2021 seizure of 541kg of cocaine in Durban and its theft from the DPCI Port Shepstone strongroom between 6-8 November 2021. Flynn testified, under extensive Commissioner questioning about a sequence of security failures (improper crime scene handling, storage at Port Shepstone despite closer facilities and precedent for storing larger seizures at Isipingo, an unrenewed security contract, a non-functioning alarm, and key-control irregularities involving Maj-Gen Senona), that he believed the theft was 'by design' and not mere coincidence.",
+  "rulings": [
+   {
+    "description": "Condonation granted for the Evidence Leaders' late notice (short of the required 72 hours) of the application for in-camera testimony by the Friday witness on the Port Shepstone drug theft.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/05",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "Rule nisi issued (not a final order) on the in-camera application: to be served on media by 14:00 on 5 May 2026; media to respond by 14:00 on 7 May 2026; final order to be made 7 May 2026 if unopposed, or if opposed, a replying affidavit to be filed by 20:00 on 7 May 2026 and the application heard at 09:30 on 8 May 2026.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/05",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": "HFF1",
+    "description": "Annexure to Maj-Gen Flynn's statement (referenced when discussing an earlier topic, attached and marked as HFF1)."
+   },
+   {
+    "ref": "HFF2",
+    "description": "Annexure to Maj-Gen Flynn's statement, dated 2017 material, attached and marked as HFF2."
+   },
+   {
+    "ref": "HHF3",
+    "description": "October 2016 protocol on the search, seizure, handling, processing and disposition of illicit drugs, attached and marked as HHF3 (also referred to as HFF3)."
+   },
+   {
+    "ref": null,
+    "description": "Photographs of the 30 July 2021 one-tonne cocaine seizure at the LCS Freight Logistics Depot, Durban, including the container, cocaine bricks with syndicate logos, and a duplicate seal used in the rip-on-rip-off method; the Chairperson noted these had not yet been assigned formal exhibit numbers, which Adv Segeels-Ncube said would be done once all photographs had been shown."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "It would be a final order that we are seeking.",
+    "speaker": "Adv Sello SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/05",
+    "tier_label": "REPORTING",
+    "words": 10
+   },
+   {
+    "text": "This week, we intend to lead three witnesses.",
+    "speaker": "Adv Sello SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/05",
+    "tier_label": "REPORTING",
+    "words": 8
+   },
+   {
+    "text": "it is no coincidence and that the sequence of events is indeed",
+    "speaker": "Maj-Gen Hendrik Flynn",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/05",
+    "tier_label": "REPORTING",
+    "words": 12
+   },
+   {
+    "text": "it is by design",
+    "speaker": "Maj-Gen Hendrik Flynn",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/05",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "I do not agree with General Senona.",
+    "speaker": "Maj-Gen Hendrik Flynn",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/05",
+    "tier_label": "REPORTING",
+    "words": 7
+   },
+   {
+    "text": "That is correct, Commissioners. He basically confirms what Perumal has said",
+    "speaker": "Maj-Gen Hendrik Flynn",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/05",
+    "tier_label": "REPORTING",
+    "words": 11
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/05/05",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "A separate witness's affidavit reportedly named an attorney (Thabiso Lesufi) as representing the Friday witness in the in-camera application, per an IOL report; this is not supported by the transcript, in which Adv Sello SC told the Chairperson there was no legal representation for the Friday witness. This claim is treated as unverified/unreliable and excluded from reporting_context.",
+   "The precise monetary value (reported elsewhere as approximately R200 million) of the stolen 541kg of cocaine was not stated in this day's transcript itself."
+  ],
+  "reporting_context": [
+   {
+    "claim": "IOL reported that a witness sought in-camera testimony at the Madlanga Commission over a cocaine theft (reported as worth around R200 million) from Hawks offices in Port Shepstone, and that Maj-Gen Flynn testified the theft was intentional and that KZN Hawks head Maj-Gen Senona failed to follow proper key-management procedures at the storage facility.",
+    "url": "https://iol.co.za/news/crime-and-courts/2026-05-05-witness-seeks-closed-door-testimony-at-madlanga-commission-over-cocaine-stolen-from-kzn-hawks-offices/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": true
+   },
+   {
+    "claim": "IOL reported that Flynn testified Maj-Gen Senona improperly held the vault key to the Port Shepstone storage facility where the 541kg of cocaine disappeared, and criticised Senona for handing the key to Warrant Officer Mpangase without accompanying him, saying Senona would 'never be able to account for what transpired there in his absence'; the article also reported the facility's alarm system was reportedly discontinued in December 2020 due to non-payment.",
+    "url": "https://iol.co.za/news/2026-05-05-madlanga-commission-top-cop-criticises-hawks-handling-of-cocaine-evidence-in-port-shepstone/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-100",
+  "day_number": 100,
+  "day_number_verified": true,
+  "date": "2026/05/04",
+  "weekday": "Monday",
+  "workstream": "crime-intelligence",
+  "witnesses": [
+   {
+    "person_id": "witness-g",
+    "name": "Witness G",
+    "role_as_described": "Crime Intelligence officer with a background in MK military veterans; testifies under a pseudonym with a protected identity, addressing his history in Crime Intelligence and the alleged role of Brown Mogotsi in Crime Intelligence",
+    "note": "testified"
+   }
+  ],
+  "summary": "Sitting Day 100 opened with technical and audio difficulties that caused two adjournments before evidence leader Adv Chaskalson SC could lead the anonymised Witness G, a Crime Intelligence officer, through his statement. Witness G confirmed the correctness of successive sections of his statement covering his background, struggle history, career in Crime Intelligence, his dealings with the Commission, and (without reading them aloud) paragraphs describing suspicious deaths and apparent assassination attempts and Brown Mogotsi's alleged role in Crime Intelligence, citing fear that the content would identify him. After Witness G refused to read paragraphs 56 to 62 into the record because they named people connected to him, Chairperson Justice Madlanga ruled that the remainder of the hearing would proceed fully in camera, recalling the Commission's 24 April 2026 order that had provided for only partly in-camera testimony. The hearing was adjourned shortly after the ruling once it was noted that the feed was still audible to the public.",
+  "rulings": [
+   {
+    "description": "The Chairperson recalled the 24 April 2026 order providing for partly in-camera testimony and ruled that Witness G's evidence would henceforth be heard fully in camera, with no public or media access, after the witness said he could not read certain paragraphs into the record without risking his identity.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/04",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": null,
+    "description": "Witness G's statement and annexures (file 1)"
+   },
+   {
+    "ref": null,
+    "description": "Bundle of documents for questioning (file 2)"
+   },
+   {
+    "ref": null,
+    "description": "Letter from the Commission's attorneys to Witness G, beginning at page 23 of the bundle"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "I will be affirming, Chairperson.",
+    "speaker": "Witness G",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/04",
+    "tier_label": "REPORTING",
+    "words": 5
+   },
+   {
+    "text": "I cannot remember. I will be lying that one.",
+    "speaker": "Witness G",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/04",
+    "tier_label": "REPORTING",
+    "words": 9
+   },
+   {
+    "text": "No, I do not want to lie. I cannot.",
+    "speaker": "Witness G",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/04",
+    "tier_label": "REPORTING",
+    "words": 9
+   },
+   {
+    "text": "Everything now has to be fully in camera.",
+    "speaker": "Chairperson Justice Madlanga",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/05/04",
+    "tier_label": "REPORTING",
+    "words": 8
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/05/04",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Witness G's true identity, rank, and full career history in Crime Intelligence.",
+   "The specific suspicious deaths and apparent assassination attempts referenced in paragraphs 44-55 of the statement.",
+   "The specific details of Brown Mogotsi's alleged role in Crime Intelligence referenced in paragraphs 56-62."
+  ],
+  "reporting_context": [
+   {
+    "claim": "IOL reported that Witness G's testimony at the Madlanga Commission was moved to be heard fully in camera on Day 100 amid safety concerns.",
+    "url": "https://iol.co.za/news/crime-and-courts/2026-05-04-madlanga-commission-moves-proceedings-fully-in-camera-over-witness-g-security-concerns/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": false
+   },
+   {
+    "claim": "EWN reported that connectivity problems caused adjournments before the Madlanga Commission chairperson ruled Witness G's testimony would be heard fully in camera.",
+    "url": "https://www.ewn.co.za/2026/05/04/madlanga-commission-witness-gs-testimony-to-be-heard-in-camera",
+    "publisher": "EWN",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": false
+   },
+   {
+    "claim": "Daily Maverick reported that Witness G, a Crime Intelligence officer, discussed his November 2025 meeting with the Commission's evidence leaders and Brown Mogotsi's alleged Crime Intelligence role before proceedings went fully behind closed doors.",
+    "url": "https://www.dailymaverick.co.za/article/2026-05-04-what-witness-g-discussed-behind-madlanga-commission-doors-/",
+    "publisher": "Daily Maverick",
+    "tier": 3,
+    "retrieved": "2026/09/03",
+    "partial": false
+   }
+  ]
+ },
+ {
+  "id": "day-099",
+  "day_number": 99,
+  "day_number_verified": true,
+  "date": "2026/04/30",
+  "weekday": "Thursday",
+  "workstream": "matlala-saps-contract",
+  "witnesses": [
+   {
+    "person_id": "tshukudu-malatji",
+    "name": "Tshukudu Malatji",
+    "role_as_described": "Director, Tshwane Metro Police Department (TMPD), Asset Protection and Security Services (APSS); currently on suspension and facing an internal disciplinary process",
+    "note": "testified"
+   }
+  ],
+  "summary": "Before Director Tshukudu Malatji could resume testimony, his attorney Mr Nkosi applied for a postponement, citing a 418-page tender bundle, a 122-page bundle (extracts of Phiri's and Mnisi's testimony, correspondence, a CDR Tshwane contract analysis) and further documents served at 23:52 the previous night. The Commission refused the postponement but adjourned until 11:30am so Malatji and his attorneys could review the specific material the evidence leader intended to use. Malatji then resumed testimony on ad hoc security deployments to Gubis85 Solutions, Triotic and Mogalagadi, and on his failure to promptly cancel those services when instructed by Deputy Commissioner Spies in March 2025; under sustained questioning from the Chairperson and Commissioners Baloyi and Khumalo, he was confronted with emails showing he had personally authorised deployment at two sites in January 2025 and had signed at least one Gubis85 invoice in February 2025, in tension with earlier denials of awareness. Testimony was not completed; re-examination was postponed to a date to be advised, with Malatji's attorney directed to file, by 5 May 2026, an indication of what he intends to re-examine on.",
+  "rulings": [
+   {
+    "description": "Application by Mr Nkosi, for Director Malatji, to postpone the day's proceedings on grounds of late and voluminous documentation was refused; the Commission instead adjourned to 11:30am to give Malatji and his legal team time to review the specific documents the evidence leader intended to rely on.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/30",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "Re-examination of Director Malatji could not be completed on the day and was postponed to a date to be advised; Mr Nkosi was directed to file, by 5 May 2026, an indication of what he intends to re-examine on, and the inquiry adjourned to resume on Monday 4 May 2026.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/30",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": "ST1-ST12",
+    "description": "Annexures to Director Malatji's supplementary statement, including email trails on ad hoc security services, invoices and correspondence."
+   },
+   {
+    "ref": "ST5",
+    "description": "City of Tshwane standing operating procedure (SOP) dated 23 January 2023 governing ad hoc security deployments, at page 34 of Malatji's supplementary statement."
+   },
+   {
+    "ref": "ST6",
+    "description": "Termination letter for ad hoc services to Gubis85, Triotic and Mogalagadi, drafted by Malatji and signed by Commissioner Spies."
+   },
+   {
+    "ref": null,
+    "description": "418-page bundle for TMPD tender TMPD 2-2015/2016, served on Malatji's attorneys the day before the sitting."
+   },
+   {
+    "ref": null,
+    "description": "122-page bundle comprising extracts of Phiri's and Mnisi's testimony/statements, correspondence, a CDR Tshwane contract analysis and contract summary."
+   },
+   {
+    "ref": null,
+    "description": "Probity report on tender TMPD-3, including a finding that Malatji did not submit a scoresheet at the 28-29 May 2025 BEC evaluation meeting."
+   },
+   {
+    "ref": null,
+    "description": "A Gubis85 invoice from June 2024, stamped and signed by Director Malatji on 26 February 2025, displayed to the witness on screen."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "It is simply false.",
+    "speaker": "Adv Khumalo SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/30",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "I did not know.",
+    "speaker": "Director Malatji",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/30",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "So why do you not take us to the actual response?",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/30",
+    "tier_label": "REPORTING",
+    "words": 11
+   },
+   {
+    "text": "The application for a postponement is refused.",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/30",
+    "tier_label": "REPORTING",
+    "words": 7
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/04/30",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Mr Nkosi's claim that a written response by Malatji to Commissioner Spies' email requesting justification for ad hoc services costs exists; Malatji said such a response exists but could not produce it on the transcript.",
+   "The precise total cost of ad hoc services attributable to non-compliance (R50 million and R96 million figures cited by Commissioners Khumalo and Sikhakhane) was derived from Malatji's own annexures during the hearing but not independently confirmed on this transcript."
+  ],
+  "reporting_context": [
+   {
+    "claim": "SABC News reported that the Madlanga Commission rejected Director Malatji's application for a postponement of his testimony.",
+    "url": "https://www.sabcnews.com/sabcnews/commission-rejects-malatjis-application-for-a-postponement/",
+    "publisher": "SABC News",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": false
+   },
+   {
+    "claim": "EWN reported on the suspended Tshwane security boss (Malatji) returning to testify before the Madlanga Commission on 30 April 2026.",
+    "url": "https://www.ewn.co.za/2026/04/30/madlanga-commission-suspended-tshwane-security-boss-back-in-the-hot-seat",
+    "publisher": "EWN",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": false
+   }
+  ]
+ },
+ {
+  "id": "day-098",
+  "day_number": 98,
+  "day_number_verified": true,
+  "date": "2026/04/28",
+  "weekday": "Tuesday",
+  "workstream": "matlala-saps-contract",
+  "witnesses": [
+   {
+    "person_id": "deputy-chief-dhlamini",
+    "name": "Deputy Chief Dhlamini",
+    "role_as_described": "Tshwane Metropolitan Police Department (TMPD) Deputy Chief, questioned about tender/procurement communications involving Sergeant Nkosi, a CFO, a person referred to as \"Nico\", and bidders Ngaphesheya and Gubis",
+    "note": "testified"
+   }
+  ],
+  "summary": "Deputy Chief Dhlamini of the Tshwane Metropolitan Police Department continued under examination by Adv Chaskalson SC (with questions also from Adv Baloyi SC and Adv Khumalo SC) about WhatsApp and phone communications concerning municipal tenders TMPD-1 and TMPD-3, his role connecting bidder Ngaphesheya, an official referred to as \"Nico\", Sergeant Nkosi and a CFO, a meeting with security-services bidder Gubis, and TMPD recruitment/appointment queries he says he only relayed rather than influenced. Mid-afternoon, evidence leaders raised that Brown Mogotsi's legal team intends to apply for the recusal of Adv Chaskalson SC as evidence leader in Mogotsi's matter; the Chairperson set a filing timetable and postponed Mogotsi's testimony and the recusal application to 15 May 2026. The day closed with further cross-examination of Deputy Chief Dhlamini, including on newly disclosed cell phone records and Gubis invoicing/purchase-order documents, and a direction for him to file a supplementary affidavit.",
+  "rulings": [
+   {
+    "description": "Mogotsi's substantive recusal application (against evidence leader Adv Chaskalson SC) must be filed by close of business 29 April 2026; Chaskalson's answering affidavit by 6 May 2026; Mogotsi's replying affidavit by 11 May 2026; the recusal application will be argued and Mr Mogotsi's testimony will resume on 15 May 2026.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/28",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "Deputy Chief Dhlamini directed to file a supplementary affidavit regarding the newly disclosed cell phone records by no later than 4 May 2026.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/28",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": "File 4, p.448-449",
+    "description": "WhatsApp chat messages (chats 6-8) from Sergeant Nkosi to Deputy Chief Dhlamini referencing Ngaphesheya's bid grading and a request to correct documents"
+   },
+   {
+    "ref": "File 4, p.466 / p.566",
+    "description": "Termination letter from Deputy Chief Spies ending Gubis's provision of security services at a range of Tshwane sites, forwarded by Sergeant Nkosi to Dhlamini"
+   },
+   {
+    "ref": "additional documents bundle, p.451, 540-544, 554",
+    "description": "Job-application receipts and a generic City of Tshwane recruitment portal letter, put to Dhlamini regarding TMPD cashier and administrative officer posts"
+   },
+   {
+    "ref": "bundle 5, p.17-34",
+    "description": "Gubis statement of account and seven Rooiwal Water Treatment Plant ad hoc services invoices, and a retrospectively created purchase order (4501267280, dated 6 March 2025), put to Dhlamini by Adv Khumalo SC"
+   },
+   {
+    "ref": null,
+    "description": "Video recording played back to the Commission, said by the Deputy Chief to be what his message was responding to"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "Ngaphesheya is Grade B and has nothing in the documents.",
+    "speaker": "Sergeant Nkosi (quoted message)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/28",
+    "tier_label": "REPORTING",
+    "words": 10
+   },
+   {
+    "text": "I am not a conduit.",
+    "speaker": "Deputy Chief Dhlamini",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/28",
+    "tier_label": "REPORTING",
+    "words": 5
+   },
+   {
+    "text": "Mr Mogotsi was due to be recalled today.",
+    "speaker": "Adv Chaskalson SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/28",
+    "tier_label": "REPORTING",
+    "words": 8
+   },
+   {
+    "text": "It was on the media that I am not around",
+    "speaker": "Mr Mogotsi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/28",
+    "tier_label": "REPORTING",
+    "words": 10
+   },
+   {
+    "text": "It ought really to have been filed before today",
+    "speaker": "Adv Chaskalson SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/28",
+    "tier_label": "REPORTING",
+    "words": 9
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/04/28",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "The commission's spokesperson's on-the-record comment (reported by Daily Maverick) that Adv Chaskalson SC 'rejects the assertion by Mr Mogotsi that he has behaved unfairly or improperly' does not appear in this transcript and is sourced only to press reporting."
+  ],
+  "reporting_context": [
+   {
+    "claim": "Brown Mogotsi's legal representatives filed an application seeking the recusal of chief evidence leader Adv Matthew Chaskalson SC from leading his testimony, with a filing timetable set (application by 29 April, Chaskalson's response by 6 May, reply by 11 May) and Mogotsi's testimony postponed to 15 May 2026.",
+    "url": "https://iol.co.za/news/2026-04-28-madlanga-commission-brown-mogotsi-looks-to-block-advocate-matthew-chaskalson-from-leading-his-testimony/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": false
+   },
+   {
+    "claim": "Brown Mogotsi's counsel filed an eleventh-hour application for the withdrawal of evidence leader Chaskalson ahead of scheduled cross-examination on SAPS-related corruption and political interference allegations; Justice Madlanga postponed the testimony to 15 May to allow the application to proceed.",
+    "url": "https://www.dailymaverick.co.za/article/2026-04-28-ahead-of-cross-examination-at-madlanga-commission-brown-mogotsi-seeks-evidence-leaders-recusal-/",
+    "publisher": "Daily Maverick",
+    "tier": 3,
+    "retrieved": "2026/09/03",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-097",
+  "day_number": 97,
+  "day_number_verified": true,
+  "date": "2026/04/24",
+  "weekday": "Friday",
+  "workstream": "political-interference",
+  "witnesses": [
+   {
+    "person_id": "deputy-chief-dhlamini",
+    "name": "Deputy Chief Dhlamini",
+    "role_as_described": "Deputy Chief, Tshwane Metropolitan Police Department (TMPD), responsible for the Support and Administration Division (Management and Administrative Support, Policing Logistics Support, Administration Bureau, Internal Affairs)",
+    "note": "testified"
+   }
+  ],
+  "summary": "Day 97 continued the cross-examination of TMPD Deputy Chief Dhlamini, centred on WhatsApp exchanges between him, Sergeant Nkosi and the Tshwane CFO concerning tender TMPD1-24/25, a land-invasion/demolition security tender, and a purported 'mandate' relayed via an intermediary called Nico to the Bid Evaluation Committee chair to favour seven companies including Ngaphesheya and Elshadai. Chaskalson SC and Commissioners Baloyi SC and Khumalo SC repeatedly challenged Dhlamini's explanation that the messages concerned checking bid 'compliance' rather than rigging the tender, pointing out that the wording of the texts (e.g. 'our vehicles for land... in order of priority') did not match his account and that a compliance check made no sense five months after the bids had closed. The hearing also touched on an alleged instance of political-party interference in the tender (references to the EFF/'Red Berets' and ActionSA) and on Dhlamini's refusal, pending his brothers' consent, to disclose the scale of his family's taxi business. The Commission adjourned for the long weekend, to resume 28 April 2026.",
+  "rulings": [],
+  "exhibits": [
+   {
+    "ref": "File 5, pages 1-34",
+    "description": "Invoice tracking sheets, summary sheets and invoices for ad hoc security service providers Triotic, Kgalagadi and Gubis, plus related correspondence over non-payment"
+   },
+   {
+    "ref": "File 5, pages 35-67",
+    "description": "Screenshots of the City of Tshwane's tender/bid register webpage, a bid committee (BEC) submission for an unrelated tender, and Dhlamini's covering email, submitted to contrast a confidential BEC document with the public bid register"
+   },
+   {
+    "ref": "File 1, annexure page 155-157",
+    "description": "TMPD organogram showing the four directorates under Dhlamini's Support and Administration Division"
+   },
+   {
+    "ref": "File 4, pages 431-440",
+    "description": "WhatsApp chats between Dhlamini and Sergeant Nkosi (South African time) referencing 'the two vehicles for land' (Ngaphesheya and Elshadai), 'the list of preferred people for demolition', and 'our vehicles for land to be given Mfowethu in order of priority'"
+   },
+   {
+    "ref": "File 3, pages 148-154",
+    "description": "WhatsApp chats between Sergeant Nkosi and the CFO (UTC timestamps, +2 hours for SA time) showing the same lists being forwarded and calls clustered around each exchange"
+   },
+   {
+    "ref": "page 525",
+    "description": "List of seven companies described by Dhlamini as the 'mandate' Nico said he gave to BEC chair Victor Kgopa"
+   },
+   {
+    "ref": null,
+    "description": "A further document produced by Dhlamini during the tea adjournment, described by him as an email relating to HR/recruitment matters, deferred to be dealt with later"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "I do not think that it is relevant",
+    "speaker": "Deputy Chief Dhlamini",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/24",
+    "tier_label": "REPORTING",
+    "words": 8
+   },
+   {
+    "text": "No, no, that does not make sense.",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/24",
+    "tier_label": "REPORTING",
+    "words": 7
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/04/24",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Deputy Chief Dhlamini's full first name is not stated in the portions of the transcript reviewed; a Tier 2 news report names him as 'Umashi Dhlamini'.",
+   "Whether Dhlamini was formally re-sworn on this sitting day is not shown in the transcript; his testimony appears to continue from a prior appearance.",
+   "The CFO's full name (given in news coverage as Gareth Mnisi) is not stated in the transcript excerpts reviewed; he is referred to throughout only as 'Mfowethu' or 'the CFO'."
+  ],
+  "reporting_context": [
+   {
+    "claim": "EWN reported that suspended TMPD Deputy Chief Umashi Dhlamini denied interfering in tender processes at the Madlanga Commission, denied any dealings with Tshwane CFO Gareth Mnisi despite WhatsApp messages suggesting otherwise, and was questioned about a tender involving Ngaphesheya (linked to Sergeant Fannie Nkosi's brother).",
+    "url": "https://www.ewn.co.za/2026/04/25/suspended-tmpd-deputy-denies-interfering-in-tender-processes",
+    "publisher": "EWN",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": false
+   },
+   {
+    "claim": "IOL reported that Commissioner Khumalo told Dhlamini 'What you're telling and what the WhatsApps say are miles apart', reflecting the Commission's scepticism about his account of the tender-related WhatsApp exchanges.",
+    "url": "https://iol.co.za/news/2026-04-25-what-youre-telling-us-are-miles-apart-dhlamini-faces-tough-questions-at-madlanga-commission/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-096",
+  "day_number": 96,
+  "day_number_verified": true,
+  "date": "2026/04/23",
+  "weekday": "Thursday",
+  "workstream": "matlala-saps-contract",
+  "witnesses": [
+   {
+    "person_id": "lebogang-andrew-phiri",
+    "name": "Lebogang Andrew Phiri",
+    "role_as_described": "Major, Asset Protection and Security Services (APSS), Tshwane Metro Police Department (TMPD); described himself as holding 'overall coordination and command' over ad hoc municipal security deployments; municipal employee since 2008; currently suspended from official duties",
+    "note": "testified"
+   }
+  ],
+  "summary": "Major Lebogang Andrew Phiri of TMPD's Asset Protection and Security Services gave sworn testimony on his role in the ad hoc deployment of Gubis85 Solutions to guard vandalised Tshwane water and pump infrastructure from January 2025, walking through email chains he said gave him authority via Director Tshukudu Malatji, while evidence leaders put to him that his open-ended deployment letters covered far more sites than authorised and effectively converted an emergency measure into an indefinite, multi-million-rand appointment. The Commission also put subpoenaed bank records to Phiri tracing payments into his personal accounts from companies and individuals linked to Gubis85 (via William Masupye and Calvin Mahlangu) and from associates of Ramalepe Security Services, another City of Tshwane security contractor, which Phiri explained as informal loans and 'side hustle' dealings rather than benefits from service providers. Deputy Chief Dhlamini's scheduled testimony was not reached and the matter was postponed to 24 April 2026.",
+  "rulings": [
+   {
+    "description": "Major Phiri was directed to file a supplementary statement by the following Wednesday accounting for the discrepancy between the 19 sites listed in Herman Segolela's email and the roughly 38 sites covered by his own deployment letters to Gubis85.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/23",
+    "tier_label": "RULING"
+   },
+   {
+    "description": "Deputy Chief Dhlamini, whose testimony could not be reached, was excused and directed to appear at 9:30 the next day to resume his evidence.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/23",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": "LA01/LA02",
+    "description": "Email chain (November 2024 - January 2025) among Herman Segolela, Director Tshukudu Malatji and Dr Elvis Madihlaba concerning security deployment requests for vandalised water and pump infrastructure, including Malatji's instruction to 'get Phiri to run with the process'"
+   },
+   {
+    "ref": "LA02 (page 3 of annexures)",
+    "description": "5 May 2023 memo from Nava Pillay on security preparedness for IDP/budget community consultations, listing Phiri for 'overall coordination and command'; tendered by Phiri as proof of his authority but conceded to relate only to that specific event"
+   },
+   {
+    "ref": "LA05",
+    "description": "7 January 2025 email from Director Malatji instructing deployment of armed guards to Klapperkop and Brickfield pump stations, copying Gubis85 staff"
+   },
+   {
+    "ref": null,
+    "description": "Deployment letters signed by Phiri, dated 14 January 2025 and effective 15 January 2025, covering approximately 38 sites allocated to Gubis85 with no stated end date"
+   },
+   {
+    "ref": null,
+    "description": "Director Tshukudu Malatji's sworn statement, paragraph 24, denying he delegated allocation authority to Phiri or approved Gubis85's allocation"
+   },
+   {
+    "ref": null,
+    "description": "23 January 2023 memo from Malatji and Nava Pillay setting out the standard operating procedure for acquiring additional security services, including the purchase-order process"
+   },
+   {
+    "ref": null,
+    "description": "Subpoenaed bank records tracing a R150,000 payment (referenced 'stationary refund') into Phiri's ABSA account from Gabotje Logistics, a company directed by William Masupye, who is also employed by Gubis85"
+   },
+   {
+    "ref": null,
+    "description": "Subpoenaed bank records showing Gubis85 director Calvin Mahlangu making substantial payments into Gabotje Logistics and Papador (Pty) Ltd, both entities linked to William Masupye"
+   },
+   {
+    "ref": null,
+    "description": "Bank statement showing a R35,000 payment to Phiri referenced 'FirstRand Papi', traced via subpoenaed records to Papador (Pty) Ltd"
+   },
+   {
+    "ref": null,
+    "description": "Bank records and a Ramalepe Security Services employee list showing Phiri transferred roughly R1.3 million to Aluwani Makhuwa and associates, including R300,000 paid directly into Ramalepe's own account"
+   },
+   {
+    "ref": null,
+    "description": "1 February 2022 City of Tshwane letter appointing Ramalepe Security and Cleaning Services under the TMPD 02-2016/2017 tender pursuant to a court order"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "Please get Phiri to run with the process and let us monitor the progress.",
+    "speaker": "Tshukudu Malatji (email read into record)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/23",
+    "tier_label": "REPORTING",
+    "words": 14
+   },
+   {
+    "text": "I did not just wake up and become a rogue inspector at that time",
+    "speaker": "Lebogang Andrew Phiri",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/23",
+    "tier_label": "REPORTING",
+    "words": 14
+   },
+   {
+    "text": "I categorically deny this allegation.",
+    "speaker": "Lebogang Andrew Phiri",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/23",
+    "tier_label": "REPORTING",
+    "words": 5
+   },
+   {
+    "text": "This statement is incorrect and malicious.",
+    "speaker": "Lebogang Andrew Phiri",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/23",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "I do not have an answer to that question either.",
+    "speaker": "Chairperson",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/23",
+    "tier_label": "REPORTING",
+    "words": 10
+   },
+   {
+    "text": "I do not agree, because I gave an explanation.",
+    "speaker": "Lebogang Andrew Phiri",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/23",
+    "tier_label": "REPORTING",
+    "words": 9
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/04/23",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Whether the payments Phiri received (R150,000, R35,000, and others) genuinely originated, even indirectly, from Gubis85 funds was disputed by Phiri and not resolved on the record.",
+   "The existence and content of a memorandum Phiri said set out APSS's exclusive authority to allocate security service providers (which he said he could not locate) was not produced or verified.",
+   "Phiri's account that the individuals he paid via Ramalepe's bank account (Janki and Maluleka) were personal borrowers rather than the company itself was disputed by evidence leaders and not resolved."
+  ],
+  "reporting_context": []
+ },
+ {
+  "id": "day-095",
+  "day_number": 95,
+  "day_number_verified": true,
+  "date": "2026/04/22",
+  "weekday": "Wednesday",
+  "workstream": "matlala-saps-contract",
+  "witnesses": [
+   {
+    "person_id": "brigadier-mbangwa-abraham-nkhwashu",
+    "name": "Brigadier Mbangwa Abraham Nkhwashu",
+    "role_as_described": "Deputy District Commissioner, Sedibeng district, SAPS; acted as District Commissioner in the absence of the substantive incumbent",
+    "note": "testified"
+   }
+  ],
+  "summary": "Brigadier Mbangwa Abraham Nkhwashu, Deputy District Commissioner for Sedibeng, testified about his family relationship (through Mpondo custom) to Fundiswa Nyangule, the customary wife of implicated person Katiso 'KT' Molefe, and his resulting first meeting with Molefe in June 2024. He described Molefe raising a friend's bail at that meeting, his own account of mentioning this at a stokvel gathering attended by Sergeant Lebogang Tshukudu, and denied instructing or authorising Tshukudu to contact the investigating officer (Witness B) about Michael Pule Tau's bail. He gave his account of collecting case dockets under a Provincial Commissioner instruction linked to the Premier's Wanted Suspects Project, his recusal from and authorisation of the transfer of the Armand Swart murder docket to the Provincial Organised Crime Unit, two visits to Katiso Molefe at Groenpunt Correctional Centre (December 2024 and February 2025), his denial of removing a vehicle's number plate, and his lending of a Ford Raptor to Nyangule. Commissioners repeatedly challenged inconsistencies between his oral evidence and his written statements, including his account of what he told the area commissioner, Mr Mkhaliphi, about Molefe's whereabouts, and put to him that contemporaneous affidavits from other witnesses were likely more reliable than his year-and-a-half-later recollection.",
+  "rulings": [],
+  "exhibits": [
+   {
+    "ref": "CJC184",
+    "description": "Statement of Sergeant Lebogang Tshukudu, referenced regarding the stokvel conversation and alleged approach to the investigating officer on Tau's bail"
+   },
+   {
+    "ref": "CJC185",
+    "description": "Reference material put to the Brigadier during cross-examination"
+   },
+   {
+    "ref": "CJC187",
+    "description": "Email correspondence (from page 27) regarding the request for J50 warrant-of-arrest dockets under the 'Premier's Wanted Suspects Project', including the district distribution list and Nkhwashu as recipient"
+   },
+   {
+    "ref": "CJC188",
+    "description": "Document put to the Brigadier during questioning on the docket-collection instruction"
+   },
+   {
+    "ref": "CJC190",
+    "description": "Document referenced late in cross-examination"
+   },
+   {
+    "ref": "CJC192",
+    "description": "Response letter from the Provincial Commissioner's office, including annexures (email to districts and list of dockets) obtained after the Brigadier said he could not access his own emails"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "I am just referring it to Commissioner Baloyi, because I am Shangaan",
+    "speaker": "Brigadier Nkhwashu",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/22",
+    "tier_label": "REPORTING",
+    "words": 12
+   },
+   {
+    "text": "Swaer, me I do not talk work related cases with anyone",
+    "speaker": "Brigadier Nkhwashu",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/22",
+    "tier_label": "REPORTING",
+    "words": 11
+   },
+   {
+    "text": "ngiyi suspect into that particular matter",
+    "speaker": "Brigadier Nkhwashu",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/22",
+    "tier_label": "REPORTING",
+    "words": 6
+   },
+   {
+    "text": "This is not a matter of personal choice",
+    "speaker": "Brigadier Nkhwashu",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/22",
+    "tier_label": "REPORTING",
+    "words": 8
+   },
+   {
+    "text": "I am not the criminal that the media suggests",
+    "speaker": "Brigadier Nkhwashu",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/22",
+    "tier_label": "REPORTING",
+    "words": 9
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/04/22",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "The precise identity and current whereabouts of the described 'Witness B' (the Tau investigating officer) and 'Witness C' are not established from this transcript excerpt beyond their designations.",
+   "Details of the Ford Raptor purchase/finance arrangement referenced late in the transcript (dealership Omars Motors) were only partially covered in the portions read."
+  ],
+  "reporting_context": [
+   {
+    "claim": "Nkhwashu told the Commission he rejected Katiso 'KT' Molefe's request for assistance with the bail of an alleged hitman (a reference to Michael Pule Tau).",
+    "url": "https://www.ewn.co.za/2026/04/22/nkhwashu-says-he-rejected-katiso-kt-molefes-request-to-assist-with-bail-of-alleged-hitman",
+    "publisher": "EWN",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": false
+   },
+   {
+    "claim": "Nkhwashu defended his prison visits to Katiso Molefe amid the murder allegations against Molefe.",
+    "url": "https://iol.co.za/news/2026-04-22-madlanga-commission--nkhwashu-defends-prison-visit-to-katiso-molefe-amid-murder-allegations/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": false
+   },
+   {
+    "claim": "Reporting described Nkhwashu as a top Sedibeng police officer who denies trying to help his murder-charged brother-in-law KT Molefe.",
+    "url": "https://www.dailymaverick.co.za/article/2026-04-22-top-sedibeng-cop-denies-trying-to-help-murder-charged-brother-in-law-kt-molefe/",
+    "publisher": "Daily Maverick",
+    "tier": 3,
+    "retrieved": "2026/09/03",
+    "partial": false
+   },
+   {
+    "claim": "Nkhwashu testified he coordinated aspects related to Tau's arrest and said he 'did not agree' to Molefe's request.",
+    "url": "https://www.timeslive.co.za/news/south-africa/2026-04-22-nkhwashu-co-ordinated-tau-arrest-and-did-not-agree-to-molefes-request/",
+    "publisher": "TimesLIVE",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": false
+   }
+  ]
+ },
+ {
+  "id": "day-094",
+  "day_number": 94,
+  "day_number_verified": true,
+  "date": "2026/04/21",
+  "weekday": "Tuesday",
+  "workstream": "matlala-saps-contract",
+  "witnesses": [
+   {
+    "person_id": "gareth-mnisi",
+    "name": "Gareth Mnisi",
+    "role_as_described": "City of Tshwane official who chaired the Bid Adjudication Committee (BAC) for TMPD tenders and describes himself as engaging the Tshwane Metro Police Department's 'Chief of Police' and Supply Chain Management divisional heads on tender matters; continuing cross-examination from the previous sitting day. Contemporaneous Tier 2 reporting identifies him as the City of Tshwane's suspended Chief Financial Officer, a detail not itself stated in the transcript excerpts reviewed.",
+    "note": "testified"
+   }
+  ],
+  "summary": "Mr Mnisi's cross-examination by Adv Chaskalson SC continued into a further day, focused on Tshwane Metro Police Department (TMPD) tenders TMPD-1 and TMPD-3, the City's document-control processes, and delays in paying a security contractor's invoices. Chaskalson put to Mnisi that a pattern of indirect WhatsApp communication between him and a Deputy Chief Dhlamini (routed through a Sergeant) mirrored a similar indirect-communication pattern seen elsewhere in the Commission's evidence involving General Sibiya, Sergeant Nkosi, Mr Vusimuzi 'Cat' Matlala and Mr Steven Motsumi, suggesting it served to avoid leaving a direct trace. Commissioners, including Commissioner Baloyi, also questioned Mnisi directly, including on the BAC's authority to invalidate a tender over a flawed bid specification. Chaskalson concluded his questioning with no further questions, and the Commission adjourned to allow the witness's legal team and evidence leaders to agree a date for re-examination.",
+  "rulings": [],
+  "exhibits": [
+   {
+    "ref": null,
+    "description": "Minutes of a Bid Adjudication Committee meeting chaired by Mnisi on 23 October 2025 in relation to tender TMPD-3, recording that six documents were lost during relocation of documents and that safeguarding controls should be implemented (File 2, page 429)."
+   },
+   {
+    "ref": "GM23",
+    "description": "Email correspondence (referenced as GM23 in Mnisi's bundle) concerning unpaid invoices owed to a TMPD-linked contractor, escalated by Mnisi on 7 February to Mr Tshukudu Malatji with Cain copied."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "My answer is that I do not agree with you.",
+    "speaker": "Gareth Mnisi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/21",
+    "tier_label": "REPORTING",
+    "words": 10
+   },
+   {
+    "text": "I accept that we saw instances of that nature",
+    "speaker": "Gareth Mnisi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/21",
+    "tier_label": "REPORTING",
+    "words": 9
+   },
+   {
+    "text": "relieved, as I am, to hear that I have no further questions.",
+    "speaker": "Adv Chaskalson SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/21",
+    "tier_label": "REPORTING",
+    "words": 12
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/04/21",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Mnisi's exact job title (reported externally as Chief Financial Officer of the City of Tshwane, and as suspended) is not explicitly stated in the transcript passages reviewed; he refers only to his role chairing the BAC and engaging Supply Chain Management and 'the Chief of Police'.",
+   "Full name and role of 'Deputy Chief Dhlamini' referenced in the WhatsApp-communication comparison were not independently confirmed beyond the transcript's own references."
+  ],
+  "reporting_context": [
+   {
+    "claim": "IOL reported that on 21 April 2026 the Madlanga Commission heard evidence putting Tshwane Metro Police under scrutiny over R2.9 billion in tender fraud allegations, consistent with this sitting day's TMPD tender evidence.",
+    "url": "https://iol.co.za/news/2026-04-21-madlanga-commission-tshwane-metro-police-faces-scrutiny-over-r29-billion-tender-fraud-allegations/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": true
+   }
+  ]
+ },
+ {
+  "id": "day-093",
+  "day_number": 93,
+  "day_number_verified": true,
+  "date": "2026/04/20",
+  "weekday": "Monday",
+  "workstream": "political-interference",
+  "witnesses": [
+   {
+    "person_id": "mr-gareth-mnisi",
+    "name": "Mr Gareth Mnisi",
+    "role_as_described": "Chief Financial Officer of the City of Tshwane and Chairperson of the City's Bid Adjudication Committee (BAC), continuing cross-examination on the TMPD 1-24/25 security tender and his WhatsApp exchanges with Sergeant Fannie Nkosi and Deputy Chief Dhlamini",
+    "note": "testified"
+   }
+  ],
+  "summary": "The Commission continued its cross-examination of Tshwane CFO and BAC Chairperson Gareth Mnisi on the TMPD 1-24/25 security tender, focusing on WhatsApp messages in which Sergeant Fannie Nkosi repeatedly sent him lists of preferred bidding security companies, including two that ultimately won awards. Mnisi maintained he understood the requests only as (misguided) asks to check bid compliance, which he says he never did, but Commissioners and Evidence Leader Chaskalson SC challenged this account as implausible given his thanking Nkosi, arranging meetings, and telling him 'I am on top of this.' Questioning also covered a forwarded message referencing a list attributed to 'CIC (Juju)' (Julius Malema), which Mnisi denied related to him, and a separate WhatsApp in which Mnisi appears to alert a bidder ('Bheki') to a new tender and offer to 'regroup', which Commissioner Baloyi SC suggested was improper for a BAC chairperson. The Chairperson put to Mnisi that his conduct suggested cooperation with Nkosi rather than mere friendship, which Mnisi denied, saying he was 'playing along' to avoid conflict.",
+  "rulings": [
+   {
+    "description": "After Adv Van den Heever SC (for Mnisi) objected that Evidence Leader Chaskalson SC should not question the witness on the content of a forwarded screenshot without producing the underlying article, and separately raised concern that the bundle does not indicate which messages were genuinely forwarded, the Chairperson allowed the question to proceed while also permitting Mnisi to explain, and directed counsel to discuss the forwarding-metadata dispute between themselves over the tea adjournment.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/20",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": "Bundle 3, p.148-178",
+    "description": "WhatsApp chat record between Mr Mnisi and Sergeant Nkosi concerning lists of security companies bidding for TMPD 1-24/25 (Ngaphesheya, Elshadai, and others)"
+   },
+   {
+    "ref": "Annexure GM2/GM3",
+    "description": "Documents attached to Mnisi's sworn statement relating to outstanding Gubis invoices escalated through supply chain management"
+   },
+   {
+    "ref": "Annexure GM13",
+    "description": "TMPD-1 tender specification/mandatory requirements document discussed in detail regarding rates-and-taxes compliance for companies and directors"
+   },
+   {
+    "ref": "p.444 of bundle",
+    "description": "Chat referencing 'Bheki' and a message from Mnisi about a further tender, cited in questioning about a possible additional instance of alerting a bidder"
+   }
+  ],
+  "quotes": [
+   {
+    "text": "He was of course wrong",
+    "speaker": "Mr Mnisi (read from his sworn statement by Adv Chaskalson SC)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/20",
+    "tier_label": "REPORTING",
+    "words": 5
+   },
+   {
+    "text": "Thanks, my bro.",
+    "speaker": "Mr Mnisi (WhatsApp message to Sergeant Nkosi)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/20",
+    "tier_label": "REPORTING",
+    "words": 3
+   },
+   {
+    "text": "Thanks, Mfowethu. I am on top of this.",
+    "speaker": "Mr Mnisi (WhatsApp message to Sergeant Nkosi)",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/20",
+    "tier_label": "REPORTING",
+    "words": 8
+   },
+   {
+    "text": "It is human nature, Mr Mnisi.",
+    "speaker": "Adv Khumalo SC",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/20",
+    "tier_label": "REPORTING",
+    "words": 6
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/04/20",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Spelling of the Deputy Chief's surname is inconsistent in the transcript (both 'Dhlamini' and 'Dlamini' appear); could not confirm the correct spelling from this day's record alone.",
+   "Mr Mnisi's suspension from his CFO role (reported by outside media) is not itself addressed in this day's transcript excerpts reviewed.",
+   "Exhibit reference 'Annexure GM13' could not be found in the transcript and may be misread."
+  ],
+  "reporting_context": [
+   {
+    "claim": "EWN reported that suspended Tshwane CFO Gareth Mnisi was grilled at the Madlanga Commission over Sergeant Fannie Nkosi's tender list.",
+    "url": "https://www.ewn.co.za/2026/04/20/madlanga-commission-suspended-tshwane-cfo-mnisi-grilled-over-sergeant-fannie-nkosis-tender-list",
+    "publisher": "EWN",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": false
+   },
+   {
+    "claim": "IOL reported that Tshwane CFO Gareth Mnisi denied any link between EFF leader Julius Malema and the security tender allegations put to him at the Commission on 20 April 2026.",
+    "url": "https://iol.co.za/news/2026-04-20-tshwane-cfo-gareth-mnisi-denies-julius-malema-link-to-security-tender-allegations-madlanga-commission/",
+    "publisher": "IOL",
+    "tier": 2,
+    "retrieved": "2026/09/03",
+    "partial": false
+   },
+   {
+    "claim": "Daily Maverick reported on Mnisi's testimony that he was 'just huffing and puffing and playing along' with Sergeant Nkosi's requests, per the inquiry.",
+    "url": "https://www.dailymaverick.co.za/article/2026-04-20-suspended-city-of-tshwane-cfo-was-just-huffing-and-puffing-and-playing-along-inquiry-hears/",
+    "publisher": "Daily Maverick",
+    "tier": 3,
+    "retrieved": "2026/09/03",
+    "partial": false
+   }
+  ]
+ },
+ {
+  "id": "day-092",
+  "day_number": 92,
+  "day_number_verified": true,
+  "date": "2026/04/17",
+  "weekday": "Friday",
+  "workstream": "matlala-saps-contract",
+  "witnesses": [
+   {
+    "person_id": "gareth-trevor-mandisi-mnisi",
+    "name": "Gareth Trevor Mandisi Mnisi",
+    "role_as_described": "Chief Financial Officer, City of Tshwane Metropolitan Municipality",
+    "note": "testified"
+   }
+  ],
+  "summary": "Tshwane CFO Gareth Mnisi was sworn in and led through his statement and supplementary statement responding to a Regulation 10(6) notice about his relationship with SAPS Sergeant Fannie Nkosi, describing it as a close personal friendship formed during his divorce, while denying any payment, benefit, business relationship, or improper influence involving Nkosi, Nkosi's brother's company Ngaphesheya, or a list of security companies and other implicated individuals including Vusimuzi 'Cat' Matlala. He walked the Commission in detail through the City's TMPD 01/2024-25 security tender process (bid specification, evaluation, adjudication and an independent probity review), which was ultimately cancelled after the probity report found widespread irregularities in how bidders were qualified and disqualified. In cross-examination, Adv Chaskalson SC confronted Mnisi with a February 2025 WhatsApp exchange in which he asked Nkosi to identify 'Sipho Nkomo or Joe Mabunda' -- the two TMPD officials who had withdrawn his VIP protection detail -- and replied 'Okay, taking him off this one' to a photo of Nkomo; Mnisi maintained this was an autocorrect error for 'taking him on' (confronting him), and denied knowing at the time that Nkomo and Mabunda were the two TMPD members on the Bid Evaluation Committee then scoring the tender on which Nkosi's brother's company was a bidder. The day adjourned before this line of questioning was completed, to resume the following Monday.",
+  "rulings": [
+   {
+    "description": "The parties confirmed agreement, endorsed by the Chairperson, that the still-unresolved application for part of Mnisi's testimony to be heard in camera would not be ventilated or shown publicly during the day's proceedings, with the issue to be resolved between the parties over the weekend.",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/17",
+    "tier_label": "RULING"
+   }
+  ],
+  "exhibits": [
+   {
+    "ref": "GM1",
+    "description": "Annexure to Mnisi's response on the privacy/confidentiality paragraphs of his statement."
+   },
+   {
+    "ref": "GM2",
+    "description": "Supply chain management training feedback and attendance registers for SMME training (including a November/December 2025 session in Atteridgeville)."
+   },
+   {
+    "ref": "GM3",
+    "description": "Minutes of a City of Tshwane service delivery war room, chaired by the Executive Mayor, recording resolutions on SMME training and SAP Ariba migration."
+   },
+   {
+    "ref": "GM9 / GM10",
+    "description": "Bid Specification Committee minutes for TMPD 01/2024-25 and the CFO/City Manager approval endorsing the tender for advertisement."
+   },
+   {
+    "ref": "GM11",
+    "description": "The advertised TMPD 01/2024-25 tender notice (item 5 of the advert)."
+   },
+   {
+    "ref": "GM12",
+    "description": "Closing register for TMPD 01/2024-25, recording 57 bids received by the closing date."
+   },
+   {
+    "ref": "GM13 / GM14",
+    "description": "Bid Evaluation Committee reports to the Bid Adjudication Committee for TMPD 01/2024-25; GM14 is the revised report after BAC referred concerns back to BEC."
+   },
+   {
+    "ref": "GM15 / GM16 / GM17",
+    "description": "Minutes of the three Bid Adjudication Committee sittings on TMPD 01/2024-25."
+   },
+   {
+    "ref": "GM21",
+    "description": "Bid Adjudication Committee report recommending cancellation of TMPD 01/2024-25 following an independent probity review that found material irregularities in bidder qualification and disqualification."
+   },
+   {
+    "ref": "GM22 / GM23",
+    "description": "Email correspondence concerning Gubis85 Solutions' outstanding invoices for ad hoc security services, escalated to senior City officials."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "So help me God.",
+    "speaker": "Mr Mnisi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/17",
+    "tier_label": "REPORTING",
+    "words": 4
+   },
+   {
+    "text": "gift was not offered as gratification, inducement or a bribe",
+    "speaker": "Mr Mnisi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/17",
+    "tier_label": "REPORTING",
+    "words": 10
+   },
+   {
+    "text": "Who is Sipho Nkomo or Joe Mabunda from TMPD.",
+    "speaker": "Mr Mnisi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/17",
+    "tier_label": "REPORTING",
+    "words": 9
+   },
+   {
+    "text": "Okay, taking him off this one.",
+    "speaker": "Mr Mnisi",
+    "source_url": "https://criminaljusticecommission.org.za/hearings/2026/04/17",
+    "tier_label": "REPORTING",
+    "words": 6
+   }
+  ],
+  "video_url": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/04/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "partial_source": false,
+  "unverified": [
+   "Exhibit reference 'GM11' could not be found in the transcript and may be misread."
+  ],
+  "reporting_context": [
+   {
+    "claim": "Daily Maverick reported that suspended Tshwane CFO Gareth Mnisi told the Commission he regarded Sergeant Fannie Nkosi 'like a brother' but insisted no professional lines were crossed, quoting his denial that he received any payment or benefit from Nkosi.",
+    "url": "https://www.dailymaverick.co.za/article/2026-04-17-tshwane-cfo-says-police-sergeant-fannie-nkosi-like-a-brother-but-no-lines-crossed/",
+    "publisher": "Daily Maverick",
+    "tier": 3,
+    "retrieved": "2026/09/03",
+    "partial": false
+   }
+  ]
  },
  {
   "id": "day-089",

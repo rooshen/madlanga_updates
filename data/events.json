@@ -320,10 +320,42 @@
   "best_tier": 1
  },
  {
+  "id": "aeroton-scania-cocaine-interception-and-arrests",
+  "title": "Aeroton/Scania cocaine interception and arrests",
+  "date": "2021/07/09",
+  "description": "Roughly 700-715kg of cocaine, smuggled via a 'rip-on-rip-off' method in a Scania shipping container from Santos, Brazil through Durban, was intercepted without a warrant at Scania's Aeroton premises by SAPS officers acting outside their normal duties; the crime scene was mismanaged and contaminated, and four men (Magane, Mashaba, Phakula and informant Tumelo Nku) were arrested for dealing in drugs after a phone call reportedly attempting to broker an 'amicable solution' with the arresting officer was refused.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "theft-of-approximately-541kg-of-cocaine-dpci-port-shepstone-storage-facility",
   "title": "Theft of approximately 541kg of cocaine, DPCI Port Shepstone storage facility",
   "date": "2021/11",
   "description": "Roughly R200 million street-value cocaine theft from a Hawks storage safe; extensively examined in Senona's Day 47 and Day 49 testimony, with no arrests and no recovery reported as of Day 49.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "theft-of-541kg-cocaine-from-dpci-port-shepstone-strongroom",
+  "title": "Theft of 541kg cocaine from DPCI Port Shepstone strongroom",
+  "date": "2021/11/08",
+  "description": "Roughly 541kg of cocaine (of a ~554kg consignment seized 22 June 2021 and moved to Port Shepstone for storage on Maj-Gen Senona's instruction) was stolen from the DPCI Port Shepstone office's strongroom between 6-8 November 2021, cut open with a grinder, after multiple security failures (expired security contract, non-functioning alarm, no CCTV, irregular key control) and a secrecy instruction that prevented internal staff from raising concerns; valued at over R200 million and never recovered.",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
@@ -468,6 +500,22 @@
   "title": "6 March 2023 Roodepoort meeting",
   "date": "2023/03/06",
   "description": "Meeting between IPID leadership (then-Executive Director Ntlatseng, Magagula, Colonel Erasmus) and EMPD's Mapiyeye and Spies, after which three investigators from other provinces were deployed to assist Ekurhuleni; Commissioner Khumalo suggested several matters raised there were only followed up on much later.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "killing-of-bevan-loftus-and-four-others-morningside-durban",
+  "title": "Killing of Bevan Loftus and four others, Morningside, Durban",
+  "date": "2023/04/01",
+  "description": "Gregory Loftus testified (Day 158) that his son Bevan Loftus was shot dead along with four other men by a SAPS team at a Morningside, Durban flat, which he characterises as an execution orchestrated by rival tow-truck operator Clive Naicker and carried out under (then) Captain Deena Govender, rather than a legitimate operation; Loftus said he had sought an interdict against Govender and SAPS the day before the shooting. Retired Captain Ashley Houston, first on scene, testified the official 'officers were fired on' account was tactically improbable.",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
@@ -2253,6 +2301,38 @@
    }
   ],
   "best_tier": 3
+ },
+ {
+  "id": "alleged-pressure-campaign-on-lt-col-govender-to-implicate-lt-gen-mkhwanazi",
+  "title": "Alleged pressure campaign on Lt-Col Govender to implicate Lt Gen Mkhwanazi",
+  "date": "2026/08/13",
+  "description": "Lt-Col Deena Govender testified (Day 164) that from 13 August 2026 an intermediary, 'Mavuso Ntandani', and an associate repeatedly pressured him to falsely tell the Commission he acted on Lt Gen Mkhwanazi's instructions regarding police shootings, including a call in which the phone was passed to a man Govender says he recognised as Police Minister Senzo Mchunu.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "commission-directs-criminal-charge-against-suleiman-carrim-over-non-appearance",
+  "title": "Commission directs criminal charge against Suleiman Carrim over non-appearance",
+  "date": "2026/08/14",
+  "description": "After Carrim again failed to appear on Day 159 despite a 29 July ruling requiring his testimony or an independent medical excusal, the Chairperson ruled the Commission would direct its Secretary to lay a criminal charge directly against Carrim over his non-appearance and non-compliance, rather than merely recommend one to SAPS or the NPA.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
  },
  {
   "id": "matlala-testimony",

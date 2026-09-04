@@ -113,14 +113,39 @@ function build() {
       panel.querySelector('.x').onclick = () => panel.classList.remove('on');
     },
     onNode: (n) => {
-      if (n.kind === 'person') { document.getElementById('ego').value = n.id; build(); }
-      else {
-        const rec = (ORGS.concat(EVENTS)).find(x => x.id === n.id);
-        panel.classList.add('on');
-        panel.innerHTML = `<button class="x" type="button">×</button><p style="margin:0 0 6px"><strong>${MT.esc(n.label)}</strong></p>
-          <p class="small">${MT.esc((rec && (rec.description)) || '')}</p>${MT.sourceList(rec ? rec.sources : [])}`;
-        panel.querySelector('.x').onclick = () => panel.classList.remove('on');
-      }
+      // Full relationship list for this node, independent of whatever the current
+      // filters happen to show in the graph itself — the popup answers "how is this
+      // person/entity linked to everyone else", not just what's on screen right now.
+      const rel = EDGES.filter(e => e.from === n.id || e.to === n.id);
+      const links = rel.map(e => {
+        const otherId = e.from === n.id ? e.to : e.from;
+        return { id: otherId, label: LABEL[otherId], kind: KIND[otherId],
+                 type: e.type, strength: e.strength, date: e.date };
+      }).filter(l => l.label);
+      links.sort((a, b) => (a.label || '').localeCompare(b.label || ''));
+
+      const person = n.kind === 'person' ? PEOPLE.find(p => p.id === n.id) : null;
+      const rec = n.kind !== 'person' ? (ORGS.concat(EVENTS)).find(x => x.id === n.id) : null;
+      const desc = person ? (person.status_reason || person.bio || '') : ((rec && rec.description) || '');
+
+      panel.classList.add('on');
+      panel.innerHTML = `
+        <button class="x" type="button">×</button>
+        <p style="margin:0 0 4px"><strong>${MT.esc(n.label)}</strong></p>
+        ${person ? `<p style="margin:0 0 8px">${MT.statusPill(person.status)}</p>` : ''}
+        <p class="small">${MT.esc(desc || 'No summary recorded yet.')}</p>
+        ${person ? `<p class="small"><a href="person.html?id=${encodeURIComponent(n.id)}">View full profile →</a></p>` : ''}
+        <p class="small muted" style="margin:10px 0 4px"><strong>Linked to (${links.length}):</strong></p>
+        ${links.length ? `<ul class="tight small" style="max-height:220px;overflow-y:auto">${links.map(l => `<li>${
+          l.kind === 'person' ? `<a href="person.html?id=${encodeURIComponent(l.id)}">${MT.esc(l.label)}</a>` : MT.esc(l.label)
+        } <span class="muted">— ${MT.esc(l.type || '')}</span> <span class="badge lbl-${l.strength === 'testified' ? 'EVIDENCE' : 'REPORTING'}">${MT.esc(l.strength)}</span>${
+          l.date ? ' <span class="mono muted">' + MT.esc(l.date) + '</span>' : ''}</li>`).join('')}</ul>`
+          : '<p class="small muted">No recorded relationships yet.</p>'}
+        ${person ? `<p class="small" style="margin-top:8px"><button class="chip" id="panel-focus" type="button">Focus map on this person</button></p>` : ''}
+        ${!person ? MT.sourceList(rec ? rec.sources : []) : ''}`;
+      panel.querySelector('.x').onclick = () => panel.classList.remove('on');
+      const focusBtn = panel.querySelector('#panel-focus');
+      if (focusBtn) focusBtn.onclick = () => { document.getElementById('ego').value = n.id; panel.classList.remove('on'); build(); };
     }
   });
 

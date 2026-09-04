@@ -249,6 +249,121 @@ function render() {
 })().catch(e => document.getElementById('grid').innerHTML = '<p class="empty">' + MT.esc(e.message) + '</p>');
 """)
 
+# ---------------------------------------------------------------- entities
+page("entities.html", "Entities", "Every company, unit or organisation named in the commission's evidence, who is linked to it and what is known about the money involved.", """
+<h2 style="margin-top:0">Entities</h2>
+<p class="lead">Every company, SAPS/TMPD unit, government body or other organisation named in the
+evidence before the commission — what is alleged or established to have happened to it, who is
+linked to it, and any rand figures the record itself puts on the matter. <strong>This is a
+commission of inquiry, not a criminal trial</strong>: an entity appearing here is not a finding
+against it, and a linked person is not thereby an accused. Money figures are pulled directly from
+sourced descriptions and edges already in the data layer — nothing here is a new calculation or a
+verified total, only what the record itself states. See <a href="methodology.html">Methodology</a>.</p>
+<div class="controls">
+  <input type="search" id="q" placeholder="Search entity, type or description…" aria-label="Search entities">
+  <label class="ctl"><input type="checkbox" id="only-value"> Only entities with a rand figure</label>
+  <select id="sort" aria-label="Sort entities">
+    <option value="value">Sort: largest figure first</option>
+    <option value="name">Sort: name (A–Z)</option>
+    <option value="links">Sort: most linked people first</option>
+  </select>
+  <button class="chip" id="clear" type="button">Clear</button>
+</div>
+<p class="small muted" id="count"></p>
+<div id="list"></div>
+""", """
+let ORGS = [], PEOPLE = {}, EVENTS = [], EDGES = [], BY_ORG = {};
+
+// Pull rand figures out of free text without inventing anything — every match is a substring
+// of a sourced description or edge that already exists in the data layer.
+const RAND_RE = /R\\s?[\\d][\\d,\\.]*[\\s-]?(?:thousand|million|billion|bn|m|k)?\\b/gi;
+const MULT = { thousand: 1e3, k: 1e3, million: 1e6, m: 1e6, billion: 1e9, bn: 1e9 };
+function randFigures(text) {
+  if (!text) return [];
+  const out = [];
+  for (const m of text.matchAll(RAND_RE)) {
+    const raw = m[0].replace(/-$/, '').replace(/-/g, ' ').trim();
+    const numPart = raw.replace(/^R\\s?/i, '').replace(/[a-z]+$/i, '').replace(/[,\\s-]+$/, '').replace(/,/g, '').trim();
+    const num = parseFloat(numPart);
+    if (Number.isNaN(num)) continue;
+    const suffix = (raw.match(/[a-z]+$/i) || [''])[0].toLowerCase();
+    // skip a bare number ("R360") when a longer match with a multiplier for the same
+    // figure is already present ("R360 million") -- keep the more informative one only
+    out.push({ text: raw, value: num * (MULT[suffix] || 1), bare: !suffix, num });
+  }
+  const withSuffix = new Set(out.filter(f => !f.bare).map(f => f.num));
+  return out.filter(f => !(f.bare && withSuffix.has(f.num)));
+}
+function fmtRand(n) {
+  if (n >= 1e9) return 'R' + (n / 1e9).toFixed(n % 1e9 ? 1 : 0) + 'bn';
+  if (n >= 1e6) return 'R' + (n / 1e6).toFixed(n % 1e6 ? 1 : 0) + 'm';
+  if (n >= 1e3) return 'R' + (n / 1e3).toFixed(0) + 'k';
+  return 'R' + n.toLocaleString('en-ZA');
+}
+
+function render() {
+  const q = document.getElementById('q').value.trim().toLowerCase();
+  const onlyValue = document.getElementById('only-value').checked;
+  const sort = document.getElementById('sort').value;
+
+  let out = ORGS.filter(o => {
+    if (onlyValue && !o._maxValue) return false;
+    if (!q) return true;
+    return (o.name + ' ' + (o.type || '') + ' ' + (o.description || '')).toLowerCase().includes(q);
+  });
+  out = out.slice().sort((a, b) => {
+    if (sort === 'name') return a.name.localeCompare(b.name);
+    if (sort === 'links') return b._links.length - a._links.length;
+    return (b._maxValue || 0) - (a._maxValue || 0);
+  });
+
+  document.getElementById('count').textContent = out.length + ' of ' + ORGS.length + ' entities shown';
+  document.getElementById('list').innerHTML = out.length ? out.map(o => `
+    <div class="card">
+      <div class="dayhead"><span style="font-weight:600;font-size:1.05em">${MT.esc(o.name)}</span>
+        ${o.type ? '<span class="small muted">' + MT.esc(o.type) + '</span>' : ''}</div>
+      ${o._figures.length ? `<p style="margin:6px 0">${o._figures.slice(0, 6).map(f =>
+        `<span class="badge lbl-EVIDENCE" title="As stated in the record — not a verified total">${MT.esc(f.text)}</span>`).join(' ')}</p>` : ''}
+      <p>${MT.esc(o.description || 'No description recorded yet.')}</p>
+      ${o._links.length ? `<p class="small" style="margin:8px 0 0"><strong>Linked people:</strong> ${o._links.map(l =>
+        `<a href="person.html?id=${encodeURIComponent(l.id)}">${MT.esc(l.name)}</a> <span class="muted">(${MT.esc(l.type)})</span>`).join(', ')}</p>`
+        : '<p class="small muted" style="margin:8px 0 0">No person-to-entity relationship recorded yet in the map data.</p>'}
+      <details><summary>Sources (${(o.sources || []).length})</summary>${MT.sourceList(o.sources || [])}</details>
+    </div>`).join('') : '<p class="empty">No entity matches those filters.</p>';
+}
+
+(async () => {
+  [PEOPLE, ORGS, EVENTS, EDGES] = await MT.all('people', 'orgs', 'events', 'edges');
+  const nameOf = {}; PEOPLE.forEach(p => nameOf[p.id] = p.name);
+  ORGS.forEach(o => nameOf[o.id] = o.name);
+
+  ORGS.forEach(o => {
+    const rel = EDGES.filter(e => e.from === o.id || e.to === o.id);
+    const links = rel.map(e => {
+      const otherId = e.from === o.id ? e.to : e.from;
+      return { id: otherId, name: nameOf[otherId] || otherId, type: e.type || e.strength };
+    }).filter(l => nameOf[l.id]);
+    const seen = new Set();
+    o._links = links.filter(l => (seen.has(l.id) ? false : (seen.add(l.id), true)));
+
+    const figText = [o.description || '', ...rel.map(e => e.type || '')].join(' . ');
+    const figs = randFigures(figText);
+    const dedup = {}; figs.forEach(f => { if (!(f.text in dedup) || f.value > dedup[f.text].value) dedup[f.text] = f; });
+    o._figures = Object.values(dedup).sort((a, b) => b.value - a.value);
+    o._maxValue = o._figures.length ? o._figures[0].value : 0;
+  });
+
+  document.getElementById('q').addEventListener('input', render);
+  document.getElementById('only-value').addEventListener('change', render);
+  document.getElementById('sort').addEventListener('change', render);
+  document.getElementById('clear').addEventListener('click', () => {
+    document.getElementById('q').value = ''; document.getElementById('only-value').checked = false;
+    document.getElementById('sort').value = 'value'; render();
+  });
+  render();
+})().catch(e => document.getElementById('list').innerHTML = '<p class="empty">' + MT.esc(e.message) + '</p>');
+""")
+
 # ---------------------------------------------------------------- person profile
 page("person.html", "Profile", "Profile and ego-network for one person before the commission.", """
 <div id="profile"><p class="empty">Loading…</p></div>
@@ -420,14 +535,39 @@ function build() {
       panel.querySelector('.x').onclick = () => panel.classList.remove('on');
     },
     onNode: (n) => {
-      if (n.kind === 'person') { document.getElementById('ego').value = n.id; build(); }
-      else {
-        const rec = (ORGS.concat(EVENTS)).find(x => x.id === n.id);
-        panel.classList.add('on');
-        panel.innerHTML = `<button class="x" type="button">×</button><p style="margin:0 0 6px"><strong>${MT.esc(n.label)}</strong></p>
-          <p class="small">${MT.esc((rec && (rec.description)) || '')}</p>${MT.sourceList(rec ? rec.sources : [])}`;
-        panel.querySelector('.x').onclick = () => panel.classList.remove('on');
-      }
+      // Full relationship list for this node, independent of whatever the current
+      // filters happen to show in the graph itself — the popup answers "how is this
+      // person/entity linked to everyone else", not just what's on screen right now.
+      const rel = EDGES.filter(e => e.from === n.id || e.to === n.id);
+      const links = rel.map(e => {
+        const otherId = e.from === n.id ? e.to : e.from;
+        return { id: otherId, label: LABEL[otherId], kind: KIND[otherId],
+                 type: e.type, strength: e.strength, date: e.date };
+      }).filter(l => l.label);
+      links.sort((a, b) => (a.label || '').localeCompare(b.label || ''));
+
+      const person = n.kind === 'person' ? PEOPLE.find(p => p.id === n.id) : null;
+      const rec = n.kind !== 'person' ? (ORGS.concat(EVENTS)).find(x => x.id === n.id) : null;
+      const desc = person ? (person.status_reason || person.bio || '') : ((rec && rec.description) || '');
+
+      panel.classList.add('on');
+      panel.innerHTML = `
+        <button class="x" type="button">×</button>
+        <p style="margin:0 0 4px"><strong>${MT.esc(n.label)}</strong></p>
+        ${person ? `<p style="margin:0 0 8px">${MT.statusPill(person.status)}</p>` : ''}
+        <p class="small">${MT.esc(desc || 'No summary recorded yet.')}</p>
+        ${person ? `<p class="small"><a href="person.html?id=${encodeURIComponent(n.id)}">View full profile →</a></p>` : ''}
+        <p class="small muted" style="margin:10px 0 4px"><strong>Linked to (${links.length}):</strong></p>
+        ${links.length ? `<ul class="tight small" style="max-height:220px;overflow-y:auto">${links.map(l => `<li>${
+          l.kind === 'person' ? `<a href="person.html?id=${encodeURIComponent(l.id)}">${MT.esc(l.label)}</a>` : MT.esc(l.label)
+        } <span class="muted">— ${MT.esc(l.type || '')}</span> <span class="badge lbl-${l.strength === 'testified' ? 'EVIDENCE' : 'REPORTING'}">${MT.esc(l.strength)}</span>${
+          l.date ? ' <span class="mono muted">' + MT.esc(l.date) + '</span>' : ''}</li>`).join('')}</ul>`
+          : '<p class="small muted">No recorded relationships yet.</p>'}
+        ${person ? `<p class="small" style="margin-top:8px"><button class="chip" id="panel-focus" type="button">Focus map on this person</button></p>` : ''}
+        ${!person ? MT.sourceList(rec ? rec.sources : []) : ''}`;
+      panel.querySelector('.x').onclick = () => panel.classList.remove('on');
+      const focusBtn = panel.querySelector('#panel-focus');
+      if (focusBtn) focusBtn.onclick = () => { document.getElementById('ego').value = n.id; panel.classList.remove('on'); build(); };
     }
   });
 

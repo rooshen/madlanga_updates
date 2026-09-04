@@ -7,6 +7,7 @@ const PAGES = [
   ['archive.html', '#list article'],
   ['days.html', '#list article.day'],
   ['people.html', '#grid a.pcard'],
+  ['entities.html', '#list .card'],
   ['person.html?id=fadiel-adams', '#profile h2'],
   ['map.html', '#graph .nodes g'],
   ['timeline.html', '#tl .ev'],

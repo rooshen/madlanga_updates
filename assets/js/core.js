@@ -29,8 +29,8 @@ const MT = (() => {
   /* ---------- chrome ---------- */
   const NAV = [
     ['index.html', 'Home'], ['archive.html', 'Archive'], ['days.html', 'Hearing days'],
-    ['people.html', 'People'], ['map.html', 'The Map'], ['timeline.html', 'Timeline'],
-    ['methodology.html', 'Methodology'],
+    ['people.html', 'People'], ['entities.html', 'Entities'], ['map.html', 'The Map'],
+    ['timeline.html', 'Timeline'], ['methodology.html', 'Methodology'],
   ];
 
   function theme(init) {

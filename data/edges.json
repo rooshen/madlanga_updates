@@ -1123,12 +1123,138 @@
   "best_tier": 1
  },
  {
+  "id": "edge-069",
+  "from": "brown-mogotsi",
+  "to": "vusimuzi-matlala",
+  "type": "forwarded classified SAPS, Crime Intelligence and PERSAL material, including the disbandment letter before its official SAPS circulation",
+  "strength": "documented",
+  "date": "2025-01-02",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-072",
+  "from": "vusimuzi-matlala",
+  "to": "tameez-investments-pty-ltd",
+  "type": "made payments of R1,500,000 and R1,000,000",
+  "strength": "documented",
+  "date": "2025-02-04",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "edge-074",
   "from": "medicare-24-tshwane-district-pty-ltd",
   "to": "saps",
   "type": "held a health-risk-management contract, referred to as worth some R360 million, cancelled following an audit revealing fronting and fraud",
   "strength": "documented",
   "date": "2025-05-13",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-075",
+  "from": "maj-gen-senona",
+  "to": "vusimuzi-matlala",
+  "type": "alleged to have shared confidential SAPS information, including invoice records and the disbandment letter",
+  "strength": "alleged",
+  "date": "2025-01-15",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-076",
+  "from": "vusimuzi-matlala",
+  "to": "thato-senona",
+  "type": "alleged to have facilitated a property purchase",
+  "strength": "alleged",
+  "date": "2025-01-24",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-077",
+  "from": "vusimuzi-matlala",
+  "to": "suleiman-kareem",
+  "type": "alleged reliance on for assistance with invoice submissions and payments, and for access to the Minister",
+  "strength": "alleged",
+  "date": "2025-01-07",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-078",
+  "from": "vusimuzi-matlala",
+  "to": "julius-mkhwanazi",
+  "type": "alleged request for assistance concerning the arrest of an associate",
+  "strength": "alleged",
+  "date": "2025-03-07",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-080",
+  "from": "vusimuzi-matlala",
+  "to": "calvin-rafadi",
+  "type": "alleged repeated payments and favours in exchange for favourable public commentary on the PKTT disbandment",
+  "strength": "alleged",
+  "date": null,
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
@@ -1321,6 +1447,78 @@
   "best_tier": 1
  },
  {
+  "id": "edge-113",
+  "from": "vusimuzi-matlala",
+  "to": "lt-gen-shadrack-sibiya",
+  "type": "alleged cash payments (~R500k-R1m/month, plus other sums)",
+  "strength": "alleged",
+  "date": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-114",
+  "from": "vusimuzi-matlala",
+  "to": "maj-gen-feroz-khan",
+  "type": "alleged R500,000 payment of an R2.5m demand",
+  "strength": "alleged",
+  "date": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-115",
+  "from": "vusimuzi-matlala",
+  "to": "maj-gen-abednego-shibiri",
+  "type": "alleged R80,000 payment",
+  "strength": "alleged",
+  "date": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-116",
+  "from": "vusimuzi-matlala",
+  "to": "minister-senzo-mchunu",
+  "type": "alleged funding of ANC January 8 event (~R500,000)",
+  "strength": "alleged",
+  "date": "2025-01",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "edge-121",
   "from": "jmpd-officer-john-mokgatle",
   "to": "katiso-molefe",
@@ -1429,12 +1627,66 @@
   "best_tier": 1
  },
  {
+  "id": "edge-134",
+  "from": "riah-phiyega",
+  "to": "vusimuzi-matlala",
+  "type": "denied meeting",
+  "strength": "denied",
+  "date": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-135",
+  "from": "witness-c",
+  "to": "vusimuzi-matlala",
+  "type": "recorded informal post-arrest conversation",
+  "strength": "testified",
+  "date": "2025-05-14",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "edge-136",
   "from": "frans-mashele",
   "to": "katiso-molefe",
   "type": "alleged sharing of docket copies before formal disclosure",
   "strength": "alleged",
   "date": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-140",
+  "from": "vusimuzi-matlala",
+  "to": "bheki-cele",
+  "type": "alleged cash payment (R2m of R10m demanded)",
+  "strength": "alleged",
+  "date": "2025-11-18",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
@@ -1471,6 +1723,24 @@
   "type": "sent Signal/WhatsApp messages urging action against Khumalo",
   "strength": "documented",
   "date": "2024-12-31",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-153",
+  "from": "suleiman-kareem",
+  "to": "vusimuzi-matlala",
+  "type": "investor in Medicare24 SAPS contract",
+  "strength": "alleged",
+  "date": null,
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
@@ -2731,6 +3001,222 @@
   "type": "SLA signed by deputy in her absence, without her prior review",
   "strength": "testified",
   "date": "2026/04/08",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-248",
+  "from": "clive-naicker",
+  "to": "lieutenant-colonel-deenadayalan-deena-govender",
+  "type": "alleged orchestration of the 1 April 2023 killing of Bevan Loftus and four others",
+  "strength": "alleged",
+  "date": "2023/04/01",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-249",
+  "from": "minister-senzo-mchunu",
+  "to": "lieutenant-colonel-deenadayalan-deena-govender",
+  "type": "alleged pressure to falsely implicate Lt Gen Mkhwanazi in police shootings",
+  "strength": "testified",
+  "date": "2026/08/21",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-250",
+  "from": "vusimuzi-cat-matlala",
+  "to": "brown-mogotsi",
+  "type": "paid ~R170,000 plus flights to access Minister Mchunu, on Bheki Cele's advice",
+  "strength": "testified",
+  "date": "2026/08/17",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-251",
+  "from": "vusimuzi-cat-matlala",
+  "to": "morgan-maumela",
+  "type": "undocumented 'revolving fund' credit arrangement (2018/19-2023) via Telox for Gauteng Health RFQs",
+  "strength": "testified",
+  "date": "2026/08/25",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-252",
+  "from": "jothan-msibi",
+  "to": "sergeant-fannie-nkosi",
+  "type": "alleged fraudulent SAPS-letterhead certification for an Invasys grabber sale to Eswatini",
+  "strength": "alleged",
+  "date": "2026/08/18",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-253",
+  "from": "jothan-msibi",
+  "to": "kamprock-pty-ltd",
+  "type": "alleged tender assistance (Ekurhuleni PMU tender, awarded November 2023)",
+  "strength": "alleged",
+  "date": "2026/08/18",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-254",
+  "from": "gareth-mnisi",
+  "to": "ngaphesheya-security-services",
+  "type": "forwarded preferred-bidder list from Sergeant Nkosi (11, 18, 25 March 2025); conceded understanding Nkosi wanted the listed companies to win",
+  "strength": "testified",
+  "date": "2026/04/20",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-255",
+  "from": "deputy-chief-umashi-samson-dhlamini",
+  "to": "nico-mathobela",
+  "type": "received and forwarded an alleged BEC 'mandate' favouring specific tender bidders",
+  "strength": "testified",
+  "date": "2026/04/24",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-256",
+  "from": "director-tshukudu-malatji",
+  "to": "gubis85-solutions",
+  "type": "documentary evidence (signed invoice, direct deployment instructions) contradicting his earlier denial of authorising or knowing of ad hoc deployments",
+  "strength": "testified",
+  "date": "2026/04/30",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-257",
+  "from": "jakobus-jeremiah-petrus-prinsloo",
+  "to": "major-general-lesetja-senona",
+  "type": "instructed cocaine storage at Port Shepstone and secrecy about it",
+  "strength": "testified",
+  "date": "2026/05/07",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-258",
+  "from": "samuel-mashaba",
+  "to": "warrant-officer-marumo-joseph-magane",
+  "type": "recruited as unauthorised backup for the Aeroton drug interception",
+  "strength": "testified",
+  "date": "2026/05/12",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-259",
+  "from": "tumelo-nku",
+  "to": "samuel-mashaba",
+  "type": "co-arrested informant in the Aeroton drug bust",
+  "strength": "testified",
+  "date": "2026/05/12",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
