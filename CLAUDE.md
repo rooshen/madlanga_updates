@@ -19,6 +19,14 @@ still sitting, so this is a running backlog. Treat any fresh session on this rep
 of that instruction unless the user says otherwise: check `tools/BACKLOG.md` for the current state,
 pick up the next unprocessed batch, and keep going.
 
+**As of 2026/09/05, the historical backfill (Days 1-166) is complete** — see "Where things stand"
+below. From here the standing instruction becomes purely forward-looking: as the commission sits
+on new days, fetch and process each new day's transcript via the same pipeline as it becomes
+available (check the Supabase hearings index in `tools/BACKLOG.md`, or ask the user for newly
+downloaded PDFs). Don't assume there's a fresh backlog to search for without checking first —
+confirm against `data/meta.json`'s `latest_day`/`days_outstanding` whether any new sitting days
+exist beyond what's already in the tracker.
+
 ## Hard framing rules (non-negotiable, drive every extraction)
 
 - **This is a commission of inquiry, not a criminal trial.** Never use: accused, charges, verdict,
@@ -118,18 +126,29 @@ pick up the next unprocessed batch, and keep going.
 ## Where things stand (update this section every session — check `tools/BACKLOG.md` too, it's the
 more detailed/authoritative day-by-day log)
 
-As of 2026/09/04: `device_stage_files` is unblocked (the user re-authenticated the desktop app).
-Days 1–15 (pilot), 17–118 (minus confirmed gaps), and 158–166 are extracted, verified, merged,
-built and delivered to the user's Mac. Two site features shipped this session: an Entities tab
-(`entities.html`, derived entirely from existing `data/orgs.json`/`edges.json`, no schema change)
-and redesigned map-node popups (`map.html`'s `onNode` handler — summary, linked people, profile
-link, focus button). The stale "Phase 1 scaffold" banner/metadata was also fixed — `meta.json` now
-correctly reflects Phase 2 back-fill progress with a live `days_outstanding`/`confirmed_gap_days`.
-**Days 119–157 (minus gaps 124/125/130/131/143) are the only remaining unprocessed range** — 32
-days. Day 14 remains unresolved: `mad-day-014.pdf` on the user's Mac is actually a witness-statement
-exhibit, not the Day 14 hearing transcript — don't extract it under that day number. Nothing has
-been pushed to GitHub yet — all commits are local to the sandbox and mirrored to the user's Mac
-clone; there's a growing stack of local commits the user needs to `git push` themselves.
+As of 2026/09/05: **the entire Phase 2 historical backfill is complete.** Every commission sitting
+day from Day 1 to Day 166 has been extracted, quote-verified, merged, built and delivered to the
+user's Mac, except Day 14 (unresolved — `mad-day-014.pdf` on the user's Mac is actually a
+witness-statement exhibit, not the Day 14 hearing transcript; don't extract it under that day
+number) and 11 confirmed gap days with no transcript media at all (16, 56, 85, 90, 91, 104, 124,
+125, 130, 131, 143). `meta.json`'s `days_outstanding` is now 1 and its stale Methodology
+`method_note` was rewritten to describe this completed state rather than an early phase.
+`device_stage_files` is unblocked (the user re-authenticated the desktop app on 2026/09/04). Two
+site features also shipped this session: an Entities tab (`entities.html`, derived entirely from
+existing `data/orgs.json`/`edges.json`, no schema change) and redesigned map-node popups
+(`map.html`'s `onNode` handler — summary, linked people, profile link, focus button). The stale
+"Phase 1 scaffold" banner was fixed earlier this session too.
+
+**From here, work is forward-looking only**: watch for the commission sitting on new days beyond
+166 and process each one via the same pipeline as its transcript becomes available. A mid-batch
+rate limit during Days 132-140 showed that "terminated early" agent errors can be misleading — 5
+of 9 agent calls had actually written valid output despite all 9 reporting failure; always check
+`/home/claude/day_json/` for what really landed before re-firing supposedly-failed agents. Also
+note: a day-number dedup in `merge_backfill.py` will silently skip re-adding a day that's already
+present with real content — don't assume a low "+N added" count in a merge report means data went
+missing; check `days_raw.json` directly if the count looks off. Nothing has been pushed to GitHub
+yet — all commits are local to the sandbox and mirrored to the user's Mac clone; there's a growing
+stack of local commits the user needs to `git push` themselves.
 
 ## Why CLAUDE.md, and what "best practice" means here
 

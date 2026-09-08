@@ -3281,5 +3281,347 @@
    }
   ],
   "best_tier": 1
+ },
+ {
+  "id": "edge-263",
+  "from": "samuel-mashaba",
+  "to": "tumelo-nku",
+  "type": "Telegram messages allegedly showing GPS coordinates for Yellow Jersey Logistics sent hours before the Aeroton bust",
+  "strength": "testified",
+  "date": "2026/06/12",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-264",
+  "from": "maj-gen-lesetja-senona",
+  "to": "karl-roland-sander",
+  "type": "handled a 2024 complaint against Sander while Provincial Head, DPCI KZN",
+  "strength": "testified",
+  "date": "2026/06/19",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-267",
+  "from": "crossby-vusi-shongwe-mp",
+  "to": "feroz-khan",
+  "type": "alleges cover-up links to the Aeroton drug theft, two murders, and cigarette smuggling; says he was offered payment via a DRK Tactical meeting to stop pursuing this",
+  "strength": "testified",
+  "date": "2026/06/30",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-268",
+  "from": "vusimuzi-cat-matlala",
+  "to": "julius-mkhwanazi",
+  "type": "WhatsApp/bank-deposit evidence of cash payments referencing 'Matlala' and a scheme to obtain blue-light/law-enforcement appointment cards for private security entities",
+  "strength": "alleged",
+  "date": "2026/06/22",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-270",
+  "from": "feroz-khan",
+  "to": "ismail-vally",
+  "type": "alleged facilitation of a National Treasury auto-parts tender (RT45-2021) for Vally's company Kaizen MSD",
+  "strength": "alleged",
+  "date": "2026/07/03",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-271",
+  "from": "feroz-khan",
+  "to": "mohammed-sayed",
+  "type": "WhatsApp chats on leaking Crime Intelligence material and a scheme to plant parliamentary questions via Julius Malema/the EFF",
+  "strength": "alleged",
+  "date": "2026/07/07",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-272",
+  "from": "mohammed-sayed",
+  "to": "julius-malema",
+  "type": "alleged conduit for planting parliamentary questions targeting then-IGI Setlhomamaru Dintwe",
+  "strength": "alleged",
+  "date": "2026/07/07",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-273",
+  "from": "kobus-de-meyer-roelofse",
+  "to": "andrea-johnson",
+  "type": "testified a 2018 complaint against Feroz Khan reached her before Khan's warning statement, and that she later contacted the whistleblower and a witness",
+  "strength": "testified",
+  "date": "2026/07/10",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-274",
+  "from": "colonel-brian-padayachee",
+  "to": "fadiel-adams",
+  "type": "IDAC investigation into the Mokwele appointment traced to a section 27 referral from MP Adams",
+  "strength": "testified",
+  "date": "2026/07/14",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-275",
+  "from": "andrea-johnson",
+  "to": "fadiel-adams",
+  "type": "solicited and processed his section 27 referral affidavit, which IDAC's investigation and arrests were built on",
+  "strength": "testified",
+  "date": "2026/07/22",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-276",
+  "from": "andrea-johnson",
+  "to": "feroz-khan",
+  "type": "past personal relationship, examined via WhatsApp chats; Johnson invoked her right against self-incrimination and declined to answer further",
+  "strength": "testified",
+  "date": "2026/07/29",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-277",
+  "from": "chief-investigator-perumal",
+  "to": "fadiel-adams",
+  "type": "contacted Adams to obtain a list of 12 names before any preliminary investigation was authorised",
+  "strength": "testified",
+  "date": "2026/07/23",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-278",
+  "from": "suneel-bellochun",
+  "to": "fannie-nkosi",
+  "type": "alleged to have interviewed Nkosi in prison without his lawyer present, seeking to implicate Generals Masemola and Khumalo",
+  "strength": "alleged",
+  "date": "2026/07/28",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-279",
+  "from": "major-general-matlou",
+  "to": "fannie-masemola",
+  "type": "made the Medicare24/Matlala contract referral resulting in PFMA charges against Masemola, though his affidavit did not itself implicate Masemola",
+  "strength": "alleged",
+  "date": "2026/07/29",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-280",
+  "from": "drushantha-ramsamy",
+  "to": "andrea-johnson",
+  "type": "recorded phone call in which Johnson is heard saying they must 'figure out how you do not go' regarding Ramsamy testifying before the Commission; alleged instruction not to inform Masemola of the investigation so he would 'lie' before Parliament and be arrested for perjury",
+  "strength": "testified",
+  "date": "2026/07/30",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-281",
+  "from": "mantsha-robert-raphesu",
+  "to": "chief-investigator-perumal",
+  "type": "attributes a leak investigation against himself to Perumal, and describes Perumal meeting witnesses and obtaining statements without his knowledge as lead investigator",
+  "strength": "testified",
+  "date": "2026/07/31",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-282",
+  "from": "drushantha-ramsamy",
+  "to": "vusimuzi-matlala",
+  "type": "alleges a section 28(1) authorisation dated 30 May 2025 attributed to her was a fabrication signed by Andrea Johnson, linked to the later seizure of Matlala's phones",
+  "strength": "alleged",
+  "date": "2026/08/05",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-283",
+  "from": "matthews-sesoko",
+  "to": "andrea-johnson",
+  "type": "conceded documentary evidence (emails, meeting invitations, WhatsApp records) showed he was substantially involved throughout Operation Diversion despite being excluded by Johnson from formal oversight",
+  "strength": "testified",
+  "date": "2026/08/06",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-284",
+  "from": "deena-govender",
+  "to": "clive-naicker",
+  "type": "IPID alleges Naicker paid Govender R2.5 million to kill tow-truck operator Bevan Loftus and four others on 1 April 2023, supported by a recorded call and unexplained cash deposits",
+  "strength": "alleged",
+  "date": "2026/08/12",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
  }
 ]

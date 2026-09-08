@@ -35,6 +35,34 @@
   "photo_mode": "initials"
  },
  {
+  "id": "adriano-mazzotti",
+  "name": "Adriano Mazzotti",
+  "initials": "AM",
+  "role": "Director, Carnilinx",
+  "status": "Implicated (untested)",
+  "status_reason": "A voluntary written submission and a 2014 SARS affidavit (admitting tax non-compliance) and 2020 SARS settlement were put to the Commission (Day 132) in the context of illegal tobacco-trading allegations connected to Maj-Gen Feroz Khan; not tested by cross-examination.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
   "id": "adv-adila-hassim-sc",
   "name": "Adv Adila Hassim SC",
   "initials": "AA",
@@ -61,6 +89,37 @@
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
+ },
+ {
+  "id": "adv-andrea-johnson",
+  "name": "Adv Andrea Johnson",
+  "initials": "AA",
+  "role": "Former Head of the Investigating Directorate Against Corruption (IDAC), continuing multi-day testimony on IDAC's mandate, the charging and arrest of General Masemola and other SAPS/Crime Intelligence officials, the conduct of IDAC investigator Suneel Bellochun, the Tembisa Hospital matter, and her personal relationship with General Feroz Khan",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 150.",
+  "bio": null,
+  "first_appearance": "2026/07/29",
+  "linked_days": [
+   150,
+   145
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/07/29",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
  },
  {
   "id": "adv-baloyi-sc",
@@ -877,6 +936,39 @@
   "photo_mode": "initials"
  },
  {
+  "id": "advocate-andrea-johnson",
+  "name": "Advocate Andrea Johnson",
+  "initials": "AA",
+  "role": "Investigating Director and Head of the Investigating Directorate Against Corruption (IDAC); employment terminated during this testimony",
+  "status": "Testified",
+  "status_reason": "Multi-day sworn testimony (Days 144-150) on IDAC's handling of Fadiel Adams's section 27 referral and the resulting Mokwele/Crime Intelligence investigation and arrests; conceded she could no longer stand by her supplementary statement that 'IDAC has not dealt with matters outside its mandate,' that eight additional individuals were named in a section 28(13) authorisation despite not appearing in the referral affidavit, and that a PFMA charge against General Masemola could not lawfully be joined with the other accused's fraud/corruption charges; raised her right against self-incrimination over a docket implicating her personally and, separately, over questions about her personal relationship with Maj-Gen Feroz Khan, ending her testimony without answering further on that point.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   149,
+   148,
+   146,
+   138
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
   "id": "advocate-kemi-behari",
   "name": "Advocate Kemi Behari",
   "initials": "AK",
@@ -941,7 +1033,9 @@
   "status_reason": "She gave evidence to the commission through late July 2026, concluding on 29 July 2026, where she accepted that 'there are least intrusive means that should have been used' in the arrests of senior police officials.",
   "bio": "Johnson headed IDAC, the NPA's corruption-investigating directorate. At the commission she accepted responsibility for how arrests of senior SAPS officials were conducted and agreed that National Commissioner Masemola had been wrongly grouped with people accused of fraud and corruption. WhatsApp messages between her and suspended Crime Intelligence Major-General Feroz Khan were led in evidence on 29 July 2026; she was approved to vacate her IDAC post on 27 July 2026.",
   "first_appearance": "2026/07/29",
-  "linked_days": [],
+  "linked_days": [
+   144
+  ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
@@ -1166,6 +1260,36 @@
   "bio": null,
   "first_appearance": null,
   "linked_days": [],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
+  "id": "brigadier-campbell-msizi-nyuswa",
+  "name": "Brigadier Campbell Msizi Nyuswa",
+  "initials": "BC",
+  "role": "DPCI KwaZulu-Natal Provincial Commander, Serious Organised Crime Investigation (SOCI); on precautionary suspension over the Port Shepstone exhibit theft",
+  "status": "Testified",
+  "status_reason": "Sworn testimony (Day 120) in open session on the June 2021 seizure and November 2021 theft of roughly 541kg of suspected cocaine from the Port Shepstone DPCI safe; conceded multiple procedural failures (unsealed exhibits, no SAP13 entry, no FSL follow-up) and said he suspected the theft scene may have been staged but never raised this with investigators.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   120
+  ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
@@ -1896,6 +2020,34 @@
   ]
  },
  {
+  "id": "chief-investigator-perumal",
+  "name": "Chief Investigator Perumal",
+  "initials": "CI",
+  "role": "IDAC investigator; obtained a list of 12 names from Fadiel Adams before any preliminary investigation was authorised",
+  "status": "Implicated (untested)",
+  "status_reason": "Testimony (Days 146, 148) established Perumal contacted Adams for names before authorisation, and that four A1/supplementary statements dated 6 January 2025 and attributed to him were disputed as inauthentic by Investigator Rapetsu and Advocate Ramsamy in voice notes played to the Commission, raising fabrication/backdating questions; Perumal has not himself testified on these points.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
   "id": "chief-isaac-mapiyeye",
   "name": "Chief Isaac Mapiyeye",
   "initials": "CI",
@@ -1950,6 +2102,36 @@
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
+ },
+ {
+  "id": "chief-samuel-mashaba",
+  "name": "Chief Samuel Mashaba",
+  "initials": "CS",
+  "role": "SAPS/traffic officer witness continuing cross-examination on his relationship with Mr Nku, WhatsApp/Telegram communications, the Aeroton drug bust and side payments",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 119.",
+  "bio": null,
+  "first_appearance": "2026/06/12",
+  "linked_days": [
+   119
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/12",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
  },
  {
   "id": "chief-of-police-yolande-faro",
@@ -2034,6 +2216,37 @@
    "Whether he has responded",
    "Whether he faces any charge",
    "His exact role at Roadstar Trucking"
+  ],
+  "photo_mode": "initials"
+ },
+ {
+  "id": "colonel-brian-padayachee",
+  "name": "Colonel Brian Padayachee",
+  "initials": "CB",
+  "role": "Senior/lead investigator, Investigating Directorate Against Corruption (IDAC); docket holder on the Brigadier Mokwele appointment and the case against Lt-Gen Khumalo and others",
+  "status": "Testified",
+  "status_reason": "Sworn testimony over Days 139-140 on the section 27 referral (from MP Fadiel Adams) that became the IDAC investigation into the Mokwele appointment; conceded under sustained Commissioner questioning that it did not make sense he was never shown the underlying referral affidavit, and clarified the interview panel he says General Khumalo chaired only recommended Mokwele, with the actual appointment made by the National Commissioner's office.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   141,
+   139
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
  },
@@ -2158,6 +2371,36 @@
   ]
  },
  {
+  "id": "colonel-padayachee",
+  "name": "Colonel Padayachee",
+  "initials": "CP",
+  "role": "SAPS investigating officer continuing testimony (from the previous sitting day) about the investigation into the appointment of Ms Mokwele to a Crime Intelligence post, arising from a Mr Adams affidavit, and the subsequent arrest of General Khumalo, General Lushaba, Madondo and others on corruption-related charges",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 140.",
+  "bio": null,
+  "first_appearance": "2026/07/15",
+  "linked_days": [
+   140
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/07/15",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
+ },
+ {
   "id": "colonel-roodt",
   "name": "Colonel Roodt",
   "initials": "CR",
@@ -2242,6 +2485,36 @@
   "unverified": [
    "No standalone biographical profile assembled yet."
   ]
+ },
+ {
+  "id": "crossby-vusi-shongwe-mp",
+  "name": "Crossby Vusi Shongwe MP",
+  "initials": "CV",
+  "role": "MK Party MP; alternate member of Parliament's Ad Hoc Committee that probed General Nhlanhla Mkhwanazi's allegations",
+  "status": "Testified",
+  "status_reason": "Sworn testimony (Day 129) linking Maj-Gen Feroz Khan to alleged cover-ups (Aeroton drug theft, a make-up artist's murder, Dr Abdullah Monshi's murder, cigarette smuggling); described an 8 March 2026 meeting at DRK Tactical, arranged via former President Zuma's PA Londiwe Xulu, at which he says he was offered a R10 million cash payment, a R2.2-million-a-month Checkers security tender, and bulletproof vehicles to stop him pursuing questions about Khan.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   129
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "dail-christiaan-nortje",
@@ -2505,6 +2778,36 @@
   ]
  },
  {
+  "id": "dr-albertus-schoeman",
+  "name": "Dr Albertus Schoeman",
+  "initials": "DA",
+  "role": "Expert witness; World Bank extended-term anti-corruption reform consultant (PhD Politics, University of Sussex)",
+  "status": "Testified",
+  "status_reason": "Sworn expert testimony (Day 136) on weaknesses in SAPS's financial disclosure and lifestyle-audit regime, including that no SAPS official has had a full lifestyle audit in five years and only 5 of 823 senior managers underwent lifestyle investigations in 2024/25; recommended a single dedicated corruption-prevention agency with unexplained wealth orders.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   136
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
   "id": "dr-imogen-mashazi",
   "name": "Dr Imogen Mashazi",
   "initials": "DI",
@@ -2609,7 +2912,9 @@
   "bio": "Ramsamy is an IDAC prosecutor who testified about the directorate's internal culture and about a meeting convened on 8 July 2025 — two days after Mkhwanazi's press briefing — at which she says Andrea Johnson requested a communications-link analysis involving Vusimuzi Matlala and several individuals. The commission indicated it was prepared to provide her with protection following her evidence.",
   "first_appearance": "2026/07/30",
   "linked_days": [
-   156
+   156,
+   154,
+   151
   ],
   "photo_url": null,
   "photo_source": null,
@@ -3552,6 +3857,34 @@
   "photo_mode": "initials"
  },
  {
+  "id": "ismail-vally",
+  "name": "Ismail Vally",
+  "initials": "IV",
+  "role": "Businessman; director of Kaizen MSD",
+  "status": "Implicated (untested)",
+  "status_reason": "WhatsApp chats put to the Commission in Maj-Gen Feroz Khan's absence (Days 132-133) allege Khan facilitated a National Treasury automotive-parts tender (RT45-2021) for Vally's company Kaizen MSD; not yet responded to or tested by cross-examination.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
   "id": "jmpd-officer-john-mokgatle",
   "name": "JMPD Officer John Mokgatle",
   "initials": "JO",
@@ -3749,6 +4082,34 @@
    44,
    43
   ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
+  "id": "julius-malema",
+  "name": "Julius Malema",
+  "initials": "JM",
+  "role": "EFF leader; alleged recipient of leaked Crime Intelligence material via Mohammed Sayed",
+  "status": "Implicated (denied)",
+  "status_reason": "WhatsApp chats put to the Commission (Day 134) allege Malema was used, via Mohammed Sayed, to plant parliamentary questions targeting then-IGI Setlhomamaru Dintwe; his written Rule 3 response, read into the record the same day, denies conspiracy and Bertobrite bribery allegations.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
@@ -4082,6 +4443,36 @@
   "photo_mode": "initials"
  },
  {
+  "id": "kobus-de-meyer-roelofse",
+  "name": "Kobus De Meyer Roelofse",
+  "initials": "KD",
+  "role": "Retired SAPS Colonel formerly attached to DPCI (Hawks), on duty arrangement at IDAC; lead investigator on the 2018 Khan/Johnson whistleblower disclosure until his January 2025 retirement",
+  "status": "Testified",
+  "status_reason": "Sworn testimony (Day 137) that a 2018 criminal complaint against Maj-Gen Feroz Khan was forwarded, via journalist Barry Bateman, to a SAPS Colonel and Advocate Andrea Johnson before Khan gave his warning statement, and that a 2022 escalation attempt through DPCI head Lt-Gen Lebeya and NDPP Shamila Batohi appeared to result in Johnson contacting the whistleblower and a witness.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   137
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
   "id": "lebogang-andrew-phiri",
   "name": "Lebogang Andrew Phiri",
   "initials": "LA",
@@ -4143,6 +4534,34 @@
   "best_tier": 2,
   "unverified": [
    "Full biographical background"
+  ],
+  "photo_mode": "initials"
+ },
+ {
+  "id": "len-barnabas-john",
+  "name": "Len Barnabas John",
+  "initials": "LB",
+  "role": "Deputy Director of Investigations, Independent Police Investigative Directorate (IPID), KwaZulu-Natal",
+  "status": "Testified",
+  "status_reason": "Sworn testimony (Day 157) setting out IPID's case that three KZN SAPS 'task teams' carried out extrajudicial killings in a repeated pattern (unverified tips, all occupants killed, few firearms recovered, no linking case numbers), including the central allegation that Lt-Col Govender was paid R2.5 million by rival tow-operator Clive Naicker to kill Bevan Loftus and four others on 1 April 2023, supported by a recorded call, a pre-killing High Court interdict, and unexplained cash deposits.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
  },
@@ -5375,6 +5794,7 @@
   "bio": null,
   "first_appearance": null,
   "linked_days": [
+   122,
    49,
    47
   ],
@@ -5382,6 +5802,13 @@
   "photo_source": null,
   "photo_licence": null,
   "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   },
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
     "tier": 1,
@@ -5541,6 +5968,34 @@
   "photo_mode": "initials"
  },
  {
+  "id": "major-general-matlou",
+  "name": "Major General Matlou",
+  "initials": "MG",
+  "role": "SAPS officer who made the Medicare24/Matlala contract referral that led to PFMA charges against General Masemola",
+  "status": "Implicated (untested)",
+  "status_reason": "His section 27 referral affidavit was examined (Days 149-150) and found not to implicate Masemola on its own terms, raising questions about how the resulting charges were framed; Matlou has not himself testified.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
   "id": "major-general-senona",
   "name": "Major General Senona",
   "initials": "MG",
@@ -5657,6 +6112,36 @@
   "photo_mode": "initials"
  },
  {
+  "id": "mantsha-robert-raphesu",
+  "name": "Mantsha Robert Raphesu",
+  "initials": "MR",
+  "role": "IDAC senior investigator (formerly IPID, 2004/2005-); lead investigator on the section 27/Adams referral (PKTT, Lushaba and Mokwele/Madondo matters) until removed from part of the investigation",
+  "status": "Testified",
+  "status_reason": "Sworn testimony (Day 152) that the section 27 affidavit shown to him by Advocate Ramsamy on 6 December differed materially from the one later placed before the Commission, and that Advocate Johnson's evidence to Parliament that PKTT was not part of the referral was false; described an instruction he says was improperly issued to subpoena bank records on a R50-million allegation with no underlying complaint, and being investigated and disciplined over a leak allegation he denies and attributes to Chief Investigator Perumal.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   152
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
   "id": "marius-van-der-merwe-witness-d",
   "name": "Marius Van Der Merwe (\"Witness D\")",
   "initials": "MV",
@@ -5725,6 +6210,36 @@
    "The date(s) on which he testified",
    "Whether he testified under a pseudonym",
    "The identity of the person arrested for his murder"
+  ],
+  "photo_mode": "initials"
+ },
+ {
+  "id": "mark-mclean",
+  "name": "Mark McLean",
+  "initials": "MM",
+  "role": "SAPS Captain, DPCI (Hawks); Roelofse's investigating partner since 2011, current investigating officer on the docket",
+  "status": "Testified",
+  "status_reason": "Sworn testimony (Day 137) corroborating Colonel Roelofse's account and adding his own dealings with witnesses and NPA leadership on the 2018 Khan complaint.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   137
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
  },
@@ -5978,6 +6493,36 @@
   "photo_mode": "initials"
  },
  {
+  "id": "mbongeleni-felix-simangaliso-mpangase",
+  "name": "Mbongeleni Felix Simangaliso Mpangase",
+  "initials": "MF",
+  "role": "SAPS Warrant Officer, Pietermaritzburg (cold cases); in 2021 a DPCI SOCI detective, Durban",
+  "status": "Testified",
+  "status_reason": "Sworn testimony (Day 142, via isiZulu interpreter) on the 22 June 2021 cocaine seizure at CHC Depot, Isipingo, and the subsequent handling, transport and storage of exhibits; conceded an SAP13 entry booking exhibits out 'for investigation' was misleading and faced questioning over contradictions between his statements, his investigation diary, and the accounts of Colonel Jacob and Warrant Officer Sibiya.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   142
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
   "id": "mbuyiseli-madlanga",
   "name": "Mbuyiseli Madlanga",
   "initials": "MM",
@@ -6099,6 +6644,34 @@
     "retrieved": "2026/08/23",
     "partial": false
    },
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
+  "id": "mohammed-sayed",
+  "name": "Mohammed Sayed",
+  "initials": "MS",
+  "role": "Carnilinx executive; alleged conduit between Maj-Gen Feroz Khan and Julius Malema/the EFF",
+  "status": "Implicated (untested)",
+  "status_reason": "WhatsApp chats put to the Commission in Khan's absence (Days 133-134) allegedly show Sayed as a conduit for leaking Crime Intelligence material and for a scheme to plant parliamentary questions intended to trap then-IGI Setlhomamaru Dintwe; not yet responded to or tested by cross-examination.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
     "tier": 1,
@@ -6242,7 +6815,8 @@
   "bio": null,
   "first_appearance": "2026/08/24",
   "linked_days": [
-   165
+   165,
+   134
   ],
   "photo_url": null,
   "photo_source": null,
@@ -6320,6 +6894,37 @@
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
+ },
+ {
+  "id": "mr-nku",
+  "name": "Mr Nku",
+  "initials": "MN",
+  "role": "Witness with a network within Transnet and the broader logistics sector, drawn into tracking a drug consignment (the Aeroton truck) at the request of a contact known as 'Iby', introduced to him by his distant relative Mr Kebby Maphatsoe",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 128.",
+  "bio": null,
+  "first_appearance": "2026/06/29",
+  "linked_days": [
+   128,
+   127
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/29",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
  },
  {
   "id": "mr-sekekane",
@@ -7085,6 +7690,36 @@
   ]
  },
  {
+  "id": "paul-o-sullivan",
+  "name": "Paul O'Sullivan",
+  "initials": "PO",
+  "role": "Private investigator and former police reservist",
+  "status": "Testified",
+  "status_reason": "Sworn testimony (Day 128) arguing organised crime's penetration of the criminal justice system and political interference in SAPS both long predate General Mkhwanazi's July 2025 press conference, drawing on his own investigations including allegations concerning Mr Kistiah, General Mdluli and Crime Intelligence.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   128
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
   "id": "peter-goss",
   "name": "Peter Goss",
   "initials": "PG",
@@ -7116,6 +7751,36 @@
   "best_tier": 2,
   "unverified": [
    "Full biographical background"
+  ],
+  "photo_mode": "initials"
+ },
+ {
+  "id": "peter-serunye",
+  "name": "Peter Serunye",
+  "initials": "PS",
+  "role": "Deputy Director of Public Prosecutions (DDPP), IDAC/NPA; brought in 8 August 2025 to oversee the State v Khumalo and Others (Mokwele) and Lushaba matters after the fact",
+  "status": "Testified",
+  "status_reason": "Sworn testimony (Day 153) that no DDPP was assigned as project owner when the Mokwele-matter accused were arrested (26-27 June 2025), contrary to standard IDAC practice; testified his extensive written queries about the sufficiency of evidence went substantially unanswered before he recused himself in October 2025, and that he considered the Lushaba docket disclosed no case against General Lushaba, whom he regarded as a robbery victim rather than a suspect.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   153
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
  },
@@ -8025,6 +8690,34 @@
   "photo_mode": "initials"
  },
  {
+  "id": "suneel-bellochun",
+  "name": "Suneel Bellochun",
+  "initials": "SB",
+  "role": "IDAC senior investigator",
+  "status": "Implicated (untested)",
+  "status_reason": "Named (Day 149) in a new complaint that he and eight colleagues interviewed prisoner Sergeant F E Nkosi without his lawyer present, allegedly seeking to implicate Generals Masemola and Khumalo; also referenced (Day 150) as having an outstanding 2021 arrest warrant and pending misconduct complaints. Not yet responded to or tested by cross-examination.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
   "id": "takalani-maphosho",
   "name": "Takalani Maphosho",
   "initials": "TM",
@@ -8406,15 +9099,24 @@
   "name": "Tumelo Nku",
   "initials": "TN",
   "role": "Informant involved in the 9 July 2021 Aeroton drug bust",
-  "status": "Implicated (untested)",
-  "status_reason": "Named across Days 105-108 as the informant who, with Magane and Mashaba, followed the container to Scania's Aeroton premises and was arrested for dealing in drugs; cell-phone messages suggest he was warned the consignment 'must not be intercepted'. Has not testified or responded at the Commission.",
+  "status": "Testified",
+  "status_reason": "Gave sworn testimony over Days 126, 128-129 [continuing], reading his sworn and supplementary statements into the record on tipping off Lt Gen Sindile Mfazi and Chief Samuel Mashaba and his presence at the Aeroton scene; faced sustained Commissioner questioning over inconsistencies between his statements, his claimed informant status, and roughly R64,000-R65,000 in cash found in his vehicle. Cross-examination was left unfinished at Day 128 and is continuing.",
   "bio": null,
   "first_appearance": null,
-  "linked_days": [],
+  "linked_days": [
+   126
+  ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
   "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   },
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
     "tier": 1,
@@ -9254,6 +9956,156 @@
   "photo_mode": "initials"
  },
  {
+  "id": "witness-j",
+  "name": "Witness J",
+  "initials": "WJ",
+  "role": "SAPS crime-intelligence analyst, Priority Crime Management Centre (PCMC), DPCI/Hawks; analysed phone/messaging data linked to Tumelo Nku and associates",
+  "status": "Testified",
+  "status_reason": "Sworn in-camera testimony (Day 121) analysing WhatsApp/Telegram/Threema extractions and cell-tower data linking Tumelo Nku ('Philipp Plein') and Samuel Mashaba ('Doggy Hawks') to the Aeroton drug recovery and Durban container-release coordination; concluded Nku was, in his assessment, a drug-trafficking facilitator rather than a genuine police informer.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   121
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
+  "id": "witness-l",
+  "name": "Witness L",
+  "initials": "WL",
+  "role": "Prospective witness whose evidence the Commission ruled would be heard in camera; no testimony was given on this sitting day",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 129.",
+  "bio": null,
+  "first_appearance": "2026/06/30",
+  "linked_days": [
+   129
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/30",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
+ },
+ {
+  "id": "witness-m",
+  "name": "Witness M",
+  "initials": "WM",
+  "role": "Witness whose evidence was the subject of an unopposed application to be heard totally in camera, on the basis of serious security and safety concerns",
+  "status": "Testified",
+  "status_reason": "Gave evidence before the commission on day 135.",
+  "bio": null,
+  "first_appearance": "2026/07/08",
+  "linked_days": [
+   135
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "photo_mode": "initials",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2026/07/08",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "No standalone biographical profile assembled yet."
+  ]
+ },
+ {
+  "id": "witness-n",
+  "name": "Witness N",
+  "initials": "WN",
+  "role": "SAPS Sergeant/Detective, Political Killing Task Team and KZN Anti-Corruption Unit",
+  "status": "Testified",
+  "status_reason": "Sworn testimony (Day 137, partial camera) on a separate corruption/extortion complaint against IDAC senior investigator Suneel Bellochun in the Eastern Cape.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   137
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
+  "id": "witness-o",
+  "name": "Witness O",
+  "initials": "WO",
+  "role": "Serving SAPS Colonel; original recipient of the 2018 complaint against Maj-Gen Feroz Khan and the Protected Disclosures Act whistleblower who reported it in 2022",
+  "status": "Testified",
+  "status_reason": "Sworn testimony (Day 137, name and image withheld, partial camera) corroborating Roelofse and McLean's account, including evidence that the time recorded on Khan's warning-statement affidavit did not match when it was actually commissioned.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   137
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
   "id": "witness-x",
   "name": "Witness X",
   "initials": "WX",
@@ -9379,6 +10231,36 @@
   "unverified": [
    "No standalone biographical profile assembled yet."
   ]
+ },
+ {
+  "id": "yunus-carrim",
+  "name": "Yunus Carrim",
+  "initials": "YC",
+  "role": "Implicated person; subject of outstanding Rule 10.6 notices regarding payments to Medicare24 Tshwane District by Tasmica Construction",
+  "status": "Implicated (not yet responded)",
+  "status_reason": "Scheduled appearance postponed for a second time (Day 126) due to hospitalisation; evidence leaders raised non-compliance with document notices and floated a possible independent medical examination and eventual prosecution recommendation; matter postponed to 15 July 2026.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   126
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "zenzile-ze-nxumalo",

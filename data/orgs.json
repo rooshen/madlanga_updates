@@ -391,6 +391,22 @@
   "best_tier": 1
  },
  {
+  "id": "drk-tactical",
+  "name": "DRK Tactical",
+  "type": null,
+  "description": "Durban premises where, per Crossby Vusi Shongwe MP's Day 129 testimony, a meeting was arranged (via Zuma's former PA Londiwe Xulu) at which he was allegedly offered cash and favours to stop pursuing questions about Maj-Gen Feroz Khan.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "daily-maverick",
   "name": "Daily Maverick",
   "type": "Media organisation",
@@ -871,6 +887,22 @@
   "name": "Judicial Commission of Inquiry into Criminality, Political Interference and Corruption in the Criminal Justice System (the Madlanga Commission)",
   "type": "Judicial commission of inquiry",
   "description": "The commission itself, chaired by retired Justice Mbuyiseli Madlanga, whose Days 43-51 sittings are the subject of this synthesis.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "kaizen-msd",
+  "name": "Kaizen MSD",
+  "type": null,
+  "description": "Company of businessman Ismail Vally; alleged beneficiary of a National Treasury automotive-parts tender (RT45-2021) facilitated, per WhatsApp evidence put to the Commission, by Maj-Gen Feroz Khan.",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
@@ -1727,6 +1759,22 @@
   "name": "Willem De Klerk Attorneys (WDKLAW)",
   "type": "Law firm",
   "description": "Firm acting for News24 and Daily Maverick in the in-camera application.",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "yellow-jersey-logistics",
+  "name": "Yellow Jersey Logistics",
+  "type": null,
+  "description": "Aeroton, Johannesburg container depot/logistics operator where the 9 July 2021 drug (Scania truck) bust occurred; referenced repeatedly in Nku/Mashaba communications and testimony over Days 119-129 (also called 'Yellow Jersey/Scania' bust).",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",

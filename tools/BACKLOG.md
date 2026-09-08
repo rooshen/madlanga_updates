@@ -40,14 +40,34 @@ project and never replaced).
 Day 161 (18 Aug 2026) has a transcript despite the sitting itself being reported as the
 scheduled witness (Vusimuzi Matlala) being postponed — it exists, download and process as normal.
 
-## Status as of 2026/09/04 ~22:15 UTC
-- **`device_stage_files` is unblocked** as of 2026/09/04 — the user re-authenticated the desktop
-  app. Confirmed working with a single-file retry (`mad-day-092.pdf`) and then a full 9-file batch.
-- Extracted + merged + shipped: Days 1-15 (pilot), 17-118 minus gaps 16/56/85/90/91/104, and Days
-  158-166 (which upgraded the old Phase-1 scaffold sample for 158-164 to full transcript-verified
-  records). Days 110-118 (Port Shepstone/Aeroton cocaine case: Mashaba, Witness I, Maphosho, Jacob,
-  Sander, Duma) shipped 2026/09/04. **Days 119-157 (minus gaps 124/125/130/131/143) are the only
-  remaining unprocessed range** — 32 days.
+## PHASE 2 BACK-FILL COMPLETE — 2026/09/05 ~05:20 UTC
+Every commission sitting day from Day 1 to Day 166 has now been extracted, quote-verified, merged,
+built and delivered to the user's Mac, except:
+- **Day 14**: unresolved. `mad-day-014.pdf` on the user's Mac is actually a witness-statement
+  exhibit ("Statement of ICB"), not the Day 14 hearing transcript. Its real transcript, if the
+  commission's index still lists one, has not been located.
+- **11 confirmed gap days** (16, 56, 85, 90, 91, 104, 124, 125, 130, 131, 143): the commission
+  itself published no transcript media for these — nothing to back-fill.
+
+`meta.json`'s `days_outstanding` is now 1 (Day 14 only) and `confirmed_gap_days` lists the 11
+genuine gaps. The stale Methodology page `method_note` (a leftover description of an early
+Tier-2/3-only phase) was rewritten to describe this completed state.
+
+**Ongoing work from here is forward-looking, not backfill**: as the commission continues sitting,
+new days should be added following the same pipeline (see CLAUDE.md's "The pipeline, batch by
+batch" section) as their transcripts become available via the Supabase hearings index or the
+user's own downloads. Days 155-156 had in fact already been extracted and merged in an earlier
+run before this session reached them again on 2026/09/05 — `merge_backfill.py`'s day-number dedup
+correctly skipped re-adding them rather than overwriting good data, which is why a "Days 151-157"
+merge reported only "+4 added" for days. Always trust that dedup over assuming something is
+missing just because a re-run's batch summary doesn't add every day you expected.
+
+## Prior status log (for history — see git log for full detail)
+- `device_stage_files` was unblocked on 2026/09/04 after the user re-authenticated the desktop app.
+- A mid-batch rate limit hit on 2026/09/04 ~22:37 UTC during Days 132-140 (reset stated as
+  02:10 UTC); 5 of 9 agent calls actually completed successfully despite all 9 reporting
+  "terminated early" errors — always re-check `/home/claude/day_json/` for what actually landed
+  before re-firing a "failed" batch, rather than trusting the error message alone.
 - **Day 14 is NOT the DPCI Port Shepstone/Aeroton transcript** — attempted staging and pdftotext
   conversion on 2026/09/04 revealed `mad-day-014.pdf` on the user's Mac is actually a 63-page
   in-camera witness statement exhibit ("Statement of ICB", covering Matlala/Nkosi/Shibiri/Matjeng/
