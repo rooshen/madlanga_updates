@@ -302,8 +302,9 @@ def main():
         "commission": "Judicial Commission of Inquiry into Criminality, Political Interference and "
                       "Corruption in the Criminal Justice System",
         "chair": "Retired Justice Mbuyiseli Madlanga",
-        "phase": "Phase 2 - back-fill in progress. Processing every sitting day from the commission's "
-                 "own transcripts, oldest gaps first; see the Methodology page for exactly what's left.",
+        "phase": "Historical back-fill complete (Days 1-166, minus Day 14 and 11 confirmed transcript "
+                 "gaps). Now forward-looking: new sitting days are processed from the commission's own "
+                 "transcripts as they become available; see the Methodology page for exactly what's left.",
         "last_updated": now.strftime("%Y/%m/%d %H:%M") + " SAST",
         "latest_day": days_raw.get("latest_day_number"),
         "latest_day_date": days_raw.get("latest_day_date"),

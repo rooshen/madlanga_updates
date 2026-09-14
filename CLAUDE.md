@@ -89,6 +89,12 @@ exist beyond what's already in the tracker.
 
 ## Known infrastructure problems (check if still true before trusting this)
 
+- **The daily automation trigger was unbound for weeks** (created without `requires_local_device`,
+  so it had no computer to run on and silently no-op'd every day from 2026/09/01 through 2026/09/08).
+  Fixed 2026/09/13: deleted and replaced with a properly device-bound trigger. If a future session
+  finds the automation silently not producing output again, check `list_triggers` for
+  `folders_state: "FOLDERS_STATE_NONE"` before assuming the pipeline itself is broken.
+
 - **The `Workflow` tool is broken for this project as of 2026/08/27**: every subagent it spawns
   fails all tool calls (Read/Bash/Glob/Grep) with a permission-handler error, even though the
   identical script worked earlier in the project and a plain `Agent` call works fine in the same
@@ -131,13 +137,31 @@ day from Day 1 to Day 166 has been extracted, quote-verified, merged, built and 
 user's Mac, except Day 14 (unresolved — `mad-day-014.pdf` on the user's Mac is actually a
 witness-statement exhibit, not the Day 14 hearing transcript; don't extract it under that day
 number) and 11 confirmed gap days with no transcript media at all (16, 56, 85, 90, 91, 104, 124,
-125, 130, 131, 143). `meta.json`'s `days_outstanding` is now 1 and its stale Methodology
-`method_note` was rewritten to describe this completed state rather than an early phase.
-`device_stage_files` is unblocked (the user re-authenticated the desktop app on 2026/09/04). Two
-site features also shipped this session: an Entities tab (`entities.html`, derived entirely from
-existing `data/orgs.json`/`edges.json`, no schema change) and redesigned map-node popups
-(`map.html`'s `onNode` handler — summary, linked people, profile link, focus button). The stale
-"Phase 1 scaffold" banner was fixed earlier this session too.
+125, 130, 131, 143). `meta.json`'s `days_outstanding` is now 1. `device_stage_files` is unblocked
+(the user re-authenticated the desktop app on 2026/09/04).
+
+As of 2026/09/13, a further improvement pass shipped on top of the completed backfill:
+- **Person-record dedup**: `dedup_people.py` (in `/home/claude`, alongside the raw payloads it
+  edits) merged 38 name-variant duplicate groups that had accumulated from rank/title prefixes and
+  protected-witness aliases (e.g. "Fannie Nkosi" / "Sergeant Fannie Nkosi" / "Witness F"). It edits
+  `people_raw.json` and `days_raw.json` directly (not the built output) because `build_data.py`
+  auto-generates a stub person for any witness name that doesn't slug-match an existing person —
+  fixing only build output would have the duplicates reappear on the next rebuild. Built person
+  count: 324 → 259. If dedup is needed again, extend `MERGE_GROUPS` in that script rather than
+  rewriting `data/people.json` by hand.
+- **Site-wide search** (`search.html`, header search box in `core.js`'s `chrome()`), a **"What's
+  new" changelog** (`changelog.html` + hand-maintained `data/changelog.json` — append an entry
+  there per user-visible change, it is not generated from git log), a **rand-figure rollup stat**
+  on the Entities page, and a **gap-day help note** (`MT.gapHelpNote()` in `core.js`, used on
+  `days.html`) pointing readers at Day 14 and the 11 confirmed gaps with a link to open a GitHub
+  issue if they have a transcript.
+- The daily automation trigger was found unbound (no device, silently no-op'ing for weeks) and was
+  replaced with a properly bound one — see "Known infrastructure problems" above.
+- The stale "Phase 2 - back-fill in progress" wording in `meta.json`'s `phase` field and the home
+  page's banner notice was rewritten to reflect the completed backfill and forward-looking state.
+- Confirmed the user has already pushed all prior commits to GitHub themselves (their own squashed
+  history, not this sandbox's commit graph — the sandbox's local git log is not authoritative for
+  "what's been pushed"; check the Mac's actual file content and refs instead).
 
 **From here, work is forward-looking only**: watch for the commission sitting on new days beyond
 166 and process each one via the same pipeline as its transcript becomes available. A mid-batch
@@ -146,9 +170,11 @@ of 9 agent calls had actually written valid output despite all 9 reporting failu
 `/home/claude/day_json/` for what really landed before re-firing supposedly-failed agents. Also
 note: a day-number dedup in `merge_backfill.py` will silently skip re-adding a day that's already
 present with real content — don't assume a low "+N added" count in a merge report means data went
-missing; check `days_raw.json` directly if the count looks off. Nothing has been pushed to GitHub
-yet — all commits are local to the sandbox and mirrored to the user's Mac clone; there's a growing
-stack of local commits the user needs to `git push` themselves.
+missing; check `days_raw.json` directly if the count looks off. There is still a stack of commits
+local to this sandbox that the user's own Mac clone doesn't share a commit graph with (though its
+file content matches) — mirror new work via `device_commit_files` as usual and let the user's own
+`git`/GitHub workflow take it from there; don't assume the sandbox needs to push anything itself
+(it can't reach GitHub regardless).
 
 ## Why CLAUDE.md, and what "best practice" means here
 

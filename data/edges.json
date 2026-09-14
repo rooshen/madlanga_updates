@@ -20,7 +20,7 @@
  {
   "id": "edge-002",
   "from": "presidency",
-  "to": "mbuyiseli-madlanga",
+  "to": "justice-mbuyiseli-madlanga",
   "type": "appointed as chairperson",
   "strength": "documented",
   "date": "2025/07/13",
@@ -92,7 +92,7 @@
  {
   "id": "edge-006",
   "from": "presidency",
-  "to": "fannie-masemola",
+  "to": "lt-gen-fannie-masemola",
   "type": "placed on precautionary suspension",
   "strength": "documented",
   "date": "2026/04/23",
@@ -128,7 +128,7 @@
  {
   "id": "edge-008",
   "from": "madlanga-commission",
-  "to": "terry-motau",
+  "to": "adv-terry-motau-sc",
   "type": "appointed then accepted resignation of chief evidence leader",
   "strength": "documented",
   "date": "2025/10/01",
@@ -163,7 +163,7 @@
  },
  {
   "id": "edge-010",
-  "from": "nhlanhla-mkhwanazi",
+  "from": "lt-gen-nhlanhla-mkhwanazi",
   "to": "senzo-mchunu",
   "type": "publicly alleged political interference by",
   "strength": "alleged",
@@ -200,7 +200,7 @@
  {
   "id": "edge-012",
   "from": "senzo-mchunu",
-  "to": "nhlanhla-mkhwanazi",
+  "to": "lt-gen-nhlanhla-mkhwanazi",
   "type": "denied the allegations made by",
   "strength": "denied",
   "date": "2025/07/06",
@@ -217,7 +217,7 @@
  },
  {
   "id": "edge-013",
-  "from": "nhlanhla-mkhwanazi",
+  "from": "lt-gen-nhlanhla-mkhwanazi",
   "to": "madlanga-commission",
   "type": "testified as first witness",
   "strength": "testified",
@@ -235,7 +235,7 @@
  },
  {
   "id": "edge-014",
-  "from": "fannie-masemola",
+  "from": "lt-gen-fannie-masemola",
   "to": "senzo-mchunu",
   "type": "testified that the task team disbandment was 'a total encroachment' by",
   "strength": "testified",
@@ -253,7 +253,7 @@
  },
  {
   "id": "edge-015",
-  "from": "dumisani-khumalo",
+  "from": "lt-gen-dumisani-khumalo",
   "to": "big-five-cartel",
   "type": "testified to the existence and operation of",
   "strength": "testified",
@@ -271,7 +271,7 @@
  },
  {
   "id": "edge-016",
-  "from": "dumisani-khumalo",
+  "from": "lt-gen-dumisani-khumalo",
   "to": "vusimuzi-cat-matlala",
   "type": "named in testimony as a cartel figure",
   "strength": "testified",
@@ -289,7 +289,7 @@
  },
  {
   "id": "edge-017",
-  "from": "dumisani-khumalo",
+  "from": "lt-gen-dumisani-khumalo",
   "to": "katiso-kt-molefe",
   "type": "named in testimony as a cartel figure",
   "strength": "testified",
@@ -344,7 +344,7 @@
  {
   "id": "edge-020",
   "from": "vusimuzi-cat-matlala",
-  "to": "shadrack-sibiya",
+  "to": "lt-gen-shadrack-sibiya",
   "type": "alleged payment to",
   "strength": "alleged",
   "date": "2025/01/01",
@@ -361,7 +361,7 @@
  },
  {
   "id": "edge-021",
-  "from": "shadrack-sibiya",
+  "from": "lt-gen-shadrack-sibiya",
   "to": "vusimuzi-cat-matlala",
   "type": "denied any improper relationship with, while admitting acquaintance",
   "strength": "denied",
@@ -379,7 +379,7 @@
  },
  {
   "id": "edge-022",
-  "from": "shadrack-sibiya",
+  "from": "lt-gen-shadrack-sibiya",
   "to": "political-killings-task-team",
   "type": "removed 121 dockets from",
   "strength": "testified",
@@ -423,7 +423,7 @@
  {
   "id": "edge-024",
   "from": "vusimuzi-cat-matlala",
-  "to": "rachel-matjeng",
+  "to": "brigadier-rachel-matjeng",
   "type": "alleged payments to",
   "strength": "alleged",
   "date": null,
@@ -440,7 +440,7 @@
  },
  {
   "id": "edge-025",
-  "from": "rachel-matjeng",
+  "from": "brigadier-rachel-matjeng",
   "to": "vusimuzi-cat-matlala",
   "type": "acknowledged personal relationship with but denied corruption",
   "strength": "denied",
@@ -459,7 +459,7 @@
  {
   "id": "edge-026",
   "from": "vusimuzi-cat-matlala",
-  "to": "richard-shibiri",
+  "to": "lt-gen-richard-shibiri",
   "type": "alleged R80,000 loan to",
   "strength": "alleged",
   "date": null,
@@ -477,7 +477,7 @@
  {
   "id": "edge-027",
   "from": "saps",
-  "to": "richard-shibiri",
+  "to": "lt-gen-richard-shibiri",
   "type": "dismissed after internal disciplinary process",
   "strength": "documented",
   "date": "2026/06/05",
@@ -495,7 +495,7 @@
  {
   "id": "edge-028",
   "from": "saps",
-  "to": "rachel-matjeng",
+  "to": "brigadier-rachel-matjeng",
   "type": "dismissed after internal disciplinary process",
   "strength": "documented",
   "date": "2026/06/30",
@@ -513,7 +513,7 @@
  {
   "id": "edge-029",
   "from": "madlanga-commission",
-  "to": "lesetja-senona",
+  "to": "maj-gen-lesetja-senona",
   "type": "referred for criminal investigation",
   "strength": "documented",
   "date": "2026/01/29",
@@ -549,7 +549,7 @@
  {
   "id": "edge-031",
   "from": "madlanga-commission",
-  "to": "julius-mkhwanazi",
+  "to": "brigadier-julius-mkhwanazi",
   "type": "referred for criminal investigation",
   "strength": "documented",
   "date": "2026/01/29",
@@ -567,7 +567,7 @@
  {
   "id": "edge-032",
   "from": "madlanga-commission",
-  "to": "imogen-mashazi",
+  "to": "dr-imogen-mashazi",
   "type": "referred for criminal investigation",
   "strength": "documented",
   "date": "2026/01/29",
@@ -585,7 +585,7 @@
  {
   "id": "edge-033",
   "from": "madlanga-commission",
-  "to": "shadrack-sibiya",
+  "to": "lt-gen-shadrack-sibiya",
   "type": "recommended disciplinary proceedings and criminal investigation",
   "strength": "documented",
   "date": "2026/08/06",
@@ -621,7 +621,7 @@
  {
   "id": "edge-035",
   "from": "madlanga-commission",
-  "to": "fannie-nkosi",
+  "to": "sergeant-fannie-nkosi",
   "type": "recommended disciplinary proceedings and criminal investigation",
   "strength": "documented",
   "date": "2026/08/06",
@@ -675,7 +675,7 @@
  {
   "id": "edge-038",
   "from": "madlanga-special-task-team",
-  "to": "julius-mkhwanazi",
+  "to": "brigadier-julius-mkhwanazi",
   "type": "arrested",
   "strength": "documented",
   "date": "2026/04/18",
@@ -711,7 +711,7 @@
  {
   "id": "edge-040",
   "from": "idac",
-  "to": "dumisani-khumalo",
+  "to": "lt-gen-dumisani-khumalo",
   "type": "investigated and arrested",
   "strength": "documented",
   "date": "2025/06/01",
@@ -728,7 +728,7 @@
  },
  {
   "id": "edge-041",
-  "from": "andrea-johnson",
+  "from": "advocate-andrea-johnson",
   "to": "idac",
   "type": "headed",
   "strength": "documented",
@@ -746,8 +746,8 @@
  },
  {
   "id": "edge-042",
-  "from": "andrea-johnson",
-  "to": "fannie-masemola",
+  "from": "advocate-andrea-johnson",
+  "to": "lt-gen-fannie-masemola",
   "type": "accepted he was wrongly grouped with fraud and corruption suspects",
   "strength": "testified",
   "date": "2026/07/29",
@@ -765,7 +765,7 @@
  {
   "id": "edge-043",
   "from": "drushantha-ramsamy",
-  "to": "andrea-johnson",
+  "to": "advocate-andrea-johnson",
   "type": "testified about instructions given by",
   "strength": "testified",
   "date": "2026/08/14",
@@ -800,8 +800,8 @@
  },
  {
   "id": "edge-045",
-  "from": "andrea-johnson",
-  "to": "feroz-khan",
+  "from": "advocate-andrea-johnson",
+  "to": "major-general-feroz-khan",
   "type": "alleged improperly close relationship with, evidenced by WhatsApp messages",
   "strength": "alleged",
   "date": "2026/07/29",
@@ -818,7 +818,7 @@
  },
  {
   "id": "edge-046",
-  "from": "suliman-carrim",
+  "from": "mr-suleiman-carrim",
   "to": "medicare24",
   "type": "testified to investing R10 million in",
   "strength": "testified",
@@ -836,7 +836,7 @@
  },
  {
   "id": "edge-047",
-  "from": "suliman-carrim",
+  "from": "mr-suleiman-carrim",
   "to": "senzo-mchunu",
   "type": "denied any relationship with",
   "strength": "denied",
@@ -908,7 +908,7 @@
  },
  {
   "id": "edge-051",
-  "from": "kemi-behari",
+  "from": "advocate-kemi-behari",
   "to": "city-of-ekurhuleni",
   "type": "heads risk and legal services at",
   "strength": "documented",
@@ -926,7 +926,7 @@
  },
  {
   "id": "edge-052",
-  "from": "kemi-behari",
+  "from": "advocate-kemi-behari",
   "to": "madlanga-commission",
   "type": "testified rejecting the allegations against him",
   "strength": "denied",
@@ -1178,7 +1178,7 @@
  },
  {
   "id": "edge-075",
-  "from": "maj-gen-senona",
+  "from": "maj-gen-lesetja-senona",
   "to": "vusimuzi-matlala",
   "type": "alleged to have shared confidential SAPS information, including invoice records and the disbandment letter",
   "strength": "alleged",
@@ -1233,7 +1233,7 @@
  {
   "id": "edge-078",
   "from": "vusimuzi-matlala",
-  "to": "julius-mkhwanazi",
+  "to": "brigadier-julius-mkhwanazi",
   "type": "alleged request for assistance concerning the arrest of an associate",
   "strength": "alleged",
   "date": "2025-03-07",
@@ -1287,7 +1287,7 @@
  {
   "id": "edge-087",
   "from": "vusi-ndlala",
-  "to": "maj-gen-shibiri",
+  "to": "lt-gen-richard-shibiri",
   "type": "social association; hosted two gatherings at which Shibiri was present",
   "strength": "testified",
   "date": "2024-05-25",
@@ -1363,6 +1363,24 @@
   "type": "alleged direct pressure regarding the handling of an iLembe councillor murder docket",
   "strength": "testified",
   "date": "2025-02-05",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-099",
+  "from": "lt-gen-nhlanhla-mkhwanazi",
+  "to": "major-general-feroz-khan",
+  "type": "chaired the departmental hearing that cleared Khan of wrongdoing",
+  "strength": "testified",
+  "date": null,
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
@@ -1467,7 +1485,7 @@
  {
   "id": "edge-114",
   "from": "vusimuzi-matlala",
-  "to": "maj-gen-feroz-khan",
+  "to": "major-general-feroz-khan",
   "type": "alleged R500,000 payment of an R2.5m demand",
   "strength": "alleged",
   "date": null,
@@ -1609,6 +1627,42 @@
   "best_tier": 1
  },
  {
+  "id": "edge-129",
+  "from": "brigadier-julius-mkhwanazi",
+  "to": "cat-vip-protection-services",
+  "type": "signed MOU granting policing-like functions",
+  "strength": "documented",
+  "date": "2021-10-13",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-130",
+  "from": "brigadier-julius-mkhwanazi",
+  "to": "medicare-24-anubis-protection-services",
+  "type": "signed MOU granting policing-like functions",
+  "strength": "documented",
+  "date": "2021-10",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "edge-132",
   "from": "scharnick-skarnik-stuart-james",
   "to": "lt-gen-shadrack-sibiya",
@@ -1681,6 +1735,24 @@
   "best_tier": 1
  },
  {
+  "id": "edge-137",
+  "from": "oupa-brown-mogotsi",
+  "to": "lt-gen-nhlanhla-mkhwanazi",
+  "type": "accused of CIA recruitment",
+  "strength": "alleged",
+  "date": "2025-11-18",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "edge-140",
   "from": "vusimuzi-matlala",
   "to": "bheki-cele",
@@ -1700,11 +1772,29 @@
  },
  {
   "id": "edge-141",
-  "from": "lt-gen-sibiya",
+  "from": "lt-gen-shadrack-sibiya",
   "to": "oupa-brown-mogotsi",
   "type": "authorised infiltration operations against Matlala tender syndicate and Crime Intelligence",
   "strength": "testified",
   "date": "2024-08",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-143",
+  "from": "oupa-brown-mogotsi",
+  "to": "lt-gen-nhlanhla-mkhwanazi",
+  "type": "alleged plot against Maj-Gen Khan via 252A operation",
+  "strength": "alleged",
+  "date": "2024-12",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
@@ -1723,6 +1813,24 @@
   "type": "sent Signal/WhatsApp messages urging action against Khumalo",
   "strength": "documented",
   "date": "2024-12-31",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-152",
+  "from": "brigadier-julius-mkhwanazi",
+  "to": "cat-vip-protection-anubis-protection-services",
+  "type": "signed MOUs granting blue-light and City vehicle registration use",
+  "strength": "documented",
+  "date": null,
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
@@ -1754,7 +1862,7 @@
  },
  {
   "id": "edge-154",
-  "from": "xolani-nciza",
+  "from": "mr-xolani-prince-nciza",
   "to": "dr-imogen-mashazi",
   "type": "alleged she called to order a halt to Julius Mkhwanazi's discipline",
   "strength": "alleged",
@@ -1773,7 +1881,7 @@
  {
   "id": "edge-155",
   "from": "dr-imogen-mashazi",
-  "to": "xolani-nciza",
+  "to": "mr-xolani-prince-nciza",
   "type": "denied ordering a halt to Julius Mkhwanazi's discipline",
   "strength": "denied",
   "date": "2025-12-01",
@@ -1813,6 +1921,24 @@
   "type": "disputed on the record that Mthethwa ever contacted the Commission",
   "strength": "denied",
   "date": "2025-11-18",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-160",
+  "from": "advocate-kemi-behari",
+  "to": "brigadier-julius-mkhwanazi",
+  "type": "advised against pursuing IPID's charge recommendation",
+  "strength": "documented",
+  "date": "2023",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
@@ -2240,7 +2366,7 @@
  },
  {
   "id": "edge-186",
-  "from": "rachel-matjeng",
+  "from": "brigadier-rachel-matjeng",
   "to": "vusimuzi-cat-matlala",
   "type": "personal relationship / alleged undisclosed conflict of interest",
   "strength": "testified",
@@ -2258,7 +2384,7 @@
  },
  {
   "id": "edge-187",
-  "from": "rachel-matjeng",
+  "from": "brigadier-rachel-matjeng",
   "to": "osizweni-meat-market",
   "type": "disputed routed payments (via Modiegi Kekana's account)",
   "strength": "alleged",
@@ -2330,7 +2456,7 @@
  },
  {
   "id": "edge-193",
-  "from": "general-richard-shibiri",
+  "from": "lt-gen-richard-shibiri",
   "to": "thanksgiving-ceremony-at-general-sibiya-s-home",
   "type": "attended",
   "strength": "documented",
@@ -2384,7 +2510,7 @@
  },
  {
   "id": "edge-197",
-  "from": "kemi-behari",
+  "from": "advocate-kemi-behari",
   "to": "city-of-ekurhuleni",
   "type": "employed as Head of Risk and Legal",
   "strength": "documented",
@@ -2402,8 +2528,8 @@
  },
  {
   "id": "edge-198",
-  "from": "kemi-behari",
-  "to": "julius-mkhwanazi",
+  "from": "advocate-kemi-behari",
+  "to": "brigadier-julius-mkhwanazi",
   "type": "advised fraud/corruption case against him was 'not sustainable'",
   "strength": "documented",
   "date": null,
@@ -2421,7 +2547,7 @@
  {
   "id": "edge-199",
   "from": "linda-gxasheka",
-  "to": "kemi-behari",
+  "to": "advocate-kemi-behari",
   "type": "alleged joint involvement in disciplinary referrals",
   "strength": "alleged",
   "date": null,
@@ -2474,7 +2600,7 @@
  },
  {
   "id": "edge-203",
-  "from": "marius-van-der-merwe-witness-d",
+  "from": "marius-van-der-merwe",
   "to": "death-of-emmanuel-mbense-brakpan-murder",
   "type": "implicated several SAPS/EMPD members in a sworn statement",
   "strength": "testified",
@@ -2528,7 +2654,7 @@
  },
  {
   "id": "edge-206",
-  "from": "julius-mkhwanazi",
+  "from": "brigadier-julius-mkhwanazi",
   "to": "death-of-emmanuel-mbense-brakpan-murder",
   "type": "named suspect; recommended for disciplinary/criminal proceedings",
   "strength": "alleged",
@@ -2547,7 +2673,7 @@
  {
   "id": "edge-209",
   "from": "thulani-magagula",
-  "to": "julius-mkhwanazi",
+  "to": "brigadier-julius-mkhwanazi",
   "type": "denied improper relationship; contact described as official (training session)",
   "strength": "denied",
   "date": null,
@@ -2618,7 +2744,7 @@
  },
  {
   "id": "edge-219",
-  "from": "sergeant-fannie-nkosi-witness-f",
+  "from": "sergeant-fannie-nkosi",
   "to": "vusimuzi-cat-matlala",
   "type": "acted as WhatsApp intermediary/go-between with Sibiya",
   "strength": "testified",
@@ -2707,12 +2833,48 @@
   "best_tier": 1
  },
  {
+  "id": "edge-227",
+  "from": "linda-gxasheka",
+  "to": "brigadier-julius-mkhwanazi",
+  "type": "signed his 2023 suspension over CAT VIP vehicles",
+  "strength": "testified",
+  "date": "2023",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "edge-229",
   "from": "dr-mashazi",
   "to": "linda-gxasheka",
   "type": "instructed her not to discipline Mkhwanazi, per Gxasheka's testimony",
   "strength": "alleged",
   "date": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-230",
+  "from": "linda-gxasheka",
+  "to": "brigadier-julius-mkhwanazi",
+  "type": "sat on panel recommending his promotion to Deputy Chief of Police despite unresolved disciplinary charges",
+  "strength": "testified",
+  "date": "2023/10",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
@@ -2816,7 +2978,7 @@
  },
  {
   "id": "edge-237",
-  "from": "general-richard-shibiri",
+  "from": "lt-gen-richard-shibiri",
   "to": "vusimuzi-cat-matlala",
   "type": "undisclosed loan/payment (R70,000) and personal relationship",
   "strength": "testified",
@@ -2834,7 +2996,7 @@
  },
  {
   "id": "edge-238",
-  "from": "suliman-carrim",
+  "from": "mr-suleiman-carrim",
   "to": "vusimuzi-cat-matlala",
   "type": "funder of Medicare 24 Tshwane District SAPS contract (R10-12.12 million advanced)",
   "strength": "testified",
@@ -2852,7 +3014,7 @@
  },
  {
   "id": "edge-239",
-  "from": "suliman-carrim",
+  "from": "mr-suleiman-carrim",
   "to": "morgan-maumela",
   "type": "disputed business partnership (ChromeCore joint venture; Luthaga-routed payments)",
   "strength": "testified",
@@ -3177,7 +3339,7 @@
  {
   "id": "edge-257",
   "from": "jakobus-jeremiah-petrus-prinsloo",
-  "to": "major-general-lesetja-senona",
+  "to": "maj-gen-lesetja-senona",
   "type": "instructed cocaine storage at Port Shepstone and secrecy about it",
   "strength": "testified",
   "date": "2026/05/07",
@@ -3194,7 +3356,7 @@
  },
  {
   "id": "edge-258",
-  "from": "samuel-mashaba",
+  "from": "chief-inspector-samuel-mashaba",
   "to": "warrant-officer-marumo-joseph-magane",
   "type": "recruited as unauthorised backup for the Aeroton drug interception",
   "strength": "testified",
@@ -3213,7 +3375,7 @@
  {
   "id": "edge-259",
   "from": "tumelo-nku",
-  "to": "samuel-mashaba",
+  "to": "chief-inspector-samuel-mashaba",
   "type": "co-arrested informant in the Aeroton drug bust",
   "strength": "testified",
   "date": "2026/05/12",
@@ -3230,7 +3392,7 @@
  },
  {
   "id": "edge-260",
-  "from": "samuel-mashaba",
+  "from": "chief-inspector-samuel-mashaba",
   "to": "tumelo-nku",
   "type": "sustained WhatsApp contact since 2019 including paid 'side hustle' recovery work for SAPS members",
   "strength": "testified",
@@ -3284,7 +3446,7 @@
  },
  {
   "id": "edge-263",
-  "from": "samuel-mashaba",
+  "from": "chief-inspector-samuel-mashaba",
   "to": "tumelo-nku",
   "type": "Telegram messages allegedly showing GPS coordinates for Yellow Jersey Logistics sent hours before the Aeroton bust",
   "strength": "testified",
@@ -3301,27 +3463,9 @@
   "best_tier": 1
  },
  {
-  "id": "edge-264",
-  "from": "maj-gen-lesetja-senona",
-  "to": "karl-roland-sander",
-  "type": "handled a 2024 complaint against Sander while Provincial Head, DPCI KZN",
-  "strength": "testified",
-  "date": "2026/06/19",
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1
- },
- {
   "id": "edge-267",
   "from": "crossby-vusi-shongwe-mp",
-  "to": "feroz-khan",
+  "to": "major-general-feroz-khan",
   "type": "alleges cover-up links to the Aeroton drug theft, two murders, and cigarette smuggling; says he was offered payment via a DRK Tactical meeting to stop pursuing this",
   "strength": "testified",
   "date": "2026/06/30",
@@ -3339,7 +3483,7 @@
  {
   "id": "edge-268",
   "from": "vusimuzi-cat-matlala",
-  "to": "julius-mkhwanazi",
+  "to": "brigadier-julius-mkhwanazi",
   "type": "WhatsApp/bank-deposit evidence of cash payments referencing 'Matlala' and a scheme to obtain blue-light/law-enforcement appointment cards for private security entities",
   "strength": "alleged",
   "date": "2026/06/22",
@@ -3356,7 +3500,7 @@
  },
  {
   "id": "edge-270",
-  "from": "feroz-khan",
+  "from": "major-general-feroz-khan",
   "to": "ismail-vally",
   "type": "alleged facilitation of a National Treasury auto-parts tender (RT45-2021) for Vally's company Kaizen MSD",
   "strength": "alleged",
@@ -3374,7 +3518,7 @@
  },
  {
   "id": "edge-271",
-  "from": "feroz-khan",
+  "from": "major-general-feroz-khan",
   "to": "mohammed-sayed",
   "type": "WhatsApp chats on leaking Crime Intelligence material and a scheme to plant parliamentary questions via Julius Malema/the EFF",
   "strength": "alleged",
@@ -3411,7 +3555,7 @@
  {
   "id": "edge-273",
   "from": "kobus-de-meyer-roelofse",
-  "to": "andrea-johnson",
+  "to": "advocate-andrea-johnson",
   "type": "testified a 2018 complaint against Feroz Khan reached her before Khan's warning statement, and that she later contacted the whistleblower and a witness",
   "strength": "testified",
   "date": "2026/07/10",
@@ -3446,7 +3590,7 @@
  },
  {
   "id": "edge-275",
-  "from": "andrea-johnson",
+  "from": "advocate-andrea-johnson",
   "to": "fadiel-adams",
   "type": "solicited and processed his section 27 referral affidavit, which IDAC's investigation and arrests were built on",
   "strength": "testified",
@@ -3464,8 +3608,8 @@
  },
  {
   "id": "edge-276",
-  "from": "andrea-johnson",
-  "to": "feroz-khan",
+  "from": "advocate-andrea-johnson",
+  "to": "major-general-feroz-khan",
   "type": "past personal relationship, examined via WhatsApp chats; Johnson invoked her right against self-incrimination and declined to answer further",
   "strength": "testified",
   "date": "2026/07/29",
@@ -3501,7 +3645,7 @@
  {
   "id": "edge-278",
   "from": "suneel-bellochun",
-  "to": "fannie-nkosi",
+  "to": "sergeant-fannie-nkosi",
   "type": "alleged to have interviewed Nkosi in prison without his lawyer present, seeking to implicate Generals Masemola and Khumalo",
   "strength": "alleged",
   "date": "2026/07/28",
@@ -3519,7 +3663,7 @@
  {
   "id": "edge-279",
   "from": "major-general-matlou",
-  "to": "fannie-masemola",
+  "to": "lt-gen-fannie-masemola",
   "type": "made the Medicare24/Matlala contract referral resulting in PFMA charges against Masemola, though his affidavit did not itself implicate Masemola",
   "strength": "alleged",
   "date": "2026/07/29",
@@ -3537,7 +3681,7 @@
  {
   "id": "edge-280",
   "from": "drushantha-ramsamy",
-  "to": "andrea-johnson",
+  "to": "advocate-andrea-johnson",
   "type": "recorded phone call in which Johnson is heard saying they must 'figure out how you do not go' regarding Ramsamy testifying before the Commission; alleged instruction not to inform Masemola of the investigation so he would 'lie' before Parliament and be arrested for perjury",
   "strength": "testified",
   "date": "2026/07/30",
@@ -3591,7 +3735,7 @@
  {
   "id": "edge-283",
   "from": "matthews-sesoko",
-  "to": "andrea-johnson",
+  "to": "advocate-andrea-johnson",
   "type": "conceded documentary evidence (emails, meeting invitations, WhatsApp records) showed he was substantially involved throughout Operation Diversion despite being excluded by Johnson from formal oversight",
   "strength": "testified",
   "date": "2026/08/06",

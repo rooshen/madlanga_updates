@@ -12,6 +12,8 @@ const PAGES = [
   ['map.html', '#graph .nodes g'],
   ['timeline.html', '#tl .ev'],
   ['methodology.html', '#gaps .card'],
+  ['search.html?q=Matlala', '#results .card'],
+  ['changelog.html', '#list article'],
 ];
 
 (async () => {

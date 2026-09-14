@@ -14,6 +14,7 @@
 <main class="wrap" id="main">
 <h2 style="margin-top:0">Hearing days</h2>
 <p class="lead" id="intro">Loading…</p>
+<div id="gap-note"></div>
 <div class="controls">
   <input type="search" id="q" placeholder="Search witness, summary, ruling, exhibit…" aria-label="Search hearing days">
   <label class="ctl">From <input type="date" id="from" title="Date filter uses your browser locale; the site displays YYYY/MM/DD"></label>
@@ -58,8 +59,9 @@ function render() {
   [META, DAYS] = await MT.all('meta', 'days');
   document.getElementById('intro').innerHTML =
     'Day ' + META.latest_day + ' sat on ' + META.latest_day_date + '. This data layer holds <strong>' +
-    META.days_in_data + '</strong> of the commission\'s sitting days so far. <strong>' + META.days_outstanding +
-    '</strong> earlier sitting days are not yet back-filled.';
+    META.days_in_data + '</strong> of the commission\'s sitting days to date' +
+    (META.days_outstanding ? ', with <strong>' + META.days_outstanding + '</strong> not yet located' : '') + '.';
+  document.getElementById('gap-note').innerHTML = MT.gapHelpNote(META);
   document.getElementById('ws-filter').innerHTML =
     '<span class="small muted">Workstream:</span>' + META.workstreams.map(w =>
       `<button class="chip" data-ws="${w.id}" aria-pressed="false"><span class="ws-dot" style="background:${w.colour}"></span>${MT.esc(w.label)}</button>`).join('');

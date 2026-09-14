@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en-ZA" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Search · The Madlanga Tracker</title>
+<meta name="description" content="Search people, hearing days, entities and timeline events across the tracker.">
+<meta name="colour-scheme" content="dark light">
+<meta name="color-scheme" content="dark light">
+<link rel="stylesheet" href="assets/css/app.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%230e1116'/><text x='16' y='23' font-size='19' font-family='monospace' text-anchor='middle' fill='%236ea8fe'>M</text></svg>">
+</head>
+<body>
+<main class="wrap" id="main">
+<h2 style="margin-top:0">Search</h2>
+<p class="lead">Searches names, roles, summaries, exhibits, quotes and descriptions across the whole
+data layer at once. Use the header search box from any page to get here.</p>
+<div class="controls">
+  <input type="search" id="q" placeholder="Search people, days, entities, events…" aria-label="Search everything">
+  <button class="chip" id="clear" type="button">Clear</button>
+</div>
+<p class="small muted" id="count"></p>
+<div id="results"></div>
+</main>
+<script src="assets/js/core.js"></script>
+
+<script>
+MT.chrome();
+
+let META, PEOPLE = [], DAYS = [], ORGS = [], EVENTS = [];
+
+function render() {
+  const q = document.getElementById('q').value.trim().toLowerCase();
+  const results = document.getElementById('results');
+  if (!q) { results.innerHTML = ''; document.getElementById('count').textContent = ''; return; }
+
+  const people = PEOPLE.filter(p => (p.name + ' ' + (p.role || '') + ' ' + (p.bio || '') + ' ' + (p.status_reason || '')).toLowerCase().includes(q));
+  const days = DAYS.filter(d => {
+    const hay = [d.summary, 'day ' + d.day_number, d.date,
+      ...d.witnesses.map(w => w.name + ' ' + (w.role_as_described || '')),
+      ...d.rulings.map(r => r.description),
+      ...d.exhibits.map(e => (e.ref || '') + ' ' + e.description),
+      ...d.quotes.map(x => x.text + ' ' + x.speaker)].join(' ').toLowerCase();
+    return hay.includes(q);
+  });
+  const orgs = ORGS.filter(o => (o.name + ' ' + (o.type || '') + ' ' + (o.description || '')).toLowerCase().includes(q));
+  const events = EVENTS.filter(e => (e.title + ' ' + (e.description || '')).toLowerCase().includes(q));
+
+  const total = people.length + days.length + orgs.length + events.length;
+  document.getElementById('count').textContent = total
+    ? total + ' result' + (total === 1 ? '' : 's') + ' for "' + q + '"'
+    : 'No results for "' + q + '"';
+
+  const section = (title, items, render) => items.length
+    ? `<h3>${MT.esc(title)} (${items.length})</h3>` + items.slice(0, 40).map(render).join('') : '';
+
+  results.innerHTML =
+    section('People', people, p => `
+      <a class="card pcard" href="person.html?id=${encodeURIComponent(p.id)}">
+        ${MT.avatar(p)}
+        <div><div class="nm">${MT.esc(p.name)}</div><div class="rl">${MT.esc(p.role || '')}</div>${MT.statusPill(p.status)}</div>
+      </a>`) +
+    section('Hearing days', days, d => `
+      <a class="card" href="days.html?day=${d.day_number}#day-${d.day_number}" style="display:block">
+        <div class="dayhead"><span class="num">Day ${d.day_number}</span><span class="date">${MT.esc(d.date)}</span></div>
+        <p class="small" style="margin:4px 0 0">${MT.esc((d.summary || '').slice(0, 220))}${(d.summary || '').length > 220 ? '…' : ''}</p>
+      </a>`) +
+    section('Entities', orgs, o => `
+      <a class="card" href="entities.html" style="display:block">
+        <div style="font-weight:600">${MT.esc(o.name)}</div>
+        <p class="small" style="margin:4px 0 0">${MT.esc((o.description || '').slice(0, 220))}${(o.description || '').length > 220 ? '…' : ''}</p>
+      </a>`) +
+    section('Timeline events', events, e => `
+      <a class="card" href="timeline.html" style="display:block">
+        <div style="font-weight:600">${MT.esc(e.title)}</div>
+        <p class="small muted" style="margin:2px 0 0">${MT.esc(e.date || '')}</p>
+        <p class="small" style="margin:4px 0 0">${MT.esc((e.description || '').slice(0, 220))}${(e.description || '').length > 220 ? '…' : ''}</p>
+      </a>`);
+}
+
+(async () => {
+  [META, PEOPLE, DAYS, ORGS, EVENTS] = await MT.all('meta', 'people', 'days', 'orgs', 'events');
+  const initial = new URLSearchParams(location.search).get('q');
+  if (initial) document.getElementById('q').value = initial;
+  document.getElementById('q').addEventListener('input', render);
+  document.getElementById('clear').addEventListener('click', () => { document.getElementById('q').value = ''; render(); });
+  render();
+})().catch(e => document.getElementById('results').innerHTML = '<p class="empty">' + MT.esc(e.message) + '</p>');
+
+</script>
+</body>
+</html>

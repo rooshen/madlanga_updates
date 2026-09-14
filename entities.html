@@ -31,6 +31,7 @@ verified total, only what the record itself states. See <a href="methodology.htm
   <button class="chip" id="clear" type="button">Clear</button>
 </div>
 <p class="small muted" id="count"></p>
+<p class="small muted" id="rollup"></p>
 <div id="list"></div>
 </main>
 <script src="assets/js/core.js"></script>
@@ -84,6 +85,13 @@ function render() {
   });
 
   document.getElementById('count').textContent = out.length + ' of ' + ORGS.length + ' entities shown';
+  const withFigs = out.filter(o => o._maxValue);
+  const total = withFigs.reduce((s, o) => s + o._maxValue, 0);
+  document.getElementById('rollup').textContent = withFigs.length
+    ? 'Total of the largest rand figure stated against each of the ' + withFigs.length +
+      ' shown entit' + (withFigs.length === 1 ? 'y' : 'ies') + ' with one on record: ' + fmtRand(total) +
+      ' — as stated in the record, not an independently verified or reconciled total.'
+    : '';
   document.getElementById('list').innerHTML = out.length ? out.map(o => `
     <div class="card">
       <div class="dayhead"><span style="font-weight:600;font-size:1.05em">${MT.esc(o.name)}</span>

@@ -83,6 +83,11 @@ nav.site a[aria-current="page"] { background: var(--bg-3); color: var(--fg); bor
   margin-left: auto; background: none; border: 1px solid var(--line); color: var(--fg-2);
   border-radius: 7px; padding: 5px 9px; cursor: pointer; font-size: 0.8rem; flex: none;
 }
+.site-search { margin: 0 0 8px; }
+.site-search input[type="search"] { width: 100%; }
+@media (min-width: 720px) {
+  .site-search { flex: 1 1 220px; margin: 0 0 6px auto; max-width: 260px; }
+}
 
 /* ---------- layout ---------- */
 main { padding: 26px 0 72px; }

@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en-ZA" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>What's new · The Madlanga Tracker</title>
+<meta name="description" content="A dated log of user-visible changes to the tracker.">
+<meta name="colour-scheme" content="dark light">
+<meta name="color-scheme" content="dark light">
+<link rel="stylesheet" href="assets/css/app.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%230e1116'/><text x='16' y='23' font-size='19' font-family='monospace' text-anchor='middle' fill='%236ea8fe'>M</text></svg>">
+</head>
+<body>
+<main class="wrap" id="main">
+<h2 style="margin-top:0">What's new</h2>
+<p class="lead">User-visible changes to the tracker itself — new pages, new stats, data-quality
+fixes. For what the commission has actually heard, see the weekly briefing on the
+<a href="index.html">home page</a> and its <a href="archive.html">archive</a>.</p>
+<div id="list"></div>
+</main>
+<script src="assets/js/core.js"></script>
+
+<script>
+MT.chrome();
+
+(async () => {
+  const log = await MT.data('changelog');
+  const el = document.getElementById('list');
+  if (!log.length) { el.innerHTML = '<p class="empty">Nothing logged yet.</p>'; return; }
+  el.innerHTML = log.map(e => `
+    <article class="card">
+      <div class="dayhead"><span class="date mono">${MT.esc(e.date)}</span></div>
+      <h3 style="margin:2px 0 6px">${MT.esc(e.title)}</h3>
+      <p>${MT.esc(e.body)}</p>
+    </article>`).join('');
+})().catch(e => document.getElementById('list').innerHTML = '<p class="empty">' + MT.esc(e.message) + '</p>');
+
+</script>
+</body>
+</html>

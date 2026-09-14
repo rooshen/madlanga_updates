@@ -30,7 +30,7 @@ const MT = (() => {
   const NAV = [
     ['index.html', 'Home'], ['archive.html', 'Archive'], ['days.html', 'Hearing days'],
     ['people.html', 'People'], ['entities.html', 'Entities'], ['map.html', 'The Map'],
-    ['timeline.html', 'Timeline'], ['methodology.html', 'Methodology'],
+    ['timeline.html', 'Timeline'], ['changelog.html', "What's new"], ['methodology.html', 'Methodology'],
   ];
 
   function theme(init) {
@@ -55,12 +55,21 @@ const MT = (() => {
     <h1><a href="${BASE}index.html">The Madlanga Tracker</a></h1>
     <span class="sub">Judicial Commission of Inquiry &middot; independent tracker</span>
   </div>
+  <form class="site-search" id="site-search-form" role="search">
+    <input type="search" id="site-search" name="q" placeholder="Search people, days, entities…" aria-label="Search the tracker"
+      value="${here === 'search.html' ? esc(new URLSearchParams(location.search).get('q') || '') : ''}">
+  </form>
   <nav class="site">
     ${NAV.map(([h, l]) => `<a href="${BASE}${h}"${h === here ? ' aria-current="page"' : ''}>${l}</a>`).join('')}
     <button class="theme-btn" id="theme-btn" type="button" aria-label="Toggle light and dark mode">◐ Theme</button>
   </nav>
 </div></header>`);
     document.getElementById('theme-btn').addEventListener('click', () => theme(false));
+    document.getElementById('site-search-form').addEventListener('submit', ev => {
+      ev.preventDefault();
+      const q = document.getElementById('site-search').value.trim();
+      if (q) location.href = BASE + 'search.html?q=' + encodeURIComponent(q);
+    });
 
     document.body.insertAdjacentHTML('beforeend', `
 <footer class="site"><div class="wrap">
@@ -173,6 +182,19 @@ const MT = (() => {
 </article>`;
   }
 
+  const ISSUE_URL = 'https://github.com/rooshen/madlanga_updates/issues/new';
+
+  function gapHelpNote(meta) {
+    const missing = [14, ...(meta.confirmed_gap_days || [])].sort((a, b) => a - b);
+    const label = n => n === 14 ? `Day ${n} (transcript not yet located)` : `Day ${n} (no transcript published)`;
+    return `<div class="notice gap-help">
+      <strong>Help us fill a gap.</strong> ${missing.length} sitting day${missing.length === 1 ? '' : 's'}
+      ${missing.length === 1 ? 'has' : 'have'} no transcript in this data layer: ${missing.map(label).join(', ')}.
+      If you have a copy of one of these, or know where the commission's own index lists it,
+      <a href="${ISSUE_URL}" target="_blank" rel="noopener noreferrer">open an issue on GitHub</a> —
+      every claim on this site is still built only from a real, cited source.</div>`;
+  }
+
   return { BASE, data, all, briefing, esc, chrome, tierBadge, claimBadge, statusPill, wsDot,
-           sourceList, avatar, quoteBlock, reportingBlock, dayCard, host };
+           sourceList, avatar, quoteBlock, reportingBlock, dayCard, host, gapHelpNote };
 })();

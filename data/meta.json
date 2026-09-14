@@ -2,8 +2,8 @@
  "site": "The Madlanga Tracker",
  "commission": "Judicial Commission of Inquiry into Criminality, Political Interference and Corruption in the Criminal Justice System",
  "chair": "Retired Justice Mbuyiseli Madlanga",
- "phase": "Phase 2 - back-fill in progress. Processing every sitting day from the commission's own transcripts, oldest gaps first; see the Methodology page for exactly what's left.",
- "last_updated": "2026/09/05 05:19 SAST",
+ "phase": "Historical back-fill complete (Days 1-166, minus Day 14 and 11 confirmed transcript gaps). Now forward-looking: new sitting days are processed from the commission's own transcripts as they become available; see the Methodology page for exactly what's left.",
+ "last_updated": "2026/09/13 19:15 SAST",
  "latest_day": 166,
  "latest_day_date": "2026/08/25",
  "latest_day_verified": true,
@@ -83,11 +83,11 @@
  ],
  "counts": {
   "days": 154,
-  "people": 324,
+  "people": 259,
   "orgs": 106,
   "events": 144,
-  "edges": 201,
-  "gaps": 759
+  "edges": 209,
+  "gaps": 731
  },
  "method_note": "PHASE 2 BACK-FILL COMPLETE as of 2026/09/05. Every commission sitting day from Day 1 to Day 166 has now been processed directly from the commission's own published transcripts (Tier 1 / EVIDENCE), except: Day 14, whose transcript could not be located (mad-day-014.pdf turned out to be an unrelated in-camera witness-statement exhibit, not the Day 14 hearing transcript) and remains unresolved; and 11 confirmed gap days (16, 56, 85, 90, 91, 104, 124, 125, 130, 131, 143) for which the commission itself published no transcript media at all. Every quote in this tracker has been mechanically verified as an exact substring of its source transcript by tools/verify_quotes.py -- nothing is taken on trust from a model's own recollection of what a transcript said. Tier 2/3 material (mainstream and investigative reporting) is kept strictly separate in each day's reporting_context and never merged into the Tier 1 summary. As the commission continues sitting, new days will be added to this tracker following the same pipeline."
 }

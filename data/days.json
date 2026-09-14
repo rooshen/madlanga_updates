@@ -890,8 +890,8 @@
   "workstream": "idac-npa",
   "witnesses": [
    {
-    "person_id": "suliman-carrim",
-    "name": "Suliman Carrim",
+    "person_id": "mr-suleiman-carrim",
+    "name": "Mr Suleiman Carrim",
     "role_as_described": "Witness required by the Commission's 29 July ruling to appear and testify, or be excused only on the basis of an independent medical assessment; did not appear",
     "note": "testified"
    },
@@ -1902,8 +1902,8 @@
   "workstream": "idac-npa",
   "witnesses": [
    {
-    "person_id": "adv-andrea-johnson",
-    "name": "Adv Andrea Johnson",
+    "person_id": "advocate-andrea-johnson",
+    "name": "Advocate Andrea Johnson",
     "role_as_described": "Former Head of the Investigating Directorate Against Corruption (IDAC), continuing multi-day testimony on IDAC's mandate, the charging and arrest of General Masemola and other SAPS/Crime Intelligence officials, the conduct of IDAC investigator Suneel Bellochun, the Tembisa Hospital matter, and her personal relationship with General Feroz Khan",
     "note": "testified"
    }
@@ -2547,8 +2547,8 @@
   "workstream": "idac-npa",
   "witnesses": [
    {
-    "person_id": "adv-andrea-johnson",
-    "name": "Adv Andrea Johnson",
+    "person_id": "advocate-andrea-johnson",
+    "name": "Advocate Andrea Johnson",
     "role_as_described": "Investigating Director of the Investigating Directorate Against Corruption (IDAC), continuing testimony from the previous sitting day regarding IDAC's team structures, its handling of a section 27 NPA Act referral from MP Fadiel Adams, and the resulting section 28(13) preliminary investigation authorisation (the 'Mokwele matter')",
     "note": "testified"
    }
@@ -2654,8 +2654,8 @@
   "workstream": "idac-npa",
   "witnesses": [
    {
-    "person_id": "andrea-johnson",
-    "name": "Andrea Johnson",
+    "person_id": "advocate-andrea-johnson",
+    "name": "Advocate Andrea Johnson",
     "role_as_described": "Investigating Director and Head of the Investigating Directorate Against Corruption (IDAC), a unit within the National Prosecuting Authority",
     "note": "testified"
    }
@@ -5125,8 +5125,8 @@
   "workstream": "matlala-saps-contract",
   "witnesses": [
    {
-    "person_id": "chief-samuel-mashaba",
-    "name": "Chief Samuel Mashaba",
+    "person_id": "chief-inspector-samuel-mashaba",
+    "name": "Chief Inspector Samuel Mashaba",
     "role_as_described": "SAPS/traffic officer witness continuing cross-examination on his relationship with Mr Nku, WhatsApp/Telegram communications, the Aeroton drug bust and side payments",
     "note": "testified"
    }
@@ -6229,8 +6229,8 @@
   "workstream": "crime-intelligence",
   "witnesses": [
    {
-    "person_id": "karl-roland-sander",
-    "name": "Karl Roland Sander",
+    "person_id": "warrant-officer-karl-roland-sander",
+    "name": "Warrant Officer Karl Roland Sander",
     "role_as_described": "Warrant Officer / Detective, SAPS Directorate for Priority Crime Investigation (DPCI), Serious Organised Crime (formerly SANEB narcotics investigator, now in the Economic Protected Resources unit); testified about narcotics seizures he handled between 2020 and 2023 and about being moved out of narcotics duties in 2024 following an unspecified internal corruption allegation",
     "note": "testified"
    }
@@ -6569,8 +6569,8 @@
   "workstream": "crime-intelligence",
   "witnesses": [
    {
-    "person_id": "boy-steve-phakula",
-    "name": "Boy Steve Phakula",
+    "person_id": "warrant-officer-boy-steve-phakula",
+    "name": "Warrant Officer Boy Steve Phakula",
     "role_as_described": "Warrant Officer, SAPS National Investigation Unit (NINU), Pretoria; testified as a sequel to Warrant Officer Magane's evidence about the 9 July 2021 Aeroton drug bust",
     "note": "testified"
    }
@@ -6703,8 +6703,8 @@
   "workstream": "crime-intelligence",
   "witnesses": [
    {
-    "person_id": "marumo-joseph-magane",
-    "name": "Marumo Joseph Magane",
+    "person_id": "warrant-officer-marumo-joseph-magane",
+    "name": "Warrant Officer Marumo Joseph Magane",
     "role_as_described": "Warrant Officer, Commander of CIMAC (Crime Information Management and Analysis Centre) at SAPS Zonkizizwe, stationed there since 2005; testified about the July 2021 Aeroton drug bust and his own subsequent arrest, suspension and departmental/criminal charges",
     "note": "testified"
    }
@@ -8106,8 +8106,8 @@
   "workstream": "political-interference",
   "witnesses": [
    {
-    "person_id": "mr-gareth-mnisi",
-    "name": "Mr Gareth Mnisi",
+    "person_id": "gareth-mnisi",
+    "name": "Gareth Mnisi",
     "role_as_described": "Chief Financial Officer of the City of Tshwane and Chairperson of the City's Bid Adjudication Committee (BAC), continuing cross-examination on the TMPD 1-24/25 security tender and his WhatsApp exchanges with Sergeant Fannie Nkosi and Deputy Chief Dhlamini",
     "note": "testified"
    }
@@ -9608,8 +9608,8 @@
   "workstream": "matlala-saps-contract",
   "witnesses": [
    {
-    "person_id": "sergeant-fannie-ezekiel-nkosi",
-    "name": "Sergeant Fannie Ezekiel Nkosi",
+    "person_id": "sergeant-fannie-nkosi",
+    "name": "Sergeant Fannie Nkosi",
     "role_as_described": "SAPS sergeant, formerly attached to the Deputy National Commissioner for Crime Detection's office; previously anonymised in Commission proceedings as 'Witness F'; continuing cross-examination on his relationship with Mr Vusimuzi 'Cat' Matlala, Lt-Gen Shadrack Sibiya, Brigadier Ramangwa, General Fannie, Brigadier Glenda Bokaba, General Shibiri, Mr Zenzile 'Ze' Nxumalo and Mr Motsumi",
     "note": "testified"
    }
@@ -9726,8 +9726,8 @@
   "workstream": "kzn-pktt",
   "witnesses": [
    {
-    "person_id": "lt-gen-shibiri",
-    "name": "Lt-Gen Shibiri",
+    "person_id": "lt-gen-richard-shibiri",
+    "name": "Lt-Gen Richard Shibiri",
     "role_as_described": "SAPS Head of Organised Crime, continuing cross-examination on a recorded phone call with an investigating officer ('Witness A'), on the Armand Swart murder investigation, the arrest of Katiso Molefe, and alleged instructions from Deputy National Commissioner Lt-Gen Sibiya",
     "note": "testified"
    }
@@ -9834,8 +9834,8 @@
   "workstream": "matlala-saps-contract",
   "witnesses": [
    {
-    "person_id": "lt-gen-maj-gen-richard-shibiri",
-    "name": "Lt-Gen (Maj-Gen) Richard Shibiri",
+    "person_id": "lt-gen-richard-shibiri",
+    "name": "Lt-Gen Richard Shibiri",
     "role_as_described": "Component Head: Organised Crime, SAPS (national) — continuing cross-examination, focused on a personal loan from Mr Vusi Matlala and his May 2024 briefing of investigators on the Swart murder case",
     "note": "testified"
    }
@@ -10215,8 +10215,8 @@
   "workstream": "matlala-saps-contract",
   "witnesses": [
    {
-    "person_id": "suleiman-carrim",
-    "name": "Suleiman Carrim",
+    "person_id": "mr-suleiman-carrim",
+    "name": "Mr Suleiman Carrim",
     "role_as_described": "Businessman; director/shareholder of Fusion Technical Team and associated with Ziggy and Tameez Investments; financier who advanced R10 million to Vusi Matlala's Medicare 24 Tshwane District SAPS medical-services contract",
     "note": "testified"
    },
@@ -10368,8 +10368,8 @@
   "workstream": "political-interference",
   "witnesses": [
    {
-    "person_id": "suleiman-carrim",
-    "name": "Suleiman Carrim",
+    "person_id": "mr-suleiman-carrim",
+    "name": "Mr Suleiman Carrim",
     "role_as_described": "Businessman and ANC member; applicant in the interlocutory in-camera application argued this day; scheduled to give his own evidence to the Commission on 9 and 10 March 2026",
     "note": "testified"
    }
@@ -11207,8 +11207,8 @@
   "workstream": "matlala-saps-contract",
   "witnesses": [
    {
-    "person_id": "lt-gen-sibiya",
-    "name": "Lt-Gen Sibiya",
+    "person_id": "lt-gen-shadrack-sibiya",
+    "name": "Lt Gen Shadrack Sibiya",
     "role_as_described": "Deputy National Commissioner: Crime Detection, SAPS; implicated person continuing sworn testimony",
     "note": "testified"
    }
@@ -12314,8 +12314,8 @@
   "workstream": "matlala-saps-contract",
   "witnesses": [
    {
-    "person_id": "kemi-behari",
-    "name": "Kemi Behari",
+    "person_id": "advocate-kemi-behari",
+    "name": "Advocate Kemi Behari",
     "role_as_described": "Advocate; Head of Risk and Legal (formerly Head of Legal) at the City of Ekurhuleni, continuing multi-day cross-examination begun on a previous sitting day, concerning the City's handling of an IPID fraud/corruption report on Brigadier Julius Mkhwanazi's donated-vehicle dealings with CAT VIP Protection, and a subsequent change to the disciplinary-referral delegation matrix",
     "note": "testified"
    },
@@ -13406,8 +13406,8 @@
   "workstream": "matlala-saps-contract",
   "witnesses": [
    {
-    "person_id": "major-general-lesetja-senona",
-    "name": "Major General Lesetja Senona",
+    "person_id": "maj-gen-lesetja-senona",
+    "name": "Maj-Gen Lesetja Senona",
     "role_as_described": "Head of the Hawks (DPCI) in KwaZulu-Natal, continuing cross-examination on his relationship with Vusimusi Matlala",
     "note": "testified"
    }
@@ -14405,8 +14405,8 @@
   "workstream": "matlala-saps-contract",
   "witnesses": [
    {
-    "person_id": "dr-imogen-mashazi-maboikanyo-imogen-mashazi",
-    "name": "Dr Imogen Mashazi (Maboikanyo Imogen Mashazi)",
+    "person_id": "dr-imogen-mashazi",
+    "name": "Dr Imogen Mashazi",
     "role_as_described": "Former City Manager (Accounting Officer), City of Ekurhuleni Metropolitan Municipality; retired July 2025 at mandatory age 65; previously HOD: Health and Social Development and Chief Operating Officer for the City",
     "note": "testified"
    }
@@ -14553,8 +14553,8 @@
   "workstream": "kzn-pktt",
   "witnesses": [
    {
-    "person_id": "hilda-khosi-senthumule-also-referenced-as-khosi-mavimbela",
-    "name": "Hilda Khosi Senthumule (also referenced as Khosi Mavimbela)",
+    "person_id": "lt-gen-hilda-khosi-senthumule",
+    "name": "Lt-Gen Hilda Khosi Senthumule",
     "role_as_described": "Lieutenant General, SAPS; Acting Deputy National Commissioner: Crime Detection; substantively Divisional Commissioner, Detective and Forensic Services",
     "note": "testified"
    }
@@ -14703,8 +14703,8 @@
   "workstream": "kzn-pktt",
   "witnesses": [
    {
-    "person_id": "major-general-senona",
-    "name": "Major General Senona",
+    "person_id": "maj-gen-lesetja-senona",
+    "name": "Maj-Gen Lesetja Senona",
     "role_as_described": "Subpoenaed witness scheduled to testify; described in transcript simply as 'General Senona', identified in contemporaneous news reporting as head of the KwaZulu-Natal Hawks. His substantive testimony was postponed to 27 January 2026; on this day he only briefly acknowledged the postponement agreement on the record.",
     "note": "testified"
    }
@@ -14782,20 +14782,20 @@
   "workstream": "political-interference",
   "witnesses": [
    {
-    "person_id": "dail-christiaan-nortje",
-    "name": "Dail Christiaan Nortje",
+    "person_id": "captain-dail-christiaan-nortje",
+    "name": "Captain Dail Christiaan Nortje",
     "role_as_described": "Captain, SAPS Hawks (Serious Organised Crime Investigation Unit), Johannesburg office; led the 5-member team sent to verify the Sandhurst scene on 6 Dec 2024",
     "note": "testified"
    },
    {
-    "person_id": "paul-makhere-radebe",
-    "name": "Paul Makhere Radebe",
+    "person_id": "warrant-officer-paul-makhere-radebe",
+    "name": "Warrant Officer Paul Makhere Radebe",
     "role_as_described": "Warrant Officer, SAPS Hawks (Serious Organised Crime Investigation Unit, Directorate for Priority Crime Investigation), Johannesburg; member of the verification team; a field/undercover officer",
     "note": "testified"
    },
    {
-    "person_id": "ebrahim-ahmed-kadwa",
-    "name": "Ebrahim Ahmed Kadwa",
+    "person_id": "major-general-ebrahim-ahmed-kadwa",
+    "name": "Major-General Ebrahim Ahmed Kadwa",
     "role_as_described": "Major-General, Provincial Head of the Directorate for Priority Crime Investigation (Hawks), Gauteng; instructed Col Serfontein to send the verification team after a call from Gen Lebeya",
     "note": "testified"
    }
@@ -14906,8 +14906,8 @@
   "workstream": "kzn-pktt",
   "witnesses": [
    {
-    "person_id": "mr-brown-mogotsi",
-    "name": "Mr Brown Mogotsi",
+    "person_id": "brown-mogotsi",
+    "name": "Brown Mogotsi",
     "role_as_described": "Self-described state/contact agent; witness continuing multi-day testimony concerning communications with the Minister of Police and Mr Cat Matlala, and Crime Intelligence-linked operations targeting SAPS generals",
     "note": "testified"
    }
@@ -15032,8 +15032,8 @@
   "workstream": "crime-intelligence",
   "witnesses": [
    {
-    "person_id": "mr-brown-mogotsi",
-    "name": "Mr Brown Mogotsi",
+    "person_id": "brown-mogotsi",
+    "name": "Brown Mogotsi",
     "role_as_described": "Self-described Crime Intelligence agent/informant reporting to a handler; continuing (day 2) testimony under examination on his 'misdirection' theory, corruption-in-Crime-Intelligence allegations, alleged PKTT misuse, and his personal/financial dealings with Mr Matlala and others",
     "note": "testified"
    }
@@ -15630,8 +15630,8 @@
   "workstream": "political-interference",
   "witnesses": [
    {
-    "person_id": "xolani-nciza",
-    "name": "Xolani Nciza",
+    "person_id": "mr-xolani-prince-nciza",
+    "name": "Mr Xolani (Prince) Nciza",
     "role_as_described": "Former Divisional Head: Employee Relations, City of Ekurhuleni Metropolitan Municipality; dismissed March 2024; testified over multiple days",
     "note": "testified"
    }
@@ -16654,14 +16654,14 @@
     "note": "testified"
    },
    {
-    "person_id": "sabelo-nkosi",
-    "name": "Sabelo Nkosi",
+    "person_id": "warrant-officer-sabelo-nkosi",
+    "name": "Warrant Officer Sabelo Nkosi",
     "role_as_described": "Warrant Officer, DPCI TOMS (Tactical Operations Management Section), joined SAPS in 2000, in TOMS since 2020, reports to Brigadier Mokoena",
     "note": "testified"
    },
    {
-    "person_id": "dumisani-patrick-mbotho",
-    "name": "Dumisani Patrick Mbotho",
+    "person_id": "lt-gen-dumisani-patrick-mbotho",
+    "name": "Lt-Gen Dumisani Patrick Mbotho",
     "role_as_described": "Lieutenant General, DPCI Divisional Commissioner (started October 2024; previously Provincial Head of DPCI North West 2018-2024); Brigadier Mokoena reports directly to him; he reports to the DPCI National Head (General Lebeya at the time, now Acting General Nkosi)",
     "note": "testified"
    }
@@ -16930,20 +16930,20 @@
   "workstream": "kzn-pktt",
   "witnesses": [
    {
-    "person_id": "maxwell-thulani-wanda",
-    "name": "Maxwell Thulani Wanda",
+    "person_id": "captain-maxwell-thulani-wanda",
+    "name": "Captain Maxwell Thulani Wanda",
     "role_as_described": "Captain, SAPS; crime scene investigator/CSI commander, Local Criminal Record Centre Richards Bay; former Tactical Commander for LCRC within the Political Killings Task Team (PKTT), Dec 2023-Apr 2025",
     "note": "testified"
    },
    {
-    "person_id": "lesiba-joseph-mokoena",
-    "name": "Lesiba Joseph Mokoena",
+    "person_id": "brigadier-lesiba-joseph-mokoena",
+    "name": "Brigadier Lesiba Joseph Mokoena",
     "role_as_described": "Brigadier, SAPS Hawks (DPCI); commander who instructed Kruger and De Gouveia to attend the Molefe address; referred to in WhatsApp records as \"Brig Kleintjie\"",
     "note": "testified"
    },
    {
-    "person_id": "barry-james-kruger",
-    "name": "Barry James Kruger",
+    "person_id": "captain-barry-james-kruger",
+    "name": "Captain Barry James Kruger",
     "role_as_described": "Captain, SAPS Hawks (DPCI) tactical operations; attended the Molefe scene with Constable De Gouveia on Mokoena's instruction",
     "note": "testified"
    }
@@ -17845,8 +17845,8 @@
     "note": "testified"
    },
    {
-    "person_id": "thabang-pooe",
-    "name": "Thabang Pooe",
+    "person_id": "adv-thabang-pooe",
+    "name": "Adv Thabang Pooe",
     "role_as_described": "Evidence Leader acting as sworn intermediary relaying Witness X's testimony (identified by name on record, not a protected witness)",
     "note": "testified"
    }
@@ -18085,8 +18085,8 @@
   "workstream": "matlala-saps-contract",
   "witnesses": [
    {
-    "person_id": "lt-gen-samuel-dumisani-khumalo",
-    "name": "Lt-Gen Samuel Dumisani Khumalo",
+    "person_id": "lt-gen-dumisani-khumalo",
+    "name": "Lt-Gen Dumisani Khumalo",
     "role_as_described": "Divisional Commissioner, Crime Intelligence, SAPS; project leader of the Political Killings Task Team",
     "note": "testified"
    }
@@ -18199,8 +18199,8 @@
   "workstream": "kzn-pktt",
   "witnesses": [
    {
-    "person_id": "lt-gen-samuel-dumisani-khumalo",
-    "name": "Lt-Gen Samuel Dumisani Khumalo",
+    "person_id": "lt-gen-dumisani-khumalo",
+    "name": "Lt-Gen Dumisani Khumalo",
     "role_as_described": "Divisional Commissioner of Crime Intelligence, SAPS; project leader/coordinator of the Political Killings Task Team since 2018",
     "note": "testified"
    }

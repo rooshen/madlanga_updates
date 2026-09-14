@@ -36,12 +36,13 @@ def page(name, title, desc, body, script, extra=""):
     print("  " + name)
 
 PHASE_NOTICE = """
-<div class="notice" id="phase-notice"><strong>Back-fill in progress.</strong>
+<div class="notice" id="phase-notice"><strong>Historical back-fill complete.</strong>
 This data layer holds <span id="pn-have">…</span> of the commission's <span id="pn-total">…</span>
-sitting days so far. <span id="pn-outstanding">…</span> are still being processed from the
-commission's own transcripts (a handful of day numbers have no transcript at all and are logged as
-confirmed gaps, not outstanding work). Nothing here is invented: every claim carries a source and a
-tier, and everything that could not be verified is listed on the
+sitting days to date. <span id="pn-outstanding">…</span> day's transcript has not yet been located
+(a further set of day numbers have no transcript at all and are logged as confirmed gaps, not
+outstanding work — see <a href="days.html">Hearing days</a>). From here, new sitting days are added
+as the commission continues and their transcripts become available. Nothing here is invented: every
+claim carries a source and a tier, and everything that could not be verified is listed on the
 <a href="methodology.html">Methodology</a> page.</div>"""
 
 # ---------------------------------------------------------------- home
@@ -129,6 +130,7 @@ page("archive.html", "Archive", "Every past weekly briefing, by date.", """
 page("days.html", "Hearing days", "Every sitting day of the commission, filterable.", """
 <h2 style="margin-top:0">Hearing days</h2>
 <p class="lead" id="intro">Loading…</p>
+<div id="gap-note"></div>
 <div class="controls">
   <input type="search" id="q" placeholder="Search witness, summary, ruling, exhibit…" aria-label="Search hearing days">
   <label class="ctl">From <input type="date" id="from" title="Date filter uses your browser locale; the site displays YYYY/MM/DD"></label>
@@ -168,8 +170,9 @@ function render() {
   [META, DAYS] = await MT.all('meta', 'days');
   document.getElementById('intro').innerHTML =
     'Day ' + META.latest_day + ' sat on ' + META.latest_day_date + '. This data layer holds <strong>' +
-    META.days_in_data + '</strong> of the commission\\'s sitting days so far. <strong>' + META.days_outstanding +
-    '</strong> earlier sitting days are not yet back-filled.';
+    META.days_in_data + '</strong> of the commission\\'s sitting days to date' +
+    (META.days_outstanding ? ', with <strong>' + META.days_outstanding + '</strong> not yet located' : '') + '.';
+  document.getElementById('gap-note').innerHTML = MT.gapHelpNote(META);
   document.getElementById('ws-filter').innerHTML =
     '<span class="small muted">Workstream:</span>' + META.workstreams.map(w =>
       `<button class="chip" data-ws="${w.id}" aria-pressed="false"><span class="ws-dot" style="background:${w.colour}"></span>${MT.esc(w.label)}</button>`).join('');
@@ -274,6 +277,7 @@ verified total, only what the record itself states. See <a href="methodology.htm
   <button class="chip" id="clear" type="button">Clear</button>
 </div>
 <p class="small muted" id="count"></p>
+<p class="small muted" id="rollup"></p>
 <div id="list"></div>
 """, """
 let ORGS = [], PEOPLE = {}, EVENTS = [], EDGES = [], BY_ORG = {};
@@ -322,6 +326,13 @@ function render() {
   });
 
   document.getElementById('count').textContent = out.length + ' of ' + ORGS.length + ' entities shown';
+  const withFigs = out.filter(o => o._maxValue);
+  const total = withFigs.reduce((s, o) => s + o._maxValue, 0);
+  document.getElementById('rollup').textContent = withFigs.length
+    ? 'Total of the largest rand figure stated against each of the ' + withFigs.length +
+      ' shown entit' + (withFigs.length === 1 ? 'y' : 'ies') + ' with one on record: ' + fmtRand(total) +
+      ' — as stated in the record, not an independently verified or reconciled total.'
+    : '';
   document.getElementById('list').innerHTML = out.length ? out.map(o => `
     <div class="card">
       <div class="dayhead"><span style="font-weight:600;font-size:1.05em">${MT.esc(o.name)}</span>
@@ -762,6 +773,100 @@ function renderGaps() {
   document.getElementById('gq').addEventListener('input', renderGaps);
   renderGaps();
 })().catch(e => document.getElementById('gaps').innerHTML = '<p class="empty">' + MT.esc(e.message) + '</p>');
+""")
+
+# ---------------------------------------------------------------- search
+page("search.html", "Search", "Search people, hearing days, entities and timeline events across the tracker.", """
+<h2 style="margin-top:0">Search</h2>
+<p class="lead">Searches names, roles, summaries, exhibits, quotes and descriptions across the whole
+data layer at once. Use the header search box from any page to get here.</p>
+<div class="controls">
+  <input type="search" id="q" placeholder="Search people, days, entities, events…" aria-label="Search everything">
+  <button class="chip" id="clear" type="button">Clear</button>
+</div>
+<p class="small muted" id="count"></p>
+<div id="results"></div>
+""", """
+let META, PEOPLE = [], DAYS = [], ORGS = [], EVENTS = [];
+
+function render() {
+  const q = document.getElementById('q').value.trim().toLowerCase();
+  const results = document.getElementById('results');
+  if (!q) { results.innerHTML = ''; document.getElementById('count').textContent = ''; return; }
+
+  const people = PEOPLE.filter(p => (p.name + ' ' + (p.role || '') + ' ' + (p.bio || '') + ' ' + (p.status_reason || '')).toLowerCase().includes(q));
+  const days = DAYS.filter(d => {
+    const hay = [d.summary, 'day ' + d.day_number, d.date,
+      ...d.witnesses.map(w => w.name + ' ' + (w.role_as_described || '')),
+      ...d.rulings.map(r => r.description),
+      ...d.exhibits.map(e => (e.ref || '') + ' ' + e.description),
+      ...d.quotes.map(x => x.text + ' ' + x.speaker)].join(' ').toLowerCase();
+    return hay.includes(q);
+  });
+  const orgs = ORGS.filter(o => (o.name + ' ' + (o.type || '') + ' ' + (o.description || '')).toLowerCase().includes(q));
+  const events = EVENTS.filter(e => (e.title + ' ' + (e.description || '')).toLowerCase().includes(q));
+
+  const total = people.length + days.length + orgs.length + events.length;
+  document.getElementById('count').textContent = total
+    ? total + ' result' + (total === 1 ? '' : 's') + ' for "' + q + '"'
+    : 'No results for "' + q + '"';
+
+  const section = (title, items, render) => items.length
+    ? `<h3>${MT.esc(title)} (${items.length})</h3>` + items.slice(0, 40).map(render).join('') : '';
+
+  results.innerHTML =
+    section('People', people, p => `
+      <a class="card pcard" href="person.html?id=${encodeURIComponent(p.id)}">
+        ${MT.avatar(p)}
+        <div><div class="nm">${MT.esc(p.name)}</div><div class="rl">${MT.esc(p.role || '')}</div>${MT.statusPill(p.status)}</div>
+      </a>`) +
+    section('Hearing days', days, d => `
+      <a class="card" href="days.html?day=${d.day_number}#day-${d.day_number}" style="display:block">
+        <div class="dayhead"><span class="num">Day ${d.day_number}</span><span class="date">${MT.esc(d.date)}</span></div>
+        <p class="small" style="margin:4px 0 0">${MT.esc((d.summary || '').slice(0, 220))}${(d.summary || '').length > 220 ? '…' : ''}</p>
+      </a>`) +
+    section('Entities', orgs, o => `
+      <a class="card" href="entities.html" style="display:block">
+        <div style="font-weight:600">${MT.esc(o.name)}</div>
+        <p class="small" style="margin:4px 0 0">${MT.esc((o.description || '').slice(0, 220))}${(o.description || '').length > 220 ? '…' : ''}</p>
+      </a>`) +
+    section('Timeline events', events, e => `
+      <a class="card" href="timeline.html" style="display:block">
+        <div style="font-weight:600">${MT.esc(e.title)}</div>
+        <p class="small muted" style="margin:2px 0 0">${MT.esc(e.date || '')}</p>
+        <p class="small" style="margin:4px 0 0">${MT.esc((e.description || '').slice(0, 220))}${(e.description || '').length > 220 ? '…' : ''}</p>
+      </a>`);
+}
+
+(async () => {
+  [META, PEOPLE, DAYS, ORGS, EVENTS] = await MT.all('meta', 'people', 'days', 'orgs', 'events');
+  const initial = new URLSearchParams(location.search).get('q');
+  if (initial) document.getElementById('q').value = initial;
+  document.getElementById('q').addEventListener('input', render);
+  document.getElementById('clear').addEventListener('click', () => { document.getElementById('q').value = ''; render(); });
+  render();
+})().catch(e => document.getElementById('results').innerHTML = '<p class="empty">' + MT.esc(e.message) + '</p>');
+""")
+
+# ---------------------------------------------------------------- changelog
+page("changelog.html", "What's new", "A dated log of user-visible changes to the tracker.", """
+<h2 style="margin-top:0">What's new</h2>
+<p class="lead">User-visible changes to the tracker itself — new pages, new stats, data-quality
+fixes. For what the commission has actually heard, see the weekly briefing on the
+<a href="index.html">home page</a> and its <a href="archive.html">archive</a>.</p>
+<div id="list"></div>
+""", """
+(async () => {
+  const log = await MT.data('changelog');
+  const el = document.getElementById('list');
+  if (!log.length) { el.innerHTML = '<p class="empty">Nothing logged yet.</p>'; return; }
+  el.innerHTML = log.map(e => `
+    <article class="card">
+      <div class="dayhead"><span class="date mono">${MT.esc(e.date)}</span></div>
+      <h3 style="margin:2px 0 6px">${MT.esc(e.title)}</h3>
+      <p>${MT.esc(e.body)}</p>
+    </article>`).join('');
+})().catch(e => document.getElementById('list').innerHTML = '<p class="empty">' + MT.esc(e.message) + '</p>');
 """)
 
 print("\nPages written.")

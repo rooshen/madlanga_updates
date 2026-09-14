@@ -62,6 +62,17 @@ correctly skipped re-adding them rather than overwriting good data, which is why
 merge reported only "+4 added" for days. Always trust that dedup over assuming something is
 missing just because a re-run's batch summary doesn't add every day you expected.
 
+## Improvement pass — 2026/09/13
+On top of the completed backfill: deduped 38 person name-variant groups (see `dedup_people.py` in
+`/home/claude`, edits the raw payloads not the build output — 324 → 259 built people); replaced the
+unbound daily automation trigger with a bound one; added site-wide search (`search.html`), a
+"What's new" changelog (`changelog.html` / `data/changelog.json`, hand-maintained), an Entities-page
+rand-figure rollup stat, and a gap-day help note on `days.html` (Day 14 + the 11 confirmed gaps,
+linking to a GitHub issue). Rewrote the stale "Phase 2 back-fill in progress" wording in
+`meta.json`'s `phase` field and the home page banner to reflect the completed backfill. Confirmed
+the user has already pushed everything to GitHub themselves — see CLAUDE.md's "Where things stand"
+for the git-history-divergence note.
+
 ## Prior status log (for history — see git log for full detail)
 - `device_stage_files` was unblocked on 2026/09/04 after the user re-authenticated the desktop app.
 - A mid-batch rate limit hit on 2026/09/04 ~22:37 UTC during Days 132-140 (reset stated as

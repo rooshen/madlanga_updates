@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2026/09/13",
+    "title": "\"What's new\" changelog added",
+    "body": "This page. A running, dated log of user-visible changes to the tracker — new pages, new stats, data-quality fixes — separate from the weekly commission briefings on the home page."
+  },
+  {
+    "date": "2026/09/13",
+    "title": "Site-wide search added",
+    "body": "A search box in the header now searches across people, hearing days, entities and timeline events at once, from any page."
+  },
+  {
+    "date": "2026/09/13",
+    "title": "Duplicate person profiles merged",
+    "body": "Name-variant duplicates that had accumulated across extraction batches (rank/title prefixes, protected-witness aliases such as \"Witness F\", parenthetical alternate names) were merged into one profile per real person, with the full status history and sources kept. Built person count fell from 324 to 259."
+  },
+  {
+    "date": "2026/09/13",
+    "title": "Entities page now totals the rand figures on record",
+    "body": "A running total of every rand figure the record itself states against a listed entity, shown alongside the entity count. Not a verified or independently calculated total — see the page's own note."
+  },
+  {
+    "date": "2026/09/13",
+    "title": "Note added for hearing days with no transcript",
+    "body": "Day 14 and the 11 sitting days the commission itself published no transcript for now carry a visible note, on the Hearing days page, inviting anyone who has a copy to help close the gap."
+  },
+  {
+    "date": "2026/09/05",
+    "title": "Historical back-fill complete: Days 1–166",
+    "body": "Every commission sitting day from Day 1 to Day 166 has been extracted from the commission's own transcripts, quote-verified and built into the tracker, except Day 14 (its transcript has not been located) and 11 days the commission itself published no transcript for."
+  },
+  {
+    "date": "2026/09/04",
+    "title": "Map node popups redesigned",
+    "body": "Clicking any node on the Map now opens a summary popup (status, description, full linked-relationship list, a focus button) instead of jumping straight to a profile page."
+  },
+  {
+    "date": "2026/09/04",
+    "title": "Entities tab added",
+    "body": "Every company, SAPS/TMPD unit, government body or other organisation named in the evidence, with who is linked to it and any rand figures already stated in sourced descriptions."
+  }
+]

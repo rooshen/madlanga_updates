@@ -1,40 +1,5 @@
 [
  {
-  "id": "adila-hassim",
-  "name": "Adila Hassim SC",
-  "initials": "AH",
-  "role": "Evidence leader",
-  "status": "Commission official",
-  "status_reason": "Listed as an evidence leader in the commission's legal team as introduced to media on 31 July 2025 (corroborated by two Tier 2 outlets).",
-  "bio": "Hassim is a senior counsel serving on the commission's evidence-leading team.",
-  "first_appearance": "2025/07/31",
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://www.ewn.co.za/2025/07/31/watch-the-madlanga-commission-meet-the-legal-and-investigative-team",
-    "tier": 2,
-    "publisher": "Eyewitness News",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://iol.co.za/news/politics/2025-07-31-meet-the-key-figures-in-the-inquiry-into-lt-gen-nhlanhla-mkhwanazis-explosive-claims/",
-    "tier": 2,
-    "publisher": "IOL",
-    "retrieved": "2026/08/22",
-    "partial": false
-   }
-  ],
-  "best_tier": 2,
-  "unverified": [
-   "Full biographical background"
-  ],
-  "photo_mode": "initials"
- },
- {
   "id": "adriano-mazzotti",
   "name": "Adriano Mazzotti",
   "initials": "AM",
@@ -68,14 +33,28 @@
   "initials": "AA",
   "role": "Evidence leader",
   "status": "Commission official",
-  "status_reason": "Led evidence against Maj-Gen Senona on Days 47, 48 and 49.",
-  "bio": null,
-  "first_appearance": null,
+  "status_reason": "Listed as an evidence leader in the commission's legal team as introduced to media on 31 July 2025 (corroborated by two Tier 2 outlets). Led evidence against Maj-Gen Senona on Days 47, 48 and 49.",
+  "bio": "Hassim is a senior counsel serving on the commission's evidence-leading team.",
+  "first_appearance": "2025/07/31",
   "linked_days": [],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
   "sources": [
+   {
+    "url": "https://www.ewn.co.za/2025/07/31/watch-the-madlanga-commission-meet-the-legal-and-investigative-team",
+    "tier": 2,
+    "publisher": "Eyewitness News",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://iol.co.za/news/politics/2025-07-31-meet-the-key-figures-in-the-inquiry-into-lt-gen-nhlanhla-mkhwanazis-explosive-claims/",
+    "tier": 2,
+    "publisher": "IOL",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
     "tier": 1,
@@ -86,40 +65,10 @@
   ],
   "best_tier": 1,
   "unverified": [
+   "Full biographical background",
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
- },
- {
-  "id": "adv-andrea-johnson",
-  "name": "Adv Andrea Johnson",
-  "initials": "AA",
-  "role": "Former Head of the Investigating Directorate Against Corruption (IDAC), continuing multi-day testimony on IDAC's mandate, the charging and arrest of General Masemola and other SAPS/Crime Intelligence officials, the conduct of IDAC investigator Suneel Bellochun, the Tembisa Hospital matter, and her personal relationship with General Feroz Khan",
-  "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 150.",
-  "bio": null,
-  "first_appearance": "2026/07/29",
-  "linked_days": [
-   150,
-   145
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "photo_mode": "initials",
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2026/07/29",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
  },
  {
   "id": "adv-baloyi-sc",
@@ -306,34 +255,6 @@
   "photo_mode": "initials"
  },
  {
-  "id": "adv-kemi-behari",
-  "name": "Adv Kemi Behari",
-  "initials": "AK",
-  "role": "HOD: Legal Services, City of Ekurhuleni",
-  "status": "Implicated (untested)",
-  "status_reason": "Alleged to have had the original Mkhwanazi/CAT VIP operational plan taken from Internal Affairs (Day 29), while also having commissioned the MTT Call forensic report into whistleblower allegations against him (Day 28).",
-  "bio": null,
-  "first_appearance": null,
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
-  ],
-  "photo_mode": "initials"
- },
- {
   "id": "adv-khumalo-sc",
   "name": "Adv Khumalo SC",
   "initials": "AK",
@@ -423,37 +344,9 @@
   "initials": "AL",
   "role": "Evidence Leader",
   "status": "Commission official",
-  "status_reason": "Junior counsel to Adv Motau on Day 5; led Witness A's evidence on Day 15.",
-  "bio": null,
-  "first_appearance": null,
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
-  ],
-  "photo_mode": "initials"
- },
- {
-  "id": "adv-mahlape-sello-sc",
-  "name": "Adv Mahlape Sello SC",
-  "initials": "AM",
-  "role": "Evidence Leader",
-  "status": "Commission official",
-  "status_reason": "Led Mkhwanazi's evidence across Days 1-3 and argued the amendment to the in-camera ruling on Day 15 permitting Witnesses A, B and C to testify publicly with identities withheld.",
-  "bio": null,
-  "first_appearance": null,
+  "status_reason": "Listed as an evidence leader in the commission's legal team as introduced to media on 31 July 2025 (corroborated by two Tier 2 outlets). Junior counsel to Adv Motau on Day 5; led Witness A's evidence on Day 15. Led the three Hawks-interference witnesses on Days 22 and 24.",
+  "bio": "Segeels-Ncube is an advocate serving on the commission's evidence-leading team.",
+  "first_appearance": "2025/07/31",
   "linked_days": [],
   "photo_url": null,
   "photo_source": null,
@@ -467,16 +360,67 @@
     "partial": false
    },
    {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
+    "url": "https://www.ewn.co.za/2025/07/31/watch-the-madlanga-commission-meet-the-legal-and-investigative-team",
+    "tier": 2,
+    "publisher": "Eyewitness News",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://iol.co.za/news/politics/2025-07-31-meet-the-key-figures-in-the-inquiry-into-lt-gen-nhlanhla-mkhwanazis-explosive-claims/",
+    "tier": 2,
+    "publisher": "IOL",
+    "retrieved": "2026/08/22",
     "partial": false
    }
   ],
   "best_tier": 1,
   "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
+   "Profile assembled from transcript extraction only; no biography written yet.",
+   "Full biographical background"
+  ],
+  "photo_mode": "initials"
+ },
+ {
+  "id": "adv-mahlape-sello-sc",
+  "name": "Adv Mahlape Sello SC",
+  "initials": "AM",
+  "role": "Evidence Leader",
+  "status": "Commission official",
+  "status_reason": "Led Mkhwanazi's evidence across Days 1-3 and argued the amendment to the in-camera ruling on Day 15 permitting Witnesses A, B and C to testify publicly with identities withheld. Listed as an evidence leader in the commission's legal team as introduced to media on 31 July 2025 (corroborated by two Tier 2 outlets).",
+  "bio": "Sello is a senior counsel serving on the commission's evidence-leading team.",
+  "first_appearance": "2025/07/31",
+  "linked_days": [],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/08/23",
+    "partial": false
+   },
+   {
+    "url": "https://www.ewn.co.za/2025/07/31/watch-the-madlanga-commission-meet-the-legal-and-investigative-team",
+    "tier": 2,
+    "publisher": "Eyewitness News",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://iol.co.za/news/politics/2025-07-31-meet-the-key-figures-in-the-inquiry-into-lt-gen-nhlanhla-mkhwanazis-explosive-claims/",
+    "tier": 2,
+    "publisher": "IOL",
+    "retrieved": "2026/08/22",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet.",
+   "Full biographical background"
   ],
   "photo_mode": "initials"
  },
@@ -598,9 +542,9 @@
   "initials": "AO",
   "role": "Evidence leader",
   "status": "Commission official",
-  "status_reason": "Assisted with evidence-leading on Days 43, 44 and 46; spelled 'Mohlasedi' on Day 46 -- treated here as the same person, not independently confirmed.",
-  "bio": null,
-  "first_appearance": null,
+  "status_reason": "Assisted with evidence-leading on Days 43, 44 and 46; spelled 'Mohlasedi' on Day 46 -- treated here as the same person, not independently confirmed. Listed as an evidence leader in the commission's legal team as introduced to media on 31 July 2025 (corroborated by two Tier 2 outlets).",
+  "bio": "Motlhasedi is an advocate serving on the commission's evidence-leading team.",
+  "first_appearance": "2025/07/31",
   "linked_days": [],
   "photo_url": null,
   "photo_source": null,
@@ -612,11 +556,26 @@
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
     "partial": false
+   },
+   {
+    "url": "https://www.ewn.co.za/2025/07/31/watch-the-madlanga-commission-meet-the-legal-and-investigative-team",
+    "tier": 2,
+    "publisher": "Eyewitness News",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://iol.co.za/news/politics/2025-07-31-meet-the-key-figures-in-the-inquiry-into-lt-gen-nhlanhla-mkhwanazis-explosive-claims/",
+    "tier": 2,
+    "publisher": "IOL",
+    "retrieved": "2026/08/22",
+    "partial": false
    }
   ],
   "best_tier": 1,
   "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
+   "Profile assembled from transcript extraction only; no biography written yet.",
+   "Full biographical background"
   ],
   "photo_mode": "initials"
  },
@@ -641,69 +600,6 @@
     "retrieved": "2026/08/23",
     "partial": false
    },
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
-  ],
-  "photo_mode": "initials"
- },
- {
-  "id": "adv-segeels-ncube",
-  "name": "Adv Segeels-Ncube",
-  "initials": "AS",
-  "role": "Evidence Leader",
-  "status": "Commission official",
-  "status_reason": "Appeared as an evidence leader on Days 38 and 42.",
-  "bio": null,
-  "first_appearance": null,
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   },
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
-  ],
-  "photo_mode": "initials"
- },
- {
-  "id": "adv-segeels-ncube-sc",
-  "name": "Adv Segeels-Ncube SC",
-  "initials": "AS",
-  "role": "Evidence leader",
-  "status": "Commission official",
-  "status_reason": "Led the three Hawks-interference witnesses on Days 22 and 24.",
-  "bio": null,
-  "first_appearance": null,
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
     "tier": 1,
@@ -883,11 +779,11 @@
   "id": "adv-terry-motau-sc",
   "name": "Adv Terry Motau SC",
   "initials": "AT",
-  "role": "Chief Evidence Leader",
+  "role": "Chief evidence leader (July–September 2025)",
   "status": "Commission official",
-  "status_reason": "Delivered the Commission's opening address on Day 1 setting out the mandate, the three-phase approach and the timeline of material events, and led Masemola's evidence on Days 4 and 5.",
-  "bio": null,
-  "first_appearance": null,
+  "status_reason": "Named the commission's original chief evidence leader in July 2025 and stepped down on 30 September / 1 October 2025, departing 'on good terms' per commission spokesperson Jeremy Michaels. Delivered the Commission's opening address on Day 1 setting out the mandate, the three-phase approach and the timeline of material events, and led Masemola's evidence on Days 4 and 5.",
+  "bio": "Motau is a senior counsel who led the commission's evidence team from its establishment until late September 2025. The commission publicly thanked him for his service; he told media that 'things didn't go according to plan'.",
+  "first_appearance": "2025/07/31",
   "linked_days": [],
   "photo_url": null,
   "photo_source": null,
@@ -899,11 +795,26 @@
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
     "partial": false
+   },
+   {
+    "url": "https://www.sanews.gov.za/south-africa/madlanga-commission-appoints-adv-chaskalson-sc-chief-evidence-leader",
+    "tier": 1,
+    "publisher": "SAnews (SA Government News Agency)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.ewn.co.za/2025/09/30/motau-steps-down-as-madlanga-commissions-chief-evidence-leader",
+    "tier": 2,
+    "publisher": "Eyewitness News",
+    "retrieved": "2026/08/22",
+    "partial": true
    }
   ],
   "best_tier": 1,
   "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
+   "Profile assembled from transcript extraction only; no biography written yet.",
+   "The precise reason for his departure"
   ],
   "photo_mode": "initials"
  },
@@ -913,10 +824,12 @@
   "initials": "AT",
   "role": "Evidence Leader; acted as sworn intermediary on Day 12",
   "status": "Commission official",
-  "status_reason": "Named as part of the evidence-leading team on Day 5 and sworn as the intermediary relaying Witness X's testimony on Day 12. Identified by name on the record and not herself a protected witness.",
-  "bio": null,
-  "first_appearance": null,
-  "linked_days": [],
+  "status_reason": "Named as part of the evidence-leading team on Day 5 and sworn as the intermediary relaying Witness X's testimony on Day 12. Identified by name on the record and not herself a protected witness. Listed as an evidence leader in the commission's legal team as introduced to media on 31 July 2025 (corroborated by two Tier 2 outlets).",
+  "bio": "Pooe is an advocate serving on the commission's evidence-leading team.",
+  "first_appearance": "2025/07/31",
+  "linked_days": [
+   12
+  ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
@@ -927,11 +840,26 @@
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
     "partial": false
+   },
+   {
+    "url": "https://www.ewn.co.za/2025/07/31/watch-the-madlanga-commission-meet-the-legal-and-investigative-team",
+    "tier": 2,
+    "publisher": "Eyewitness News",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://iol.co.za/news/politics/2025-07-31-meet-the-key-figures-in-the-inquiry-into-lt-gen-nhlanhla-mkhwanazis-explosive-claims/",
+    "tier": 2,
+    "publisher": "IOL",
+    "retrieved": "2026/08/22",
+    "partial": false
    }
   ],
   "best_tier": 1,
   "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
+   "Profile assembled from transcript extraction only; no biography written yet.",
+   "Full biographical background"
   ],
   "photo_mode": "initials"
  },
@@ -941,13 +869,16 @@
   "initials": "AA",
   "role": "Investigating Director and Head of the Investigating Directorate Against Corruption (IDAC); employment terminated during this testimony",
   "status": "Testified",
-  "status_reason": "Multi-day sworn testimony (Days 144-150) on IDAC's handling of Fadiel Adams's section 27 referral and the resulting Mokwele/Crime Intelligence investigation and arrests; conceded she could no longer stand by her supplementary statement that 'IDAC has not dealt with matters outside its mandate,' that eight additional individuals were named in a section 28(13) authorisation despite not appearing in the referral affidavit, and that a PFMA charge against General Masemola could not lawfully be joined with the other accused's fraud/corruption charges; raised her right against self-incrimination over a docket implicating her personally and, separately, over questions about her personal relationship with Maj-Gen Feroz Khan, ending her testimony without answering further on that point.",
-  "bio": null,
-  "first_appearance": null,
+  "status_reason": "Multi-day sworn testimony (Days 144-150) on IDAC's handling of Fadiel Adams's section 27 referral and the resulting Mokwele/Crime Intelligence investigation and arrests; conceded she could no longer stand by her supplementary statement that 'IDAC has not dealt with matters outside its mandate,' that eight additional individuals were named in a section 28(13) authorisation despite not appearing in the referral affidavit, and that a PFMA charge against General Masemola could not lawfully be joined with the other accused's fraud/corruption charges; raised her right against self-incrimination over a docket implicating her personally and, separately, over questions about her personal relationship with Maj-Gen Feroz Khan, ending her testimony without answering further on that point. She gave evidence to the commission through late July 2026, concluding on 29 July 2026, where she accepted that 'there are least intrusive means that should have been used' in the arrests of senior police officials.",
+  "bio": "Johnson headed IDAC, the NPA's corruption-investigating directorate. At the commission she accepted responsibility for how arrests of senior SAPS officials were conducted and agreed that National Commissioner Masemola had been wrongly grouped with people accused of fraud and corruption. WhatsApp messages between her and suspended Crime Intelligence Major-General Feroz Khan were led in evidence on 29 July 2026; she was approved to vacate her IDAC post on 27 July 2026.",
+  "first_appearance": "2026/07/29",
   "linked_days": [
+   150,
    149,
    148,
    146,
+   145,
+   144,
    138
   ],
   "photo_url": null,
@@ -960,11 +891,34 @@
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
     "partial": false
+   },
+   {
+    "url": "https://iol.co.za/news/2026-07-29-madlanga-commission-advocate-andrea-johnson-admits-to-misuse-of-legal-process-in-arrests/",
+    "tier": 2,
+    "publisher": "IOL",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.dailymaverick.co.za/article/2026-07-29-you-gorgeous-intimate-messages-between-feroz-khan-and-andrea-johnson-revealed/",
+    "tier": 3,
+    "publisher": "Daily Maverick",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.dailymaverick.co.za/article/2026-08-14-johnson-and-batohi-probe-to-link-andrew-chauke-to-cat-matlala-outed-at-inquiry/",
+    "tier": 3,
+    "publisher": "Daily Maverick",
+    "retrieved": "2026/08/22",
+    "partial": false
    }
   ],
   "best_tier": 1,
   "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
+   "Profile assembled from transcript extraction only; no biography written yet.",
+   "The date her testimony began",
+   "Whether any prosecution of her has been instituted"
   ],
   "photo_mode": "initials"
  },
@@ -972,12 +926,14 @@
   "id": "advocate-kemi-behari",
   "name": "Advocate Kemi Behari",
   "initials": "AK",
-  "role": "Head of Legal, City of Ekurhuleni",
-  "status": "Implicated (not yet responded)",
-  "status_reason": "Gave verbal advice not to pursue the IPID report recommending Julius Mkhwanazi be charged; Mashazi says she now believes that advice was incorrect, and Behari's own account has not been put on record within these days.",
-  "bio": null,
-  "first_appearance": null,
-  "linked_days": [],
+  "role": "Head of Risk and Legal Services, City of Ekurhuleni",
+  "status": "Testified",
+  "status_reason": "Alleged to have had the original Mkhwanazi/CAT VIP operational plan taken from Internal Affairs (Day 29), while also having commissioned the MTT Call forensic report into whistleblower allegations against him (Day 28). Gave verbal advice not to pursue the IPID report recommending Julius Mkhwanazi be charged; Mashazi says she now believes that advice was incorrect, and Behari's own account has not been put on record within these days. He gave evidence to the commission on 9 February 2026, rejecting corruption allegations and saying none of the allegations 'were given to show a direct link to any incidence of corruption, fraud or me'. (Also recorded elsewhere as: Implicated (not yet responded), Implicated (untested).)",
+  "bio": "Behari heads risk and legal services for the City of Ekurhuleni and was named among the Ekurhuleni officials referred for investigation in the commission's first interim report. In his testimony he characterised the allegations as a campaign to damage his reputation and addressed matters including a sexual-harassment complaint and traffic-fine irregularities within the EMPD.",
+  "first_appearance": "2026/02/09",
+  "linked_days": [
+   57
+  ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
@@ -988,11 +944,26 @@
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
     "partial": false
+   },
+   {
+    "url": "https://www.enca.com/news-top-stories/behari-rejects-corruption-allegations-madlanga-commission",
+    "tier": 2,
+    "publisher": "eNCA",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.news24.com/politics/senona-among-5-cops-to-face-charges-as-ramaphosa-acts-on-madlangas-interim-report-20260129-0578",
+    "tier": 2,
+    "publisher": "News24",
+    "retrieved": "2026/08/22",
+    "partial": false
    }
   ],
   "best_tier": 1,
   "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
+   "Profile assembled from transcript extraction only; no biography written yet.",
+   "Whether he holds the title 'Advocate' as News24 reported"
   ],
   "photo_mode": "initials"
  },
@@ -1025,51 +996,6 @@
   "photo_mode": "initials"
  },
  {
-  "id": "andrea-johnson",
-  "name": "Andrea Johnson",
-  "initials": "AJ",
-  "role": "Former head of the Investigating Directorate Against Corruption (IDAC)",
-  "status": "Testified",
-  "status_reason": "She gave evidence to the commission through late July 2026, concluding on 29 July 2026, where she accepted that 'there are least intrusive means that should have been used' in the arrests of senior police officials.",
-  "bio": "Johnson headed IDAC, the NPA's corruption-investigating directorate. At the commission she accepted responsibility for how arrests of senior SAPS officials were conducted and agreed that National Commissioner Masemola had been wrongly grouped with people accused of fraud and corruption. WhatsApp messages between her and suspended Crime Intelligence Major-General Feroz Khan were led in evidence on 29 July 2026; she was approved to vacate her IDAC post on 27 July 2026.",
-  "first_appearance": "2026/07/29",
-  "linked_days": [
-   144
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://iol.co.za/news/2026-07-29-madlanga-commission-advocate-andrea-johnson-admits-to-misuse-of-legal-process-in-arrests/",
-    "tier": 2,
-    "publisher": "IOL",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.dailymaverick.co.za/article/2026-07-29-you-gorgeous-intimate-messages-between-feroz-khan-and-andrea-johnson-revealed/",
-    "tier": 3,
-    "publisher": "Daily Maverick",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.dailymaverick.co.za/article/2026-08-14-johnson-and-batohi-probe-to-link-andrew-chauke-to-cat-matlala-outed-at-inquiry/",
-    "tier": 3,
-    "publisher": "Daily Maverick",
-    "retrieved": "2026/08/22",
-    "partial": false
-   }
-  ],
-  "best_tier": 2,
-  "unverified": [
-   "The date her testimony began",
-   "Whether any prosecution of her has been instituted"
-  ],
-  "photo_mode": "initials"
- },
- {
   "id": "ashley-lynton-houston",
   "name": "Ashley Lynton Houston",
   "initials": "AL",
@@ -1088,36 +1014,6 @@
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/08/13",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
- },
- {
-  "id": "barry-james-kruger",
-  "name": "Barry James Kruger",
-  "initials": "BJ",
-  "role": "Captain, SAPS Hawks (DPCI) tactical operations; attended the Molefe scene with Constable De Gouveia on Mokoena's instruction",
-  "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 22.",
-  "bio": null,
-  "first_appearance": "2025/10/29",
-  "linked_days": [
-   22
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "photo_mode": "initials",
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/10/29",
     "tier": 1,
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
@@ -1221,36 +1117,6 @@
   "photo_mode": "initials"
  },
  {
-  "id": "boy-steve-phakula",
-  "name": "Boy Steve Phakula",
-  "initials": "BS",
-  "role": "Warrant Officer, SAPS National Investigation Unit (NINU), Pretoria; testified as a sequel to Warrant Officer Magane's evidence about the 9 July 2021 Aeroton drug bust",
-  "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 107.",
-  "bio": null,
-  "first_appearance": "2026/05/13",
-  "linked_days": [
-   107
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "photo_mode": "initials",
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2026/05/13",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
- },
- {
   "id": "brigadier-abraham-nkhwashu",
   "name": "Brigadier Abraham Nkhwashu",
   "initials": "BA",
@@ -1337,14 +1203,14 @@
   "photo_mode": "initials"
  },
  {
-  "id": "brigadier-julius-mkhwanazi-empd",
-  "name": "Brigadier Julius Mkhwanazi (EMPD)",
+  "id": "brigadier-julius-mkhwanazi",
+  "name": "Brigadier Julius Mkhwanazi",
   "initials": "BJ",
-  "role": "Brigadier, EMPD (later acting Chief)",
+  "role": "Ekurhuleni Metropolitan Police Department (EMPD)",
   "status": "Implicated (not yet responded)",
-  "status_reason": "Alleged to have signed MOUs letting private security firms linked to Matlala use blue lights and City registrations, to be the subject of an unpursued IPID charge recommendation, and to have been appointed acting Chief through an irregular process; distinct from Lt-Gen Nhlanhla Mkhwanazi of SAPS KZN, and has not responded in these records.",
-  "bio": null,
-  "first_appearance": null,
+  "status_reason": "Alleged to have signed MOUs letting private security firms linked to Matlala use blue lights and City registrations, to be the subject of an unpursued IPID charge recommendation, and to have been appointed acting Chief through an irregular process; distinct from Lt-Gen Nhlanhla Mkhwanazi of SAPS KZN, and has not responded in these records. Alleged on Day 2 to have irregularly registered Matlala's vehicles as municipal vehicles fitted with blue lights, the subject of a classified IPID report, and on Days 8 and 12 to have been asked by Matlala for assistance over the arrest of an associate. Has not responded at the Commission. (Also recorded elsewhere as: Implicated (untested).)",
+  "bio": "Julius Mkhwanazi (no relation to Nhlanhla Mkhwanazi) was the EMPD's deputy chief before his suspension by the City of Ekurhuleni. He appeared before the commission in April 2026, where News24 reported he 'took aim at his accusers'. He was among the officials referred for investigation in the commission's first interim report.",
+  "first_appearance": "2026/04/14",
   "linked_days": [],
   "photo_url": null,
   "photo_source": null,
@@ -1356,11 +1222,34 @@
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
     "partial": false
+   },
+   {
+    "url": "https://www.ewn.co.za/2026/04/20/suspended-empd-deputy-chief-julius-mkhwanazi-senior-ekurhuleni-official-to-appear-in-court",
+    "tier": 2,
+    "publisher": "Eyewitness News",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.news24.com/politics/senona-among-5-cops-to-face-charges-as-ramaphosa-acts-on-madlangas-interim-report-20260129-0578",
+    "tier": 2,
+    "publisher": "News24",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.news24.com/southafrica/crime-and-courts/madlanga-commission-suspended-empd-deputy-chief-mkhwanazi-takes-aim-at-accusers-20260414-1129",
+    "tier": 2,
+    "publisher": "News24",
+    "retrieved": "2026/08/22",
+    "partial": true
    }
   ],
   "best_tier": 1,
   "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
+   "Profile assembled from transcript extraction only; no biography written yet.",
+   "Exact date(s) of his commission testimony (14 April 2026 inferred from a News24 headline slug)",
+   "Whether his title is 'chief' or 'deputy chief' — sources differ"
   ],
   "photo_mode": "initials"
  },
@@ -1373,7 +1262,9 @@
   "status_reason": "Testified Day 22 about instructing Kruger/De Gouveia to the scene; Commissioners flagged apparent inconsistencies with WhatsApp records and Day 24's other witnesses, and the Commission indicated it wants him recalled.",
   "bio": null,
   "first_appearance": null,
-  "linked_days": [],
+  "linked_days": [
+   22
+  ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
@@ -1544,9 +1435,9 @@
   "initials": "BR",
   "role": "SAPS Brigadier, Section Head: Quality Management, Criminal Record and Crime Scene Management, Division Forensic Services; oversaw the Medicare 24 Tshwane District medical-surveillance contract",
   "status": "Testified",
-  "status_reason": "Sworn and gave evidence over two sitting days (54-55) on her relationship with Vusimuzi 'Cat' Matlala and disputed payments; her testimony was not complete by the end of Day 55.",
-  "bio": null,
-  "first_appearance": null,
+  "status_reason": "Sworn and gave evidence over two sitting days (54-55) on her relationship with Vusimuzi 'Cat' Matlala and disputed payments; her testimony was not complete by the end of Day 55. She was arrested on 24 March 2026 alongside eleven other senior officers in the Medicare24-related criminal matter, separate from the commission. (Also recorded elsewhere as: Criminally charged in a separate matter.)",
+  "bio": "Matjeng testified before the commission in February 2026. She acknowledged a personal relationship with Vusimuzi Matlala since 2017 but maintained that financial transfers she received from him were personal gifts rather than corrupt payments. A SAPS disciplinary process found her guilty of five charges and her dismissal took effect on 30 June 2026. She was named among those referred in the commission's first interim report.",
+  "first_appearance": "2026/02/01",
   "linked_days": [
    55,
    54
@@ -1561,11 +1452,26 @@
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
     "partial": false
+   },
+   {
+    "url": "https://iol.co.za/news/south-africa/2026-07-01-how-rachel-matjengs-relationship-with-cat-matlalas-led-to-saps-fallout/",
+    "tier": 2,
+    "publisher": "IOL",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.news24.com/politics/senona-among-5-cops-to-face-charges-as-ramaphosa-acts-on-madlangas-interim-report-20260129-0578",
+    "tier": 2,
+    "publisher": "News24",
+    "retrieved": "2026/08/22",
+    "partial": false
    }
   ],
   "best_tier": 1,
   "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
+   "Profile assembled from transcript extraction only; no biography written yet.",
+   "Exact date in February 2026 on which she testified — first_appearance_date is approximate to the month only"
   ],
   "photo_mode": "initials"
  },
@@ -1634,7 +1540,10 @@
   "status_reason": "Day 70's own record describes him as having 'already testified extensively before the Commission and in Parliament'; he failed to appear on Day 70 citing illness, and the Chair stated that, absent a medical certificate, he was in contempt.",
   "bio": "Mogotsi is described in reporting as an information peddler who styles himself a political fixer and businessman. He appeared before the commission on 15 May 2026 and unsuccessfully sought the recusal of an evidence leader. The commission's second interim report recommended disciplinary proceedings and criminal investigation in relation to him and an investigation into alleged off-the-books Crime Intelligence operations involving him.",
   "first_appearance": "2026/05/15",
-  "linked_days": [],
+  "linked_days": [
+   37,
+   36
+  ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
@@ -1658,27 +1567,6 @@
     "tier": 2,
     "publisher": "The Citizen",
     "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   },
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   },
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
     "partial": false
    },
    {
@@ -1740,7 +1628,9 @@
   "status_reason": "Testified Day 22 that his team withdrew once Wanda confirmed the Molefe operation's legitimacy.",
   "bio": null,
   "first_appearance": null,
-  "linked_days": [],
+  "linked_days": [
+   22
+  ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
@@ -1768,7 +1658,9 @@
   "status_reason": "Testified on Day 38 about leading the five-officer Sandhurst verification team.",
   "bio": null,
   "first_appearance": null,
-  "linked_days": [],
+  "linked_days": [
+   38
+  ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
@@ -1826,7 +1718,9 @@
   "status_reason": "Testified Day 22 that Hawks conduct at the Molefe takedown constituted interference.",
   "bio": null,
   "first_appearance": null,
-  "linked_days": [],
+  "linked_days": [
+   22
+  ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
@@ -1906,62 +1800,6 @@
   "photo_mode": "initials"
  },
  {
-  "id": "chairperson",
-  "name": "Chairperson",
-  "initials": "C",
-  "role": "Presiding Chairperson of the Commission (not named personally anywhere in the transcripts, which refer to him only as 'CHAIRPERSON')",
-  "status": "Commission official",
-  "status_reason": "Presided over every sitting day, issued rulings on exhibit naming, implicated-person notices, in-camera hearings and witness protection, and repeatedly tested witnesses' inferences and statistics.",
-  "bio": null,
-  "first_appearance": null,
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
-  ],
-  "photo_mode": "initials"
- },
- {
-  "id": "chairperson-justice-mbuyiseli-madlanga",
-  "name": "Chairperson (Justice Mbuyiseli Madlanga)",
-  "initials": "CJ",
-  "role": "Commission Chairperson",
-  "status": "Commission official",
-  "status_reason": "Presides over all sittings in this set, rules on exhibit admission, protective/anonymity directions, and cross-examination scope.",
-  "bio": null,
-  "first_appearance": null,
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
-  ],
-  "photo_mode": "initials"
- },
- {
   "id": "charl-du-plessis",
   "name": "Charl Du Plessis",
   "initials": "CD",
@@ -1993,21 +1831,21 @@
   "id": "chief-inspector-samuel-mashaba",
   "name": "Chief Inspector Samuel Mashaba",
   "initials": "CI",
-  "role": "Gauteng Provincial Traffic Chief Inspector; in 2020-2021 Acting Deputy Director for the Sedibeng District (Southern Corridor), covering the Vereeniging, Heidelberg and Heidelberg Weighbridge offices; continuing testimony from a prior sitting day",
+  "role": "Gauteng Provincial Traffic Chief; involved in the 9 July 2021 Aeroton drug bust and interception",
   "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 118.",
+  "status_reason": "Gave sworn testimony over Days 117-118, describing his role at the Aeroton stop, denying any independent investigative authority as a peace officer, and being confronted with WhatsApp records (since 2019) showing sustained contact with Tumelo Nku including paid 'side hustle' recovery work for SAPS members and a message seeking to curry favour with Gauteng MEC Faith Mazibuko; declined to answer on the Mazibuko point.",
   "bio": null,
-  "first_appearance": "2026/06/11",
+  "first_appearance": null,
   "linked_days": [
+   119,
    118
   ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
-    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/11",
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
     "tier": 1,
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
@@ -2016,8 +1854,9 @@
   ],
   "best_tier": 1,
   "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "chief-investigator-perumal",
@@ -2102,36 +1941,6 @@
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
- },
- {
-  "id": "chief-samuel-mashaba",
-  "name": "Chief Samuel Mashaba",
-  "initials": "CS",
-  "role": "SAPS/traffic officer witness continuing cross-examination on his relationship with Mr Nku, WhatsApp/Telegram communications, the Aeroton drug bust and side payments",
-  "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 119.",
-  "bio": null,
-  "first_appearance": "2026/06/12",
-  "linked_days": [
-   119
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "photo_mode": "initials",
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/12",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
  },
  {
   "id": "chief-of-police-yolande-faro",
@@ -2517,36 +2326,6 @@
   "photo_mode": "initials"
  },
  {
-  "id": "dail-christiaan-nortje",
-  "name": "Dail Christiaan Nortje",
-  "initials": "DC",
-  "role": "Captain, SAPS Hawks (Serious Organised Crime Investigation Unit), Johannesburg office; led the 5-member team sent to verify the Sandhurst scene on 6 Dec 2024",
-  "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 38.",
-  "bio": null,
-  "first_appearance": "2025/11/25",
-  "linked_days": [
-   38
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "photo_mode": "initials",
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/11/25",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
- },
- {
   "id": "deena-govender",
   "name": "Deena Govender",
   "initials": "DG",
@@ -2811,12 +2590,14 @@
   "id": "dr-imogen-mashazi",
   "name": "Dr Imogen Mashazi",
   "initials": "DI",
-  "role": "City Manager, City of Ekurhuleni",
+  "role": "Former City Manager, City of Ekurhuleni",
   "status": "Testified",
-  "status_reason": "Testified across Days 41-42 about EMPD sexual-harassment reports, the IPID report on Julius Mkhwanazi's MOUs, and denied halting his discipline.",
-  "bio": null,
+  "status_reason": "Named by News24 among nine current and former Ekurhuleni officials referred for investigation in the commission's first interim report announced 29 January 2026; the allegations are untested and no public response by her was located. Testified across Days 41-42 about EMPD sexual-harassment reports, the IPID report on Julius Mkhwanazi's MOUs, and denied halting his discipline. (Also recorded elsewhere as: Implicated (untested).)",
+  "bio": "Mashazi was the City Manager of the City of Ekurhuleni. She is one of the municipal officials the commission referred for investigation in its first interim report, which the Presidency said identified prima facie evidence of wrongdoing among law-enforcement and municipal officials. Full name Maboikanyo Imogen Mashazi.",
   "first_appearance": null,
-  "linked_days": [],
+  "linked_days": [
+   41
+  ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
@@ -2829,48 +2610,28 @@
     "partial": false
    },
    {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "url": "https://www.news24.com/politics/senona-among-5-cops-to-face-charges-as-ramaphosa-acts-on-madlangas-interim-report-20260129-0578",
+    "tier": 2,
+    "publisher": "News24",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.thepresidency.gov.za/president-ramaphosa-welcomes-madlanga-commission-interim-report",
     "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
     "partial": false
    }
   ],
   "best_tier": 1,
   "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
+   "Profile assembled from transcript extraction only; no biography written yet.",
+   "The specific allegation against her",
+   "Whether she has responded",
+   "Whether she testified"
   ],
   "photo_mode": "initials"
- },
- {
-  "id": "dr-imogen-mashazi-maboikanyo-imogen-mashazi",
-  "name": "Dr Imogen Mashazi (Maboikanyo Imogen Mashazi)",
-  "initials": "DI",
-  "role": "Former City Manager (Accounting Officer), City of Ekurhuleni Metropolitan Municipality; retired July 2025 at mandatory age 65; previously HOD: Health and Social Development and Chief Operating Officer for the City",
-  "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 41.",
-  "bio": null,
-  "first_appearance": "2025/12/01",
-  "linked_days": [
-   41
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "photo_mode": "initials",
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/12/01",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
  },
  {
   "id": "dr-mashazi",
@@ -2947,108 +2708,6 @@
    "Her exact job title within IDAC"
   ],
   "photo_mode": "initials"
- },
- {
-  "id": "dumisani-khumalo",
-  "name": "Dumisani Khumalo",
-  "initials": "DK",
-  "role": "Head of SAPS Crime Intelligence (Lieutenant General)",
-  "status": "Criminally charged in a separate matter",
-  "status_reason": "He and six other Crime Intelligence officials face fraud and corruption charges over the alleged irregular appointment of a civilian to a Crime Intelligence post; he was arrested in June 2025 and released on R10,000 bail — a matter separate from the commission, at which he gave evidence on 29 September 2025.",
-  "bio": "Khumalo heads SAPS Crime Intelligence. He testified at the commission on 29 September 2025, describing the operation of a Gauteng-based syndicate he called the 'Big Five' cartel and naming Vusimuzi Matlala and Katiso Molefe. He characterises his own prosecution as 'a pure labour-related matter' and says the case is a 'project' to tarnish his name. He was reinstated to his post in November 2025.",
-  "first_appearance": "2025/09/29",
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://www.enca.com/top-stories/madlanga-commission-khumalo-blows-lid-gautengs-big-five-criminal-cartel",
-    "tier": 2,
-    "publisher": "eNCA",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.citizen.co.za/news/dumisani-khumalo-testimony-crime-intelligence-arrest/",
-    "tier": 2,
-    "publisher": "The Citizen",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.ewn.co.za/2025/11/20/dumisani-khumalo-reinstated-as-head-of-crime-intelligence",
-    "tier": 2,
-    "publisher": "Eyewitness News",
-    "retrieved": "2026/08/22",
-    "partial": true
-   }
-  ],
-  "best_tier": 2,
-  "unverified": [
-   "Current status of the criminal case against him"
-  ],
-  "photo_mode": "initials"
- },
- {
-  "id": "dumisani-patrick-mbotho",
-  "name": "Dumisani Patrick Mbotho",
-  "initials": "DP",
-  "role": "Lieutenant General, DPCI Divisional Commissioner (started October 2024; previously Provincial Head of DPCI North West 2018-2024); Brigadier Mokoena reports directly to him; he reports to the DPCI National Head (General Lebeya at the time, now Acting General Nkosi)",
-  "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 24.",
-  "bio": null,
-  "first_appearance": "2025/11/03",
-  "linked_days": [
-   24
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "photo_mode": "initials",
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/11/03",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
- },
- {
-  "id": "ebrahim-ahmed-kadwa",
-  "name": "Ebrahim Ahmed Kadwa",
-  "initials": "EA",
-  "role": "Major-General, Provincial Head of the Directorate for Priority Crime Investigation (Hawks), Gauteng; instructed Col Serfontein to send the verification team after a call from Gen Lebeya",
-  "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 38.",
-  "bio": null,
-  "first_appearance": "2025/11/25",
-  "linked_days": [
-   38
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "photo_mode": "initials",
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/11/25",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
  },
  {
   "id": "esmael-malude-rasmos-nangy",
@@ -3148,143 +2807,6 @@
   ]
  },
  {
-  "id": "fannie-masemola",
-  "name": "Fannie Masemola",
-  "initials": "FM",
-  "role": "National Commissioner of the SAPS (on precautionary suspension since April 2026)",
-  "status": "Criminally charged in a separate matter",
-  "status_reason": "He was served with a warrant in March 2026 and faces four counts of contravening the Public Finance Management Act in the Pretoria Magistrate's Court over the R360-million Medicare24 SAPS health-services tender — a criminal case separate from the commission; he had earlier given evidence to the commission on 22 September 2025.",
-  "bio": "Masemola became National Commissioner of the SAPS in 2022. He testified at the commission on 22 September 2025, telling it that the disbandment of the Political Killings Task Team was 'a total encroachment' on police operational independence. President Ramaphosa placed him on precautionary suspension on 23 April 2026 pending the criminal case; Justice Madlanga later questioned in open hearings why he had been grouped with the Matlala co-accused.",
-  "first_appearance": "2025/09/22",
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://www.timeslive.co.za/politics/2026-04-23-cyril-ramaphosa-suspends-fannie-masemola-as-sa-police-commissioner/",
-    "tier": 2,
-    "publisher": "TimesLIVE",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.news24.com/citypress/politics/madlanga-commission-10-explosive-revelations-from-masemolas-testimony-20250922-0974",
-    "tier": 2,
-    "publisher": "News24 / City Press",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://mg.co.za/news/2026-03-25-police-commissioner-masemola-served-with-warrant-for-involvement-in-matlalas-r360-million-medicare24-contract/",
-    "tier": 3,
-    "publisher": "Mail & Guardian",
-    "retrieved": "2026/08/22",
-    "partial": true
-   },
-   {
-    "url": "https://iol.co.za/news/2026-07-29-madlanga-commission-advocate-andrea-johnson-admits-to-misuse-of-legal-process-in-arrests/",
-    "tier": 2,
-    "publisher": "IOL",
-    "retrieved": "2026/08/22",
-    "partial": false
-   }
-  ],
-  "best_tier": 2,
-  "unverified": [
-   "Whether he has entered a plea",
-   "Current status of the PFMA case"
-  ],
-  "photo_mode": "initials"
- },
- {
-  "id": "fannie-nkosi",
-  "name": "Fannie Nkosi",
-  "initials": "FN",
-  "role": "Sergeant, SAPS",
-  "status": "Criminally charged in a separate matter",
-  "status_reason": "He has been in custody since 2 April 2026 on charges including defeating the ends of justice, possession of illegal ammunition and explosives, and theft — proceedings separate from the commission.",
-  "bio": "Nkosi was named in both the commission's first and second interim reports as a person against whom disciplinary proceedings and criminal investigation were recommended. Commission evidence included CCTV footage said to show him leaving a residence carrying a white bag, with an allegation that he acted as an intermediary. The allegations against him have not been tested in court.",
-  "first_appearance": null,
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://www.citizen.co.za/news/second-madlanga-recommendations-all-implicated-officials/",
-    "tier": 2,
-    "publisher": "The Citizen",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.thepresidency.gov.za/president-ramaphosa-notes-recommendations-and-referrals-second-interim-report-madlanga-commission",
-    "tier": 1,
-    "publisher": "The Presidency (South Africa)",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.dailymaverick.co.za/article/2026-08-07-has-the-madlanga-commission-vindicated-mkhwanazi-the-case-against-shadrack-sibiya/",
-    "tier": 3,
-    "publisher": "Daily Maverick",
-    "retrieved": "2026/08/22",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "Whether he appeared before the commission",
-   "Any plea entered"
-  ],
-  "photo_mode": "initials"
- },
- {
-  "id": "feroz-khan",
-  "name": "Feroz Khan",
-  "initials": "FK",
-  "role": "Suspended Major-General, SAPS Crime Intelligence",
-  "status": "Implicated (untested)",
-  "status_reason": "Evidence about him was led at the commission in July 2026, including WhatsApp messages with Andrea Johnson and a discrepancy over a cocaine seizure; his own testimony was postponed after he was hospitalised and no substantive response from him has been heard.",
-  "bio": "Khan is a suspended SAPS Crime Intelligence major-general. In July 2026 the commission heard evidence about his close relationship with then-IDAC head Andrea Johnson and about a discrepancy between his account of a 2021 cocaine seizure and official records. His lawyers invited the commission to verify his condition in hospital after he was shot; the allegations against him remain untested.",
-  "first_appearance": "2026/07/06",
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://www.dailymaverick.co.za/article/2026-07-29-you-gorgeous-intimate-messages-between-feroz-khan-and-andrea-johnson-revealed/",
-    "tier": 3,
-    "publisher": "Daily Maverick",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://iol.co.za/news/politics/2026-07-06-live-madlanga-commission-continues-hearing-evidence-against-feroz-khan/",
-    "tier": 2,
-    "publisher": "IOL",
-    "retrieved": "2026/08/22",
-    "partial": true
-   },
-   {
-    "url": "https://mg.co.za/thought-leader/2026-07-01-feroz-khan-s-lawyers-invite-madlanga-commission-to-verify-his-critical-condition-in-hospital/",
-    "tier": 3,
-    "publisher": "Mail & Guardian",
-    "retrieved": "2026/08/22",
-    "partial": true
-   }
-  ],
-  "best_tier": 2,
-  "unverified": [
-   "The nature of the separate criminal charges he reportedly faces",
-   "The circumstances and date of the shooting",
-   "Whether he has since testified"
-  ],
-  "photo_mode": "initials"
- },
- {
   "id": "floyd-tlego-danny-mabusela",
   "name": "Floyd Tlego (Danny) Mabusela",
   "initials": "FT",
@@ -3351,6 +2873,7 @@
   "first_appearance": "2026/04/21",
   "linked_days": [
    94,
+   93,
    87
   ],
   "photo_url": null,
@@ -3400,34 +2923,6 @@
   "unverified": [
    "No standalone biographical profile assembled yet."
   ]
- },
- {
-  "id": "general-fannie-masemola",
-  "name": "General Fannie Masemola",
-  "initials": "GF",
-  "role": "National Commissioner, SAPS",
-  "status": "Testified",
-  "status_reason": "Senthumule's Day 40 testimony references Masemola's own prior testimony disputing her account of the 6 March 2025 meeting; also implicated by Mogotsi in cash-payment allegations relayed secondhand from Matlala.",
-  "bio": null,
-  "first_appearance": null,
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
-  ],
-  "photo_mode": "initials"
  },
  {
   "id": "general-godfrey-lebeya",
@@ -3514,87 +3009,17 @@
   "photo_mode": "initials"
  },
  {
-  "id": "general-richard-shibiri",
-  "name": "General Richard Shibiri",
-  "initials": "GR",
-  "role": "Gauteng SAPS organised crime head",
-  "status": "Testified",
-  "status_reason": "Gave sworn evidence-in-chief and was extensively cross-examined over Days 71, 75, 76 and 77 on his relationship with Vusi 'Cat' Matlala, an undisclosed R70,000 loan/payment from Matlala, his 16 May 2024 briefing of investigators on the Armand Swart murder case, and a recorded December 2024 phone call about Katiso Molefe's detention; he denied wrongdoing throughout but confirmed several previously-denied facts once challenged with WhatsApp and call records.",
-  "bio": null,
-  "first_appearance": null,
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   },
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   },
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
-  ],
-  "photo_mode": "initials"
- },
- {
   "id": "george-raftopoulos",
   "name": "George Raftopoulos",
-  "initials": "GR",
-  "role": "Chief Provincial Inspector, Gauteng Traffic Police (\"Chief George\"), head of the Saturation Unit / Air Wing since 2017, 35 years with Gauteng Traffic Police",
-  "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 24.",
-  "bio": null,
-  "first_appearance": "2025/11/03",
-  "linked_days": [
-   24
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "photo_mode": "initials",
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/11/03",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
- },
- {
-  "id": "george-raftopoulos-chief-george",
-  "name": "George Raftopoulos ('Chief George')",
   "initials": "GR",
   "role": "Chief Provincial Inspector, Gauteng Traffic Police",
   "status": "Testified",
   "status_reason": "Testified Day 24 that he flew a helicopter over the Molefe scene at Kruger's request and denied knowing Molefe.",
-  "bio": null,
+  "bio": "Also referred to in testimony by the alias 'Chief George'.",
   "first_appearance": null,
-  "linked_days": [],
+  "linked_days": [
+   24
+  ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
@@ -3700,36 +3125,6 @@
   ]
  },
  {
-  "id": "hilda-khosi-senthumule-also-referenced-as-khosi-mavimbela",
-  "name": "Hilda Khosi Senthumule (also referenced as Khosi Mavimbela)",
-  "initials": "HK",
-  "role": "Lieutenant General, SAPS; Acting Deputy National Commissioner: Crime Detection; substantively Divisional Commissioner, Detective and Forensic Services",
-  "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 40.",
-  "bio": null,
-  "first_appearance": "2025/11/28",
-  "linked_days": [
-   40
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "photo_mode": "initials",
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/11/28",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
- },
- {
   "id": "i-j-mapiyeye",
   "name": "I J Mapiyeye",
   "initials": "IJ",
@@ -3758,43 +3153,6 @@
   "unverified": [
    "No standalone biographical profile assembled yet."
   ]
- },
- {
-  "id": "imogen-mashazi",
-  "name": "Imogen Mashazi",
-  "initials": "IM",
-  "role": "Former City Manager, City of Ekurhuleni",
-  "status": "Implicated (untested)",
-  "status_reason": "Named by News24 among nine current and former Ekurhuleni officials referred for investigation in the commission's first interim report announced 29 January 2026; the allegations are untested and no public response by her was located.",
-  "bio": "Mashazi was the City Manager of the City of Ekurhuleni. She is one of the municipal officials the commission referred for investigation in its first interim report, which the Presidency said identified prima facie evidence of wrongdoing among law-enforcement and municipal officials.",
-  "first_appearance": null,
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://www.news24.com/politics/senona-among-5-cops-to-face-charges-as-ramaphosa-acts-on-madlangas-interim-report-20260129-0578",
-    "tier": 2,
-    "publisher": "News24",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.thepresidency.gov.za/president-ramaphosa-welcomes-madlanga-commission-interim-report",
-    "tier": 1,
-    "publisher": "The Presidency (South Africa)",
-    "retrieved": "2026/08/22",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "The specific allegation against her",
-   "Whether she has responded",
-   "Whether she testified"
-  ],
-  "photo_mode": "initials"
  },
  {
   "id": "inspector-a-l-phiri",
@@ -4129,64 +3487,14 @@
   "photo_mode": "initials"
  },
  {
-  "id": "julius-mkhwanazi",
-  "name": "Julius Mkhwanazi",
-  "initials": "JM",
-  "role": "Suspended Deputy Chief, Ekurhuleni Metropolitan Police Department",
-  "status": "Implicated (untested)",
-  "status_reason": "Alleged on Day 2 to have irregularly registered Matlala's vehicles as municipal vehicles fitted with blue lights, the subject of a classified IPID report, and on Days 8 and 12 to have been asked by Matlala for assistance over the arrest of an associate. Has not responded at the Commission.",
-  "bio": "Julius Mkhwanazi (no relation to Nhlanhla Mkhwanazi) was the EMPD's deputy chief before his suspension by the City of Ekurhuleni. He appeared before the commission in April 2026, where News24 reported he 'took aim at his accusers'. He was among the officials referred for investigation in the commission's first interim report.",
-  "first_appearance": "2026/04/14",
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://www.ewn.co.za/2026/04/20/suspended-empd-deputy-chief-julius-mkhwanazi-senior-ekurhuleni-official-to-appear-in-court",
-    "tier": 2,
-    "publisher": "Eyewitness News",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.news24.com/politics/senona-among-5-cops-to-face-charges-as-ramaphosa-acts-on-madlangas-interim-report-20260129-0578",
-    "tier": 2,
-    "publisher": "News24",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.news24.com/southafrica/crime-and-courts/madlanga-commission-suspended-empd-deputy-chief-mkhwanazi-takes-aim-at-accusers-20260414-1129",
-    "tier": 2,
-    "publisher": "News24",
-    "retrieved": "2026/08/22",
-    "partial": true
-   },
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "Exact date(s) of his commission testimony (14 April 2026 inferred from a News24 headline slug)",
-   "Whether his title is 'chief' or 'deputy chief' — sources differ"
-  ],
-  "photo_mode": "initials"
- },
- {
   "id": "justice-mbuyiseli-madlanga",
   "name": "Justice Mbuyiseli Madlanga",
   "initials": "JM",
-  "role": "Chairperson of the Commission",
+  "role": "Presiding Chairperson of the Commission (not named personally anywhere in the transcripts, which refer to him only as 'CHAIRPERSON')",
   "status": "Commission official",
-  "status_reason": "Presided over all eight sitting days, ruling on protected identities, hearsay admissibility, and other procedural matters.",
-  "bio": null,
-  "first_appearance": null,
+  "status_reason": "Presided over every sitting day, issued rulings on exhibit naming, implicated-person notices, in-camera hearings and witness protection, and repeatedly tested witnesses' inferences and statistics. Appointed chairperson of the Commission by President Ramaphosa in his statement of 13 July 2025, where he is described as 'Acting Deputy Chief Justice Mbuyiseli Madlanga'. Presides over all sittings in this set, rules on exhibit admission, protective/anonymity directions, and cross-examination scope.",
+  "bio": "Madlanga was born in 1962, served as a judge of the Transkei Division of the High Court from 1996, and was appointed to the Constitutional Court on 1 August 2013, retiring on 31 July 2025. He chairs the Judicial Commission of Inquiry into Criminality, Political Interference and Corruption in the Criminal Justice System.",
+  "first_appearance": "2025/07/13",
   "linked_days": [],
   "photo_url": null,
   "photo_source": null,
@@ -4200,83 +3508,26 @@
     "partial": false
    },
    {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
+    "url": "https://www.thepresidency.gov.za/statement-president-cyril-ramaphosa-establishment-commission-inquiry-allegations-regarding-law",
     "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
     "partial": false
    },
    {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
+    "url": "https://en.wikipedia.org/wiki/Mbuyiseli_Madlanga",
+    "tier": 4,
+    "publisher": "Wikipedia (biographical basics only)",
+    "retrieved": "2026/08/22",
     "partial": false
    }
   ],
   "best_tier": 1,
   "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
+   "Profile assembled from transcript extraction only; no biography written yet.",
+   "Whether he formally retired before or after the commission's first hearing day"
   ],
   "photo_mode": "initials"
- },
- {
-  "id": "justice-mbuyiseli-madlanga-chairperson",
-  "name": "Justice Mbuyiseli Madlanga (Chairperson)",
-  "initials": "JM",
-  "role": "Chairperson, Judicial Commission of Inquiry into Criminality, Political Interference and Corruption in the Criminal Justice System",
-  "status": "Commission official",
-  "status_reason": "Presided over all nine sitting days, issuing rulings on postponements, protected-identity directions and witness conduct.",
-  "bio": null,
-  "first_appearance": null,
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
-  ],
-  "photo_mode": "initials"
- },
- {
-  "id": "karl-roland-sander",
-  "name": "Karl Roland Sander",
-  "initials": "KR",
-  "role": "Warrant Officer / Detective, SAPS Directorate for Priority Crime Investigation (DPCI), Serious Organised Crime (formerly SANEB narcotics investigator, now in the Economic Protected Resources unit); testified about narcotics seizures he handled between 2020 and 2023 and about being moved out of narcotics duties in 2024 following an unspecified internal corruption allegation",
-  "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 110.",
-  "bio": null,
-  "first_appearance": "2026/06/01",
-  "linked_days": [
-   110
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "photo_mode": "initials",
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2026/06/01",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
  },
  {
   "id": "katiso-kt-molefe",
@@ -4371,50 +3622,6 @@
   "photo_mode": "initials"
  },
  {
-  "id": "kemi-behari",
-  "name": "Kemi Behari",
-  "initials": "KB",
-  "role": "Head of Risk and Legal Services, City of Ekurhuleni",
-  "status": "Testified",
-  "status_reason": "He gave evidence to the commission on 9 February 2026, rejecting corruption allegations and saying none of the allegations 'were given to show a direct link to any incidence of corruption, fraud or me'.",
-  "bio": "Behari heads risk and legal services for the City of Ekurhuleni and was named among the Ekurhuleni officials referred for investigation in the commission's first interim report. In his testimony he characterised the allegations as a campaign to damage his reputation and addressed matters including a sexual-harassment complaint and traffic-fine irregularities within the EMPD.",
-  "first_appearance": "2026/02/09",
-  "linked_days": [
-   57
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://www.enca.com/news-top-stories/behari-rejects-corruption-allegations-madlanga-commission",
-    "tier": 2,
-    "publisher": "eNCA",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.news24.com/politics/senona-among-5-cops-to-face-charges-as-ramaphosa-acts-on-madlangas-interim-report-20260129-0578",
-    "tier": 2,
-    "publisher": "News24",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "Whether he holds the title 'Advocate' as News24 reported"
-  ],
-  "photo_mode": "initials"
- },
- {
   "id": "king-misuzulu-kazwelithini",
   "name": "King Misuzulu kaZwelithini",
   "initials": "KM",
@@ -4503,41 +3710,6 @@
   ]
  },
  {
-  "id": "lee-segeels-ncube",
-  "name": "Lee Segeels-Ncube",
-  "initials": "LS",
-  "role": "Evidence leader",
-  "status": "Commission official",
-  "status_reason": "Listed as an evidence leader in the commission's legal team as introduced to media on 31 July 2025 (corroborated by two Tier 2 outlets).",
-  "bio": "Segeels-Ncube is an advocate serving on the commission's evidence-leading team.",
-  "first_appearance": "2025/07/31",
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://www.ewn.co.za/2025/07/31/watch-the-madlanga-commission-meet-the-legal-and-investigative-team",
-    "tier": 2,
-    "publisher": "Eyewitness News",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://iol.co.za/news/politics/2025-07-31-meet-the-key-figures-in-the-inquiry-into-lt-gen-nhlanhla-mkhwanazis-explosive-claims/",
-    "tier": 2,
-    "publisher": "IOL",
-    "retrieved": "2026/08/22",
-    "partial": false
-   }
-  ],
-  "best_tier": 2,
-  "unverified": [
-   "Full biographical background"
-  ],
-  "photo_mode": "initials"
- },
- {
   "id": "len-barnabas-john",
   "name": "Len Barnabas John",
   "initials": "LB",
@@ -4594,80 +3766,6 @@
    "The period over which the 149 deaths are said to have occurred"
   ],
   "photo_mode": "initials"
- },
- {
-  "id": "lesetja-senona",
-  "name": "Lesetja Senona",
-  "initials": "LS",
-  "role": "Major-General; head of the Hawks (DPCI) in KwaZulu-Natal",
-  "status": "Implicated (untested)",
-  "status_reason": "He was one of five SAPS officers referred for criminal investigation in the commission's first interim report, announced by the Presidency on 29 January 2026; the allegations have not been tested in court and no denial by him was located.",
-  "bio": "Senona headed the DPCI (Hawks) in KwaZulu-Natal. He was among the officials the commission referred for investigation of possible corruption, fraud, murder and perjury in its first interim report, submitted to the President on 17 December 2025.",
-  "first_appearance": null,
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://www.news24.com/politics/senona-among-5-cops-to-face-charges-as-ramaphosa-acts-on-madlangas-interim-report-20260129-0578",
-    "tier": 2,
-    "publisher": "News24",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.thepresidency.gov.za/president-ramaphosa-welcomes-madlanga-commission-interim-report",
-    "tier": 1,
-    "publisher": "The Presidency (South Africa)",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://mg.co.za/news/2026-01-30-kzn-hawks-boss-referred-for-investigation/",
-    "tier": 3,
-    "publisher": "Mail & Guardian",
-    "retrieved": "2026/08/22",
-    "partial": true
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "Whether he has responded publicly",
-   "Whether he testified at the commission",
-   "Current employment status"
-  ],
-  "photo_mode": "initials"
- },
- {
-  "id": "lesiba-joseph-mokoena",
-  "name": "Lesiba Joseph Mokoena",
-  "initials": "LJ",
-  "role": "Brigadier, SAPS Hawks (DPCI); commander who instructed Kruger and De Gouveia to attend the Molefe address; referred to in WhatsApp records as \"Brig Kleintjie\"",
-  "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 22.",
-  "bio": null,
-  "first_appearance": "2025/10/29",
-  "linked_days": [
-   22
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "photo_mode": "initials",
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/10/29",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
  },
  {
   "id": "lieutenant-colonel-deenadayalan-deena-govender",
@@ -4947,11 +4045,11 @@
   "id": "lt-gen-fannie-masemola",
   "name": "Lt Gen Fannie Masemola",
   "initials": "LG",
-  "role": "National Commissioner of the South African Police Service",
+  "role": "National Commissioner of Police",
   "status": "Testified",
-  "status_reason": "Affirmed and gave evidence-in-chief across Days 4 and 5 on the constitutional division between executive and operational authority, the PKTT's history, the Minister's disbandment directive and the docket removal.",
-  "bio": null,
-  "first_appearance": null,
+  "status_reason": "He was served with a warrant in March 2026 and faces four counts of contravening the Public Finance Management Act in the Pretoria Magistrate's Court over the R360-million Medicare24 SAPS health-services tender — a criminal case separate from the commission; he had earlier given evidence to the commission on 22 September 2025. Affirmed and gave evidence-in-chief across Days 4 and 5 on the constitutional division between executive and operational authority, the PKTT's history, the Minister's disbandment directive and the docket removal. Senthumule's Day 40 testimony references Masemola's own prior testimony disputing her account of the 6 March 2025 meeting; also implicated by Mogotsi in cash-payment allegations relayed secondhand from Matlala. (Also recorded elsewhere as: Criminally charged in a separate matter.)",
+  "bio": "Masemola became National Commissioner of the SAPS in 2022. He testified at the commission on 22 September 2025, telling it that the disbandment of the Political Killings Task Team was 'a total encroachment' on police operational independence. President Ramaphosa placed him on precautionary suspension on 23 April 2026 pending the criminal case; Justice Madlanga later questioned in open hearings why he had been grouped with the Matlala co-accused.",
+  "first_appearance": "2025/09/22",
   "linked_days": [
    5,
    4
@@ -4960,6 +4058,34 @@
   "photo_source": null,
   "photo_licence": null,
   "sources": [
+   {
+    "url": "https://www.timeslive.co.za/politics/2026-04-23-cyril-ramaphosa-suspends-fannie-masemola-as-sa-police-commissioner/",
+    "tier": 2,
+    "publisher": "TimesLIVE",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.news24.com/citypress/politics/madlanga-commission-10-explosive-revelations-from-masemolas-testimony-20250922-0974",
+    "tier": 2,
+    "publisher": "News24 / City Press",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://mg.co.za/news/2026-03-25-police-commissioner-masemola-served-with-warrant-for-involvement-in-matlalas-r360-million-medicare24-contract/",
+    "tier": 3,
+    "publisher": "Mail & Guardian",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
+   {
+    "url": "https://iol.co.za/news/2026-07-29-madlanga-commission-advocate-andrea-johnson-admits-to-misuse-of-legal-process-in-arrests/",
+    "tier": 2,
+    "publisher": "IOL",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
     "tier": 1,
@@ -4970,6 +4096,8 @@
   ],
   "best_tier": 1,
   "unverified": [
+   "Whether he has entered a plea",
+   "Current status of the PFMA case",
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
@@ -5010,13 +4138,14 @@
   "id": "lt-gen-shadrack-sibiya",
   "name": "Lt Gen Shadrack Sibiya",
   "initials": "LG",
-  "role": "Deputy National Commissioner: Crime Detection, SAPS",
-  "status": "Implicated (untested)",
-  "status_reason": "Implicated by Masemola in issuing a disbandment letter under his own name on 17 January 2025 after the National Commissioner refused to sign it, and in directing the removal of the dockets without authority; also named in the 'Big Five' briefing and linked to a criminal cartel via phone records, allegations Masemola expressly classified as unsubstantiated. He is suspended pending a SAPS disciplinary hearing, which is an internal employment process, not criminal proceedings. He has not answered at the Commission.",
-  "bio": null,
-  "first_appearance": null,
+  "role": "Deputy National Commissioner for Crime Detection, SAPS (suspended)",
+  "status": "Testified",
+  "status_reason": "Implicated by Masemola in issuing a disbandment letter under his own name on 17 January 2025 after the National Commissioner refused to sign it, and in directing the removal of the dockets without authority; also named in the 'Big Five' briefing and linked to a criminal cartel via phone records, allegations Masemola expressly classified as unsubstantiated. He is suspended pending a SAPS disciplinary hearing, which is an internal employment process, not criminal proceedings. He has not answered at the Commission. Alleged by Mogotsi to have authorised his infiltration operations and by Senthumule to have made 'overreaching' docket demands and shown suspicion of Khumalo/Crime Intelligence; also referenced (Day 42) as linked to a criminal syndicate tied to Molefe's arrest; has not responded in these records. He gave evidence over several days in February 2026, beginning 18 February 2026, denying the allegations against him; the commission's second interim report subsequently recommended disciplinary proceedings and a criminal investigation. (Also recorded elsewhere as: Implicated (not yet responded), Implicated (untested).)",
+  "bio": "Sibiya is a Lieutenant General who previously headed the Hawks in Gauteng and was SAPS deputy national commissioner for crime detection before his 2025 suspension. The commission heard evidence that he removed 121 Political Killings Task Team dockets in 2025; he says he acted lawfully within an approved restructuring and that he is being politically targeted. In May 2026 the commission confirmed he had been removed from its witness list.",
+  "first_appearance": "2026/02/18",
   "linked_days": [
    66,
+   65,
    64,
    63,
    62
@@ -5033,23 +4162,39 @@
     "partial": false
    },
    {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
+    "url": "https://mg.co.za/news/south-africa/2026-02-18-sibiya-rejects-misconduct-charges-alleges-campaign-to-remove-him-from-the-saps/",
+    "tier": 3,
+    "publisher": "Mail & Guardian",
+    "retrieved": "2026/08/22",
     "partial": false
    },
    {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
+    "url": "https://www.dailymaverick.co.za/article/2026-08-07-has-the-madlanga-commission-vindicated-mkhwanazi-the-case-against-shadrack-sibiya/",
+    "tier": 3,
+    "publisher": "Daily Maverick",
+    "retrieved": "2026/08/22",
     "partial": false
+   },
+   {
+    "url": "https://www.thepresidency.gov.za/president-ramaphosa-notes-recommendations-and-referrals-second-interim-report-madlanga-commission",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://iol.co.za/news/politics/2026-05-12-madlanga-commission-confirms-shadrack-sibiya-is-off-witness-list/",
+    "tier": 2,
+    "publisher": "IOL",
+    "retrieved": "2026/08/22",
+    "partial": true
    }
   ],
   "best_tier": 1,
   "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
+   "Profile assembled from transcript extraction only; no biography written yet.",
+   "Whether any criminal charge has actually been laid against him",
+   "Outcome of his SAPS disciplinary process"
   ],
   "photo_mode": "initials"
  },
@@ -5114,36 +4259,6 @@
   ]
  },
  {
-  "id": "lt-gen-maj-gen-richard-shibiri",
-  "name": "Lt-Gen (Maj-Gen) Richard Shibiri",
-  "initials": "LM",
-  "role": "Component Head: Organised Crime, SAPS (national) — continuing cross-examination, focused on a personal loan from Mr Vusi Matlala and his May 2024 briefing of investigators on the Swart murder case",
-  "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 76.",
-  "bio": null,
-  "first_appearance": "2026/03/12",
-  "linked_days": [
-   76
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "photo_mode": "initials",
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/12",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
- },
- {
   "id": "lt-gen-gen-mkhwanazi-kwazulu-natal-provincial-commissioner",
   "name": "Lt-Gen / Gen Mkhwanazi (KwaZulu-Natal Provincial Commissioner)",
   "initials": "LG",
@@ -5175,19 +4290,42 @@
   "id": "lt-gen-dumisani-khumalo",
   "name": "Lt-Gen Dumisani Khumalo",
   "initials": "LD",
-  "role": "Divisional Commissioner: Crime Intelligence; PKTT project leader",
+  "role": "SAPS Lieutenant General; former head of Crime Intelligence",
   "status": "Testified",
-  "status_reason": "Testified Days 25-26 on GCI Ops, the 6 December 2024 operation, alleged Sibiya-cartel links and the PKTT's disbandment; also disclosed he faces separate criminal charges with six colleagues, currently out on bail.",
-  "bio": null,
-  "first_appearance": null,
+  "status_reason": "His prior testimony (outside this window) is relied on in Day 47's Rule 3 notice implicating Senona, and a prior appearance is referenced on Day 50 (Mr Ngoato's 'previous witness' remark); on Day 46, Witness E testified the Minister pressured him to falsely implicate Khumalo, while Witness E maintained Khumalo was not involved. He and six other Crime Intelligence officials face fraud and corruption charges over the alleged irregular appointment of a civilian to a Crime Intelligence post; he was arrested in June 2025 and released on R10,000 bail — a matter separate from the commission, at which he gave evidence on 29 September 2025. Referenced as having testified previously (disputing Senthumule's account of the March 2025 meeting, and jointly with Masemola on briefing the Minister about Molefe's arrest); also implicated by Mogotsi in the alleged plot against Maj-Gen Khan and the Magaqa cover-up. (Also recorded elsewhere as: Criminally charged in a separate matter.)",
+  "bio": "Khumalo heads SAPS Crime Intelligence. He testified at the commission on 29 September 2025, describing the operation of a Gauteng-based syndicate he called the 'Big Five' cartel and naming Vusimuzi Matlala and Katiso Molefe. He characterises his own prosecution as 'a pure labour-related matter' and says the case is a 'project' to tarnish his name. He was reinstated to his post in November 2025.",
+  "first_appearance": "2025/09/29",
   "linked_days": [
    26,
-   25
+   25,
+   9,
+   8
   ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
   "sources": [
+   {
+    "url": "https://www.enca.com/top-stories/madlanga-commission-khumalo-blows-lid-gautengs-big-five-criminal-cartel",
+    "tier": 2,
+    "publisher": "eNCA",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.citizen.co.za/news/dumisani-khumalo-testimony-crime-intelligence-arrest/",
+    "tier": 2,
+    "publisher": "The Citizen",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.ewn.co.za/2025/11/20/dumisani-khumalo-reinstated-as-head-of-crime-intelligence",
+    "tier": 2,
+    "publisher": "Eyewitness News",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
     "tier": 1,
@@ -5198,6 +4336,7 @@
   ],
   "best_tier": 1,
   "unverified": [
+   "Current status of the criminal case against him",
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
@@ -5211,7 +4350,9 @@
   "status_reason": "Testified Day 24 on the WhatsApp chain from Gen Lebeya and conceded that continued Hawks presence after legitimacy was confirmed 'would constitute interference'.",
   "bio": null,
   "first_appearance": null,
-  "linked_days": [],
+  "linked_days": [
+   24
+  ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
@@ -5237,65 +4378,11 @@
   "role": "Acting Deputy National Commissioner: Crime Detection, SAPS",
   "status": "Testified",
   "status_reason": "Testified the full Day 40 about the PKTT's disbandment and the fate of the 121 KZN dockets.",
-  "bio": null,
+  "bio": "Also referenced in testimony as Khosi Mavimbela.",
   "first_appearance": null,
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
+  "linked_days": [
+   40
   ],
-  "best_tier": 1,
-  "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
-  ],
-  "photo_mode": "initials"
- },
- {
-  "id": "lt-gen-khumalo-crime-intelligence-head",
-  "name": "Lt-Gen Khumalo (Crime Intelligence head)",
-  "initials": "LK",
-  "role": "Head of SAPS Crime Intelligence; distinct from Adv Khumalo SC",
-  "status": "Testified",
-  "status_reason": "His prior testimony (outside this window) is relied on in Day 47's Rule 3 notice implicating Senona, and a prior appearance is referenced on Day 50 (Mr Ngoato's 'previous witness' remark); on Day 46, Witness E testified the Minister pressured him to falsely implicate Khumalo, while Witness E maintained Khumalo was not involved.",
-  "bio": null,
-  "first_appearance": null,
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
-  ],
-  "photo_mode": "initials"
- },
- {
-  "id": "lt-gen-khumalo-saps",
-  "name": "Lt-Gen Khumalo (SAPS)",
-  "initials": "LK",
-  "role": "Senior SAPS general linked to Crime Intelligence oversight",
-  "status": "Testified",
-  "status_reason": "Referenced as having testified previously (disputing Senthumule's account of the March 2025 meeting, and jointly with Masemola on briefing the Minister about Molefe's arrest); also implicated by Mogotsi in the alleged plot against Maj-Gen Khan and the Magaqa cover-up.",
-  "bio": null,
-  "first_appearance": null,
-  "linked_days": [],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
@@ -5371,14 +4458,14 @@
   "photo_mode": "initials"
  },
  {
-  "id": "lt-gen-nhlanhla-mkhwanazi-saps-kzn-provincial-commissioner",
-  "name": "Lt-Gen Nhlanhla Mkhwanazi (SAPS, KZN Provincial Commissioner)",
+  "id": "lt-gen-nhlanhla-mkhwanazi",
+  "name": "Lt-Gen Nhlanhla Mkhwanazi",
   "initials": "LN",
-  "role": "Provincial Commissioner, SAPS KwaZulu-Natal",
+  "role": "SAPS, KwaZulu-Natal Provincial Commissioner",
   "status": "Testified",
-  "status_reason": "His own prior testimony (on his Hillcrest residence and PKTT docket practice) is repeatedly referenced and tested against Mogotsi's and Senthumule's accounts on Days 36-37 and 40; also implicated by Mogotsi in CIA-recruitment and cash-payment allegations not yet answered in these records.",
-  "bio": null,
-  "first_appearance": null,
+  "status_reason": "His own prior testimony (on his Hillcrest residence and PKTT docket practice) is repeatedly referenced and tested against Mogotsi's and Senthumule's accounts on Days 36-37 and 40; also implicated by Mogotsi in CIA-recruitment and cash-payment allegations not yet answered in these records. He was the commission's first witness, beginning evidence on 17 September 2025, and continued on subsequent days.",
+  "bio": "Mkhwanazi is the SAPS provincial commissioner for KwaZulu-Natal. His press briefing of 6 July 2025 alleging political interference in policing precipitated the commission's establishment. In March 2026 he was confirmed in the KZN post for a further five-year term.",
+  "first_appearance": "2025/09/17",
   "linked_days": [],
   "photo_url": null,
   "photo_source": null,
@@ -5390,11 +4477,34 @@
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
     "partial": false
+   },
+   {
+    "url": "https://www.ewn.co.za/2025/09/17/watch-live-first-witness-kzn-police-commissioner-nhlanhla-mkhwanazi",
+    "tier": 2,
+    "publisher": "Eyewitness News",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
+   {
+    "url": "https://mg.co.za/news/2025-07-06-mchunu-denies-sabotaging-political-killings-task-team-to-shield-politicians/",
+    "tier": 3,
+    "publisher": "Mail & Guardian",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://iol.co.za/news/politics/2026-03-17-nhlanhla-mkhwanazi-confirmed-as-kzn-police-commissioner-for-another-five-years/",
+    "tier": 2,
+    "publisher": "IOL",
+    "retrieved": "2026/08/22",
+    "partial": true
    }
   ],
   "best_tier": 1,
   "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
+   "Profile assembled from transcript extraction only; no biography written yet.",
+   "Total number of days he testified",
+   "Date of birth and full career history"
   ],
   "photo_mode": "initials"
  },
@@ -5430,44 +4540,15 @@
   "id": "lt-gen-richard-shibiri",
   "name": "Lt-Gen Richard Shibiri",
   "initials": "LR",
-  "role": "Lieutenant-General, Head of SAPS Organised Crime Investigations (OCI); continuing witness testifying about his relationship with Sergeant Nkosi and businessman Vusimuzi 'Cat' Matlala",
+  "role": "Major-General; former head of the SAPS organised crime unit (dismissed June 2026)",
   "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 75.",
-  "bio": null,
-  "first_appearance": "2026/03/11",
-  "linked_days": [
-   75
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "photo_mode": "initials",
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/11",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
- },
- {
-  "id": "lt-gen-samuel-dumisani-khumalo",
-  "name": "Lt-Gen Samuel Dumisani Khumalo",
-  "initials": "LS",
-  "role": "Divisional Commissioner: Crime Intelligence, SAPS; project leader of the Political Killings Task Team since 2018",
-  "status": "Testified",
-  "status_reason": "Sworn on Day 8 and continued on Day 9, taking the Commission through his 78-page statement and the WhatsApp material extracted from Matlala's seized phones. His evidence was interrupted when he left the precinct unwell on Day 10.",
-  "bio": null,
+  "status_reason": "Gave sworn evidence-in-chief and was extensively cross-examined over Days 71, 75, 76 and 77 on his relationship with Vusi 'Cat' Matlala, an undisclosed R70,000 loan/payment from Matlala, his 16 May 2024 briefing of investigators on the Armand Swart murder case, and a recorded December 2024 phone call about Katiso Molefe's detention; he denied wrongdoing throughout but confirmed several previously-denied facts once challenged with WhatsApp and call records. Witness A testified that at a meeting on 16 May 2024 Shibiri referenced 'three envelopes flying around' available to secure bail for Tau — one for the two investigating officers, one for the Prosecutor and one for the Magistrate — and that Shibiri was present at social gatherings hosted by Vusi Ndlala. Masemola had relayed the same allegation as hearsay on Day 4. Has not responded at the Commission. He was referred for criminal investigation in the commission's first interim report and was dismissed on 5 June 2026 after an internal SAPS disciplinary process; no criminal charge against him has been confirmed and the underlying allegations remain untested in a court. (Also recorded elsewhere as: Implicated (untested).)",
+  "bio": "Shibiri headed the SAPS organised crime unit, covering transnational crime, narcotics, anti-gang, extortion, economic infrastructure and illegal mining. SAPS confirmed his dismissal on 5 June 2026 for conduct that brought the organisation into disrepute, including associating with a known criminal; the charges drew on evidence presented to the commission, including an allegation that he accepted an R80,000 loan from Vusimuzi Matlala.",
   "first_appearance": null,
   "linked_days": [
-   9,
-   8
+   77,
+   76,
+   75
   ],
   "photo_url": null,
   "photo_source": null,
@@ -5479,11 +4560,27 @@
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
     "partial": false
+   },
+   {
+    "url": "https://www.dailymaverick.co.za/article/2026-06-05-madlanga-commission-fallout-deepens-as-shibiri-dismissed-nine-officers-suspended/",
+    "tier": 3,
+    "publisher": "Daily Maverick",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://www.news24.com/politics/senona-among-5-cops-to-face-charges-as-ramaphosa-acts-on-madlangas-interim-report-20260129-0578",
+    "tier": 2,
+    "publisher": "News24",
+    "retrieved": "2026/08/22",
+    "partial": false
    }
   ],
   "best_tier": 1,
   "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
+   "Profile assembled from transcript extraction only; no biography written yet.",
+   "Whether he is appealing the dismissal",
+   "Whether he has responded publicly to the allegations"
   ],
   "photo_mode": "initials"
  },
@@ -5497,66 +4594,6 @@
   "bio": null,
   "first_appearance": null,
   "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
-  ],
-  "photo_mode": "initials"
- },
- {
-  "id": "lt-gen-shibiri",
-  "name": "Lt-Gen Shibiri",
-  "initials": "LS",
-  "role": "SAPS Head of Organised Crime, continuing cross-examination on a recorded phone call with an investigating officer ('Witness A'), on the Armand Swart murder investigation, the arrest of Katiso Molefe, and alleged instructions from Deputy National Commissioner Lt-Gen Sibiya",
-  "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 77.",
-  "bio": null,
-  "first_appearance": "2026/03/13",
-  "linked_days": [
-   77
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "photo_mode": "initials",
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/13",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
- },
- {
-  "id": "lt-gen-sibiya",
-  "name": "Lt-Gen Sibiya",
-  "initials": "LS",
-  "role": "Deputy National Commissioner, SAPS",
-  "status": "Implicated (not yet responded)",
-  "status_reason": "Alleged by Mogotsi to have authorised his infiltration operations and by Senthumule to have made 'overreaching' docket demands and shown suspicion of Khumalo/Crime Intelligence; also referenced (Day 42) as linked to a criminal syndicate tied to Molefe's arrest; has not responded in these records.",
-  "bio": null,
-  "first_appearance": null,
-  "linked_days": [
-   65
-  ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
@@ -5604,41 +4641,6 @@
   "photo_mode": "initials"
  },
  {
-  "id": "mahlape-sello",
-  "name": "Mahlape Sello SC",
-  "initials": "MS",
-  "role": "Evidence leader",
-  "status": "Commission official",
-  "status_reason": "Listed as an evidence leader in the commission's legal team as introduced to media on 31 July 2025 (corroborated by two Tier 2 outlets).",
-  "bio": "Sello is a senior counsel serving on the commission's evidence-leading team.",
-  "first_appearance": "2025/07/31",
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://www.ewn.co.za/2025/07/31/watch-the-madlanga-commission-meet-the-legal-and-investigative-team",
-    "tier": 2,
-    "publisher": "Eyewitness News",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://iol.co.za/news/politics/2025-07-31-meet-the-key-figures-in-the-inquiry-into-lt-gen-nhlanhla-mkhwanazis-explosive-claims/",
-    "tier": 2,
-    "publisher": "IOL",
-    "retrieved": "2026/08/22",
-    "partial": false
-   }
-  ],
-  "best_tier": 2,
-  "unverified": [
-   "Full biographical background"
-  ],
-  "photo_mode": "initials"
- },
- {
   "id": "maj-gen-abednego-shibiri",
   "name": "Maj-Gen Abednego Shibiri",
   "initials": "MA",
@@ -5678,34 +4680,6 @@
   "linked_days": [
    46
   ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
-  ],
-  "photo_mode": "initials"
- },
- {
-  "id": "maj-gen-feroz-khan",
-  "name": "Maj-Gen Feroz Khan",
-  "initials": "MF",
-  "role": "SAPS general",
-  "status": "Implicated (untested)",
-  "status_reason": "Alleged by Matlala (via Witness C, Day 19) to have demanded R2.5 million during his own disciplinary proceedings, of which Matlala says he paid R500,000; not shown to have responded.",
-  "bio": null,
-  "first_appearance": null,
-  "linked_days": [],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
@@ -5788,26 +4762,42 @@
   "id": "maj-gen-lesetja-senona",
   "name": "Maj-Gen Lesetja Senona",
   "initials": "ML",
-  "role": "Provincial Head, DPCI (Hawks), KwaZulu-Natal",
+  "role": "Head of the Directorate for Priority Crime Investigation (DPCI), KwaZulu-Natal",
   "status": "Testified",
-  "status_reason": "Testified over three days (47-49) responding to a Rule 3 notice implicating him via Lt-Gen Khumalo, Witness X and Witness C, covering his ties to Matlala, forwarded documents/dockets, and the Port Shepstone cocaine theft; excused at the end of Day 49.",
-  "bio": null,
+  "status_reason": "Alleged in Khumalo's and Witness X's evidence to have had a beneficial relationship with Matlala and to have leaked confidential SAPS documents to him, including invoice records and the disbandment letter. The Chairperson raised on Day 8 that implicated-person notices had not yet been issued to him; he has not responded at the Commission. Testified over three days (47-49) responding to a Rule 3 notice implicating him via Lt-Gen Khumalo, Witness X and Witness C, covering his ties to Matlala, forwarded documents/dockets, and the Port Shepstone cocaine theft; excused at the end of Day 49. He was one of five SAPS officers referred for criminal investigation in the commission's first interim report, announced by the Presidency on 29 January 2026; the allegations have not been tested in court and no denial by him was located. (Also recorded elsewhere as: Implicated (not yet responded), Implicated (untested).)",
+  "bio": "Senona headed the DPCI (Hawks) in KwaZulu-Natal. He was among the officials the commission referred for investigation of possible corruption, fraud, murder and perjury in its first interim report, submitted to the President on 17 December 2025.",
   "first_appearance": null,
   "linked_days": [
    122,
    49,
-   47
+   48,
+   47,
+   39
   ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
   "sources": [
    {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
+    "url": "https://www.news24.com/politics/senona-among-5-cops-to-face-charges-as-ramaphosa-acts-on-madlangas-interim-report-20260129-0578",
+    "tier": 2,
+    "publisher": "News24",
+    "retrieved": "2026/08/22",
     "partial": false
+   },
+   {
+    "url": "https://www.thepresidency.gov.za/president-ramaphosa-welcomes-madlanga-commission-interim-report",
+    "tier": 1,
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://mg.co.za/news/2026-01-30-kzn-hawks-boss-referred-for-investigation/",
+    "tier": 3,
+    "publisher": "Mail & Guardian",
+    "retrieved": "2026/08/22",
+    "partial": true
    },
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
@@ -5819,6 +4809,9 @@
   ],
   "best_tier": 1,
   "unverified": [
+   "Whether he has responded publicly",
+   "Whether he testified at the commission",
+   "Current employment status",
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
@@ -5882,92 +4875,6 @@
   ]
  },
  {
-  "id": "maj-gen-senona",
-  "name": "Maj-Gen Senona",
-  "initials": "MS",
-  "role": "Head of the Directorate for Priority Crime Investigation (DPCI), KwaZulu-Natal",
-  "status": "Implicated (untested)",
-  "status_reason": "Alleged in Khumalo's and Witness X's evidence to have had a beneficial relationship with Matlala and to have leaked confidential SAPS documents to him, including invoice records and the disbandment letter. The Chairperson raised on Day 8 that implicated-person notices had not yet been issued to him; he has not responded at the Commission.",
-  "bio": null,
-  "first_appearance": null,
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
-  ],
-  "photo_mode": "initials"
- },
- {
-  "id": "maj-gen-shibiri",
-  "name": "Maj-Gen Shibiri",
-  "initials": "MS",
-  "role": "Major-General, Head of Organised Crime nationally, SAPS",
-  "status": "Implicated (untested)",
-  "status_reason": "Witness A testified that at a meeting on 16 May 2024 Shibiri referenced 'three envelopes flying around' available to secure bail for Tau — one for the two investigating officers, one for the Prosecutor and one for the Magistrate — and that Shibiri was present at social gatherings hosted by Vusi Ndlala. Masemola had relayed the same allegation as hearsay on Day 4. Has not responded at the Commission.",
-  "bio": null,
-  "first_appearance": null,
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
-  ],
-  "photo_mode": "initials"
- },
- {
-  "id": "major-general-lesetja-senona",
-  "name": "Major General Lesetja Senona",
-  "initials": "MG",
-  "role": "Head of the KwaZulu-Natal Hawks (per reporting); subpoenaed witness",
-  "status": "Implicated (not yet responded)",
-  "status_reason": "His substantive testimony was postponed by agreement to 27 January 2026; Tier-2 reporting (not the transcript) alleges he helped Matlala secure a R360-million SAPS contract, unaddressed on the Commission record so far.",
-  "bio": null,
-  "first_appearance": null,
-  "linked_days": [
-   48
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
-  ],
-  "photo_mode": "initials"
- },
- {
   "id": "major-general-matlou",
   "name": "Major General Matlou",
   "initials": "MG",
@@ -5996,36 +4903,6 @@
   "photo_mode": "initials"
  },
  {
-  "id": "major-general-senona",
-  "name": "Major General Senona",
-  "initials": "MG",
-  "role": "Subpoenaed witness scheduled to testify; described in transcript simply as 'General Senona', identified in contemporaneous news reporting as head of the KwaZulu-Natal Hawks. His substantive testimony was postponed to 27 January 2026; on this day he only briefly acknowledged the postponement agreement on the record.",
-  "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 39.",
-  "bio": null,
-  "first_appearance": "2025/11/26",
-  "linked_days": [
-   39
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "photo_mode": "initials",
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/11/26",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
- },
- {
   "id": "major-general-ebrahim-ahmed-kadwa",
   "name": "Major-General Ebrahim Ahmed Kadwa",
   "initials": "ME",
@@ -6034,7 +4911,9 @@
   "status_reason": "Testified on Day 38 about activating the verification team after a call from Gen Lebeya.",
   "bio": null,
   "first_appearance": null,
-  "linked_days": [],
+  "linked_days": [
+   38
+  ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
@@ -6057,16 +4936,37 @@
   "id": "major-general-feroz-khan",
   "name": "Major-General Feroz Khan",
   "initials": "MF",
-  "role": "Crime Intelligence official, SAPS",
+  "role": "Suspended Major-General, SAPS Crime Intelligence",
   "status": "Implicated (untested)",
-  "status_reason": "Khumalo testified that Khan was cleared of any wrongdoing in a departmental hearing chaired by Lt-Gen Mkhwanazi, contrary to media reporting. Separately, the Day 9 chat material was said to point to a 'special relationship' between Matlala and a 'Khan', which the witness said would be clarified in evidence to be led in camera. That allegation is untested and the identification was not conclusively established on the record.",
-  "bio": null,
-  "first_appearance": null,
+  "status_reason": "Khumalo testified that Khan was cleared of any wrongdoing in a departmental hearing chaired by Lt-Gen Mkhwanazi, contrary to media reporting. Separately, the Day 9 chat material was said to point to a 'special relationship' between Matlala and a 'Khan', which the witness said would be clarified in evidence to be led in camera. That allegation is untested and the identification was not conclusively established on the record. Evidence about him was led at the commission in July 2026, including WhatsApp messages with Andrea Johnson and a discrepancy over a cocaine seizure; his own testimony was postponed after he was hospitalised and no substantive response from him has been heard. Alleged by Matlala (via Witness C, Day 19) to have demanded R2.5 million during his own disciplinary proceedings, of which Matlala says he paid R500,000; not shown to have responded.",
+  "bio": "Khan is a suspended SAPS Crime Intelligence major-general. In July 2026 the commission heard evidence about his close relationship with then-IDAC head Andrea Johnson and about a discrepancy between his account of a 2021 cocaine seizure and official records. His lawyers invited the commission to verify his condition in hospital after he was shot; the allegations against him remain untested.",
+  "first_appearance": "2026/07/06",
   "linked_days": [],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
   "sources": [
+   {
+    "url": "https://www.dailymaverick.co.za/article/2026-07-29-you-gorgeous-intimate-messages-between-feroz-khan-and-andrea-johnson-revealed/",
+    "tier": 3,
+    "publisher": "Daily Maverick",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
+   {
+    "url": "https://iol.co.za/news/politics/2026-07-06-live-madlanga-commission-continues-hearing-evidence-against-feroz-khan/",
+    "tier": 2,
+    "publisher": "IOL",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
+   {
+    "url": "https://mg.co.za/thought-leader/2026-07-01-feroz-khan-s-lawyers-invite-madlanga-commission-to-verify-his-critical-condition-in-hospital/",
+    "tier": 3,
+    "publisher": "Mail & Guardian",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
     "tier": 1,
@@ -6077,6 +4977,9 @@
   ],
   "best_tier": 1,
   "unverified": [
+   "The nature of the separate criminal charges he reportedly faces",
+   "The circumstances and date of the shooting",
+   "Whether he has since testified",
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
@@ -6142,13 +5045,13 @@
   "photo_mode": "initials"
  },
  {
-  "id": "marius-van-der-merwe-witness-d",
-  "name": "Marius Van Der Merwe (\"Witness D\")",
+  "id": "marius-van-der-merwe",
+  "name": "Marius van der Merwe",
   "initials": "MV",
   "role": "Commission witness whose September 2022 warning statement implicated several SAPS/EMPD members in the Mbense case",
   "status": "Testified",
-  "status_reason": "Referenced across Days 58-59 as a prior Commission witness ('Witness D') whose sworn commissioned statement (Exhibit NPM3) is in evidence; he was killed on 5 December 2025 during the course of the investigation.",
-  "bio": null,
+  "status_reason": "Referenced across Days 58-59 as a prior Commission witness ('Witness D') whose sworn commissioned statement (Exhibit NPM3) is in evidence; he was killed on 5 December 2025 during the course of the investigation. The Presidency's statement of 6 December 2025 describes him as a commission witness whose 'brave testimony' preceded his killing.",
+  "bio": "Van der Merwe was a Brakpan-based member of the security industry and a former Ekurhuleni Metropolitan Police Department official who gave evidence to the commission. He was shot multiple times outside his Brakpan home in front of his family on the evening of 5 December 2025. President Ramaphosa condemned the killing and pledged to redouble efforts to protect whistleblowers; the commission later welcomed an arrest in the case. Testified under the protected alias \"Witness D\" in earlier sittings.",
   "first_appearance": null,
   "linked_days": [],
   "photo_url": null,
@@ -6161,28 +5064,7 @@
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
     "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
-  ],
-  "photo_mode": "initials"
- },
- {
-  "id": "marius-van-der-merwe",
-  "name": "Marius van der Merwe",
-  "initials": "MV",
-  "role": "Security-industry figure and former EMPD official; commission witness (deceased)",
-  "status": "Testified",
-  "status_reason": "The Presidency's statement of 6 December 2025 describes him as a commission witness whose 'brave testimony' preceded his killing.",
-  "bio": "Van der Merwe was a Brakpan-based member of the security industry and a former Ekurhuleni Metropolitan Police Department official who gave evidence to the commission. He was shot multiple times outside his Brakpan home in front of his family on the evening of 5 December 2025. President Ramaphosa condemned the killing and pledged to redouble efforts to protect whistleblowers; the commission later welcomed an arrest in the case.",
-  "first_appearance": null,
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
+   },
    {
     "url": "https://www.thepresidency.gov.za/president-condemns-heinous-murder-madlanga-commission-witness",
     "tier": 1,
@@ -6207,6 +5089,7 @@
   ],
   "best_tier": 1,
   "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet.",
    "The date(s) on which he testified",
    "Whether he testified under a pseudonym",
    "The identity of the person arrested for his murder"
@@ -6242,36 +5125,6 @@
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
- },
- {
-  "id": "marumo-joseph-magane",
-  "name": "Marumo Joseph Magane",
-  "initials": "MJ",
-  "role": "Warrant Officer, Commander of CIMAC (Crime Information Management and Analysis Centre) at SAPS Zonkizizwe, stationed there since 2005; testified about the July 2021 Aeroton drug bust and his own subsequent arrest, suspension and departmental/criminal charges",
-  "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 106.",
-  "bio": null,
-  "first_appearance": "2026/05/12",
-  "linked_days": [
-   106
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "photo_mode": "initials",
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2026/05/12",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
  },
  {
   "id": "mary-cockey-motsepe",
@@ -6433,36 +5286,6 @@
   ]
  },
  {
-  "id": "maxwell-thulani-wanda",
-  "name": "Maxwell Thulani Wanda",
-  "initials": "MT",
-  "role": "Captain, SAPS; crime scene investigator/CSI commander, Local Criminal Record Centre Richards Bay; former Tactical Commander for LCRC within the Political Killings Task Team (PKTT), Dec 2023-Apr 2025",
-  "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 22.",
-  "bio": null,
-  "first_appearance": "2025/10/29",
-  "linked_days": [
-   22
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "photo_mode": "initials",
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/10/29",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
- },
- {
   "id": "mbangwa-nkhwashu",
   "name": "Mbangwa Nkhwashu",
   "initials": "MN",
@@ -6519,41 +5342,6 @@
   "best_tier": 1,
   "unverified": [
    "Profile assembled from transcript extraction only; no biography written yet."
-  ],
-  "photo_mode": "initials"
- },
- {
-  "id": "mbuyiseli-madlanga",
-  "name": "Mbuyiseli Madlanga",
-  "initials": "MM",
-  "role": "Chairperson of the Commission; retired Constitutional Court Justice",
-  "status": "Commission official",
-  "status_reason": "Appointed chairperson of the Commission by President Ramaphosa in his statement of 13 July 2025, where he is described as 'Acting Deputy Chief Justice Mbuyiseli Madlanga'.",
-  "bio": "Madlanga was born in 1962, served as a judge of the Transkei Division of the High Court from 1996, and was appointed to the Constitutional Court on 1 August 2013, retiring on 31 July 2025. He chairs the Judicial Commission of Inquiry into Criminality, Political Interference and Corruption in the Criminal Justice System.",
-  "first_appearance": "2025/07/13",
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://www.thepresidency.gov.za/statement-president-cyril-ramaphosa-establishment-commission-inquiry-allegations-regarding-law",
-    "tier": 1,
-    "publisher": "The Presidency (South Africa)",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://en.wikipedia.org/wiki/Mbuyiseli_Madlanga",
-    "tier": 4,
-    "publisher": "Wikipedia (biographical basics only)",
-    "retrieved": "2026/08/22",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "Whether he formally retired before or after the commission's first hearing day"
   ],
   "photo_mode": "initials"
  },
@@ -6713,67 +5501,6 @@
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
- },
- {
-  "id": "mr-brown-mogotsi",
-  "name": "Mr Brown Mogotsi",
-  "initials": "MB",
-  "role": "Self-described state/contact agent; witness continuing multi-day testimony concerning communications with the Minister of Police and Mr Cat Matlala, and Crime Intelligence-linked operations targeting SAPS generals",
-  "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 37.",
-  "bio": null,
-  "first_appearance": "2025/11/20",
-  "linked_days": [
-   37,
-   36
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "photo_mode": "initials",
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/11/20",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
- },
- {
-  "id": "mr-gareth-mnisi",
-  "name": "Mr Gareth Mnisi",
-  "initials": "MG",
-  "role": "Chief Financial Officer of the City of Tshwane and Chairperson of the City's Bid Adjudication Committee (BAC), continuing cross-examination on the TMPD 1-24/25 security tender and his WhatsApp exchanges with Sergeant Fannie Nkosi and Deputy Chief Dhlamini",
-  "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 93.",
-  "bio": null,
-  "first_appearance": "2026/04/20",
-  "linked_days": [
-   93
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "photo_mode": "initials",
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2026/04/20",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
  },
  {
   "id": "mr-kareem",
@@ -6958,51 +5685,68 @@
   "id": "mr-suleiman-carrim",
   "name": "Mr Suleiman Carrim",
   "initials": "MS",
-  "role": "Businessman continuing cross-examination on his funding arrangement with Mr Vusimuzi 'Cat' Matlala and Medicare 24 Tshwane (the SAPS-linked medical services contract), and on his relationship with Mr Morgan Maumela",
+  "role": "North West businessman; investor in Medicare24",
   "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 74.",
-  "bio": null,
-  "first_appearance": "2026/03/10",
+  "status_reason": "He gave evidence to the commission on 9 March 2026, day 73 of the inquiry, after failing in a February 2026 court bid to avoid testifying.",
+  "bio": "Carrim is a North West businessman who told the commission he invested R10 million in Medicare24 and received R1.74 million in return. He denied any relationship with Senzo Mchunu. His application to testify in camera was refused by Justice Madlanga, and evidence leaders described themselves as puzzled by aspects of his account.",
+  "first_appearance": "2026/03/09",
   "linked_days": [
-   74
+   159,
+   74,
+   73,
+   72
   ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
-    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/10",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
+    "url": "https://www.sowetan.co.za/news/2026-03-09-what-you-need-to-know-about-suleiman-carrims-testimony-at-madlanga-inquiry/",
+    "tier": 2,
+    "publisher": "Sowetan",
+    "retrieved": "2026/08/22",
     "partial": false
+   },
+   {
+    "url": "https://www.dailymaverick.co.za/article/2026-02-05-businessman-suliman-carrim-fails-in-courourt-bid-to-avoid-testifying-at-madlanga/",
+    "tier": 3,
+    "publisher": "Daily Maverick",
+    "retrieved": "2026/08/22",
+    "partial": true
+   },
+   {
+    "url": "https://www.ewn.co.za/2026/03/11/madlanga-commission-evidence-leaders-left-puzzled-after-carrim-testimony",
+    "tier": 2,
+    "publisher": "Eyewitness News",
+    "retrieved": "2026/08/22",
+    "partial": true
    }
   ],
-  "best_tier": 1,
+  "best_tier": 2,
   "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
+   "The spelling of his first name — sources use both 'Suliman' and 'Suleiman'"
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "mr-xolani-prince-nciza",
   "name": "Mr Xolani (Prince) Nciza",
   "initials": "MX",
-  "role": "Former Divisional Head: Employee Relations, City of Ekurhuleni (EMPD); witness statement author, continuing testimony from prior day(s)",
-  "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 31.",
+  "role": "EMPD-linked figure alleging Mashazi ordered a halt to discipline",
+  "status": "Implicated (untested)",
+  "status_reason": "Alleged, with Mapiyeye, that Mashazi called on 23 May 2023 to order a halt to Julius Mkhwanazi's discipline; Mashazi denies this and an evidence leader said Nciza would file a supplementary statement.",
   "bio": null,
-  "first_appearance": "2025/11/12",
+  "first_appearance": null,
   "linked_days": [
+   32,
    31
   ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/11/12",
+    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
     "tier": 1,
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
@@ -7011,8 +5755,9 @@
   ],
   "best_tier": 1,
   "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "ms-bouwer",
@@ -7311,49 +6056,6 @@
   "photo_mode": "initials"
  },
  {
-  "id": "nhlanhla-mkhwanazi",
-  "name": "Nhlanhla Mkhwanazi",
-  "initials": "NM",
-  "role": "KwaZulu-Natal Provincial Police Commissioner (Lieutenant General)",
-  "status": "Testified",
-  "status_reason": "He was the commission's first witness, beginning evidence on 17 September 2025, and continued on subsequent days.",
-  "bio": "Mkhwanazi is the SAPS provincial commissioner for KwaZulu-Natal. His press briefing of 6 July 2025 alleging political interference in policing precipitated the commission's establishment. In March 2026 he was confirmed in the KZN post for a further five-year term.",
-  "first_appearance": "2025/09/17",
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://www.ewn.co.za/2025/09/17/watch-live-first-witness-kzn-police-commissioner-nhlanhla-mkhwanazi",
-    "tier": 2,
-    "publisher": "Eyewitness News",
-    "retrieved": "2026/08/22",
-    "partial": true
-   },
-   {
-    "url": "https://mg.co.za/news/2025-07-06-mchunu-denies-sabotaging-political-killings-task-team-to-shield-politicians/",
-    "tier": 3,
-    "publisher": "Mail & Guardian",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://iol.co.za/news/politics/2026-03-17-nhlanhla-mkhwanazi-confirmed-as-kzn-police-commissioner-for-another-five-years/",
-    "tier": 2,
-    "publisher": "IOL",
-    "retrieved": "2026/08/22",
-    "partial": true
-   }
-  ],
-  "best_tier": 2,
-  "unverified": [
-   "Total number of days he testified",
-   "Date of birth and full career history"
-  ],
-  "photo_mode": "initials"
- },
- {
   "id": "nico-mathobela",
   "name": "Nico Mathobela",
   "initials": "NM",
@@ -7566,41 +6268,6 @@
   "photo_mode": "initials"
  },
  {
-  "id": "ofentse-motlhasedi",
-  "name": "Ofentse Motlhasedi",
-  "initials": "OM",
-  "role": "Evidence leader",
-  "status": "Commission official",
-  "status_reason": "Listed as an evidence leader in the commission's legal team as introduced to media on 31 July 2025 (corroborated by two Tier 2 outlets).",
-  "bio": "Motlhasedi is an advocate serving on the commission's evidence-leading team.",
-  "first_appearance": "2025/07/31",
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://www.ewn.co.za/2025/07/31/watch-the-madlanga-commission-meet-the-legal-and-investigative-team",
-    "tier": 2,
-    "publisher": "Eyewitness News",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://iol.co.za/news/politics/2025-07-31-meet-the-key-figures-in-the-inquiry-into-lt-gen-nhlanhla-mkhwanazis-explosive-claims/",
-    "tier": 2,
-    "publisher": "IOL",
-    "retrieved": "2026/08/22",
-    "partial": false
-   }
-  ],
-  "best_tier": 2,
-  "unverified": [
-   "Full biographical background"
-  ],
-  "photo_mode": "initials"
- },
- {
   "id": "officer-cummings",
   "name": "Officer Cummings",
   "initials": "OC",
@@ -7658,36 +6325,6 @@
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
- },
- {
-  "id": "paul-makhere-radebe",
-  "name": "Paul Makhere Radebe",
-  "initials": "PM",
-  "role": "Warrant Officer, SAPS Hawks (Serious Organised Crime Investigation Unit, Directorate for Priority Crime Investigation), Johannesburg; member of the verification team; a field/undercover officer",
-  "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 38.",
-  "bio": null,
-  "first_appearance": "2025/11/25",
-  "linked_days": [
-   38
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "photo_mode": "initials",
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/11/25",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
  },
  {
   "id": "paul-o-sullivan",
@@ -7785,41 +6422,6 @@
   "photo_mode": "initials"
  },
  {
-  "id": "rachel-matjeng",
-  "name": "Rachel Matjeng",
-  "initials": "RM",
-  "role": "Brigadier, former head of Quality Management: Criminal Record and Crime Scene Management, SAPS Forensic Services",
-  "status": "Criminally charged in a separate matter",
-  "status_reason": "She was arrested on 24 March 2026 alongside eleven other senior officers in the Medicare24-related criminal matter, separate from the commission.",
-  "bio": "Matjeng testified before the commission in February 2026. She acknowledged a personal relationship with Vusimuzi Matlala since 2017 but maintained that financial transfers she received from him were personal gifts rather than corrupt payments. A SAPS disciplinary process found her guilty of five charges and her dismissal took effect on 30 June 2026. She was named among those referred in the commission's first interim report.",
-  "first_appearance": "2026/02/01",
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://iol.co.za/news/south-africa/2026-07-01-how-rachel-matjengs-relationship-with-cat-matlalas-led-to-saps-fallout/",
-    "tier": 2,
-    "publisher": "IOL",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.news24.com/politics/senona-among-5-cops-to-face-charges-as-ramaphosa-acts-on-madlangas-interim-report-20260129-0578",
-    "tier": 2,
-    "publisher": "News24",
-    "retrieved": "2026/08/22",
-    "partial": false
-   }
-  ],
-  "best_tier": 2,
-  "unverified": [
-   "Exact date in February 2026 on which she testified — first_appearance_date is approximate to the month only"
-  ],
-  "photo_mode": "initials"
- },
- {
   "id": "revo-spies",
   "name": "Revo Spies",
   "initials": "RS",
@@ -7893,107 +6495,6 @@
   "photo_source": null,
   "photo_licence": null,
   "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
-  ],
-  "photo_mode": "initials"
- },
- {
-  "id": "richard-shibiri",
-  "name": "Richard Shibiri",
-  "initials": "RS",
-  "role": "Major-General; former head of the SAPS organised crime unit (dismissed June 2026)",
-  "status": "Implicated (untested)",
-  "status_reason": "He was referred for criminal investigation in the commission's first interim report and was dismissed on 5 June 2026 after an internal SAPS disciplinary process; no criminal charge against him has been confirmed and the underlying allegations remain untested in a court.",
-  "bio": "Shibiri headed the SAPS organised crime unit, covering transnational crime, narcotics, anti-gang, extortion, economic infrastructure and illegal mining. SAPS confirmed his dismissal on 5 June 2026 for conduct that brought the organisation into disrepute, including associating with a known criminal; the charges drew on evidence presented to the commission, including an allegation that he accepted an R80,000 loan from Vusimuzi Matlala.",
-  "first_appearance": null,
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://www.dailymaverick.co.za/article/2026-06-05-madlanga-commission-fallout-deepens-as-shibiri-dismissed-nine-officers-suspended/",
-    "tier": 3,
-    "publisher": "Daily Maverick",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.news24.com/politics/senona-among-5-cops-to-face-charges-as-ramaphosa-acts-on-madlangas-interim-report-20260129-0578",
-    "tier": 2,
-    "publisher": "News24",
-    "retrieved": "2026/08/22",
-    "partial": false
-   }
-  ],
-  "best_tier": 2,
-  "unverified": [
-   "Whether he is appealing the dismissal",
-   "Whether he has responded publicly to the allegations"
-  ],
-  "photo_mode": "initials"
- },
- {
-  "id": "sabelo-nkosi",
-  "name": "Sabelo Nkosi",
-  "initials": "SN",
-  "role": "Warrant Officer, DPCI TOMS (Tactical Operations Management Section), joined SAPS in 2000, in TOMS since 2020, reports to Brigadier Mokoena",
-  "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 24.",
-  "bio": null,
-  "first_appearance": "2025/11/03",
-  "linked_days": [
-   24
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "photo_mode": "initials",
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/11/03",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
- },
- {
-  "id": "samuel-mashaba",
-  "name": "Samuel Mashaba",
-  "initials": "SM",
-  "role": "Gauteng Provincial Traffic Chief; involved in the 9 July 2021 Aeroton drug bust and interception",
-  "status": "Testified",
-  "status_reason": "Gave sworn testimony over Days 117-118, describing his role at the Aeroton stop, denying any independent investigative authority as a peace officer, and being confronted with WhatsApp records (since 2019) showing sustained contact with Tumelo Nku including paid 'side hustle' recovery work for SAPS members and a message seeking to curry favour with Gauteng MEC Faith Mazibuko; declined to answer on the Mazibuko point.",
-  "bio": null,
-  "first_appearance": null,
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   },
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
     "tier": 1,
@@ -8226,108 +6727,44 @@
   "photo_mode": "initials"
  },
  {
-  "id": "sergeant-f-e-fannie-nkosi",
-  "name": "Sergeant F.E. (Fannie) Nkosi",
+  "id": "sergeant-fannie-nkosi",
+  "name": "Sergeant Fannie Nkosi",
   "initials": "SF",
-  "role": "Detective, National Organised Crime Unit, in Sibiya's office",
-  "status": "Implicated (untested)",
-  "status_reason": "Alleged to have ferried cash to Sibiya, tipped off Matlala ahead of the 6 December raid, and warned Molefe of the GCI Ops staging location (Days 19, 23, 25); distinct from Warrant Officer Sabelo Nkosi.",
-  "bio": null,
-  "first_appearance": null,
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
-  ],
-  "photo_mode": "initials"
- },
- {
-  "id": "sergeant-fannie-ezekiel-nkosi",
-  "name": "Sergeant Fannie Ezekiel Nkosi",
-  "initials": "SF",
-  "role": "SAPS sergeant, formerly attached to the Deputy National Commissioner for Crime Detection's office; previously anonymised in Commission proceedings as 'Witness F'; continuing cross-examination on his relationship with Mr Vusimuzi 'Cat' Matlala, Lt-Gen Shadrack Sibiya, Brigadier Ramangwa, General Fannie, Brigadier Glenda Bokaba, General Shibiri, Mr Zenzile 'Ze' Nxumalo and Mr Motsumi",
+  "role": "SAPS Sergeant; alleged intermediary between Lt-Gen Sibiya and Vusimuzi Matlala",
   "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 78.",
-  "bio": null,
-  "first_appearance": "2026/03/16",
+  "status_reason": "This batch states his earlier sworn testimony was read extensively into the record on Day 63; the Chair ordered he be referred to only as 'Witness F' that day, but by Day 65 the transcript uses his name and the pseudonym interchangeably. Alleged to have ferried cash to Sibiya, tipped off Matlala ahead of the 6 December raid, and warned Molefe of the GCI Ops staging location (Days 19, 23, 25); distinct from Warrant Officer Sabelo Nkosi. He has been in custody since 2 April 2026 on charges including defeating the ends of justice, possession of illegal ammunition and explosives, and theft — proceedings separate from the commission. (Also recorded elsewhere as: Criminally charged in a separate matter, Implicated (untested).)",
+  "bio": "Nkosi was named in both the commission's first and second interim reports as a person against whom disciplinary proceedings and criminal investigation were recommended. Commission evidence included CCTV footage said to show him leaving a residence carrying a white bag, with an allegation that he acted as an intermediary. The allegations against him have not been tested in court. Testified under the protected alias \"Witness F\" in earlier sittings.",
+  "first_appearance": null,
   "linked_days": [
+   80,
+   79,
    78
   ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
-    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/16",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
+    "url": "https://www.citizen.co.za/news/second-madlanga-recommendations-all-implicated-officials/",
+    "tier": 2,
+    "publisher": "The Citizen",
+    "retrieved": "2026/08/22",
     "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
- },
- {
-  "id": "sergeant-fannie-nkosi",
-  "name": "Sergeant Fannie Nkosi",
-  "initials": "SF",
-  "role": "SAPS sergeant, continuing testimony; described as a family friend of the late taxi figure Mr Msibi ('Baba') and his associates, an intermediary between General Mkhwanazi/General Sibiya and various taxi-industry figures, and connected to his brother's security company Ngaphesheya (which bid, alongside Elshadai Security Services, for a Tshwane Metro Police Department tender)",
-  "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 80.",
-  "bio": null,
-  "first_appearance": "2026/03/18",
-  "linked_days": [
-   80,
-   79
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "photo_mode": "initials",
-  "sources": [
+   },
    {
-    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/18",
+    "url": "https://www.thepresidency.gov.za/president-ramaphosa-notes-recommendations-and-referrals-second-interim-report-madlanga-commission",
     "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
+    "publisher": "The Presidency (South Africa)",
+    "retrieved": "2026/08/22",
     "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
- },
- {
-  "id": "sergeant-fannie-nkosi-witness-f",
-  "name": "Sergeant Fannie Nkosi (\"Witness F\")",
-  "initials": "SF",
-  "role": "SAPS Sergeant; alleged intermediary between Lt-Gen Sibiya and Vusimuzi Matlala",
-  "status": "Testified",
-  "status_reason": "This batch states his earlier sworn testimony was read extensively into the record on Day 63; the Chair ordered he be referred to only as 'Witness F' that day, but by Day 65 the transcript uses his name and the pseudonym interchangeably.",
-  "bio": null,
-  "first_appearance": null,
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
+   },
+   {
+    "url": "https://www.dailymaverick.co.za/article/2026-08-07-has-the-madlanga-commission-vindicated-mkhwanazi-the-case-against-shadrack-sibiya/",
+    "tier": 3,
+    "publisher": "Daily Maverick",
+    "retrieved": "2026/08/22",
+    "partial": false
+   },
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
     "tier": 1,
@@ -8338,6 +6775,8 @@
   ],
   "best_tier": 1,
   "unverified": [
+   "Whether he appeared before the commission",
+   "Any plea entered",
    "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
@@ -8406,56 +6845,6 @@
   "best_tier": 1,
   "unverified": [
    "Full biographical background"
-  ],
-  "photo_mode": "initials"
- },
- {
-  "id": "shadrack-sibiya",
-  "name": "Shadrack Sibiya",
-  "initials": "SS",
-  "role": "Deputy National Commissioner for Crime Detection, SAPS (suspended)",
-  "status": "Testified",
-  "status_reason": "He gave evidence over several days in February 2026, beginning 18 February 2026, denying the allegations against him; the commission's second interim report subsequently recommended disciplinary proceedings and a criminal investigation.",
-  "bio": "Sibiya is a Lieutenant General who previously headed the Hawks in Gauteng and was SAPS deputy national commissioner for crime detection before his 2025 suspension. The commission heard evidence that he removed 121 Political Killings Task Team dockets in 2025; he says he acted lawfully within an approved restructuring and that he is being politically targeted. In May 2026 the commission confirmed he had been removed from its witness list.",
-  "first_appearance": "2026/02/18",
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://mg.co.za/news/south-africa/2026-02-18-sibiya-rejects-misconduct-charges-alleges-campaign-to-remove-him-from-the-saps/",
-    "tier": 3,
-    "publisher": "Mail & Guardian",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.dailymaverick.co.za/article/2026-08-07-has-the-madlanga-commission-vindicated-mkhwanazi-the-case-against-shadrack-sibiya/",
-    "tier": 3,
-    "publisher": "Daily Maverick",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.thepresidency.gov.za/president-ramaphosa-notes-recommendations-and-referrals-second-interim-report-madlanga-commission",
-    "tier": 1,
-    "publisher": "The Presidency (South Africa)",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://iol.co.za/news/politics/2026-05-12-madlanga-commission-confirms-shadrack-sibiya-is-off-witness-list/",
-    "tier": 2,
-    "publisher": "IOL",
-    "retrieved": "2026/08/22",
-    "partial": true
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "Whether any criminal charge has actually been laid against him",
-   "Outcome of his SAPS disciplinary process"
   ],
   "photo_mode": "initials"
  },
@@ -8580,37 +6969,6 @@
   "photo_mode": "initials"
  },
  {
-  "id": "suleiman-carrim",
-  "name": "Suleiman Carrim",
-  "initials": "SC",
-  "role": "Businessman; director/shareholder of Fusion Technical Team and associated with Ziggy and Tameez Investments; financier who advanced R10 million to Vusi Matlala's Medicare 24 Tshwane District SAPS medical-services contract",
-  "status": "Testified",
-  "status_reason": "Gave evidence before the commission on day 73.",
-  "bio": null,
-  "first_appearance": "2026/03/09",
-  "linked_days": [
-   73,
-   72
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "photo_mode": "initials",
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2026/03/09",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "No standalone biographical profile assembled yet."
-  ]
- },
- {
   "id": "suleiman-kareem",
   "name": "Suleiman Kareem",
   "initials": "SK",
@@ -8642,50 +7000,6 @@
   "best_tier": 1,
   "unverified": [
    "Profile assembled from transcript extraction only; no biography written yet."
-  ],
-  "photo_mode": "initials"
- },
- {
-  "id": "suliman-carrim",
-  "name": "Suliman Carrim",
-  "initials": "SC",
-  "role": "North West businessman; investor in Medicare24",
-  "status": "Testified",
-  "status_reason": "He gave evidence to the commission on 9 March 2026, day 73 of the inquiry, after failing in a February 2026 court bid to avoid testifying.",
-  "bio": "Carrim is a North West businessman who told the commission he invested R10 million in Medicare24 and received R1.74 million in return. He denied any relationship with Senzo Mchunu. His application to testify in camera was refused by Justice Madlanga, and evidence leaders described themselves as puzzled by aspects of his account.",
-  "first_appearance": "2026/03/09",
-  "linked_days": [
-   159
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://www.sowetan.co.za/news/2026-03-09-what-you-need-to-know-about-suleiman-carrims-testimony-at-madlanga-inquiry/",
-    "tier": 2,
-    "publisher": "Sowetan",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.dailymaverick.co.za/article/2026-02-05-businessman-suliman-carrim-fails-in-courourt-bid-to-avoid-testifying-at-madlanga/",
-    "tier": 3,
-    "publisher": "Daily Maverick",
-    "retrieved": "2026/08/22",
-    "partial": true
-   },
-   {
-    "url": "https://www.ewn.co.za/2026/03/11/madlanga-commission-evidence-leaders-left-puzzled-after-carrim-testimony",
-    "tier": 2,
-    "publisher": "Eyewitness News",
-    "retrieved": "2026/08/22",
-    "partial": true
-   }
-  ],
-  "best_tier": 2,
-  "unverified": [
-   "The spelling of his first name — sources use both 'Suliman' and 'Suleiman'"
   ],
   "photo_mode": "initials"
  },
@@ -8774,78 +7088,6 @@
   "best_tier": 1,
   "unverified": [
    "Profile assembled from transcript extraction only; no biography written yet."
-  ],
-  "photo_mode": "initials"
- },
- {
-  "id": "terry-motau",
-  "name": "Terry Motau SC",
-  "initials": "TM",
-  "role": "Chief evidence leader (July–September 2025)",
-  "status": "Commission official",
-  "status_reason": "Named the commission's original chief evidence leader in July 2025 and stepped down on 30 September / 1 October 2025, departing 'on good terms' per commission spokesperson Jeremy Michaels.",
-  "bio": "Motau is a senior counsel who led the commission's evidence team from its establishment until late September 2025. The commission publicly thanked him for his service; he told media that 'things didn't go according to plan'.",
-  "first_appearance": "2025/07/31",
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://www.sanews.gov.za/south-africa/madlanga-commission-appoints-adv-chaskalson-sc-chief-evidence-leader",
-    "tier": 1,
-    "publisher": "SAnews (SA Government News Agency)",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://www.ewn.co.za/2025/09/30/motau-steps-down-as-madlanga-commissions-chief-evidence-leader",
-    "tier": 2,
-    "publisher": "Eyewitness News",
-    "retrieved": "2026/08/22",
-    "partial": true
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "The precise reason for his departure"
-  ],
-  "photo_mode": "initials"
- },
- {
-  "id": "thabang-pooe",
-  "name": "Thabang Pooe",
-  "initials": "TP",
-  "role": "Evidence leader",
-  "status": "Commission official",
-  "status_reason": "Listed as an evidence leader in the commission's legal team as introduced to media on 31 July 2025 (corroborated by two Tier 2 outlets).",
-  "bio": "Pooe is an advocate serving on the commission's evidence-leading team.",
-  "first_appearance": "2025/07/31",
-  "linked_days": [
-   12
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
-   {
-    "url": "https://www.ewn.co.za/2025/07/31/watch-the-madlanga-commission-meet-the-legal-and-investigative-team",
-    "tier": 2,
-    "publisher": "Eyewitness News",
-    "retrieved": "2026/08/22",
-    "partial": false
-   },
-   {
-    "url": "https://iol.co.za/news/politics/2025-07-31-meet-the-key-figures-in-the-inquiry-into-lt-gen-nhlanhla-mkhwanazis-explosive-claims/",
-    "tier": 2,
-    "publisher": "IOL",
-    "retrieved": "2026/08/22",
-    "partial": false
-   }
-  ],
-  "best_tier": 2,
-  "unverified": [
-   "Full biographical background"
   ],
   "photo_mode": "initials"
  },
@@ -9368,7 +7610,9 @@
   "status_reason": "Sworn testimony on Day 107 in which he repeatedly conceded that his own prior statement -- describing the scene as under control and handling as compliant with National Instructions -- was untrue, and admitted falsely testifying that he could smell cocaine and giving contradictory accounts of whether he touched the sealed drug bags.",
   "bio": null,
   "first_appearance": null,
-  "linked_days": [],
+  "linked_days": [
+   107
+  ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
@@ -9424,7 +7668,9 @@
   "status_reason": "Sworn testimony over Days 110-111: his polygraph 'deception indicated' result was shown to have been invalidated after the examiner was barred for serious errors; testified the identities of those who stole the cocaine consignment are known to him with links to DPCI/Hawks management, though he could not point to direct evidence against a specific manager, and said his complaint about the loss was never acknowledged or investigated.",
   "bio": null,
   "first_appearance": null,
-  "linked_days": [],
+  "linked_days": [
+   110
+  ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
@@ -9510,7 +7756,9 @@
   "status_reason": "Sworn testimony on Day 106 admitting the crime scene was mismanaged ('a stuff-up'), that he followed the container without a search warrant, handled the drug bags bare-handed with no prior photographs, and was arrested and detained for roughly two weeks before being departmentally charged and found not guilty in February 2022; a 2024/2025 NPA letter raises possible re-enrolment of the related criminal case.",
   "bio": null,
   "first_appearance": null,
-  "linked_days": [],
+  "linked_days": [
+   106
+  ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
@@ -9538,7 +7786,9 @@
   "status_reason": "Testified virtually with face concealed on Day 38 about the Sandhurst scene and people he recognised there.",
   "bio": null,
   "first_appearance": null,
-  "linked_days": [],
+  "linked_days": [
+   38
+  ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
@@ -9566,7 +7816,9 @@
   "status_reason": "Testified Day 24 that he was diverted from a North West operation to the Molefe scene and confirmed the operation's legitimacy early via a plate check; distinct from Sergeant F.E. Nkosi.",
   "bio": null,
   "first_appearance": null,
-  "linked_days": [],
+  "linked_days": [
+   24
+  ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
@@ -10128,36 +8380,6 @@
     "retrieved": "2026/08/23",
     "partial": false
    },
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
-  ],
-  "photo_mode": "initials"
- },
- {
-  "id": "xolani-nciza",
-  "name": "Xolani Nciza",
-  "initials": "XN",
-  "role": "EMPD-linked figure alleging Mashazi ordered a halt to discipline",
-  "status": "Implicated (untested)",
-  "status_reason": "Alleged, with Mapiyeye, that Mashazi called on 23 May 2023 to order a halt to Julius Mkhwanazi's discipline; Mashazi denies this and an evidence leader said Nciza would file a supplementary statement.",
-  "bio": null,
-  "first_appearance": null,
-  "linked_days": [
-   32
-  ],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
     "tier": 1,
