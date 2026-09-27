@@ -62,6 +62,68 @@ correctly skipped re-adding them rather than overwriting good data, which is why
 merge reported only "+4 added" for days. Always trust that dedup over assuming something is
 missing just because a re-run's batch summary doesn't add every day you expected.
 
+## Forward-looking batch — Days 167-178 (added 2026/09/27)
+Processed the commission's next 12 sitting days (167-178) via the standard pipeline. Quote
+verification: 63 kept / 14 dropped, 81.8% pass rate — in line with historical batches. Counts:
+154 → 166 days, 259 → 275 people (net of one merge), 106 → 104 orgs (net of one merge), 209 → 211
+edges.
+
+Key content: General Godfrey Lebeya finally testified in person (Days 168, 171-172), moving his
+own status from "Implicated (untested)" to "Testified"; Lt Col Deena Govender continued his
+Mchunu/Ntandani pressure-campaign testimony (Day 170); a JMPD-linked case network came out via
+Superintendent De Beer and Sgt Van Wyk (Day 173, naming Manyama, Mphahlele, Pakwani, Rikhotso,
+Matimu, Mokgatle, Mgujulwa, and an unidentified officer known only as "Mosquito"); DCS witness
+Thobakgale and PSC witness/analyst Fikeni testified (Days 174/176); Sibanyoni's further
+cross-examination was postponed (Day 177) after a scheduling conflict.
+
+**Sandbox-reset lesson**: the sandbox holding `/home/claude/days_raw.json` and
+`/home/claude/people_raw.json` (the gitignored raw research payloads `build_data.py` reads) had
+been reclaimed between sessions, destroying both files — they are session-local working state,
+never delivered to the user's Mac and not in git. Reconstructed both losslessly from the
+last-built `data/*.json` (`reconstruct_raw.py`, verified via a zero-diff round-trip against a
+pre-reconstruction snapshot) before this batch could proceed. **Worth considering for a future
+session**: back these up somewhere durable (e.g. deliver a copy to the Mac periodically, or
+commit a redacted/structural copy) so a sandbox reset doesn't force a reconstruction detour again.
+
+**Data-quality fixes made while processing this batch** (found via the now-routine
+duplicate-detection check run before merging any batch — worth keeping as standard practice):
+- Merged a pre-existing duplicate person record, `general-lebeya` into `general-godfrey-lebeya`
+  (same person; missed by the 2026/09/13 dedup pass, which only ran on more clearly-matching name
+  variants).
+- Merged a pre-existing duplicate org record, `johannesburg-metro-police-department-jmpd` into
+  `johannesburg-metropolitan-police-department-jmpd` (same organisation; the 2026/09/13 dedup
+  pass only covered `people`, never `orgs` — this is the first org-level dedup fix on record. A
+  future session should consider running a proper org-dedup pass, similar to `dedup_people.py`,
+  rather than relying on catching these one at a time).
+- Normalized two witness-name variants *within this batch itself* before merging, so they
+  slug-matched existing/sibling records instead of spawning new duplicates: Lt Col Govender's
+  name (Day 170, "Colonel (Lt-Col/Lt-Gen) Govender" → the canonical full name already used by his
+  existing record) and Sibanyoni's name (Day 177 used reversed word order vs Day 169 within the
+  same batch).
+- Trimmed over-inclusive `witnesses[]` arrays on Days 171 and 173, which had listed named-but-
+  non-testifying implicated individuals alongside the day's actual witness — left as-is, these
+  would have been auto-stubbed as "Testified" by `build_data.py`'s witness-to-person mechanism.
+  The non-testifying individuals were instead added as ordinary `people` entries with their
+  correctly-extracted status (Implicated untested / not yet responded / criminally charged, as
+  appropriate).
+
+**Flagged but explicitly NOT merged**: `deena-govender` vs
+`lieutenant-colonel-deenadayalan-deena-govender` remain two separate person records. Both
+describe testimony/allegations involving a "Govender" in KZN policing, but reference different
+specific named victims — merging without re-reading the source transcripts risks misattributing
+one real person's alleged conduct to another. Left for a future session with time to verify
+against the transcripts directly.
+
+Replaced reliance on `tools/merge_backfill.py` for this batch with a purpose-built script
+(`/home/claude/custom_merge_167_178.py`) — `merge_backfill.py`'s expected raw-payload schema
+(`venue`, `evidence_leaders`, `sworn`, `protected_identity`, etc.) does not match what
+`build_data.py` actually reads back out of `days_raw.json`, and it hardcodes every witness's
+`status_hint` to `"testified"` regardless of their actual role in that day's proceedings — which
+would have mis-classified several implicated-but-not-testifying people as literal witnesses if
+used as-is on this batch. `merge_backfill.py` itself was left unmodified; a future session doing
+another batch should check whether it's worth fixing properly rather than writing another
+one-off script.
+
 ## Improvement pass — 2026/09/13
 On top of the completed backfill: deduped 38 person name-variant groups (see `dedup_people.py` in
 `/home/claude`, edits the raw payloads not the build output — 324 → 259 built people); replaced the

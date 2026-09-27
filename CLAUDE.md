@@ -163,8 +163,30 @@ As of 2026/09/13, a further improvement pass shipped on top of the completed bac
   history, not this sandbox's commit graph — the sandbox's local git log is not authoritative for
   "what's been pushed"; check the Mac's actual file content and refs instead).
 
+As of 2026/09/27: **Days 167-178 added** (154 → 166 days, 259 → 275 people, 106 → 104 orgs, 209 →
+211 edges; quote pass rate 81.8%, consistent with historical batches). Full detail in
+`tools/BACKLOG.md`'s "Forward-looking batch — Days 167-178" entry. Two things worth knowing before
+starting the next batch:
+- **The sandbox that holds `/home/claude/days_raw.json` / `/home/claude/people_raw.json` can be
+  reclaimed between sessions** (it happened this round) — these are gitignored working-state
+  files, never delivered to the Mac and not in git, so a reset destroys them. If a fresh session
+  finds them missing, don't panic or start re-researching from scratch: `data/*.json` (in git,
+  always current) has everything needed to reconstruct them losslessly — see
+  `/home/claude/reconstruct_raw.py` from this session for the approach (verify via a zero-diff
+  round-trip before trusting it). Consider whether these files are worth backing up more durably
+  so this reconstruction step doesn't have to be repeated every time.
+- **A pre-existing org-level duplicate was found and fixed this round** (two JMPD org records) —
+  the 2026/09/13 dedup pass (`dedup_people.py`) only covered `people`, never `orgs`. If another
+  org duplicate turns up, consider writing an equivalent `dedup_orgs.py` rather than fixing them
+  one at a time forever.
+- **`tools/merge_backfill.py`'s schema no longer matches what `build_data.py` actually reads** —
+  this round used a purpose-built one-off script instead
+  (`/home/claude/custom_merge_167_178.py`, not committed — it lives alongside the raw payloads it
+  edited). A future session should decide whether to fix `merge_backfill.py` properly or keep
+  writing one-off merge scripts per batch.
+
 **From here, work is forward-looking only**: watch for the commission sitting on new days beyond
-166 and process each one via the same pipeline as its transcript becomes available. A mid-batch
+178 and process each one via the same pipeline as its transcript becomes available. A mid-batch
 rate limit during Days 132-140 showed that "terminated early" agent errors can be misleading — 5
 of 9 agent calls had actually written valid output despite all 9 reporting failure; always check
 `/home/claude/day_json/` for what really landed before re-firing supposedly-failed agents. Also

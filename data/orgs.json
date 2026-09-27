@@ -597,6 +597,22 @@
   "best_tier": 1
  },
  {
+  "id": "gitoc-global-initiative-against-transnational-organized-crime",
+  "name": "GITOC (Global Initiative Against Transnational Organized Crime)",
+  "type": "Research/advocacy organisation",
+  "description": "Global research body on organised crime; its researcher Dr Mark Shaw testified before the Commission (Day 172).",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/day-178",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/09/27",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
   "id": "gauteng-counter-intelligence-operations-gci-ops",
   "name": "Gauteng Counter Intelligence Operations (GCI Ops)",
   "type": "SAPS operation",
@@ -828,10 +844,10 @@
   "best_tier": 2
  },
  {
-  "id": "johannesburg-metro-police-department-jmpd",
-  "name": "Johannesburg Metro Police Department (JMPD)",
-  "type": "Municipal police department",
-  "description": "Metro police department whose officer Johannes Magatle deposed to an affidavit describing alleged vehicle-registration favours for Katiso Molefe and Michael Pule Tau.",
+  "id": "johannesburg-metropolitan-police-department-jmpd",
+  "name": "Johannesburg Metropolitan Police Department (JMPD)",
+  "type": "municipal police service",
+  "description": "Municipal police service. Its officer Johannes Magatle deposed to an affidavit describing alleged vehicle-registration favours for Katiso Molefe and Michael Pule Tau; a separate JMPD officer, John Mokgatle, is alleged to have been found off-duty at, and to have tipped off Molefe about, the 6 December 2024 arrest scene. Day 173 testimony (Superintendent De Beer, Sergeant Van Wyk) further named JMPD-linked personnel Manyama, Mphahlele, Pakwani, Rikhotso, Matimu, Mgujulwa and an unidentified officer known only as 'Mosquito'.",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
@@ -839,16 +855,7 @@
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
     "partial": false
-   }
-  ],
-  "best_tier": 1
- },
- {
-  "id": "johannesburg-metropolitan-police-department-jmpd",
-  "name": "Johannesburg Metropolitan Police Department (JMPD)",
-  "type": "municipal police service",
-  "description": "Employer of the officer (John Mokgatle) allegedly found off-duty at, and tipping off Molefe about, the 6 December 2024 arrest scene.",
-  "sources": [
+   },
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
     "tier": 1,
@@ -1031,22 +1038,6 @@
   "name": "Medicare 24 Tshwane District (Pty) Ltd",
   "type": "Private company",
   "description": "Company associated with Vusimuzi Matlala which held a SAPS health-risk-management contract, referred to in evidence as worth some R360 million, cancelled on 13 May 2025 following an audit.",
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1
- },
- {
-  "id": "medicare24",
-  "name": "Medicare24",
-  "type": "private company (Matlala's)",
-  "description": "Company awarded the disputed SAPS health-risk-management tender central to the matlala-saps-contract workstream.",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
@@ -1370,22 +1361,6 @@
   "name": "Richards Bay Minerals (RBM)",
   "type": "Private company",
   "description": "KwaZulu-Natal operation to which KZN detectives were deployed in 2021-2022, a deployment later folded into the Gauteng Counter Intelligence Operation and the subject of friction over control.",
-  "sources": [
-   {
-    "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
-    "tier": 1,
-    "publisher": "Judicial Commission of Inquiry — official transcript",
-    "retrieved": "2026/08/23",
-    "partial": false
-   }
-  ],
-  "best_tier": 1
- },
- {
-  "id": "saps-crime-intelligence",
-  "name": "SAPS Crime Intelligence",
-  "type": "government/law enforcement",
-  "description": "Division headed by Lt-Gen Dumisani Khumalo; ran the Gauteng Counterintelligence Operation (GCI Ops).",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",

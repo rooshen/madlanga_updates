@@ -1051,7 +1051,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-060",
+  "id": "edge-059",
   "from": "lt-gen-shadrack-sibiya",
   "to": "political-killings-task-team",
   "type": "issued a disbandment letter under his own name after the National Commissioner refused to sign it",
@@ -1069,7 +1069,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-062",
+  "id": "edge-060",
   "from": "lt-gen-shadrack-sibiya",
   "to": "senzo-mchunu",
   "type": "claims in his 4 February 2025 letter to have been acting on the instruction of the Minister of Police",
@@ -1087,7 +1087,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-067",
+  "id": "edge-061",
   "from": "lt-gen-fannie-masemola",
   "to": "lt-gen-shadrack-sibiya",
   "type": "suspended pending a SAPS disciplinary hearing after an internal investigation by Lt-Gen Patekile found a prima facie case of misconduct",
@@ -1105,7 +1105,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-068",
+  "id": "edge-062",
   "from": "senzo-mchunu",
   "to": "brown-mogotsi",
   "type": "denied knowing him, at the Portfolio Committee and again to the National Commissioner and two Deputy Ministers",
@@ -1123,7 +1123,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-069",
+  "id": "edge-063",
   "from": "brown-mogotsi",
   "to": "vusimuzi-matlala",
   "type": "forwarded classified SAPS, Crime Intelligence and PERSAL material, including the disbandment letter before its official SAPS circulation",
@@ -1141,7 +1141,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-072",
+  "id": "edge-064",
   "from": "vusimuzi-matlala",
   "to": "tameez-investments-pty-ltd",
   "type": "made payments of R1,500,000 and R1,000,000",
@@ -1159,7 +1159,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-074",
+  "id": "edge-065",
   "from": "medicare-24-tshwane-district-pty-ltd",
   "to": "saps",
   "type": "held a health-risk-management contract, referred to as worth some R360 million, cancelled following an audit revealing fronting and fraud",
@@ -1177,7 +1177,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-075",
+  "id": "edge-066",
   "from": "maj-gen-lesetja-senona",
   "to": "vusimuzi-matlala",
   "type": "alleged to have shared confidential SAPS information, including invoice records and the disbandment letter",
@@ -1195,7 +1195,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-076",
+  "id": "edge-067",
   "from": "vusimuzi-matlala",
   "to": "thato-senona",
   "type": "alleged to have facilitated a property purchase",
@@ -1213,7 +1213,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-077",
+  "id": "edge-068",
   "from": "vusimuzi-matlala",
   "to": "suleiman-kareem",
   "type": "alleged reliance on for assistance with invoice submissions and payments, and for access to the Minister",
@@ -1231,7 +1231,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-078",
+  "id": "edge-069",
   "from": "vusimuzi-matlala",
   "to": "brigadier-julius-mkhwanazi",
   "type": "alleged request for assistance concerning the arrest of an associate",
@@ -1249,7 +1249,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-080",
+  "id": "edge-070",
   "from": "vusimuzi-matlala",
   "to": "calvin-rafadi",
   "type": "alleged repeated payments and favours in exchange for favourable public commentary on the PKTT disbandment",
@@ -1267,7 +1267,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-084",
+  "id": "edge-071",
   "from": "michael-pule-tau",
   "to": "katiso-molefe",
   "type": "cellphone contact before and after the murder, per call records and phone downloads",
@@ -1285,7 +1285,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-087",
+  "id": "edge-072",
   "from": "vusi-ndlala",
   "to": "lt-gen-richard-shibiri",
   "type": "social association; hosted two gatherings at which Shibiri was present",
@@ -1303,7 +1303,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-092",
+  "id": "edge-073",
   "from": "mr-nkabinde",
   "to": "idac",
   "type": "referred six case dockets under section 27 of the NPA Act, before the Inspectorate's requested extension had lapsed",
@@ -1321,7 +1321,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-094",
+  "id": "edge-074",
   "from": "fadiel-adams",
   "to": "saps-crime-intelligence",
   "type": "lodged near-identical complaints in Cape Town and in Orlando, Johannesburg two days apart",
@@ -1339,7 +1339,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-096",
+  "id": "edge-075",
   "from": "city-of-johannesburg",
   "to": "lt-gen-shadrack-sibiya",
   "type": "letter to the Minister of Police flagging alleged fraud and irregular expenditure before his SAPS appointment",
@@ -1357,7 +1357,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-097",
+  "id": "edge-076",
   "from": "senzo-mchunu",
   "to": "maj-gen-anthony-gopaul",
   "type": "alleged direct pressure regarding the handling of an iLembe councillor murder docket",
@@ -1375,7 +1375,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-099",
+  "id": "edge-077",
   "from": "lt-gen-nhlanhla-mkhwanazi",
   "to": "major-general-feroz-khan",
   "type": "chaired the departmental hearing that cleared Khan of wrongdoing",
@@ -1393,7 +1393,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-109",
+  "id": "edge-078",
   "from": "witness-b",
   "to": "saps",
   "type": "employed as investigating officer",
@@ -1411,7 +1411,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-110",
+  "id": "edge-079",
   "from": "brigadier-abraham-nkhwashu",
   "to": "witness-b",
   "type": "alleged source of threatening/enticing calls",
@@ -1429,7 +1429,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-111",
+  "id": "edge-080",
   "from": "brigadier-abraham-nkhwashu",
   "to": "katiso-molefe",
   "type": "prison visit under false pretences (claimed brother-in-law)",
@@ -1447,7 +1447,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-112",
+  "id": "edge-081",
   "from": "maj-gen-abednego-shibiri",
   "to": "witness-b",
   "type": "alleged reference to prepared bribe 'envelopes'",
@@ -1465,7 +1465,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-113",
+  "id": "edge-082",
   "from": "vusimuzi-matlala",
   "to": "lt-gen-shadrack-sibiya",
   "type": "alleged cash payments (~R500k-R1m/month, plus other sums)",
@@ -1483,7 +1483,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-114",
+  "id": "edge-083",
   "from": "vusimuzi-matlala",
   "to": "major-general-feroz-khan",
   "type": "alleged R500,000 payment of an R2.5m demand",
@@ -1501,7 +1501,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-115",
+  "id": "edge-084",
   "from": "vusimuzi-matlala",
   "to": "maj-gen-abednego-shibiri",
   "type": "alleged R80,000 payment",
@@ -1519,7 +1519,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-116",
+  "id": "edge-085",
   "from": "vusimuzi-matlala",
   "to": "minister-senzo-mchunu",
   "type": "alleged funding of ANC January 8 event (~R500,000)",
@@ -1537,7 +1537,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-121",
+  "id": "edge-086",
   "from": "jmpd-officer-john-mokgatle",
   "to": "katiso-molefe",
   "type": "alleged tip-off / plate-running",
@@ -1555,7 +1555,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-122",
+  "id": "edge-087",
   "from": "boy-mthethwa",
   "to": "lt-gen-dumisani-patrick-mbotho",
   "type": "alleged claim of having 'called Patrick' to arrange scene access",
@@ -1573,7 +1573,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-123",
+  "id": "edge-088",
   "from": "general-godfrey-lebeya",
   "to": "lt-gen-dumisani-patrick-mbotho",
   "type": "relayed 'bogus Hawks' claim and forwarded the address via WhatsApp",
@@ -1591,7 +1591,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-125",
+  "id": "edge-089",
   "from": "lt-gen-dumisani-khumalo",
   "to": "lt-gen-shadrack-sibiya",
   "type": "testified to alleged cash-courier/tender-benefit links via Sgt Nkosi",
@@ -1609,7 +1609,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-128",
+  "id": "edge-090",
   "from": "lt-gen-shadrack-sibiya",
   "to": "political-killings-task-team",
   "type": "directed implementation of disbandment",
@@ -1627,7 +1627,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-129",
+  "id": "edge-091",
   "from": "brigadier-julius-mkhwanazi",
   "to": "cat-vip-protection-services",
   "type": "signed MOU granting policing-like functions",
@@ -1645,7 +1645,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-130",
+  "id": "edge-092",
   "from": "brigadier-julius-mkhwanazi",
   "to": "medicare-24-anubis-protection-services",
   "type": "signed MOU granting policing-like functions",
@@ -1663,7 +1663,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-132",
+  "id": "edge-093",
   "from": "scharnick-skarnik-stuart-james",
   "to": "lt-gen-shadrack-sibiya",
   "type": "close protector; vehicle seen travelling in convoy with Sibiya's office BMW",
@@ -1681,7 +1681,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-134",
+  "id": "edge-094",
   "from": "riah-phiyega",
   "to": "vusimuzi-matlala",
   "type": "denied meeting",
@@ -1699,7 +1699,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-135",
+  "id": "edge-095",
   "from": "witness-c",
   "to": "vusimuzi-matlala",
   "type": "recorded informal post-arrest conversation",
@@ -1717,7 +1717,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-136",
+  "id": "edge-096",
   "from": "frans-mashele",
   "to": "katiso-molefe",
   "type": "alleged sharing of docket copies before formal disclosure",
@@ -1735,7 +1735,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-137",
+  "id": "edge-097",
   "from": "oupa-brown-mogotsi",
   "to": "lt-gen-nhlanhla-mkhwanazi",
   "type": "accused of CIA recruitment",
@@ -1753,7 +1753,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-140",
+  "id": "edge-098",
   "from": "vusimuzi-matlala",
   "to": "bheki-cele",
   "type": "alleged cash payment (R2m of R10m demanded)",
@@ -1771,7 +1771,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-141",
+  "id": "edge-099",
   "from": "lt-gen-shadrack-sibiya",
   "to": "oupa-brown-mogotsi",
   "type": "authorised infiltration operations against Matlala tender syndicate and Crime Intelligence",
@@ -1789,7 +1789,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-143",
+  "id": "edge-100",
   "from": "oupa-brown-mogotsi",
   "to": "lt-gen-nhlanhla-mkhwanazi",
   "type": "alleged plot against Maj-Gen Khan via 252A operation",
@@ -1807,7 +1807,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-144",
+  "id": "edge-101",
   "from": "oupa-brown-mogotsi",
   "to": "minister-senzo-mchunu",
   "type": "sent Signal/WhatsApp messages urging action against Khumalo",
@@ -1825,7 +1825,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-152",
+  "id": "edge-102",
   "from": "brigadier-julius-mkhwanazi",
   "to": "cat-vip-protection-anubis-protection-services",
   "type": "signed MOUs granting blue-light and City vehicle registration use",
@@ -1843,7 +1843,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-153",
+  "id": "edge-103",
   "from": "suleiman-kareem",
   "to": "vusimuzi-matlala",
   "type": "investor in Medicare24 SAPS contract",
@@ -1861,7 +1861,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-154",
+  "id": "edge-104",
   "from": "mr-xolani-prince-nciza",
   "to": "dr-imogen-mashazi",
   "type": "alleged she called to order a halt to Julius Mkhwanazi's discipline",
@@ -1879,7 +1879,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-155",
+  "id": "edge-105",
   "from": "dr-imogen-mashazi",
   "to": "mr-xolani-prince-nciza",
   "type": "denied ordering a halt to Julius Mkhwanazi's discipline",
@@ -1897,7 +1897,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-158",
+  "id": "edge-106",
   "from": "oupa-brown-mogotsi",
   "to": "nathi-mthethwa",
   "type": "claimed as Nairobi-trip contact and intended Commission witness",
@@ -1915,7 +1915,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-159",
+  "id": "edge-107",
   "from": "adv-chaskalson-sc",
   "to": "oupa-brown-mogotsi",
   "type": "disputed on the record that Mthethwa ever contacted the Commission",
@@ -1933,7 +1933,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-160",
+  "id": "edge-108",
   "from": "advocate-kemi-behari",
   "to": "brigadier-julius-mkhwanazi",
   "type": "advised against pursuing IPID's charge recommendation",
@@ -1951,7 +1951,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-161",
+  "id": "edge-109",
   "from": "julius-doctor-mkhwanazi",
   "to": "cat-vip-protection-services",
   "type": "facilitated deployment/registration of",
@@ -1969,7 +1969,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-162",
+  "id": "edge-110",
   "from": "julius-doctor-mkhwanazi",
   "to": "deputy-chief-of-police-revo-spies",
   "type": "accused of forgery and lying to the Commission",
@@ -1987,7 +1987,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-163",
+  "id": "edge-111",
   "from": "vusimuzi-cat-matlala",
   "to": "julius-doctor-mkhwanazi",
   "type": "made payments to (~R70,000 in deposits, incl. R20,000 admitted)",
@@ -2005,7 +2005,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-164",
+  "id": "edge-112",
   "from": "witness-d",
   "to": "julius-doctor-mkhwanazi",
   "type": "alleged directed a body be dumped after the Brakpan operation",
@@ -2023,7 +2023,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-165",
+  "id": "edge-113",
   "from": "senzo-mchunu",
   "to": "national-political-killings-task-team-pktt-npktt",
   "type": "directed disbandment/reduction of",
@@ -2041,7 +2041,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-167",
+  "id": "edge-114",
   "from": "lt-gen-gen-mkhwanazi-kwazulu-natal-provincial-commissioner",
   "to": "senzo-mchunu",
   "type": "made affidavit allegations of underworld links against",
@@ -2059,7 +2059,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-168",
+  "id": "edge-115",
   "from": "senzo-mchunu",
   "to": "brown-mogotsi",
   "type": "denied any link to",
@@ -2077,7 +2077,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-169",
+  "id": "edge-116",
   "from": "senzo-mchunu",
   "to": "vusimuzi-cat-matlala",
   "type": "denied ever meeting or communicating with",
@@ -2095,7 +2095,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-170",
+  "id": "edge-117",
   "from": "bheki-cele",
   "to": "senzo-mchunu",
   "type": "attributed claim that Matlala met with (via Ngcukaitobi's cross-examination)",
@@ -2113,7 +2113,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-171",
+  "id": "edge-118",
   "from": "senzo-mchunu",
   "to": "witness-e",
   "type": "allegedly pressured to sign a false statement implicating Lt-Gen Khumalo",
@@ -2131,7 +2131,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-172",
+  "id": "edge-119",
   "from": "senzo-mchunu",
   "to": "maj-gen-anthony-gopaul",
   "type": "repeatedly contacted seeking case updates / campaign-related station visit",
@@ -2149,7 +2149,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-173",
+  "id": "edge-120",
   "from": "lt-gen-gen-mkhwanazi-kwazulu-natal-provincial-commissioner",
   "to": "vusimuzi-cat-matlala",
   "type": "allegedly offered to help secure SAPS purchase orders for",
@@ -2167,7 +2167,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-174",
+  "id": "edge-121",
   "from": "lt-gen-gen-mkhwanazi-kwazulu-natal-provincial-commissioner",
   "to": "lt-gen-shadrack-sibiya",
   "type": "allegedly sought incriminating information about, in exchange for favours to Matlala",
@@ -2185,7 +2185,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-175",
+  "id": "edge-122",
   "from": "lt-gen-gen-mkhwanazi-kwazulu-natal-provincial-commissioner",
   "to": "lt-gen-nkhuoa",
   "type": "allegedly directed to help obtain purchase orders for Matlala",
@@ -2203,7 +2203,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-176",
+  "id": "edge-123",
   "from": "bheki-cele",
   "to": "umhlanga-apartment-meeting-matlala-senona-lt-gen-mkhwanazi",
   "type": "arranged",
@@ -2221,7 +2221,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-177",
+  "id": "edge-124",
   "from": "maj-gen-lesetja-senona",
   "to": "vusimuzi-cat-matlala",
   "type": "self-described family friend / forwarded leaked PKTT letter and confidential documents to",
@@ -2239,7 +2239,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-178",
+  "id": "edge-125",
   "from": "thato-senona",
   "to": "vusimuzi-cat-matlala",
   "type": "pursued property/apartment ventures with",
@@ -2257,7 +2257,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-179",
+  "id": "edge-126",
   "from": "maj-gen-lesetja-senona",
   "to": "esmael-malude-rasmos-nangy",
   "type": "forwarded confidential police docket (re Nangy) to Matlala",
@@ -2275,7 +2275,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-181",
+  "id": "edge-127",
   "from": "captain-lawrence-itumeleng-makgotloe",
   "to": "vereeniging-murder-of-armand-swart",
   "type": "processed crime scene and produced ballistic report linking Bramley AK-47 to",
@@ -2293,7 +2293,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-182",
+  "id": "edge-128",
   "from": "witness-b",
   "to": "captain-lawrence-itumeleng-makgotloe",
   "type": "allegedly took overnight for interrogation and attempted to confiscate his computer",
@@ -2311,7 +2311,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-183",
+  "id": "edge-129",
   "from": "maj-gen-lesetja-senona",
   "to": "theft-of-approximately-541kg-of-cocaine-dpci-port-shepstone-storage-facility",
   "type": "was Provincial Head responsible for the facility at the time of",
@@ -2329,7 +2329,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-184",
+  "id": "edge-130",
   "from": "witness-e",
   "to": "assassination-of-sindiso-magaqa",
   "type": "named SAPS Crime Intelligence officials allegedly involved in planning, to the Minister",
@@ -2347,7 +2347,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-185",
+  "id": "edge-131",
   "from": "vusimuzi-cat-matlala",
   "to": "cat-vip-protection-services",
   "type": "principal of",
@@ -2365,7 +2365,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-186",
+  "id": "edge-132",
   "from": "brigadier-rachel-matjeng",
   "to": "vusimuzi-cat-matlala",
   "type": "personal relationship / alleged undisclosed conflict of interest",
@@ -2383,7 +2383,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-187",
+  "id": "edge-133",
   "from": "brigadier-rachel-matjeng",
   "to": "osizweni-meat-market",
   "type": "disputed routed payments (via Modiegi Kekana's account)",
@@ -2401,7 +2401,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-188",
+  "id": "edge-134",
   "from": "vusimuzi-cat-matlala",
   "to": "medicare-24-tshwane-district",
   "type": "director / service provider on the terminated SAPS contract",
@@ -2419,7 +2419,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-190",
+  "id": "edge-135",
   "from": "witness-f",
   "to": "vusimuzi-cat-matlala",
   "type": "acted as intermediary for / relayed messages to",
@@ -2437,7 +2437,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-192",
+  "id": "edge-136",
   "from": "vusimuzi-cat-matlala",
   "to": "thanksgiving-ceremony-at-general-sibiya-s-home",
   "type": "attended",
@@ -2455,7 +2455,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-193",
+  "id": "edge-137",
   "from": "lt-gen-richard-shibiri",
   "to": "thanksgiving-ceremony-at-general-sibiya-s-home",
   "type": "attended",
@@ -2473,7 +2473,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-195",
+  "id": "edge-138",
   "from": "witness-f",
   "to": "musa-khawula-warrant-of-arrest-forwarded-to-cat-matlala",
   "type": "forwarded warrant to Matlala",
@@ -2491,7 +2491,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-196",
+  "id": "edge-139",
   "from": "cat-vip-protection",
   "to": "witness-f",
   "type": "paid into personal bank account",
@@ -2509,7 +2509,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-197",
+  "id": "edge-140",
   "from": "advocate-kemi-behari",
   "to": "city-of-ekurhuleni",
   "type": "employed as Head of Risk and Legal",
@@ -2527,7 +2527,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-198",
+  "id": "edge-141",
   "from": "advocate-kemi-behari",
   "to": "brigadier-julius-mkhwanazi",
   "type": "advised fraud/corruption case against him was 'not sustainable'",
@@ -2545,7 +2545,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-199",
+  "id": "edge-142",
   "from": "linda-gxasheka",
   "to": "advocate-kemi-behari",
   "type": "alleged joint involvement in disciplinary referrals",
@@ -2563,7 +2563,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-201",
+  "id": "edge-143",
   "from": "nomsa-masuku",
   "to": "death-of-emmanuel-mbense-brakpan-murder",
   "type": "lead investigator",
@@ -2581,7 +2581,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-202",
+  "id": "edge-144",
   "from": "alexander-zander-fritz",
   "to": "death-of-emmanuel-mbense-brakpan-murder",
   "type": "AVL data placed his patrol vehicle at the scene for over two hours",
@@ -2599,7 +2599,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-203",
+  "id": "edge-145",
   "from": "marius-van-der-merwe",
   "to": "death-of-emmanuel-mbense-brakpan-murder",
   "type": "implicated several SAPS/EMPD members in a sworn statement",
@@ -2617,7 +2617,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-204",
+  "id": "edge-146",
   "from": "bhekokwakhe-sibande",
   "to": "death-of-emmanuel-mbense-brakpan-murder",
   "type": "named suspect; warning statement obtained",
@@ -2635,7 +2635,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-205",
+  "id": "edge-147",
   "from": "juan-mare-eksteen",
   "to": "death-of-emmanuel-mbense-brakpan-murder",
   "type": "named suspect; warning statement obtained",
@@ -2653,7 +2653,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-206",
+  "id": "edge-148",
   "from": "brigadier-julius-mkhwanazi",
   "to": "death-of-emmanuel-mbense-brakpan-murder",
   "type": "named suspect; recommended for disciplinary/criminal proceedings",
@@ -2671,7 +2671,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-209",
+  "id": "edge-149",
   "from": "thulani-magagula",
   "to": "brigadier-julius-mkhwanazi",
   "type": "denied improper relationship; contact described as official (training session)",
@@ -2689,7 +2689,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-212",
+  "id": "edge-150",
   "from": "bidvest-protea-coin",
   "to": "nomsa-masuku",
   "type": "provided residential protection after threats",
@@ -2707,7 +2707,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-214",
+  "id": "edge-151",
   "from": "siphiwe-mabuza",
   "to": "witness-f",
   "type": "sent unsolicited offer to sell up to 750 shotguns",
@@ -2725,7 +2725,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-218",
+  "id": "edge-152",
   "from": "lt-gen-shadrack-sibiya",
   "to": "vusimuzi-cat-matlala",
   "type": "denied friendship beyond a 2024 business-complaint meeting",
@@ -2743,7 +2743,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-219",
+  "id": "edge-153",
   "from": "sergeant-fannie-nkosi",
   "to": "vusimuzi-cat-matlala",
   "type": "acted as WhatsApp intermediary/go-between with Sibiya",
@@ -2761,7 +2761,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-220",
+  "id": "edge-154",
   "from": "vusimuzi-cat-matlala",
   "to": "lt-gen-shadrack-sibiya",
   "type": "arranged impala delivery via a paid farm manager",
@@ -2779,7 +2779,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-221",
+  "id": "edge-155",
   "from": "lt-gen-shadrack-sibiya",
   "to": "lt-gen-senthumule",
   "type": "alleged undisclosed benefits received from Matlala (medical procedures, refrigerators, event invitation)",
@@ -2797,7 +2797,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-222",
+  "id": "edge-156",
   "from": "lt-gen-shadrack-sibiya",
   "to": "steve-motsumi-bra-steve-mswazi",
   "type": "met to discuss taxi-industry extortion and to probe the Boshoga kidnapping",
@@ -2815,7 +2815,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-223",
+  "id": "edge-157",
   "from": "lt-gen-shadrack-sibiya",
   "to": "medi24-tshwane-saps-health-service-tender-medicare-24",
   "type": "forwarded confidential preliminary audit report recommending termination of the contract, which was then relayed to Matlala, Shibiri and Motsumi",
@@ -2833,7 +2833,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-227",
+  "id": "edge-158",
   "from": "linda-gxasheka",
   "to": "brigadier-julius-mkhwanazi",
   "type": "signed his 2023 suspension over CAT VIP vehicles",
@@ -2851,7 +2851,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-229",
+  "id": "edge-159",
   "from": "dr-mashazi",
   "to": "linda-gxasheka",
   "type": "instructed her not to discipline Mkhwanazi, per Gxasheka's testimony",
@@ -2869,7 +2869,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-230",
+  "id": "edge-160",
   "from": "linda-gxasheka",
   "to": "brigadier-julius-mkhwanazi",
   "type": "sat on panel recommending his promotion to Deputy Chief of Police despite unresolved disciplinary charges",
@@ -2887,7 +2887,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-231",
+  "id": "edge-161",
   "from": "tsakani-baloyi",
   "to": "city-of-ekurhuleni-metropolitan-municipality",
   "type": "her company (Buena Vista Learning Academy) awarded a R66,500 tender ultimately paid almost R3.5 million",
@@ -2905,7 +2905,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-232",
+  "id": "edge-162",
   "from": "tsakani-baloyi",
   "to": "vusimuzi-cat-matlala",
   "type": "described in testimony as his partner",
@@ -2923,7 +2923,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-234",
+  "id": "edge-163",
   "from": "deputy-chief-revo-spies",
   "to": "city-of-ekurhuleni-metropolitan-municipality",
   "type": "arbitration award found the City acted in bad faith suspending him",
@@ -2941,7 +2941,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-235",
+  "id": "edge-164",
   "from": "state-security-agency-ssa",
   "to": "group-forensic-and-investigative-services-gfis",
   "type": "confirmed procured equipment was TSCM/counter-surveillance, not spying equipment",
@@ -2959,7 +2959,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-236",
+  "id": "edge-165",
   "from": "brown-mogotsi",
   "to": "madlanga-commission",
   "type": "failed to appear for scheduled testimony; Chair stated he was in contempt absent a medical certificate",
@@ -2977,7 +2977,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-237",
+  "id": "edge-166",
   "from": "lt-gen-richard-shibiri",
   "to": "vusimuzi-cat-matlala",
   "type": "undisclosed loan/payment (R70,000) and personal relationship",
@@ -2995,7 +2995,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-238",
+  "id": "edge-167",
   "from": "mr-suleiman-carrim",
   "to": "vusimuzi-cat-matlala",
   "type": "funder of Medicare 24 Tshwane District SAPS contract (R10-12.12 million advanced)",
@@ -3013,7 +3013,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-239",
+  "id": "edge-168",
   "from": "mr-suleiman-carrim",
   "to": "morgan-maumela",
   "type": "disputed business partnership (ChromeCore joint venture; Luthaga-routed payments)",
@@ -3031,7 +3031,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-240",
+  "id": "edge-169",
   "from": "morgan-maumela",
   "to": "medicare-24-tshwane-district",
   "type": "alleged recipient of contract proceeds routed via Luthaga Trading Enterprise",
@@ -3049,7 +3049,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-241",
+  "id": "edge-170",
   "from": "sergeant-fannie-nkosi",
   "to": "steven-motsumi-bra-steve-mswazi",
   "type": "forwarded confidential SAPS material (internal audit, personnel and case records)",
@@ -3067,7 +3067,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-242",
+  "id": "edge-171",
   "from": "zenzile-ze-nxumalo",
   "to": "sergeant-fannie-nkosi",
   "type": "supplied warrant of arrest and personal details used to pursue Musa Khawula; funded undercover operation",
@@ -3085,7 +3085,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-243",
+  "id": "edge-172",
   "from": "director-tshukudu-malatji",
   "to": "gubis85-solutions",
   "type": "failed to halt irregular ad hoc deployments despite written instruction to stop",
@@ -3103,7 +3103,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-244",
+  "id": "edge-173",
   "from": "deputy-chief-sean-bolhuis",
   "to": "gubis85-solutions",
   "type": "documented irregular ad hoc site allocations during his tenure as caretaker",
@@ -3121,7 +3121,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-245",
+  "id": "edge-174",
   "from": "deputy-chief-umashi-samson-dhlamini",
   "to": "sergeant-fannie-nkosi",
   "type": "30-year personal friendship; denied corrupt benefit",
@@ -3139,7 +3139,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-246",
+  "id": "edge-175",
   "from": "sergeant-fannie-nkosi",
   "to": "ngaphesheya-security-services",
   "type": "alleged facilitation of non-compliant tender appointment (via brother Bheki Nkosi)",
@@ -3157,7 +3157,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-247",
+  "id": "edge-176",
   "from": "chief-of-police-yolande-faro",
   "to": "elshadai-security",
   "type": "SLA signed by deputy in her absence, without her prior review",
@@ -3175,7 +3175,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-248",
+  "id": "edge-177",
   "from": "clive-naicker",
   "to": "lieutenant-colonel-deenadayalan-deena-govender",
   "type": "alleged orchestration of the 1 April 2023 killing of Bevan Loftus and four others",
@@ -3193,7 +3193,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-249",
+  "id": "edge-178",
   "from": "minister-senzo-mchunu",
   "to": "lieutenant-colonel-deenadayalan-deena-govender",
   "type": "alleged pressure to falsely implicate Lt Gen Mkhwanazi in police shootings",
@@ -3211,7 +3211,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-250",
+  "id": "edge-179",
   "from": "vusimuzi-cat-matlala",
   "to": "brown-mogotsi",
   "type": "paid ~R170,000 plus flights to access Minister Mchunu, on Bheki Cele's advice",
@@ -3229,7 +3229,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-251",
+  "id": "edge-180",
   "from": "vusimuzi-cat-matlala",
   "to": "morgan-maumela",
   "type": "undocumented 'revolving fund' credit arrangement (2018/19-2023) via Telox for Gauteng Health RFQs",
@@ -3247,7 +3247,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-252",
+  "id": "edge-181",
   "from": "jothan-msibi",
   "to": "sergeant-fannie-nkosi",
   "type": "alleged fraudulent SAPS-letterhead certification for an Invasys grabber sale to Eswatini",
@@ -3265,7 +3265,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-253",
+  "id": "edge-182",
   "from": "jothan-msibi",
   "to": "kamprock-pty-ltd",
   "type": "alleged tender assistance (Ekurhuleni PMU tender, awarded November 2023)",
@@ -3283,7 +3283,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-254",
+  "id": "edge-183",
   "from": "gareth-mnisi",
   "to": "ngaphesheya-security-services",
   "type": "forwarded preferred-bidder list from Sergeant Nkosi (11, 18, 25 March 2025); conceded understanding Nkosi wanted the listed companies to win",
@@ -3301,7 +3301,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-255",
+  "id": "edge-184",
   "from": "deputy-chief-umashi-samson-dhlamini",
   "to": "nico-mathobela",
   "type": "received and forwarded an alleged BEC 'mandate' favouring specific tender bidders",
@@ -3319,7 +3319,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-256",
+  "id": "edge-185",
   "from": "director-tshukudu-malatji",
   "to": "gubis85-solutions",
   "type": "documentary evidence (signed invoice, direct deployment instructions) contradicting his earlier denial of authorising or knowing of ad hoc deployments",
@@ -3337,7 +3337,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-257",
+  "id": "edge-186",
   "from": "jakobus-jeremiah-petrus-prinsloo",
   "to": "maj-gen-lesetja-senona",
   "type": "instructed cocaine storage at Port Shepstone and secrecy about it",
@@ -3355,7 +3355,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-258",
+  "id": "edge-187",
   "from": "chief-inspector-samuel-mashaba",
   "to": "warrant-officer-marumo-joseph-magane",
   "type": "recruited as unauthorised backup for the Aeroton drug interception",
@@ -3373,7 +3373,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-259",
+  "id": "edge-188",
   "from": "tumelo-nku",
   "to": "chief-inspector-samuel-mashaba",
   "type": "co-arrested informant in the Aeroton drug bust",
@@ -3391,7 +3391,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-260",
+  "id": "edge-189",
   "from": "chief-inspector-samuel-mashaba",
   "to": "tumelo-nku",
   "type": "sustained WhatsApp contact since 2019 including paid 'side hustle' recovery work for SAPS members",
@@ -3409,7 +3409,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-261",
+  "id": "edge-190",
   "from": "witness-i",
   "to": "vusimuzi-cat-matlala",
   "type": "lived at a Matlala family property for two years; denied being 'Matlala's guy' despite WhatsApp evidence of payment for information",
@@ -3427,7 +3427,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-262",
+  "id": "edge-191",
   "from": "witness-i",
   "to": "brown-mogotsi",
   "type": "recorded meeting concerning General Khan's disciplinary hearing",
@@ -3445,7 +3445,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-263",
+  "id": "edge-192",
   "from": "chief-inspector-samuel-mashaba",
   "to": "tumelo-nku",
   "type": "Telegram messages allegedly showing GPS coordinates for Yellow Jersey Logistics sent hours before the Aeroton bust",
@@ -3463,7 +3463,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-267",
+  "id": "edge-193",
   "from": "crossby-vusi-shongwe-mp",
   "to": "major-general-feroz-khan",
   "type": "alleges cover-up links to the Aeroton drug theft, two murders, and cigarette smuggling; says he was offered payment via a DRK Tactical meeting to stop pursuing this",
@@ -3481,7 +3481,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-268",
+  "id": "edge-194",
   "from": "vusimuzi-cat-matlala",
   "to": "brigadier-julius-mkhwanazi",
   "type": "WhatsApp/bank-deposit evidence of cash payments referencing 'Matlala' and a scheme to obtain blue-light/law-enforcement appointment cards for private security entities",
@@ -3499,7 +3499,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-270",
+  "id": "edge-195",
   "from": "major-general-feroz-khan",
   "to": "ismail-vally",
   "type": "alleged facilitation of a National Treasury auto-parts tender (RT45-2021) for Vally's company Kaizen MSD",
@@ -3517,7 +3517,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-271",
+  "id": "edge-196",
   "from": "major-general-feroz-khan",
   "to": "mohammed-sayed",
   "type": "WhatsApp chats on leaking Crime Intelligence material and a scheme to plant parliamentary questions via Julius Malema/the EFF",
@@ -3535,7 +3535,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-272",
+  "id": "edge-197",
   "from": "mohammed-sayed",
   "to": "julius-malema",
   "type": "alleged conduit for planting parliamentary questions targeting then-IGI Setlhomamaru Dintwe",
@@ -3553,7 +3553,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-273",
+  "id": "edge-198",
   "from": "kobus-de-meyer-roelofse",
   "to": "advocate-andrea-johnson",
   "type": "testified a 2018 complaint against Feroz Khan reached her before Khan's warning statement, and that she later contacted the whistleblower and a witness",
@@ -3571,7 +3571,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-274",
+  "id": "edge-199",
   "from": "colonel-brian-padayachee",
   "to": "fadiel-adams",
   "type": "IDAC investigation into the Mokwele appointment traced to a section 27 referral from MP Adams",
@@ -3589,7 +3589,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-275",
+  "id": "edge-200",
   "from": "advocate-andrea-johnson",
   "to": "fadiel-adams",
   "type": "solicited and processed his section 27 referral affidavit, which IDAC's investigation and arrests were built on",
@@ -3607,7 +3607,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-276",
+  "id": "edge-201",
   "from": "advocate-andrea-johnson",
   "to": "major-general-feroz-khan",
   "type": "past personal relationship, examined via WhatsApp chats; Johnson invoked her right against self-incrimination and declined to answer further",
@@ -3625,7 +3625,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-277",
+  "id": "edge-202",
   "from": "chief-investigator-perumal",
   "to": "fadiel-adams",
   "type": "contacted Adams to obtain a list of 12 names before any preliminary investigation was authorised",
@@ -3643,7 +3643,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-278",
+  "id": "edge-203",
   "from": "suneel-bellochun",
   "to": "sergeant-fannie-nkosi",
   "type": "alleged to have interviewed Nkosi in prison without his lawyer present, seeking to implicate Generals Masemola and Khumalo",
@@ -3661,7 +3661,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-279",
+  "id": "edge-204",
   "from": "major-general-matlou",
   "to": "lt-gen-fannie-masemola",
   "type": "made the Medicare24/Matlala contract referral resulting in PFMA charges against Masemola, though his affidavit did not itself implicate Masemola",
@@ -3679,7 +3679,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-280",
+  "id": "edge-205",
   "from": "drushantha-ramsamy",
   "to": "advocate-andrea-johnson",
   "type": "recorded phone call in which Johnson is heard saying they must 'figure out how you do not go' regarding Ramsamy testifying before the Commission; alleged instruction not to inform Masemola of the investigation so he would 'lie' before Parliament and be arrested for perjury",
@@ -3697,7 +3697,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-281",
+  "id": "edge-206",
   "from": "mantsha-robert-raphesu",
   "to": "chief-investigator-perumal",
   "type": "attributes a leak investigation against himself to Perumal, and describes Perumal meeting witnesses and obtaining statements without his knowledge as lead investigator",
@@ -3715,7 +3715,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-282",
+  "id": "edge-207",
   "from": "drushantha-ramsamy",
   "to": "vusimuzi-matlala",
   "type": "alleges a section 28(1) authorisation dated 30 May 2025 attributed to her was a fabrication signed by Andrea Johnson, linked to the later seizure of Matlala's phones",
@@ -3733,7 +3733,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-283",
+  "id": "edge-208",
   "from": "matthews-sesoko",
   "to": "advocate-andrea-johnson",
   "type": "conceded documentary evidence (emails, meeting invitations, WhatsApp records) showed he was substantially involved throughout Operation Diversion despite being excluded by Johnson from formal oversight",
@@ -3751,7 +3751,7 @@
   "best_tier": 1
  },
  {
-  "id": "edge-284",
+  "id": "edge-209",
   "from": "deena-govender",
   "to": "clive-naicker",
   "type": "IPID alleges Naicker paid Govender R2.5 million to kill tow-truck operator Bevan Loftus and four others on 1 April 2023, supported by a recorded call and unexplained cash deposits",
@@ -3763,6 +3763,42 @@
     "tier": 1,
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-210",
+  "from": "general-godfrey-lebeya",
+  "to": "timmy-marimuthu",
+  "type": "named in testimony re",
+  "strength": "alleged",
+  "date": "2026/09",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/day-178",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/09/27",
+    "partial": false
+   }
+  ],
+  "best_tier": 1
+ },
+ {
+  "id": "edge-211",
+  "from": "major-general-feroz-khan",
+  "to": "dr-fine",
+  "type": "linked in dispute over",
+  "strength": "alleged",
+  "date": "2026/09",
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/day-178",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/09/27",
     "partial": false
    }
   ],

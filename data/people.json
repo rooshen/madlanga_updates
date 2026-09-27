@@ -1,5 +1,33 @@
 [
  {
+  "id": "mosquito-unidentified-jmpd-officer",
+  "name": "\"Mosquito\" (unidentified JMPD officer)",
+  "initials": "MU",
+  "role": "JMPD officer, real identity undisclosed",
+  "status": "Implicated (untested)",
+  "status_reason": "Referred to only by this alias in Day 173 testimony; identity not disclosed on the record.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/day-178",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/09/27",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
   "id": "adriano-mazzotti",
   "name": "Adriano Mazzotti",
   "initials": "AM",
@@ -1010,7 +1038,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/08/13",
@@ -1023,7 +1050,38 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
+ },
+ {
+  "id": "bafana-sindane",
+  "name": "Bafana Sindane",
+  "initials": "BS",
+  "role": "Named in Day 174 testimony",
+  "status": "Implicated (not yet responded)",
+  "status_reason": "Named in Day 174 testimony; has not responded at the Commission.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   178
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/day-178",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/09/27",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "bheki-cele",
@@ -1386,7 +1444,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/03/09",
@@ -1399,7 +1456,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "brigadier-nkhwashu",
@@ -1710,6 +1768,34 @@
   "photo_mode": "initials"
  },
  {
+  "id": "captain-mabunda-matimu",
+  "name": "Captain Mabunda Matimu",
+  "initials": "CM",
+  "role": "SAPS Captain",
+  "status": "Implicated (untested)",
+  "status_reason": "Named in Day 173 testimony; allegation untested at the Commission.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/day-178",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/09/27",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
   "id": "captain-maxwell-thulani-wanda",
   "name": "Captain Maxwell Thulani Wanda",
   "initials": "CM",
@@ -1943,6 +2029,34 @@
   "photo_mode": "initials"
  },
  {
+  "id": "chief-superintendent-tinswalo-rikhotso",
+  "name": "Chief Superintendent Tinswalo Rikhotso",
+  "initials": "CS",
+  "role": "JMPD Chief Superintendent",
+  "status": "Implicated (untested)",
+  "status_reason": "Named in Day 173 testimony; allegation untested at the Commission.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/day-178",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/09/27",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
   "id": "chief-of-police-yolande-faro",
   "name": "Chief of Police Yolande Faro",
   "initials": "CO",
@@ -2134,7 +2248,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/06/04",
@@ -2147,7 +2260,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "colonel-nonkululeko-promise-khuzwayo",
@@ -2164,7 +2278,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/06/02",
@@ -2177,7 +2290,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "colonel-padayachee",
@@ -2194,7 +2308,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/07/15",
@@ -2207,7 +2320,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "colonel-roodt",
@@ -2280,7 +2394,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/11/10",
@@ -2293,7 +2406,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "crossby-vusi-shongwe-mp",
@@ -2371,7 +2485,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/04/28",
@@ -2384,7 +2497,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "deputy-chief-revo-spies",
@@ -2541,7 +2655,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/04/09",
@@ -2554,7 +2667,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "dr-albertus-schoeman",
@@ -2577,6 +2691,34 @@
     "tier": 1,
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
+  "id": "dr-fine",
+  "name": "Dr Fine",
+  "initials": "DF",
+  "role": "Medical practitioner",
+  "status": "Implicated (not yet responded)",
+  "status_reason": "Day 171: admitted, via his own affidavit read into the record, to backdating a medical document; has not personally testified or otherwise responded at the Commission.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/day-178",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/09/27",
     "partial": false
    }
   ],
@@ -2630,6 +2772,36 @@
    "The specific allegation against her",
    "Whether she has responded",
    "Whether she testified"
+  ],
+  "photo_mode": "initials"
+ },
+ {
+  "id": "dr-mark-shaw",
+  "name": "Dr Mark Shaw",
+  "initials": "DM",
+  "role": "Researcher, Global Initiative Against Transnational Organized Crime (GITOC)",
+  "status": "Testified",
+  "status_reason": "Testified Day 172 alongside General Lebeya on organised-crime analysis relevant to the Commission's terms of reference.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   172
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/day-178",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/09/27",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
  },
@@ -2791,7 +2963,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/08/21",
@@ -2804,7 +2975,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "floyd-tlego-danny-mabusela",
@@ -2825,6 +2997,34 @@
     "tier": 1,
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
+  "id": "former-superintendent-manyama",
+  "name": "Former Superintendent Manyama",
+  "initials": "FS",
+  "role": "Former SAPS Superintendent",
+  "status": "Implicated (not yet responded)",
+  "status_reason": "Named in Day 173 testimony; has not responded at the Commission.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/day-178",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/09/27",
     "partial": false
    }
   ],
@@ -2879,7 +3079,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/04/21",
@@ -2892,7 +3091,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "gareth-trevor-mandisi-mnisi",
@@ -2909,7 +3109,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/04/17",
@@ -2922,18 +3121,23 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "general-godfrey-lebeya",
   "name": "General Godfrey Lebeya",
   "initials": "GG",
   "role": "Then-National Head, DPCI",
-  "status": "Implicated (untested)",
-  "status_reason": "Source of the WhatsApp chain that produced the Molefe address for the Hawks verification team (Day 24); separately alleged in Tier 2 reporting (Day 22) to have tried to prevent Molefe's arrest, an allegation not tested within the transcript days reviewed.",
+  "status": "Testified",
+  "status_reason": "Source of the WhatsApp chain that produced the Molefe address for the Hawks verification team (Day 24); separately alleged in Tier 2 reporting (Day 22) to have tried to prevent Molefe's arrest, an allegation not tested within the transcript days reviewed. Alleged by Kadwa to have called him directly to request the Sandhurst verification; the Chair repeatedly said he hopes to hear from Lebeya, but he has not testified within these records. Testified over Days 168, 171 and 172 (2026 sittings), addressing DPCI operations, the Molefe-arrest WhatsApp chain, and disputes over his conduct as National Head of the DPCI; cross-examined at length on Crime Intelligence funding and postponement disputes involving Major-General Feroz Khan.",
   "bio": null,
   "first_appearance": null,
-  "linked_days": [],
+  "linked_days": [
+   172,
+   171,
+   168
+  ],
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
@@ -2944,33 +3148,19 @@
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
     "partial": false
-   }
-  ],
-  "best_tier": 1,
-  "unverified": [
-   "Profile assembled from transcript extraction only; no biography written yet."
-  ],
-  "photo_mode": "initials"
- },
- {
-  "id": "general-lebeya",
-  "name": "General Lebeya",
-  "initials": "GL",
-  "role": "Former National Head of the Hawks",
-  "status": "Implicated (not yet responded)",
-  "status_reason": "Alleged by Kadwa to have called him directly to request the Sandhurst verification; the Chair repeatedly said he hopes to hear from Lebeya, but he has not testified within these records.",
-  "bio": null,
-  "first_appearance": null,
-  "linked_days": [],
-  "photo_url": null,
-  "photo_source": null,
-  "photo_licence": null,
-  "sources": [
+   },
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/09/17",
     "tier": 1,
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
+    "partial": false
+   },
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/day-178",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/09/27",
     "partial": false
    }
   ],
@@ -3109,7 +3299,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/08/13",
@@ -3122,7 +3311,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "i-j-mapiyeye",
@@ -3139,7 +3329,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/11/07",
@@ -3152,7 +3341,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "inspector-a-l-phiri",
@@ -3169,7 +3359,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/04/09",
@@ -3182,7 +3371,36 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
+ },
+ {
+  "id": "inspector-emma-pakwani",
+  "name": "Inspector Emma Pakwani",
+  "initials": "IE",
+  "role": "SAPS Inspector",
+  "status": "Implicated (untested)",
+  "status_reason": "Named in Day 173 testimony; allegation untested at the Commission.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/day-178",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/09/27",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "isaac-jabulani-mapiyeye",
@@ -3248,7 +3466,7 @@
   "initials": "JO",
   "role": "Off-duty JMPD officer at the Molefe scene",
   "status": "Implicated (untested)",
-  "status_reason": "Alleged to have run police vehicle plates and reported to Molefe (Days 18, 25); Day 18 separately notes a 'JMPD superintendent' identified to the witness as 'Mahomed Hoosen' — unclear if this is the same person; not shown to have responded.",
+  "status_reason": "Alleged to have run police vehicle plates and reported to Molefe (Days 18, 25); Day 18 separately notes a 'JMPD superintendent' identified to the witness as 'Mahomed Hoosen' — unclear if this is the same person; not shown to have responded. Day 173: named again (as 'Officer Johnny Mokgatle') in Superintendent De Beer's and Sergeant Van Wyk's JMPD-case testimony, consistent with the existing entry.",
   "bio": null,
   "first_appearance": null,
   "linked_days": [],
@@ -3261,6 +3479,13 @@
     "tier": 1,
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
+    "partial": false
+   },
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/day-178",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/09/27",
     "partial": false
    }
   ],
@@ -3339,6 +3564,37 @@
   "best_tier": 1,
   "unverified": [
    "Full biographical background"
+  ],
+  "photo_mode": "initials"
+ },
+ {
+  "id": "johannes-madoda-sibanyoni-joe-ferrari",
+  "name": "Johannes Madoda Sibanyoni (\"Joe Ferrari\")",
+  "initials": "JM",
+  "role": "Witness giving evidence on stokvel, PUTCO and related financial records",
+  "status": "Testified",
+  "status_reason": "Testified Day 169, submitting a lengthy supplementary statement with line-by-line corrections and disputing the identification of several people named in the evidence bundle. On Day 177 his further cross-examination was postponed after his counsel Adv Qofa cited a scheduling conflict, and he invoked his constitutional right against self-incrimination on some questions during the earlier session.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   177,
+   169
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/day-178",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/09/27",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
   ],
   "photo_mode": "initials"
  },
@@ -3680,6 +3936,36 @@
   "photo_mode": "initials"
  },
  {
+  "id": "laura-pop",
+  "name": "Laura Pop",
+  "initials": "LP",
+  "role": "Witness on training/integrity standards",
+  "status": "Testified",
+  "status_reason": "Testified Day 174, including on the need for integrity in trained personnel.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   174
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/day-178",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/09/27",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
   "id": "lebogang-andrew-phiri",
   "name": "Lebogang Andrew Phiri",
   "initials": "LA",
@@ -3694,7 +3980,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/04/23",
@@ -3707,7 +3992,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "len-barnabas-john",
@@ -3773,10 +4059,11 @@
   "initials": "LC",
   "role": "KZN PKTT (Political Killings Task Team) head; separately named by Gregory Loftus's Day 158 testimony as having carried out the alleged 1 April 2023 execution of his son Bevan Loftus",
   "status": "Testified",
-  "status_reason": "Sworn testimony on Day 164 alleging that from 13 August 2026 he was approached and pressured by an intermediary, 'Mavuso Ntandani', and an associate to falsely tell the Commission he acted on instructions from Lt Gen Mkhwanazi regarding police shootings; testified that during one call the phone was passed to a man he recognised as Police Minister Senzo Mchunu, who told him not to let anyone 'ruin this country' and to say he was getting instructions from Mkhwanazi. Denied unrelated public allegations by IPID's Len John that he received payment for a 'hit'.",
+  "status_reason": "Sworn testimony on Day 164 alleging that from 13 August 2026 he was approached and pressured by an intermediary, 'Mavuso Ntandani', and an associate to falsely tell the Commission he acted on instructions from Lt Gen Mkhwanazi regarding police shootings; testified that during one call the phone was passed to a man he recognised as Police Minister Senzo Mchunu, who told him not to let anyone 'ruin this country' and to say he was getting instructions from Mkhwanazi. Denied unrelated public allegations by IPID's Len John that he received payment for a 'hit'. Day 170: continued testimony on the Mchunu/Ntandani pressure campaign, denying receipt of payments from Timmy Marimuthu, admitting a delay in seeking Gregory Loftus's arrest warrant, and being questioned over R3m+ in cash-flow through his accounts.",
   "bio": null,
   "first_appearance": null,
   "linked_days": [
+   170,
    164
   ],
   "photo_url": null,
@@ -3788,6 +4075,13 @@
     "tier": 1,
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
+    "partial": false
+   },
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/day-178",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/09/27",
     "partial": false
    }
   ],
@@ -3842,7 +4136,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/11/14",
@@ -3855,7 +4148,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "lieutenant-colonel-kwazikwakhe-goodenough-sibiya",
@@ -3872,7 +4166,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/06/05",
@@ -3885,7 +4178,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "lieutenant-colonel-nkoana-joseph-sebola",
@@ -3930,7 +4224,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/06/02",
@@ -3943,7 +4236,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "linda-gxasheka",
@@ -3998,7 +4292,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/02/26",
@@ -4011,7 +4304,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "lt-col-thepa",
@@ -4213,7 +4507,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/06/08",
@@ -4226,7 +4519,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "lt-col-schnell",
@@ -4243,7 +4537,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/06/09",
@@ -4256,7 +4549,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "lt-gen-gen-mkhwanazi-kwazulu-natal-provincial-commissioner",
@@ -4641,6 +4935,34 @@
   "photo_mode": "initials"
  },
  {
+  "id": "mpo-mphahlele",
+  "name": "MPO Mphahlele",
+  "initials": "MM",
+  "role": "Metro Police Officer",
+  "status": "Criminally charged in a separate matter",
+  "status_reason": "Named in Day 173 testimony as facing separate criminal charges outside the Commission.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/day-178",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/09/27",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
   "id": "maj-gen-abednego-shibiri",
   "name": "Maj-Gen Abednego Shibiri",
   "initials": "MA",
@@ -4743,7 +5065,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/05/06",
@@ -4756,7 +5077,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "maj-gen-lesetja-senona",
@@ -4764,7 +5086,7 @@
   "initials": "ML",
   "role": "Head of the Directorate for Priority Crime Investigation (DPCI), KwaZulu-Natal",
   "status": "Testified",
-  "status_reason": "Alleged in Khumalo's and Witness X's evidence to have had a beneficial relationship with Matlala and to have leaked confidential SAPS documents to him, including invoice records and the disbandment letter. The Chairperson raised on Day 8 that implicated-person notices had not yet been issued to him; he has not responded at the Commission. Testified over three days (47-49) responding to a Rule 3 notice implicating him via Lt-Gen Khumalo, Witness X and Witness C, covering his ties to Matlala, forwarded documents/dockets, and the Port Shepstone cocaine theft; excused at the end of Day 49. He was one of five SAPS officers referred for criminal investigation in the commission's first interim report, announced by the Presidency on 29 January 2026; the allegations have not been tested in court and no denial by him was located. (Also recorded elsewhere as: Implicated (not yet responded), Implicated (untested).)",
+  "status_reason": "Alleged in Khumalo's and Witness X's evidence to have had a beneficial relationship with Matlala and to have leaked confidential SAPS documents to him, including invoice records and the disbandment letter. The Chairperson raised on Day 8 that implicated-person notices had not yet been issued to him; he has not responded at the Commission. Testified over three days (47-49) responding to a Rule 3 notice implicating him via Lt-Gen Khumalo, Witness X and Witness C, covering his ties to Matlala, forwarded documents/dockets, and the Port Shepstone cocaine theft; excused at the end of Day 49. He was one of five SAPS officers referred for criminal investigation in the commission's first interim report, announced by the Presidency on 29 January 2026; the allegations have not been tested in court and no denial by him was located. (Also recorded elsewhere as: Implicated (not yet responded), Implicated (untested).) Day 171: named as not having been polygraphed despite holding strongroom keys, in questioning of General Lebeya.",
   "bio": "Senona headed the DPCI (Hawks) in KwaZulu-Natal. He was among the officials the commission referred for investigation of possible corruption, fraud, murder and perjury in its first interim report, submitted to the President on 17 December 2025.",
   "first_appearance": null,
   "linked_days": [
@@ -4804,6 +5126,13 @@
     "tier": 1,
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
+    "partial": false
+   },
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/day-178",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/09/27",
     "partial": false
    }
   ],
@@ -4859,7 +5188,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/03/04",
@@ -4872,7 +5200,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "major-general-matlou",
@@ -4938,7 +5267,7 @@
   "initials": "MF",
   "role": "Suspended Major-General, SAPS Crime Intelligence",
   "status": "Implicated (untested)",
-  "status_reason": "Khumalo testified that Khan was cleared of any wrongdoing in a departmental hearing chaired by Lt-Gen Mkhwanazi, contrary to media reporting. Separately, the Day 9 chat material was said to point to a 'special relationship' between Matlala and a 'Khan', which the witness said would be clarified in evidence to be led in camera. That allegation is untested and the identification was not conclusively established on the record. Evidence about him was led at the commission in July 2026, including WhatsApp messages with Andrea Johnson and a discrepancy over a cocaine seizure; his own testimony was postponed after he was hospitalised and no substantive response from him has been heard. Alleged by Matlala (via Witness C, Day 19) to have demanded R2.5 million during his own disciplinary proceedings, of which Matlala says he paid R500,000; not shown to have responded.",
+  "status_reason": "Khumalo testified that Khan was cleared of any wrongdoing in a departmental hearing chaired by Lt-Gen Mkhwanazi, contrary to media reporting. Separately, the Day 9 chat material was said to point to a 'special relationship' between Matlala and a 'Khan', which the witness said would be clarified in evidence to be led in camera. That allegation is untested and the identification was not conclusively established on the record. Evidence about him was led at the commission in July 2026, including WhatsApp messages with Andrea Johnson and a discrepancy over a cocaine seizure; his own testimony was postponed after he was hospitalised and no substantive response from him has been heard. Alleged by Matlala (via Witness C, Day 19) to have demanded R2.5 million during his own disciplinary proceedings, of which Matlala says he paid R500,000; not shown to have responded. Day 171: raised in a dispute over the postponement of his own testimony and its interaction with Dr Fine's backdating admission.",
   "bio": "Khan is a suspended SAPS Crime Intelligence major-general. In July 2026 the commission heard evidence about his close relationship with then-IDAC head Andrea Johnson and about a discrepancy between his account of a 2021 cocaine seizure and official records. His lawyers invited the commission to verify his condition in hospital after he was shot; the allegations against him remain untested.",
   "first_appearance": "2026/07/06",
   "linked_days": [],
@@ -4973,6 +5302,13 @@
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
     "partial": false
+   },
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/day-178",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/09/27",
+    "partial": false
    }
   ],
   "best_tier": 1,
@@ -5005,6 +5341,36 @@
     "tier": 1,
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
+  "id": "makgothi-samuel-thobakgale",
+  "name": "Makgothi Samuel Thobakgale",
+  "initials": "MS",
+  "role": "Department of Correctional Services witness",
+  "status": "Testified",
+  "status_reason": "Testified Day 174 on DCS-related matters.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   175
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/day-178",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/09/27",
     "partial": false
    }
   ],
@@ -5141,7 +5507,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/11/17",
@@ -5154,7 +5519,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "mary-motsepe",
@@ -5235,7 +5601,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/08/06",
@@ -5283,7 +5648,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "mbangwa-nkhwashu",
@@ -5351,7 +5717,7 @@
   "initials": "MP",
   "role": "Warrant Officer, SAPS Johannesburg Central Detective Branch",
   "status": "Criminally charged in a separate matter",
-  "status_reason": "Arrested on 17 April 2024, some three hours after the Swart murder, appeared at Vereeniging Magistrate's Court on 19 April 2024 and was granted bail of R10,000 on 2 August 2024 on medical grounds after an initial refusal. Those are separate criminal proceedings outside this Commission.",
+  "status_reason": "Arrested on 17 April 2024, some three hours after the Swart murder, appeared at Vereeniging Magistrate's Court on 19 April 2024 and was granted bail of R10,000 on 2 August 2024 on medical grounds after an initial refusal. Those are separate criminal proceedings outside this Commission. Day 173: also referred to as 'Officer Pule' in JMPD-case testimony connecting him to Katiso Molefe and the vehicle-registration favours described by Johannes Magatle's affidavit.",
   "bio": null,
   "first_appearance": null,
   "linked_days": [],
@@ -5371,6 +5737,13 @@
     "tier": 1,
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
+    "partial": false
+   },
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/day-178",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/09/27",
     "partial": false
    }
   ],
@@ -5548,7 +5921,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/08/24",
@@ -5561,7 +5933,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "mr-mogotsi",
@@ -5579,7 +5952,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/03/04",
@@ -5592,7 +5964,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "mr-nkabinde",
@@ -5638,7 +6011,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/06/29",
@@ -5651,7 +6023,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "mr-sekekane",
@@ -5914,7 +6287,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/08/14",
@@ -5927,7 +6299,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "ms-thomas",
@@ -6098,7 +6471,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/05/14",
@@ -6111,7 +6483,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "nolitha-vukuza",
@@ -6194,7 +6567,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/02/25",
@@ -6207,7 +6579,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "ntate-paul-khumalo",
@@ -6224,7 +6597,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2025/11/17",
@@ -6237,7 +6609,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "nthabiseng-nzama",
@@ -6286,6 +6659,34 @@
     "tier": 1,
     "publisher": "Judicial Commission of Inquiry — official transcript",
     "retrieved": "2026/08/23",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
+  "id": "officer-zwelibanzi-mgujulwa-banzi",
+  "name": "Officer Zwelibanzi Mgujulwa (\"Banzi\")",
+  "initials": "OZ",
+  "role": "JMPD officer",
+  "status": "Implicated (untested)",
+  "status_reason": "Named in Day 173 testimony; allegation untested at the Commission.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/day-178",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/09/27",
     "partial": false
    }
   ],
@@ -6422,6 +6823,36 @@
   "photo_mode": "initials"
  },
  {
+  "id": "professor-somadoda-fikeni",
+  "name": "Professor Somadoda Fikeni",
+  "initials": "PS",
+  "role": "Public Service Commission witness / political analyst",
+  "status": "Testified",
+  "status_reason": "Testified Day 176 on governance and public-service integrity themes, including remarks on policy 'symmetry' and a 'trust but verify' framing.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   176
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/day-178",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/09/27",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
   "id": "revo-spies",
   "name": "Revo Spies",
   "initials": "RS",
@@ -6524,7 +6955,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/06/10",
@@ -6537,7 +6967,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "sandile-khumalo",
@@ -6617,7 +7048,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/04/08",
@@ -6630,7 +7060,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "senzo-mchunu",
@@ -6798,7 +7229,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/03/23",
@@ -6811,7 +7241,38 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
+ },
+ {
+  "id": "sergeant-rico-eddie-van-wyk",
+  "name": "Sergeant Rico Eddie Van Wyk",
+  "initials": "SR",
+  "role": "SAPS witness",
+  "status": "Testified",
+  "status_reason": "Testified Day 173 alongside Superintendent De Beer on the same JMPD-linked case network.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   173
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/day-178",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/09/27",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "sesi-baloyi",
@@ -7032,6 +7493,36 @@
   "photo_mode": "initials"
  },
  {
+  "id": "superintendent-elmarie-de-beer",
+  "name": "Superintendent Elmarie De Beer",
+  "initials": "SE",
+  "role": "SAPS/JMPD-linked witness",
+  "status": "Testified",
+  "status_reason": "Testified Day 173 on the JMPD-linked case network, including conduct of Manyama, Mphahlele, Pakwani, Rikhotso, Matimu, Mokgatle and Mgujulwa.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [
+   173
+  ],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/day-178",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/09/27",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
   "id": "takalani-maphosho",
   "name": "Takalani Maphosho",
   "initials": "TM",
@@ -7046,7 +7537,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/06/09",
@@ -7059,7 +7549,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "takalani-zelda-maphosho",
@@ -7251,6 +7742,34 @@
   "photo_mode": "initials"
  },
  {
+  "id": "timmy-marimuthu",
+  "name": "Timmy Marimuthu",
+  "initials": "TM",
+  "role": "Businessman named in KZN policing evidence",
+  "status": "Implicated (untested)",
+  "status_reason": "Day 171: named as having allegedly made payments connected to Lieutenant Colonel Govender's account activity; untested, has not responded at the Commission.",
+  "bio": null,
+  "first_appearance": null,
+  "linked_days": [],
+  "photo_url": null,
+  "photo_source": null,
+  "photo_licence": null,
+  "sources": [
+   {
+    "url": "https://criminaljusticecommission.org.za/hearings/day-178",
+    "tier": 1,
+    "publisher": "Judicial Commission of Inquiry — official transcript",
+    "retrieved": "2026/09/27",
+    "partial": false
+   }
+  ],
+  "best_tier": 1,
+  "unverified": [
+   "Profile assembled from transcript extraction only; no biography written yet."
+  ],
+  "photo_mode": "initials"
+ },
+ {
   "id": "tsakani-baloyi",
   "name": "Tsakani Baloyi",
   "initials": "TB",
@@ -7321,7 +7840,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/04/30",
@@ -7334,7 +7852,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "tumelo-nku",
@@ -7388,7 +7907,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/04/10",
@@ -7401,7 +7919,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "unnamed-witness-represented-by-mr-matlala",
@@ -7418,7 +7937,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/02/26",
@@ -7431,7 +7949,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "vusi-ndlala",
@@ -7471,6 +7990,7 @@
   "bio": "Matlala is a businessman whose company Medicare24 Tshwane District held a R360-million SAPS health-services contract. He appeared before the commission under subpoena on 17 August 2026 and repeatedly invoked his right against self-incrimination on Medicare24 questions, telling it 'I claim that privilege against self-incrimination'. He denies knowing Senzo Mchunu, saying 'I do not know Minister Mchunu'.",
   "first_appearance": "2026/08/17",
   "linked_days": [
+   167,
    166
   ],
   "photo_url": null,
@@ -7556,7 +8076,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/08/17",
@@ -7569,7 +8088,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "warrant-officer-bheki-mboweni-setshedi",
@@ -7586,7 +8106,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/06/02",
@@ -7599,7 +8118,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "warrant-officer-boy-steve-phakula",
@@ -7704,7 +8224,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/06/02",
@@ -7717,7 +8236,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "warrant-officer-makgotloe",
@@ -7908,7 +8428,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/01/30",
@@ -7921,7 +8440,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "witness-a",
@@ -8252,7 +8772,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/06/30",
@@ -8265,7 +8784,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "witness-m",
@@ -8282,7 +8802,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/07/08",
@@ -8295,7 +8814,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "witness-n",
@@ -8439,7 +8959,6 @@
   "photo_url": null,
   "photo_source": null,
   "photo_licence": null,
-  "photo_mode": "initials",
   "sources": [
    {
     "url": "https://criminaljusticecommission.org.za/hearings/2026/04/08",
@@ -8452,7 +8971,8 @@
   "best_tier": 1,
   "unverified": [
    "No standalone biographical profile assembled yet."
-  ]
+  ],
+  "photo_mode": "initials"
  },
  {
   "id": "yunus-carrim",
